@@ -1,0 +1,7 @@
+  create module -f modules/circoviridaeGenbankXmlPopulator.xml genbankXmlPopulator
+  create module -f modules/circoviridaeSideDataImporter.xml
+  create module -f modules/unconstrainedAlignmentImporter.xml
+  create module -f modules/featureLocationTextToGlue.xml 
+  create module -f modules/fastaAlignmentExporter.xml 
+  create module -f modules/circoviridaeTabularUtility.xml circoviridaeTabularUtility
+

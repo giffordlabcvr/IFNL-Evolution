@@ -1,0 +1,20 @@
+
+  # Constrained alignment tree
+  
+  create alignment AL_Circoviridae_MASTER -r REF_MASTER_PCV-1 
+
+  alignment AL_Circoviridae_MASTER 
+    add member --allSequences
+	extract child AL_Circovirus_genome --refName REF_MASTER_PCV-1
+	demote member AL_Circovirus_genome --whereClause "sequence.genus = 'Circovirus' and sequence.source.name = 'ncbi-refseqs' or sequence.genus = 'Circovirus' and sequence.source.name = 'reference-fasta'" 	
+    extract child AL_Circoviridae_rep --refName REF_MASTER_PCV-1
+	demote member AL_Circoviridae_rep -a	
+    exit
+
+
+  # Derive constrained alignment segments from unconstrained alignments
+
+  alignment AL_Circovirus_genome
+    derive segments AL_UNCONSTRAINED_Circovirus_genome -a --mergeStrategy OVERWRITE
+    exit
+

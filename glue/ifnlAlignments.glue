@@ -1,0 +1,22 @@
+  
+  # Root alignment
+  module unconstrainedAlignmentImporter    
+    import AL_UNCONSTRAINED_Circovirus_genome -f alignments/root/circoviridae-rep.fna
+    exit
+
+
+  # Import internal node alignments
+  module unconstrainedAlignmentImporter
+
+    #~# Genus-level alignments
+    
+    #import AL_UNCONSTRAINED_Circovirus_genome -f alignments/internal/circovirus/circovirus-cap.fna
+    #import AL_UNCONSTRAINED_Circovirus_genome -f alignments/internal/circovirus/circovirus-genome.fna
+    exit
+
+    #~# Multiple genera alignments
+
+
+    #~# Subfamily-level alignments
+    
+

@@ -1,0 +1,99 @@
+<!-- Circoviridae genus reference sequences from NCBI -->
+<ncbiImporter>
+  <giNumberFieldName>gb_gi_number</giNumberFieldName>
+  <sequenceFormat>GENBANK_XML</sequenceFormat>
+  <sourceName>ncbi-refseqs</sourceName>
+
+    <specificPrimaryAccessions>
+
+
+      <!-- ## CIRCOVIRUS ## -->  
+	  <!-- Porcine circovirus 1 -->
+      <primaryAccession>NC_001792</primaryAccession>
+	  <!-- Porcine circovirus 2 -->
+      <primaryAccession>NC_005148</primaryAccession>
+	  <!-- Porcine circovirus 3 -->
+      <primaryAccession>NC_031753</primaryAccession>
+      
+	  <!-- Canine circovirus 1 -->
+      <primaryAccession>NC_020904</primaryAccession>
+	  <!-- Mink circovirus -->
+      <primaryAccession>NC_023885</primaryAccession>
+	  <!-- Mexican free-tailed bat circovirus -->
+      <primaryAccession>NC_028045</primaryAccession>
+
+	  <!-- Beak and feather disease virus -->
+      <primaryAccession>NC_001944</primaryAccession>
+	  <!-- Canary circovirus -->
+      <primaryAccession>NC_003410</primaryAccession>    
+	  <!-- Starling circovirus -->
+      <primaryAccession>NC_008033</primaryAccession>
+	  <!-- Raven circovirus -->
+      <primaryAccession>NC_008375</primaryAccession>
+	  <!-- Gull circovirus -->
+      <primaryAccession>NC_008521</primaryAccession>   
+	  <!-- Finch circovirus -->
+      <primaryAccession>NC_008522</primaryAccession>
+	  <!-- Zebra finch circovirus -->
+      <primaryAccession>NC_026945</primaryAccession>
+	  <!-- Columbid circovirus -->
+      <primaryAccession>NC_002361</primaryAccession>
+	  <!-- Starling circovirus -->
+      <primaryAccession>NC_008033</primaryAccession>
+    
+	  <!-- Duck circovirus -->
+      <primaryAccession>NC_007220</primaryAccession>
+	  <!-- Swan circovirus -->
+      <primaryAccession>NC_025247</primaryAccession>
+
+	  <!-- Barbel circovirus -->
+      <primaryAccession>NC_015399</primaryAccession>
+ 	  <!-- Wels catfish circovirus -->
+      <primaryAccession>NC_025246</primaryAccession>     
+
+
+      <!-- ## CYCLOVIRUS ### -->  
+      <primaryAccession>NC_014930</primaryAccession>
+	  <primaryAccession>NC_034977</primaryAccession>
+      <primaryAccession>NC_034547</primaryAccession>
+	  <primaryAccession>NC_025791</primaryAccession>
+	  <primaryAccession>NC_025792</primaryAccession>
+  	  <primaryAccession>NC_025476</primaryAccession>
+	  <primaryAccession>NC_023866</primaryAccession>
+	  <primaryAccession>NC_024700</primaryAccession>
+	  <primaryAccession>NC_021707</primaryAccession>
+	  <primaryAccession>NC_032682</primaryAccession>
+	  <primaryAccession>NC_023874</primaryAccession>
+	  <primaryAccession>NC_020206</primaryAccession>
+	  <primaryAccession>NC_021568</primaryAccession>
+	  <primaryAccession>NC_023869</primaryAccession>
+	  <primaryAccession>NC_014929</primaryAccession>
+	  <primaryAccession>NC_023867</primaryAccession>
+	  <primaryAccession>NC_023886</primaryAccession>
+	  <primaryAccession>KJ641714</primaryAccession>
+
+      <!-- ## CRESS ### -->  
+      <!--AHEaCV-13-->
+      <primaryAccession>NC_026639</primaryAccession>
+      <!--AHEaCV-14-->
+      <primaryAccession>NC_026641</primaryAccession>
+      <!--AHEaCV-21-->
+      <primaryAccession>NC_026648</primaryAccession>
+	  <primaryAccession>NC_026641</primaryAccession>
+	  <primaryAccession>NC_025710</primaryAccession>
+	  <primaryAccession>NC_025716</primaryAccession>
+	  <primaryAccession>NC_025717</primaryAccession>
+	  <primaryAccession>NC_025720</primaryAccession>
+	  <primaryAccession>NC_026648</primaryAccession>
+	  <primaryAccession>NC_027795</primaryAccession>
+
+
+      <!-- ## Unclassified ### -->  
+	  <primaryAccession>NC_025683</primaryAccession>
+
+
+
+  </specificPrimaryAccessions>  
+  <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
+</ncbiImporter>
+
