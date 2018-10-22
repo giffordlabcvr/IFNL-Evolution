@@ -17,20 +17,16 @@ project ifnl
   run file glue/ifnlModules.glue
 
   # Import NCBI sources 
-  #import source sources/ncbi-refseqs/
-  #import source sources/digs-fasta/
+  import source sources/digs-fasta/
  
-  # Populate sequence table fields from GenBank XML
-  #module genbankXmlPopulator populate
-
   # Define features
   #run file glue/ifnlFeatures.glue
 
   # Create references
   #run file glue/ifnlReferences.glue
 
-  # Import peribunya alignments 
-  #run file glue/ifnlAlignments.glue
+  # Import IFNL-1 alignments 
+  run file glue/ifnlAlignments.glue
 
   # Validate
   validate
