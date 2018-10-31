@@ -4,11 +4,19 @@
 
     #~# Genus-level alignments
     
-    import AL_UNCONSTRAINED_IFNL1-Primates      -f alignments/internal/IFNL-1-primates.aln.fna
-    import AL_UNCONSTRAINED_IFNL1-Artiodactyla  -f alignments/internal/IFNL-1-artiodactyl.aln.fna
-    import AL_UNCONSTRAINED_IFNL1-Carnivora     -f alignments/internal/IFNL-1-carnivora.aln.fna
-    import AL_UNCONSTRAINED_IFNL1-Ceratotheria  -f alignments/internal/IFNL-1-ceratotheria.aln.fna
-    #import AL_UNCONSTRAINED_IFNL1-Cetacea       -f alignments/internal/IFNL-1-cetacea.aln.fna
-    #import AL_UNCONSTRAINED_IFNL1-Chiroptera    -f alignments/internal/IFNL-1-chiroptera.aln.fna
+    import AL_UNCONSTRAINED_IFNL1-Primates        -f alignments/internal/IFNL-1-primates.aln.fna
+    import AL_UNCONSTRAINED_IFNL1-Lagomorpha      -f alignments/internal/IFNL-1-lagomorpha.aln.fna
+    #import AL_UNCONSTRAINED_IFNL1-Rodents         -f alignments/internal/IFNL-1-rodents.aln.fna
+
+    import AL_UNCONSTRAINED_IFNL1-Artiodactyla    -f alignments/internal/IFNL-1-artiodactyl.aln.fna
+    import AL_UNCONSTRAINED_IFNL1-Carnivora       -f alignments/internal/IFNL-1-carnivora.aln.fna
+    import AL_UNCONSTRAINED_IFNL1-Ceratotheria    -f alignments/internal/IFNL-1-ceratotheria.aln.fna
+    #import AL_UNCONSTRAINED_IFNL1-Cetacea        -f alignments/internal/IFNL-1-cetacea.aln.fna
+    #import AL_UNCONSTRAINED_IFNL1-Chiroptera     -f alignments/internal/IFNL-1-chiroptera.aln.fna
+    #import AL_UNCONSTRAINED_IFNL1-Perissodactyla  -f alignments/internal/IFNL-1-perissodactyla.aln.fna
+
+    #import AL_UNCONSTRAINED_IFNL1-Marsupials      -f alignments/internal/IFNL-1-marsupials.aln.fna
+    #import AL_UNCONSTRAINED_IFNL1-Aves            -f alignments/internal/IFNL-1-aves.aln.fna
+
     exit
 
