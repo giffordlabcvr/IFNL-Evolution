@@ -1,52 +1,81 @@
-Gene	Duplicate	Species order	Genus	Species	Predicted	Locus ID	mRNAID	Scaffold	Start	End	Orientation	Aln-root	Aln-A	Aln-B	Aln-retro	Aln-B1-primate1	Aln-B1-primate2	Aln-B1-primate3
-IFNL-b	2	Primates	Homo	sapiens			NM_172138.1	NC_000019.1				1	0					
-IFNL-b	3	Primates	Homo	sapiens			NM_001346937.1	NC_000019.1				1	0					
-IFNL-b	1	Primates	Homo	sapiens			NM_172140.1	NC_000019.1				1	0					
-IFNL-retro		Artyiodactyla	Sus scrofa				NM_001142837.1					1	0					
-IFNL-b-PSI1	1	Primates	Homo	sapiens			n/a	NC_000019.1				1	0					
-IFNL-a		Primates	Homo sapiens				NM_001276254.2	NC_000019.1	39248856.00	39246314		1	1					
-IFNL-a-PSI1	1	Primates	Homo	sapiens			n/a	NC_000019.1				1	1					
-IFNL-a		Primates	Pan	troglodytes			NM_001276259.1					0	1					
-IFNL-a		Primates	Gorilla	gorilla	PREDICTED	LOC109024135	XM_019015012.1					0	1					
-IFNL-a		Primates	Macaca	mulatta	PREDICTED	LOC106994757	XM_015123824.1					0	1					
-IFNL-a		Primates	Cebus	capucinus	PREDICTED	LOC108285723	XM_017503067.1					0	1					
-IFNL-a-like		Primates	Cebus	capucinus	PREDICTED	LOC108285722	XM_017503065.1					0	1					
-IFNL-a		Primates	Papio	anubis	PREDICTED	LOC101003492	XM_021931090					0	1					
-IFNL-a		Primates	Callithrix	jacchus				ACFV01107197.1	9359	11863		0	0					
-IFNL-a		Primates	Saimiri	boliviensis				AGCE01138328	13060	15587		0	0					
-IFNL-a-like		Lagomorpha	Oryctolagus	cuniculus	PREDICTED	LOC103348427	XM_008257170					0	1					
-IFNL-a-like		Primates	Chlorocebus	sabaeus	PREDICTED	LOC103234660	XM_007996757					0	1					
-IFNL-a-like		Carnivora	Panthera	pardus	PREDICTED	LOC109256565	XM_019431990					0	1					
-IFNL-a-like		Lagomorpha	Ochotona	princeps	PREDICTED	LOC101524510	XM_004595181					0	1					
-IFNL-a-like		Artiodactyla	Bos	taurus	PREDICTED	LOC101902055	XM_005219126.1					0	1					
-IFNL-a-like		Artiodactyla	Sus	scrofa	PREDICTED	LOC102161030	XM_013990503.2					0	1					
-IFNL-a-like		Carnivora	Odobenus	rosmarus	PREDICTED	LOC101363486	XM_004396491.1					0	1					
-IFNL-a-like		Carnivora	Neomonachus	schauinslandii	PREDICTED	LOC110590206	XM_021700961.1					0	1					
-IFNL-a-like		Carnivora	Ailuropoda	melanoleuca	PREDICTED	LOC105241173	XM_011234954.1					0	1					
-IFNL-a-like		Carnivora	Ursusarctos	horribilis	PREDICTED	LOC113250206	XM_026491561					0	1					
-IFNL-a-like		Carnivora	Enhydralutris	kenyoni	PREDICTED	LOC111161398	XM_022525015					0	1					
-IFNL-a-like		Afrotheria	Loxodonta	africana	PREDICTED	LOC104845428	XM_010600391.2					0	1					
-IFNL-a-like		Cetacea	Balaenoptera	acutorostrata	PREDICTED		XM_007180048.1					0	1					
-IFNL-a-like		Chiroptera	Hipposideros	armiger	PREDICTED	LOC109395357	XM_019666267.1					0	1					
-IFNL-a-like		Chiroptera	Pteropus	alecto	PREDICTED	LOC102889317	XM_006911731.1					0	1					
-IFNL-a-like		Chiroptera	Desmodus	rotundus	PREDICTED	LOC112320072	XM_024577451.1					0	1					
-IFNL-a-like		Chiroptera	Miniopterus	natalensis	PREDICTED	LOC107534143	XM_016209132.1					0	1					
-IFNL-a-like		Chiroptera	Myotis	brandtii	PREDICTED	LOC102244039	XM_014541702.1					0	1					
-IFNL-a-like		Chiroptera	Eptesicus	fuscus	PREDICTED		XM_008140039.1					0	1					
-IFNL-a-like		Eulipotyphyla	Erinaceus	europaeus	PREDICTED	LOC103114353	XM_007524024.1					0	1					
-IFNL-a-like		Eulipotyphyla	Erinaceus	europaeus	PREDICTED	LOC103114354	XM_007524025.1					0	1					
-IFNL-a-like		Afrotheria	Loxodonta	africana	PREDICTED	LOC104846971	XM_010600326.2					0	1					
-IFNL-a-like		Afrotheria	Loxodonta	africana	PREDICTED	LOC104845416	XM_010600327.2					0	1					
-IFNL-a-like		Afrotheria	Orycteropus	afer	PREDICTED	LOC103209646	XM_007955548.1					0	1					
-IFNL-a-like		Afrotheria	Echinops	telfairi	PREDICTED	LOC101641858	XM_004710487.1					0	1					
-IFNL-a-like		Xenarthra	Choloepus	hoffmanni			ABVD02339718.1					0	1					
-IFNL-a-like		Afrotheria	Chrysochloris	asiatica	PREDICTED	LOC102811763	XM_006878034.1					0	1					
-IFNL-a-like		Afrotheria	Chrysochloris	asiatica	PREDICTED	LOC102811763	XM_006878034.1					0	1					
-IFNL-a-like		Afrotheria	Chrysochloris	asiatica	PREDICTED	LOC102811763	XM_006878034.1					0	1					
-IFNL-a-like		Eulipotyphyla	Solenodon	paradoxus				NKTL01006921				0			1			
-IFNL-retro		Perissodactyla	Dicerorhinus	sumatrensis				PEKH010002180				0			1			
-IFNL-retro		Perissodactyla	Ceratotherium	simum				KZM01024877				0			1			
-IFNL-retro		Carnivora	Ailurus	fulgens				LNAC01000191				0			1			
-IFNL-retro		Perissodactyla	Equus	burchellii				chr32				0			1			
-IFNL-retro		Pholidota	Manis	javanica				NW_016529666				0			1			
-IFNL-retro		Afrotheria	Condylura	cristata								0			1			
+Gene	Duplicate	Species order	Genus	Species	Predicted	Locus ID	mRNAID	Scaffold	Start	End	Orientation
+IFNL-a		Primates	Papio	anubis	PREDICTED	LOC101003492	XM_021931090				
+IFNL-a		Primates	Saimiri	boliviensis				AGCE01138328	13060	15587	
+IFNL-a		Primates	Cebus	capucinus	PREDICTED	LOC108285723	XM_017503067.1				
+IFNL-a		Primates	Gorilla	gorilla	PREDICTED	LOC109024135	XM_019015012.1				
+IFNL-a		Primates	Callithrix	jacchus				ACFV01107197.1	9359	11863	
+IFNL-a		Primates	Macaca	mulatta	PREDICTED	LOC106994757	XM_015123824.1				
+IFNL-a		Primates	Pan	troglodytes			NM_001276259.1				
+IFNL-a		Primates	Homo sapiens				NM_001276254.2	NC_000019.1	39248856	39246314	
+IFNL-a-like		Afrotheria	Orycteropus	afer	PREDICTED	LOC103209646	XM_007955548.1				
+IFNL-a-like		Afrotheria	Loxodonta	africana	PREDICTED	LOC104845428	XM_010600391.2				
+IFNL-a-like		Afrotheria	Loxodonta	africana	PREDICTED	LOC104846971	XM_010600326.2				
+IFNL-a-like		Afrotheria	Loxodonta	africana	PREDICTED	LOC104845416	XM_010600327.2				
+IFNL-a-like		Afrotheria	Chrysochloris	asiatica	PREDICTED	LOC102811763	XM_006878034.1				
+IFNL-a-like		Afrotheria	Chrysochloris	asiatica	PREDICTED	LOC102811763	XM_006878034.1				
+IFNL-a-like		Afrotheria	Chrysochloris	asiatica	PREDICTED	LOC102811763	XM_006878034.1				
+IFNL-a-like		Afrotheria	Echinops	telfairi	PREDICTED	LOC101641858	XM_004710487.1				
+IFNL-a-like		Artiodactyla	Sus	scrofa	PREDICTED	LOC102161030	XM_013990503.2				
+IFNL-a-like		Artiodactyla	Bos	taurus	PREDICTED	LOC101902055	XM_005219126.1				
+IFNL-a-like		Carnivora	Ursusarctos	horribilis	PREDICTED	LOC113250206	XM_026491561				
+IFNL-a-like		Carnivora	Enhydralutris	kenyoni	PREDICTED	LOC111161398	XM_022525015				
+IFNL-a-like		Carnivora	Ailuropoda	melanoleuca	PREDICTED	LOC105241173	XM_011234954.1				
+IFNL-a-like		Carnivora	Panthera	pardus	PREDICTED	LOC109256565	XM_019431990				
+IFNL-a-like		Carnivora	Odobenus	rosmarus	PREDICTED	LOC101363486	XM_004396491.1				
+IFNL-a-like		Carnivora	Neomonachus	schauinslandii	PREDICTED	LOC110590206	XM_021700961.1				
+IFNL-a-like		Cetacea	Balaenoptera	acutorostrata	PREDICTED		XM_007180048.1				
+IFNL-a-like		Chiroptera	Pteropus	alecto	PREDICTED	LOC102889317	XM_006911731.1				
+IFNL-a-like		Chiroptera	Hipposideros	armiger	PREDICTED	LOC109395357	XM_019666267.1				
+IFNL-a-like		Chiroptera	Myotis	brandtii	PREDICTED	LOC102244039	XM_014541702.1				
+IFNL-a-like		Chiroptera	Eptesicus	fuscus	PREDICTED		XM_008140039.1				
+IFNL-a-like		Chiroptera	Miniopterus	natalensis	PREDICTED	LOC107534143	XM_016209132.1				
+IFNL-a-like		Chiroptera	Desmodus	rotundus	PREDICTED	LOC112320072	XM_024577451.1				
+IFNL-a-like		Eulipotyphyla	Erinaceus	europaeus	PREDICTED	LOC103114353	XM_007524024.1				
+IFNL-a-like		Eulipotyphyla	Erinaceus	europaeus	PREDICTED	LOC103114354	XM_007524025.1				
+IFNL-a-like		Lagomorpha	Oryctolagus	cuniculus	PREDICTED	LOC103348427	XM_008257170				
+IFNL-a-like		Lagomorpha	Ochotona	princeps	PREDICTED	LOC101524510	XM_004595181				
+IFNL-a-like		Primates	Cebus	capucinus	PREDICTED	LOC108285722	XM_017503065.1				
+IFNL-a-like		Primates	Chlorocebus	sabaeus	PREDICTED	LOC103234660	XM_007996757				
+IFNL-a-like		Xenarthra	Choloepus	hoffmanni			ABVD02339718.1				
+IFNL-a-PSI1	1	Primates	Homo	sapiens			n/a	NC_000019.1			
+IFNL-b	1	Afrotheria	Orycteropus	afer	PREDICTED		XM_007958477.1				
+IFNL-b	1	Afrotheria	Echinops	telfairi	PREDICTED		XM_004710488.1				
+IFNL-b	1	Artiodactyla	Balaenoptera	acutorostrata	PREDICTED		XM_007198383.1				
+IFNL-b	1	Artiodactyla	Sus	scrofa	PREDICTED		NM_001142837.1				
+IFNL-b	1	Carnivora	Felis	catus	PREDICTED		NM_001040680.1				
+IFNL-b	1	Carnivora	Felis	catus	PREDICTED		XM_019818982.2				
+IFNL-b	1	Carnivora	Canis	lupus	PREDICTED		NM_001114853.1				
+IFNL-b	1	Carnivora	Canis	lupus	PREDICTED		XM_014117025.2				
+IFNL-b	1	Chiroptera	Rousettus	aegyptiacus	PREDICTED		XM_016166772.1				
+IFNL-b	1	Chiroptera	Miniopterus	natalensis	PREDICTED		XM_016209157.1				
+IFNL-b	1	Marsupialia	Monodelphis	domestica	PREDICTED		XM_007491889.1				
+IFNL-b	1	Perissodactyla	Equus	caballus	PREDICTED		XM_023626728.1				
+IFNL-b	1	Perissodactyla	Equus	caballus	PREDICTED		XM_014732932.2				
+IFNL-b	1	Pholidota	Manis	javanica	PREDICTED		XM_017656413.1				
+IFNL-b	1	Primates	Cebus	capucinus	PREDICTED		XM_017503063.1				
+IFNL-b	1	Primates	Nannospalax	galili	PREDICTED		XM_008854037.1				
+IFNL-b	1	Primates	Macaca	mulatta	PREDICTED		XM_015123826.1				
+IFNL-b	1	Primates	Homo	sapiens			NM_172140.1	NC_000019.1			
+IFNL-b	1	Primates	Homo	sapiens			NM_172140.1	NC_000019.1			
+IFNL-b	1	Primates	Carlito	syrichta	PREDICTED		XM_008057587.1				
+IFNL-b	1	Primates	Pan	troglodytes	PREDICTED		XM_016934446.2				
+IFNL-b	1	Rodents	Mus	pahari	PREDICTED		XM_021210483.1				
+IFNL-b	1	Xenarthra	Dasypus	novemcinctus	PREDICTED		XM_004481462.1				
+IFNL-b	2	Primates	Homo	sapiens			NM_172138.1	NC_000019.1			
+IFNL-b	3	Primates	Homo	sapiens			NM_001346937.1	NC_000019.1			
+IFNL-b-PSI1		Primates	Homo	sapiens			n/a	NC_000019.1			
+IFNL-retro		Afrotheria	Loxodonta	africana	PREDICTED	LOC100659865	XM_003420833.3				
+IFNL-retro		Afrotheria	Chrysochloris	asiatica	PREDICTED		XM_006871441.1		366751	367326	
+IFNL-retro		Afrotheria	Elephantulus	edwardii	PREDICTED		XM_006901124.1		159	968	
+IFNL-retro		Artiodactyla	Sus	scrofa			NM_001142837.1				
+IFNL-retro		Carnivora	Ailurus	fulgens				LNAC01000191.1	19105	20859	
+IFNL-retro		Eulipotyphyla	Condylura	cristata	PREDICTED	LOC101618389	XM_012730587.1				
+IFNL-retro		Eulipotyphyla	Erinaceus	europaeus	PREDICTED		XM_007523978.1				
+IFNL-retro		Eulipotyphyla	Solenodon	paradoxus				NKTL01006921	2422780	2423431	
+IFNL-retro		Perissodactyla	Equus	asinus	PREDICTED		XM_014832969.1				
+IFNL-retro		Perissodactyla	Ceratotherium	simum	PREDICTED	LOC101394473	XM_004430284.2		307960	308535	
+IFNL-retro		Perissodactyla	Dicerorhinus	sumatrensis				PEKH010002180.1			
+IFNL-retro		Pholidota	Manis	javanica				NW_016529666.1			
+IFNL-retro		Primates	Colobus	angolensis	PREDICTED		XM_011952424.1				
+IFNL-retro		Xenarthra	Choloepus	hoffmanni			n/a	ABVD02339715.1	1744	6000	
+IFNL-retro		Xenarthra	Dasypus	novemcinctus			n/a	AAGV03280455.1			
