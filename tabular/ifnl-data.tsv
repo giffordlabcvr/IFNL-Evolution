@@ -1,43 +1,52 @@
-Gene	Species order	Genus	Species	Predicted	Locus ID	mRNAID	Aln-root	Aln-A	Aln-B	Aln-B1-primate1	Aln-B1-primate2	Aln-B1-primate3
-IFNLB2	Primates	Homo	sapiens			NM_172138.1	1	0				
-IFNLB3	Primates	Homo	sapiens			NM_001346937.1	1	0				
-IFNLB1	Primates	Homo	sapiens			NM_172140.1	1	0				
-IFNLBr	Artyiodactyla	Sus scrofa				NM_001142837.1	1	0				
-IFNLB-PSI1	Primates	Homo	sapiens			n/a	1	0				
-IFNLA	Primates	Homo sapiens				NM_001276254.2	1	1				
-IFNLA-PSI2	Primates	Homo	sapiens			n/a	1	1				
-IFNLA	Primates	Pan	troglodytes			NM_001276259.1	0	1				
-IFNLA	Primates	Gorilla	gorilla	PREDICTED	LOC109024135	XM_019015012.1	0	1				
-IFNLA	Primates	Macaca	mulatta	PREDICTED	LOC106994757	XM_015123824.1	0	1				
-IFNLA	Primates	Cebus	capucinus	PREDICTED	LOC108285723	XM_017503067.1	0	1				
-IFNLA-like	Primates	Cebus	capucinus	PREDICTED	LOC108285722	XM_017503065.1	0	1				
-IFNLA	Primates	Papio	anubis	PREDICTED	LOC101003492	XM_021931090	0	1				
-IFNLA-like	Lagomorpha	Oryctolagus	cuniculus	PREDICTED	LOC103348427	XM_008257170	0	1				
-IFNLA-like	Primates	Chlorocebus	sabaeus	PREDICTED	LOC103234660	XM_007996757	0	1				
-IFNLA-like	Carnivora	Panthera	pardus	PREDICTED	LOC109256565	XM_019431990	0	1				
-IFNLA-like	Lagomorpha	Ochotona	princeps	PREDICTED	LOC101524510	XM_004595181	0	1				
-IFNLA-like	Artiodactyla	Bos	taurus	PREDICTED	LOC101902055	XM_005219126.1	0	1				
-IFNLA-like	Artiodactyla	Sus	scrofa	PREDICTED	LOC102161030	XM_013990503.2	0	1				
-IFNLA-like	Carnivora	Odobenus	rosmarus	PREDICTED	LOC101363486	XM_004396491.1	0	1				
-IFNLA-like	Carnivora	Neomonachus	schauinslandii	PREDICTED	LOC110590206	XM_021700961.1	0	1				
-IFNLA-like	Carnivora	Ailuropoda	melanoleuca	PREDICTED	LOC105241173	XM_011234954.1	0	1				
-IFNLA-like	Carnivora	Ursusarctos	horribilis	PREDICTED	LOC113250206	XM_026491561	0	1				
-IFNLA-like	Carnivora	Enhydralutris	kenyoni	PREDICTED	LOC111161398	XM_022525015	0	1				
-IFNLA-like	Afrotheria	Loxodonta	africana	PREDICTED	LOC104845428	XM_010600391.2	0	1				
-IFNLA-like	Cetacea	Balaenoptera	acutorostrata	PREDICTED		XM_007180048.1	0	1				
-IFNLA-like	Chiroptera	Hipposideros	armiger	PREDICTED	LOC109395357	XM_019666267.1	0	1				
-IFNLA-like	Chiroptera	Pteropus	alecto	PREDICTED	LOC102889317	XM_006911731.1	0	1				
-IFNLA-like	Chiroptera	Desmodus	rotundus	PREDICTED	LOC112320072	XM_024577451.1	0	1				
-IFNLA-like	Chiroptera	Miniopterus	natalensis	PREDICTED	LOC107534143	XM_016209132.1	0	1				
-IFNLA-like	Chiroptera	Myotis	brandtii	PREDICTED	LOC102244039	XM_014541702.1	0	1				
-IFNLA-like	Chiroptera	Eptesicus	fuscus	PREDICTED		XM_008140039.1	0	1				
-IFNLA-like	Eulipotyphyla	Erinaceus	europaeus	PREDICTED	LOC103114353	XM_007524024.1	0	1				
-IFNLA-like	Eulipotyphyla	Erinaceus	europaeus	PREDICTED	LOC103114354	XM_007524025.1	0	1				
-IFNLA-like	Afrotheria	Loxodonta	africana	PREDICTED	LOC104846971	XM_010600326.2	0	1				
-IFNLA-like	Afrotheria	Loxodonta	africana	PREDICTED	LOC104845416	XM_010600327.2	0	1				
-IFNLA-like	Afrotheria	Orycteropus	afer	PREDICTED	LOC103209646	XM_007955548.1	0	1				
-IFNLA-like	Afrotheria	Echinops	telfairi	PREDICTED	LOC101641858	XM_004710487.1	0	1				
-IFNLA-like	Xenarthra	Choloepus	hoffmanni			ABVD02339718.1	0	1				
-IFNLA-like	Afrotheria	Chrysochloris	asiatica	PREDICTED	LOC102811763	XM_006878034.1	0	1				
-IFNLA-like	Afrotheria	Chrysochloris	asiatica	PREDICTED	LOC102811763	XM_006878034.1	0	1				
-IFNLA-like	Afrotheria	Chrysochloris	asiatica	PREDICTED	LOC102811763	XM_006878034.1	0	1				
+Gene	Duplicate	Species order	Genus	Species	Predicted	Locus ID	mRNAID	Scaffold	Start	End	Orientation	Aln-root	Aln-A	Aln-B	Aln-retro	Aln-B1-primate1	Aln-B1-primate2	Aln-B1-primate3
+IFNL-b	2	Primates	Homo	sapiens			NM_172138.1	NC_000019.1				1	0					
+IFNL-b	3	Primates	Homo	sapiens			NM_001346937.1	NC_000019.1				1	0					
+IFNL-b	1	Primates	Homo	sapiens			NM_172140.1	NC_000019.1				1	0					
+IFNL-retro		Artyiodactyla	Sus scrofa				NM_001142837.1					1	0					
+IFNL-b-PSI1	1	Primates	Homo	sapiens			n/a	NC_000019.1				1	0					
+IFNL-a		Primates	Homo sapiens				NM_001276254.2	NC_000019.1	39248856.00	39246314		1	1					
+IFNL-a-PSI1	1	Primates	Homo	sapiens			n/a	NC_000019.1				1	1					
+IFNL-a		Primates	Pan	troglodytes			NM_001276259.1					0	1					
+IFNL-a		Primates	Gorilla	gorilla	PREDICTED	LOC109024135	XM_019015012.1					0	1					
+IFNL-a		Primates	Macaca	mulatta	PREDICTED	LOC106994757	XM_015123824.1					0	1					
+IFNL-a		Primates	Cebus	capucinus	PREDICTED	LOC108285723	XM_017503067.1					0	1					
+IFNL-a-like		Primates	Cebus	capucinus	PREDICTED	LOC108285722	XM_017503065.1					0	1					
+IFNL-a		Primates	Papio	anubis	PREDICTED	LOC101003492	XM_021931090					0	1					
+IFNL-a		Primates	Callithrix	jacchus				ACFV01107197.1	9359	11863		0	0					
+IFNL-a		Primates	Saimiri	boliviensis				AGCE01138328	13060	15587		0	0					
+IFNL-a-like		Lagomorpha	Oryctolagus	cuniculus	PREDICTED	LOC103348427	XM_008257170					0	1					
+IFNL-a-like		Primates	Chlorocebus	sabaeus	PREDICTED	LOC103234660	XM_007996757					0	1					
+IFNL-a-like		Carnivora	Panthera	pardus	PREDICTED	LOC109256565	XM_019431990					0	1					
+IFNL-a-like		Lagomorpha	Ochotona	princeps	PREDICTED	LOC101524510	XM_004595181					0	1					
+IFNL-a-like		Artiodactyla	Bos	taurus	PREDICTED	LOC101902055	XM_005219126.1					0	1					
+IFNL-a-like		Artiodactyla	Sus	scrofa	PREDICTED	LOC102161030	XM_013990503.2					0	1					
+IFNL-a-like		Carnivora	Odobenus	rosmarus	PREDICTED	LOC101363486	XM_004396491.1					0	1					
+IFNL-a-like		Carnivora	Neomonachus	schauinslandii	PREDICTED	LOC110590206	XM_021700961.1					0	1					
+IFNL-a-like		Carnivora	Ailuropoda	melanoleuca	PREDICTED	LOC105241173	XM_011234954.1					0	1					
+IFNL-a-like		Carnivora	Ursusarctos	horribilis	PREDICTED	LOC113250206	XM_026491561					0	1					
+IFNL-a-like		Carnivora	Enhydralutris	kenyoni	PREDICTED	LOC111161398	XM_022525015					0	1					
+IFNL-a-like		Afrotheria	Loxodonta	africana	PREDICTED	LOC104845428	XM_010600391.2					0	1					
+IFNL-a-like		Cetacea	Balaenoptera	acutorostrata	PREDICTED		XM_007180048.1					0	1					
+IFNL-a-like		Chiroptera	Hipposideros	armiger	PREDICTED	LOC109395357	XM_019666267.1					0	1					
+IFNL-a-like		Chiroptera	Pteropus	alecto	PREDICTED	LOC102889317	XM_006911731.1					0	1					
+IFNL-a-like		Chiroptera	Desmodus	rotundus	PREDICTED	LOC112320072	XM_024577451.1					0	1					
+IFNL-a-like		Chiroptera	Miniopterus	natalensis	PREDICTED	LOC107534143	XM_016209132.1					0	1					
+IFNL-a-like		Chiroptera	Myotis	brandtii	PREDICTED	LOC102244039	XM_014541702.1					0	1					
+IFNL-a-like		Chiroptera	Eptesicus	fuscus	PREDICTED		XM_008140039.1					0	1					
+IFNL-a-like		Eulipotyphyla	Erinaceus	europaeus	PREDICTED	LOC103114353	XM_007524024.1					0	1					
+IFNL-a-like		Eulipotyphyla	Erinaceus	europaeus	PREDICTED	LOC103114354	XM_007524025.1					0	1					
+IFNL-a-like		Afrotheria	Loxodonta	africana	PREDICTED	LOC104846971	XM_010600326.2					0	1					
+IFNL-a-like		Afrotheria	Loxodonta	africana	PREDICTED	LOC104845416	XM_010600327.2					0	1					
+IFNL-a-like		Afrotheria	Orycteropus	afer	PREDICTED	LOC103209646	XM_007955548.1					0	1					
+IFNL-a-like		Afrotheria	Echinops	telfairi	PREDICTED	LOC101641858	XM_004710487.1					0	1					
+IFNL-a-like		Xenarthra	Choloepus	hoffmanni			ABVD02339718.1					0	1					
+IFNL-a-like		Afrotheria	Chrysochloris	asiatica	PREDICTED	LOC102811763	XM_006878034.1					0	1					
+IFNL-a-like		Afrotheria	Chrysochloris	asiatica	PREDICTED	LOC102811763	XM_006878034.1					0	1					
+IFNL-a-like		Afrotheria	Chrysochloris	asiatica	PREDICTED	LOC102811763	XM_006878034.1					0	1					
+IFNL-a-like		Eulipotyphyla	Solenodon	paradoxus				NKTL01006921				0			1			
+IFNL-retro		Perissodactyla	Dicerorhinus	sumatrensis				PEKH010002180				0			1			
+IFNL-retro		Perissodactyla	Ceratotherium	simum				KZM01024877				0			1			
+IFNL-retro		Carnivora	Ailurus	fulgens				LNAC01000191				0			1			
+IFNL-retro		Perissodactyla	Equus	burchellii				chr32				0			1			
+IFNL-retro		Pholidota	Manis	javanica				NW_016529666				0			1			
+IFNL-retro		Afrotheria	Condylura	cristata								0			1			
