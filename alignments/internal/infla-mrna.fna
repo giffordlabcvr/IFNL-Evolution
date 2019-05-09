@@ -1,4 +1,4 @@
->NM_001276254.2|__Homo_sapiens_IFNLA_
+>NM_001276254|Homo_sapiens_IFNLA
 --------------------------------------------------------------------------------
 ----------ATGCGGCCGAGTGTCTGGGCCGCAGTGGCCGCGGGGCTGTGGGTCCTGTGCACGGTGATCGCAGCGGCC-
 --------------------CCCCGGCGCTGCCTGCTCTCGCACTACCGCTCGCTGGAGCCCCGGACGCTGGCGGCTGCC
@@ -14,7 +14,7 @@ GAAGAGGCGTCACAAACCCCGGAGAGCG----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCCGCAAAGCCAGCGTGGTCTTCAACCTCCTGCGCCTGCTCACGTG
 GGAGCTCCGGCTGGCTGCACACTCTGGGCCTTGCCTCTGA----------------------------------------
 --------------------------------------------
->IFNA-pseudo|__Homo_sapiens_IFNA-pseudo_
+>IFNLA_Psi_Hsa|Homo_sapiens_IFNA-pseudo
 --------------------------------------------------------------------------------
 ----------ATGCGACCGAGTGTGTGGGCCGCGGTGGCCGCGGGACTGTGGGTCGTGTGCACGGTGGGCGCGGCGATC-
 --------------------CGCCAGCGCTGCCTGCTCTCGCACTACCGCTCGCTGGAGCCCCGGACGCTGGCGGCGGTC
@@ -30,7 +30,7 @@ TGACACGGACAGCACTGAGGCTGGGAGCGGCGGGATTGGAGAGGTCTTCTCGGGAGGGAAGAGCCTGGCTTAGCCCCGCT
 GCCCTCCCTCCCTGGCTCCAGGACTCCCCTCGGTGTCGCGAAGCCAGCGTGATCTTCAACCTCCTGCGCCTGCTCACGTG
 GGAGCTCCGGCTGGCTGCACACTCAGGGCCTTGCCTCTGA----------------------------------------
 --------------------------------------------
->NM_001276259.1|__Pan_troglodytes_interferon_
+>NM_001276259|Pan_troglodytes_interferon
 --------------------------------------------------------------------------------
 ----------ATGCGGCCGAGTGTCTGGGCCGCAGTGGCCGCGGGGCTGTGGGTTCTGTGCACGGTGGTCGCAGCGGCC-
 --------------------CCCCGGCGCTGCCTGCTCTCGCACTACCGCTCGCTGGAGCCCCGGACGCTGGCGGCTGCC
@@ -46,7 +46,7 @@ GAGGAGGCGTCACAAACCCCGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCCGCGAAGCCAGCGTGATCTTCAACCTCCTGCGCCTGCTCACGTG
 GGAGCTCCGGCTGGCTGCACACTCAGGGCCTTGCCTCTGA----------------------------------------
 --------------------------------------------
->XM_019015012.1|PREDICTED_Gorilla_gorilla__LOC109024135
+>XM_019015012|PREDICTED_Gorilla_gorillaLOC109024135
 --------------------------------------------------------------------------------
 ----------ATGCGACCGAGCGTGTGGGCCGCGGTGGCCGCGGGACTGTGGGTCATGTGCACGGTGGGCGCGGCGATC-
 --------------------CCCCAGCGCTGCCTGCTCTCGCACTACCGCTCACTGCAGCCCCGGACGCTGGCGGCGGTC
@@ -62,7 +62,7 @@ GAGGAGGCGTCACAAACCGCGGAGAGCT----------------------------------------------------
 ---------------------GACTCCCCTCGGTGTCGCGAAGCCAGCGTGATCTTCAACGTTCTGCGCCTGCTCACGTG
 GGAGCTCCGGCTGGCTGCACACTCAGGGCCTTGCCTCTGA----------------------------------------
 --------------------------------------------
->XM_015123824.1|PREDICTED_Macaca_mulatta_IFNLA_LOC106994757
+>XM_015123824|PREDICTED_Macaca_mulatta_IFNLA_LOC106994757
 --------------------------------------------------------------------------------
 ----------ATGCGGCCGAGTGTCTGGGCCGCGGTGGCCGCCGGGCTGTGGGTCCTGTGCACGGTGGTCACAGCGGCC-
 --------------------CCCCGGCGCTGCCTGCTCTCGCACTACCGCTCGCTGGAGCCCCGGACGCTGGCGGCGGCC
@@ -78,7 +78,7 @@ GAGGAGGCGTCACAAACCGCGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGTCGCGAAGTCAGCGTGATCTTCAACCTCCTGCGCCTGCTCACGTG
 GGAGCTCCGACTGGTTGCGCACTCCGGGCCTTGCCTCTGA----------------------------------------
 --------------------------------------------
->XM_017503067.1|PREDICTED_Cebus_capucinus_IFNLA_LOC108285723
+>XM_017503067|PREDICTED_Cebus_capucinus_IFNLA_LOC108285723
 --------------------------------------------------------------------------------
 ----------ATGCGGCCAAGTGTCGCGGCCGCGGTGGCCGCGGGGCTGTGGGTCCTGTGCACGGTGGGTGCGGCGGCC-
 --------------------CCCCGGCGCTGCCTGCTCTCGCACTACCGCTCGCTGGAGCCCCGGACGCTGTCGGCGGCC
@@ -94,7 +94,7 @@ GAGGAGGCGTCACAAGCCGCGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCCGCGAAGCCCGCGTGGTCTTCAACCTCCTGCGCCTGCTCACGTG
 GGAGCTCCGGCTGGCGGCGCACTCGGGGCCTTGCCTCTGA----------------------------------------
 --------------------------------------------
->XM_017503065.1|PREDICTED_Cebus_capucinus_IFNLA-like_LOC108285722
+>XM_017503065|PREDICTED_Cebus_capucinus_IFNLA-like_LOC108285722
 --------------------------------------------------------------------------------
 ----------ATGCGGCCAAGTGTCGCGGCCGCGGTGGCCGCGGGGCTGTGGGTCCTGTGCACGGTGGGTGCGGCGGCC-
 --------------------CCCCGGCGCTGCCTGCTCTCGCACTACCGCTCGCTGGAGCCCCGGACGCTGTCGGCGGCC
@@ -110,7 +110,7 @@ GAGGAGGCGTCACAAGCCGCGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCCGCGAAGCCCGCGTGGTCTTCAACCTCCTGCGCCTGCTCACGTG
 GGAGCTCCGGCTGGCGGCGCACTCGGGGCCTTGCCTCTGA----------------------------------------
 --------------------------------------------
->XM_021931090|PREDICTED_Papio_anubis__LOC101003492
+>XM_021931090|PREDICTED_Papio_anubisLOC101003492
 --------------------------------------------------------------------------------
 ----------ATGCGGCCGAGTGTCTGGGCCGTGGTGGCCGCCGGGCTGTGGGTCCTGTGCGCGGTGGTCACAGCGGCC-
 --------------------CCCCGGCGCTGCCTGCTCTCGCACTACCGCTCGCTGGAGCCCCGGACGCTGGCGGCGGCC
@@ -126,7 +126,7 @@ GAGGAGGCGTCACAAACCGCGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGTCGCGAAGTCAGCGTGGTCTTCAACCTCCTGCGCCTGCTCACGTG
 GGAGCTCCGACTGGTTGCGCACTCCGGGCCTTGCCTCTGA----------------------------------------
 --------------------------------------------
->XM_008257170|PREDICTED_Oryctolagus_cuniculus__LOC103348427
+>XM_008257170|PREDICTED_Oryctolagus_cuniculusLOC103348427
 ATGCTCAGAGCCGCGGGCTTCCCCGTCGGGGCCAAGTTTTCGAAACGTCAGCGCTGGCTCAAGTCGCCGGGGCGAGGACT
 TTACCCTCAG----------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -142,7 +142,7 @@ CAGGAGGCGACACAAGATGGGGAGGCCG----------------------------------------------------
 ---------------------GACTCGCCGCGCTGCCACGAAGCCACCGTCGTCTTCAACCTGCTGCGTCTGCTCACGTG
 GGACCTCAGGCTGGTGGCGCACGCGGGACCTTGCGTGTGA----------------------------------------
 --------------------------------------------
->XM_007996757|PREDICTED_Chlorocebus_sabaeus__LOC103234660
+>XM_007996757|PREDICTED_Chlorocebus_sabaeusLOC103234660
 --------------------------------------------------------------------------------
 ----------ATGCGGCCGAGTGTCTGGGCCGCGGTGGCCGCCGGGCTGTGGGTCCTGTGCACGGTGGTCACAGCGGCC-
 --------------------CCCCGGCGCTGCCTGCTCTCGCACTACCGCTCGCTGGAGACCCGGACGCTGGCGGCGGCC
@@ -158,7 +158,7 @@ GAGGAGGCGTCACAAACCGCGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGTCGCGAAGTCAGCGTGATCTTCAACCTCCTGCGCCTGCTCACGTG
 GGAGCTCCGACTGGTTGCTCACTCCGGGCCTTGCCTCTGA----------------------------------------
 --------------------------------------------
->XM_019431990|PREDICTED_Panthera_pardus__LOC109256565
+>XM_019431990|PREDICTED_Panthera_pardusLOC109256565
 --------------------------------------------------------------------------------
 ----------ATGGGGCCGAGAGGCGCAGCCGCGGTGGCCGTGGGGCTCTGGGTCTTGGTGACGGCGGGCGAGGCGGCGG
 ACCCT---GGCGTGACGACACCCCGGCGCTGCCTGCTGTCACACTACCGCTCGCTGGACCCCAGGGCGGTGGCGGCGGTC
@@ -174,7 +174,7 @@ GAGGACGCGTCCCCAAACACGCAGAGCTGCGAGTGCAGCGGGCGGGGAGGCG----------------------------
 ---------------------GACTCGCCTGGGTGCCACGAAGCCAGCGTCGTCTTCAACCTCCTGCGCCTGCTCACGTG
 GGACCTGAGGCTGGTGGCAGACTCGGGGCCTTGT----------------------------------------------
 --------------------------------------------
->XM_004595181|PREDICTED_Ochotona_princeps__LOC101524510 
+>XM_004595181|PREDICTED_Ochotona_princepsLOC101524510 
 --------------------------------------------------------------------------------
 ----------ATGGGTGCGGGCGGTGCGGCGGTGGTGGCCGCGGGGCTGTGGTTCCTGTGGGTGCTGGTCGTGCCG----
 --------GTGGAGATGGCGCCCCGACGATGCCTGCTCTCGCACTACCGCTCGCTGGATCCCAAGGTGCTGAAGGCCACC
@@ -190,7 +190,7 @@ GCGGAGGCTAGCCGAGAGGCTCAGGGCG----------------------------------------------------
 ---------------------GACCCTCCTCGCTGCCACGAGGCCGCTGTCGTCTTCAACCTGCTGCGGCTGCTCACCTG
 GGACCTCAGGCTGGTGGCGCAAACGGGCGGCCCGGATCTGGGTGTGGATGTGGTGCAGCATGCGGAGGAGCTGGTCCAGG
 ACATCACTCAGGGCCGAGTCCTCTTTGGCAGTTGTGGTTTCTAG
->XM_005219126.1|PREDICTED_Bos_taurus_IFNLA-like_LOC101902055
+>XM_005219126|PREDICTED_Bos_taurus_IFNLA-like_LOC101902055
 --------------------------------------------------------------------------------
 ----------ATGGGGCAGAGTGGCACAGCCGCAGCGGTCGTGGGATTGTGGGTCTTGGTGACTGTGGGTGTAGCTGCCA
 GCCCC---AACGTGACTGAGCCTCAGCGCTGCCTCCTCTCACACTATCGCTCCTTGGACCCCCGGGCGCTGCTGGCTGTC
@@ -206,7 +206,7 @@ CGGGAGGCGTCCCAAGACTCGCCGAGCT----------------------------------------------------
 ---------------------GAGTCGCCTCGATGCCACGAAGCCACCGTCATCTTCCACCTCCTGCGCCTGCTCGCGTG
 GGACCTGCGGCTGGTGGCGCACGCGGGGCCTTGTCTGTGA----------------------------------------
 --------------------------------------------
->XM_013990503.2|PREDICTED_Sus_scrofa_IFNLA-like_LOC102161030
+>XM_013990503|PREDICTED_Sus_scrofa_IFNLA-like_LOC102161030
 --------------------------------------------------------------------------------
 ----------ATGGGACCACGTGGCACAGCCGCGGTGGCTATGGGACTGTGGGTCTTTGTGACGGCGGTCTTCGCGTTGG
 ACCCTGAAGACGTGGTGGTGCCCGGTCGCTGCGTCCTCTCTCACTACCGCTCCCTGGACCCTCAGGCGCTGGTGGCCGTC
@@ -222,7 +222,7 @@ CAGGAGGCGTCACAGA---------GCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCCACGAAGCCACCGTCATCTTCAACCTGCTGCGGCTTCTCGCGTG
 GGACCTGCGGCTGGTGGCGCATTCGGGGCCTTGTCTGTGA----------------------------------------
 --------------------------------------------
->XM_004396491.1|PREDICTED_Odobenus_rosmarus_IFNLA-like_LOC101363486
+>XM_004396491|PREDICTED_Odobenus_rosmarus_IFNLA-like_LOC101363486
 --------------------------------------------------------------------------------
 ----------ATGGGGCCGAGGGGCGCAGCCGCCGTGGCCGTGGCGCTGTGGGTCTTGCTGACGGCGGGCGAGGCGGCGG
 ACCCT---GGCGTGGCGACGCCCCGGCGCTGCCTCCTGTCACACTACCGCTCGCTGGACCCCAGGGCGCTGGGGGCCGTC
@@ -238,7 +238,7 @@ GAGGAGGCGTGCCCAAACACGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCCACGAAGCCAGCGTCATCTTCAACCTCCTGCGCCTGCTCACGTG
 GGACCTGAAGCTGGTGGCGAACTCGGGGCCTTGTCCCTGA----------------------------------------
 --------------------------------------------
->XM_021700961.1|PREDICTED_Neomonachus_schauinslandii__LOC110590206
+>XM_021700961|PREDICTED_Neomonachus_schauinslandiiLOC110590206
 --------------------------------------------------------------------------------
 ----------ATGGGCCCGAGGGGCGCAGCCGCGGCGGCCGTGGCGCTGTGGGTCTTGCTGACGGCGGGCGAGGCGGCGG
 ACCCT---GGCGTGGCGACGCCCCGGCGCTGCCTCCTGTCACACTACCGCTCGCTGGACCCCAGGGCGCTGGCGGCCGTC
@@ -254,7 +254,7 @@ GAGGAGGCGTCCCCAAACACGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCCACGAAGCCAGCGTCATCTTCAACCTCCTGCGCCTGCTCACGTG
 GGACCTGAAGCTGGTGGCGAACTCGGGGCCTTGT----------------------------------------------
 --------------------------------------------
->XM_011234954.1|PREDICTED_Ailuropoda_melanoleuca__LOC105241173
+>XM_011234954|PREDICTED_Ailuropoda_melanoleucaLOC105241173
 --------------------------------------------------------------------------------
 ----------ATGGGACCGACGGGCGCAGCCGCGGTGGCCGTGGCGCTGTGGGTCTTGGTGACGGAGGGCGAGGCGGCGG
 ACCCT---GGCGTGGCGACGCCCCGGCGCTGCCACCTGTCACACTACCGCTCGCTGGACCCCAGGGCGCTGGCGGCCGTC
@@ -270,7 +270,7 @@ GAGGAGGCGTCCCCAAACACGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCTACGAAGCCAGCGTCATCTTCAGCCTCCTGCGCCTGCTCACGTG
 GGACCTGAAGCTGGTGGCGAGCTCGGGGCCTTGT----------------------------------------------
 --------------------------------------------
->XM_026491561|PREDICTED_Ursusarctos_horribilis__LOC113250206
+>XM_026491561|PREDICTED_Ursusarctos_horribilisLOC113250206
 --------------------------------------------------------------------------------
 ----------ATGGGGCCGACGGGCGCAGCCGCGGTGGCCGTGGCGCTGTGGGTCTTGGTGACGGCGGGCGAGGCGGCGG
 ACCCT---GGCGTGGCGACGCCCCGGAGCTGCCTCCTGTCACACTACCGCTCGCTGGACCCCAAGGCGCTGGCGGCCGTC
@@ -286,7 +286,7 @@ GAGGAGGCGTTCCCAAACACGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCCACGAAGCCAGCGTCATCTTCAGCCTCCTGCGCCTGCTCACGTG
 GGACCTGAAGCTGGTGGCGAGCTCGGGGCCTTGTCTCTGA----------------------------------------
 --------------------------------------------
->XM_022525015|PREDICTED_Enhydralutris_kenyoni__LOC111161398
+>XM_022525015|PREDICTED_Enhydralutris_kenyoniLOC111161398
 --------------------------------------------------------------------------------
 ----------ATGGGGCGGAGGGGCGGAGCCGCCATGGCCGTGGCGCTATGGGTCTTGGTGACCGCGGGCGAGGCGGCGG
 ACCCC---GGCGTGGCGACGCCCCGGCGCTGCCTCCTGTCCCACTACCGCTCGCTGGACCCCAGGGCGCTGGCGGCCGTC
@@ -302,7 +302,7 @@ GAGGAGGCGTCCCCCAACACGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCCACGAAGCCAGCGTCATCTTCAACCTCCTGCGCCTGCTCACGTG
 GGACCTGAAGCTGGTGGCGAACTCGGGGCCTTGTCTCTGA----------------------------------------
 --------------------------------------------
->XM_010600391.2|PREDICTED_Loxodonta_africana_IFNLA-like_LOC104845428
+>XM_010600391|PREDICTED_Loxodonta_africana_IFNLA-like_LOC104845428
 --------------------------------------------------------------------------------
 ----------ATGGGCTTGAACGTCGGAGCCGCGGTGGCCGTGGGGCTGTGGGTCTTGGTGACCGTGGGTGTGGCAGCAG
 ACCCG---GTTGTGCAGGTGCCCCGACCCTGCCTCCTGTCACACTATCGCTCGCTGGACCTCAAGGTTCTGGCGGCGGTC
@@ -318,23 +318,7 @@ AAGGAGGCGCCACAAAGCACGGAGAGCT----------------------------------------------------
 ---------------------GAATCGCCTCAATGCCACGAAGCCAGGGTCATCTTCAATCTCCTGCGCCTGCTCACGTG
 GGACCTCAGGCTGGTGGCACTTTCAGGGCCTTGCGTCTGA----------------------------------------
 --------------------------------------------
->XM_007180048.1|PREDICTED_Balaenoptera_acutorostrata_IFNLA_
---------------------------------------------------------------------------------
-----------ATGGGGCCGAGTGGCGCAGCCGCGGTGGCCGTGGGGCTGTGGGTCTTGGTGACGGTGGGCGTGGCGGCGG
-ACCCC---GAAGTGGTGGAGCCTCCGCGCCGCCTCCTCTCACACTACCGCTCCCTGGACCCCCGGGCGCTGCTGGCCATC
-AAGGCACTGAGGGACCGCTATGAGGAAGAGACGCTGAGCTGGAGGCCGCGCAAC--------------------------
--------------------------------TGCTCGTTCCGCCGGAGGAGG---GACCCTCCGCGGCCTTCC-------
------------------------------------------------------------------------TCCCGTGCG
-CTGCTCCGCCAGGTGGCCCGCGGCCTCGCCGACGCCCAAGACGTGGGCGGGACGTGGCGGCCTGCATCCGGGCTTCGGTC
-TGCGGCTGGGAGG-------------------------------------------------------------------
---------------------------------------------------------------------------------
-------------------------------CTCGAGCTGGTCCGGCCAGGCTCCCGGAGGAAGTCC---CTGCGGCGGCC
-CGGGAGGCGTCCCCAGACTCGCACAGCT----------------------------------------------------
---------------------------------------------------------------------------------
----------------------GGCTCGCCTCGGTGCCACGAAGCCACCGTCATCTTCAACCTCCTGCGCCTGCTCGCGTG
-GGACCTGCGGCTGGTGGCGCACTCGGGTCCTTGTCTGTGA----------------------------------------
---------------------------------------------
->XM_019666267.1|PREDICTED_Hipposideros_armiger__LOC109395357
+>XM_019666267|PREDICTED_Hipposideros_armigerLOC109395357
 --------------------------------------------------------------------------------
 ----------ATGCGGCCGAGTGGAGCCGCCGCGGTGGCCGTGGGGCTGTGGGTCTTGGTGACAGTCAGCGTGGAGGCGG
 ACCCA---GGCGTGGCTGCGCCCCGGCGCTGCCTCCTCTCGCACTACCGTTCGCTGGAGCCCAGGGCGCTGGCAGCGGTC
@@ -350,7 +334,7 @@ TAGAAGGCGTCCCCAAACGCGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCCACGAAGCCACCGTCATCTTCAACCTCCTGCGCCTGCTCACGTG
 GGACCTGAGGCTGGTGGCGCACCCAGGACCTTGTCTCTGA----------------------------------------
 --------------------------------------------
->XM_006911731.1|PREDICTED_Pteropus_alecto__LOC102889317
+>XM_006911731|PREDICTED_Pteropus_alectoLOC102889317
 --------------------------------------------------------------------------------
 ----------ATGGGGCCGAGGGGCGCAGTCGCGGTGACCGTGGGGCTGTGGGTCTTGGCGACGGTG------GCGGCGG
 ACCAC---GGCGAGGCTAAGCCCGGGCGCTGCCTCCTCTCGCACTACCGTTCGCTGGACCCCAGGGCGCTGGAGGCCGTC
@@ -366,7 +350,7 @@ CAGGAGGCGTCGCCAAAGGGGGAGGCCT----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCCACGAAGCCACCGTCATCTTCAACCTCCTGCGCCTGCTCGCGTG
 GGACCTGAGGCTGGTGGCGCACTCCGGACCTTGCCTCTGA----------------------------------------
 --------------------------------------------
->XM_024577451.1|PREDICTED_Desmodus_rotundus__LOC112320072
+>XM_024577451|PREDICTED_Desmodus_rotundusLOC112320072
 --------------------------------------------------------------------------------
 ----------ATGAGGCCAAGTGGCCCAGCCGCGGTGTCCGTGGGGCTGTGGGTCTTGGTAACAGGGAGTGTGGTGGTGG
 ACCCA---GGTGTGGCTGAACCCCAGCGCTGCCTACTGTCGCACTACCGCTGGCTGGACCCCAAGGCGTTGGTGGCGATC
@@ -382,7 +366,7 @@ CAAGAGGCGCTCCAAAACACGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTCAATGCCACGAAGCCAGTATCATCTTCAACCTCCTTCGCCTGCTCACGTG
 GGACCTGAGGCTGGTGGCGCACTCGGGGCCTTGTCTCTGA----------------------------------------
 --------------------------------------------
->XM_016209132.1|PREDICTED_Miniopterus_natalensis_IFNLA-like_LOC107534143
+>XM_016209132|PREDICTED_Miniopterus_natalensis_IFNLA-like_LOC107534143
 --------------------------------------------------------------------------------
 ----------ATGGGACCAAGTGGC------ACAGCCGCAGTGTCCTTGTGGGTCTTGGTGACCGTGAGCATGGCGGTGG
 ACACC---GGCTTGGCTGAACCCAGGCGCTGCCTCCTCTCGCACTACCGCTGGCTGGAGCCCAGGGCGCTGGCCGCCGTC
@@ -398,7 +382,7 @@ CAGGAGGCGTCCCCAAACCCGGAGAGCT----------------------------------------------------
 ---------------------AGCTCTCCTCAGTGCCACCAAGCCAACGTCATCTTCAACCTCCTGCGCCTGCTCACATG
 GGACCTGAAGCTGGTGGCTCACTCCGGACCTTGTCTCTGA----------------------------------------
 --------------------------------------------
->XM_014541702.1|PREDICTED_Myotis_brandtii__LOC102244039
+>XM_014541702|PREDICTED_Myotis_brandtiiLOC102244039
 --------------------------------------------------------------------------------
 ----------ATGAGGCCCAGTGGTGCAGCCGCGGTGTCCGTGGGGCTGTGGGTCTTGGTGACAGTGAACGTGGTGGCGG
 ACCCC---GGTGTGACCGAACCCAGGCGCTGCTCCCTCTCTCACTACCGCTGGTTGGACCCCAGGGCGCTGGAGGCGGTC
@@ -414,7 +398,7 @@ CCGCTTCGCTTCCTTCCCGGGTTCCAG-----------------------------------------------------
 ---------------------GACTCGCCTCGGTGCCATGAAGCCACCATCATCTTCAACCTCCTGCGCCTGCTCACGTG
 GGACCTGAAGCTGGCGGCGCTCTCAGGGCCTTGTCTCTGA----------------------------------------
 --------------------------------------------
->XM_008140039.1|PREDICTED_Eptesicus_fuscus__
+>XM_008140039|PREDICTED_Eptesicus_fuscus
 --------------------------------------------------------------------------------
 ----------ATGAGGCCCAGTGGTGCAGCCGCCGTGTCCGTGGGGCTGTGGGTCTTGGTGACAGTGAACGTGGTGGCGG
 ACCCC---GCTGTGACTGGACCCAGGCGCTGCTCCCTCTCTCACTACCGCTGGTTGGACCCCAGGGCGCTGGAGGCGGTC
@@ -430,7 +414,7 @@ CAGGAGGCGCCCCCAAAGGCGGAGAGCT----------------------------------------------------
 ---------------------GACTCGCCTGGGTGCCATGAAGCCACCATCATCTTCAACCTCGTGCGCCTGCTCACGTG
 GGACCTGAAGCTGGCGGCGCGCTCGGGGCCTTGCCTCTGA----------------------------------------
 --------------------------------------------
->XM_007524024.1|PREDICTED_Erinaceus_europaeus_IFNLA-like_LOC103114353
+>XM_007524024|PREDICTED_Erinaceus_europaeus_IFNLA-like_LOC103114353
 --------------------------------------------------------------------------------
 ----------GGTGCGAGGAGCAGAGCAGTGGTGGCCGCTGCAGGACTGTGGGTCCTGGTGGCAGTGGACGCTGTGGCCC
 AGCCT---GGCCAGCAGCCTCCCAGGCACTGCCTGCTGTCTCACTACAGCTCTCTGGACCCCACGGTGCTGCTGGAGGTC
@@ -446,7 +430,7 @@ GAGGAGAAGTCAGAAAACAAAGAGGCAG----------------------------------------------------
 ---------------------GACTCACCCAGGTGCCATGAAGCCAAGGTCATCTTCAGCCTCCTGCGCCTGCTCACGTG
 GGACCTGAGGCTGGTGGCTCAGCTGGGACCTTGTCTCTGA----------------------------------------
 --------------------------------------------
->XM_007524025.1|PREDICTED_Erinaceus_europaeus_IFNLA-like_LOC103114354
+>XM_007524025|PREDICTED_Erinaceus_europaeus_IFNLA-like_LOC103114354
 --------------------------------------------------------------------------------
 ----------GGTGCGAGGAGCAGAGCAGTGGTGGCCGCTGCAGGACTGTGGGTCCTGGTGGCAGTGGACGCTGTGGCCC
 AGCCT---GGCCAGCAGCCTCCCAGGCACTGCCTGCTGTCTCACTACAGCTCTCTGGACCCCACGGTGCTGCTGGAGGTC
@@ -462,7 +446,7 @@ GAGGAGAAGTCAGAAAACAAAGAGGCAG----------------------------------------------------
 ---------------------GACTCACCCAGGTGCCATGAAGCCAAGGTCATCTTCAGCCTCCTGCGCCTGCTCACGTG
 GGACCTGAGGCTGGTGGCTCAGCTGGGACCTTGTCTCTGA----------------------------------------
 --------------------------------------------
->XM_010600326.2|PREDICTED_Loxodonta_africana_IFNLA-like_LOC104846971
+>XM_010600326|PREDICTED_Loxodonta_africana_IFNLA-like_LOC104846971
 --------------------------------------------------------------------------------
 ----------ATGGGCTCGAACGTCGGTGCCGCGGTGGCCGTGGGGCTGTGGGTCTTGGTGACCGTGGGCGTGGCAGCGG
 AGCCA---GTCGTGCAGGAGCCCCGACCCTGCCTCCTGTCACACTATCGCTCGCTGGACCCCGGGGCGCTGGCGGCGGTC
@@ -478,7 +462,7 @@ AAGGAGGCGCCACAAAGCACGGAGAGCT----------------------------------------------------
 ---------------------GAATCGCCTCAGTGCCGCGAACCCACGGTCATCTTCAATCTCCTGCGCCTGCTCACGTG
 GGACCTCAGGCTGGTGGCACTTTCGGGGCCTTGCGTCTGA----------------------------------------
 --------------------------------------------
->XM_010600327.2|PREDICTED_Loxodonta_africana_IFNLA-like_LOC104845416
+>XM_010600327|PREDICTED_Loxodonta_africana_IFNLA-like_LOC104845416
 --------------------------------------------------------------------------------
 ----------ATGGGCTCGAACGTCGGTGCCGCGGTGGCCGTGGGGCTGTGGGTCTTGGTGACCGTGGGCGTGGCAGCGG
 AGCCA---GTCGTGCAGGAGCCCCGACCCTGCCTCCTGTCACACTATCGCTCGCTGGACCCCGGGGCGCTGGCGGCGGTC
@@ -494,7 +478,7 @@ AAGGAGGCGCCACAAAGCACGGAGAGCT----------------------------------------------------
 ---------------------GAATCGCCTCAGTGCCGCGAACCCACGGTCATCTTCAATCTCCTGCGCCTGCTCACGTG
 GGACCTCAGGCTGGTGGCACTTTCGGGGCCTTGCGTCTGA----------------------------------------
 --------------------------------------------
->XM_007955548.1|PREDICTED_Orycteropus_afer__LOC103209646
+>XM_007955548|PREDICTED_Orycteropus_aferLOC103209646
 --------------------------------------------------------------------------------
 ----------ATGGGGCCGAGCGGCCGAGCAGCGGTGGCCACCGGGCTGTGGGTCTTGGTGACGGTGGGCGTGGCGGCGG
 ACCCG---GTGGTGCAGGCGCCCCGACGCTGCCTCCTGTCACACTATCGCTCGCTGGACCCCAGGGTGCTGGAGGCGGTC
@@ -510,7 +494,7 @@ CGGTCCCCGTCGTGTGTTCCAG----------------------------------------------------------
 ---------------------GAATCGCCTCAGTGCCACGAAGCCTCCGTCATCTTCAACCTTCTGCGTCTGCTTACGTG
 GGATCTCAAACTGGTGGCCCATTCTGGACCTTGTGTC-------------------------------------------
 --------------------------------------------
->XM_004710487.1|PREDICTED_Echinops_telfairi_IFNLA-like_LOC101641858
+>XM_004710487|PREDICTED_Echinops_telfairi_IFNLA-like_LOC101641858
 --------------------------------------------------------------------------------
 ----------ATGGGTTCATGCGTCGCAGCCACTGTGCCCCTGGGGCTGTGGTTCTTGGTGACGGTGGGCGTAGTGGCCA
 AGCCC---GGCGTGGGGGAGCCCCGACGTTGCCATCTGTCACATTATCGCTCGCTGGCCCCCACGGCGCTGGCCGCAGTC
@@ -526,23 +510,7 @@ GCGGAGGCGCCACAAAGCACGCCGAGAC----------------------------------------------------
 ---------------------GACTCGCCACAGTGCCGCGAAGCCACCATCATCTTCAATTTGCTGCGCCTGCTGTCCCG
 GGACCTGAGGCTCGTGGCCTACTCGGGGCCTTGCGTCTGA----------------------------------------
 --------------------------------------------
->ABVD02339718.1|__Choloepus_hoffmanni__
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
----------------CAGCAGGAGGAAGAGACGCCGAGCTGGAGGCCGCCGAAC--------------------------
--------------------------------TGTTCG---------AGAAGG---ACGCCCCCCAGGCCGTCGGTGAGGC
-CCGGGACCCCGCGGGGGAGGCGCGGCCCCCTCTGACTCCAGCCT---------GGTCTCCCCCAG------TCCTGCGCG
-CGGCTCCGCCTGGTGGCCCCGGCCCTCCCCGACGCCCAGCCGGTGCTGAGCAGCCTGCGCAGCCCGGAGCTGCTCCCCGG
-GACCGGCCCGACTCTGGAGCTGCTGGCGGCCGCGGGGCGGGTAGTGTTCTGCGCC------------------------T
-CCGGCCTCCTAGCGAGGCCCACCCGGTCTGCGAATAGG---TCCCACTTGGCGGAAAATCCGTCCAAACACGACTCGCCC
-TCCTGGCGTCCATCAAATACGGAATTT-----------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------
->XM_006878034.1|PREDICTED_Chrysochloris_asiatica__LOC102811763
+>XM_006878034|PREDICTED_Chrysochloris_asiaticaLOC102811763
 --------------------------------------------------------------------------------
 ----------ATGGGGACGAGAGTTGGAGCCGCGGTGGCCGTGGGACTGTGGGTCTCGGTGACAATGGGCGTGGCATCGG
 ACCTG---GGCGTGCGTGAGCCCCAACGCTGTCTCCTGTCCCGCTATCGCTCGCTGGACCCCAGGGCTCTGGCGGCGGTC
@@ -558,7 +526,7 @@ AAGGAGGCGCCACAAAGCACGGAGAGAT----------------------------------------------------
 ---------------------GAATCGCCTCGGTGCAGAGAAGCCGCCGTCATCCTGACTCTTCTGCGCCTGCTCCTGCG
 GGATCTCAGACTGGTGGCGCATTCGGAGCCTTGCGTCTGA----------------------------------------
 --------------------------------------------
->XM_006878034.1|PREDICTED_Chrysochloris_asiatica__LOC102811763
+>XM_006878034|PREDICTED_Chrysochloris_asiaticaLOC102811763
 --------------------------------------------------------------------------------
 ----------ATGGGGACGAGAGTTGGAGCCGCGGTGGCCGTGGGACTGTGGGTCTCGGTGACAATGGGCGTGGCATCGG
 ACCTG---GGCGTGCGTGAGCCCCAACGCTGTCTCCTGTCCCGCTATCGCTCGCTGGACCCCAGGGCTCTGGCGGCGGTC
@@ -574,7 +542,7 @@ AAGGAGGCGCCACAAAGCACGGAGAGAT----------------------------------------------------
 ---------------------GAATCGCCTCGGTGCAGAGAAGCCGCCGTCATCCTGACTCTTCTGCGCCTGCTCCTGCG
 GGATCTCAGACTGGTGGCGCATTCGGAGCCTTGCGTCTGA----------------------------------------
 --------------------------------------------
->XM_006878034.1|PREDICTED_Chrysochloris_asiatica__LOC102811763
+>XM_006878034|PREDICTED_Chrysochloris_asiaticaLOC102811763
 --------------------------------------------------------------------------------
 ----------ATGGGGACGAGAGTTGGAGCCGCGGTGGCCGTGGGACTGTGGGTCTCGGTGACAATGGGCGTGGCATCGG
 ACCTG---GGCGTGCGTGAGCCCCAACGCTGTCTCCTGTCCCGCTATCGCTCGCTGGACCCCAGGGCTCTGGCGGCGGTC
