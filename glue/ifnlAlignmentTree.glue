@@ -1,20 +1,33 @@
-
-  # Constrained alignment tree
+  #~#~# Constrained alignment tree 
   
-  create alignment AL_Circoviridae_MASTER -r REF_MASTER_PCV-1 
+  ## Root alignment
+  create alignment AL_IFNL_MASTER -r REF_IFNLA_MASTER 
 
-  alignment AL_Circoviridae_MASTER 
+  ## Major branch alignments
+  alignment AL_IFNL_MASTER 
+
     add member --allSequences
-	extract child AL_Circovirus_genome --refName REF_MASTER_PCV-1
-	demote member AL_Circovirus_genome --whereClause "sequence.genus = 'Circovirus' and sequence.source.name = 'ncbi-refseqs' or sequence.genus = 'Circovirus' and sequence.source.name = 'reference-fasta'" 	
-    extract child AL_Circoviridae_rep --refName REF_MASTER_PCV-1
-	demote member AL_Circoviridae_rep -a	
+
+	extract child AL_IFNLA --refName REF_IFNLA_MASTER
+	demote member AL_IFNLA --whereClause "sequence.name = 'ifnl-a'" 	
+
+	extract child AL_IFNLB --refName REF_IFNLB1
+	demote member AL_IFNLB --whereClause "sequence.name = 'ifnl-b1'" 	
+
     exit
 
+  #~#~# Derive constrained alignment segments from unconstrained alignments  
 
-  # Derive constrained alignment segments from unconstrained alignments
-
-  alignment AL_Circovirus_genome
-    derive segments AL_UNCONSTRAINED_Circovirus_genome -a --mergeStrategy OVERWRITE
+  alignment AL_IFNL_MASTER
+    derive segments AL_IFNL_ROOT_UNCONSTRAINED -a --mergeStrategy OVERWRITE
     exit
+    
+  alignment AL_IFNLA
+    derive segments AL_IFNLA_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+    exit
+
+  alignment AL_IFNLB
+    derive segments AL_IFNLB_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+    exit
+
 

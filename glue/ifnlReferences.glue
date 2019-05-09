@@ -1,69 +1,21 @@
-  #### Circoviridae    
+  #### IFNLA    
+  create reference REF_IFNLA_MASTER ncbi-refseqs NM_001276254  
+  create reference REF_IFNLA_Primates   ncbi-refseqs NM_001276254  
 
-  # Master reference
-  create reference REF_MASTER_PCV-1 ncbi-refseqs NC_001792  
+  #### IFNLA_psi
+  create reference REF_IFNLA_psi ifnl-fasta IFNLA_Psi_Hsa
 
-  ### Circovirus
-  
-  ## Mammal
-  
-  # Porcine circoviruses
-  create reference REF_PCV-2 ncbi-refseqs NC_005148
-  create reference REF_PCV-3 ncbi-refseqs NC_031753
+  #### IFNLB1
+  create reference REF_IFNLB1 ncbi-refseqs NM_172140
 
-  # Canine circovirus
-  create reference REF_CfCV  ncbi-refseqs NC_020904
+  #### IFNLB1_psi
+  create reference REF_IFNLB1_psi ifnl-fasta IFNLB1_Psi_Hsa
 
-  # Mink circovirus
-  create reference REF_MiCV  ncbi-refseqs NC_023885
+  #### IFNLB2
+  create reference REF_IFNLB2 ncbi-refseqs NM_172138
 
-  # Mexican free-tailed bat (Tadarida brasiliensis) circovirus
-  create reference REF_TbCV  ncbi-refseqs NC_028045
+  #### IFNLB3
+  create reference REF_IFNLB3 ncbi-refseqs NM_001346937
 
-  ## Avian 1
-  # Beak and feather disease virus
-  create reference REF_BFDV  ncbi-refseqs NC_001944
-
-  # Zebra finch circovirus
-  create reference REF_ZfCV  ncbi-refseqs NC_026945
-
-  # Finch circovirus, complete genome
-  create reference REF_FiCV  ncbi-refseqs NC_008522
-
-  # Raven circovirus, complete genome
-  create reference REF_RaCV ncbi-refseqs NC_008375
-
-  # Canary circovirus, complete genome
-  create reference REF_CaCV  ncbi-refseqs NC_003410
-
-  # Gull circovirus, complete genome
-  create reference REF_GuCV  ncbi-refseqs NC_008521
-
-  # Starling circovirus, complete genome
-  create reference REF_SvCV  ncbi-refseqs NC_008033
-
-  ## Avian 2
-  # Swan (Cygnus olor) circovirus, complete genome
-  create reference REF_SwCV  ncbi-refseqs NC_025247
-
-  # Duck circovirus
-  create reference REF_DuCV  ncbi-refseqs NC_007220
-
-  ## Fish 1
-  # Barbel circovirus
-  create reference REF_BarbCV ncbi-refseqs NC_015399
-
-  ## Fish 2
-  # Silurus glanis circovirus
-  create reference REF_SgCV   ncbi-refseqs NC_025246
-     
-  ### CRESS
-  
-  create reference AHEaCV-14 ncbi-refseqs NC_026641
-    
-    
-  ### Cyclovirus 
-      
-  create reference REF_HuACyV-1 ncbi-refseqs KJ831064
-  create reference REF_BatACyV-10 ncbi-refseqs KM382270
-
+  #### IFNLB-retro1
+  create reference REF_IFNLB_retro1 ncbi-refseqs NM_001142837 

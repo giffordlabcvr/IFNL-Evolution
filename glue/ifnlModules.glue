@@ -1,3 +1,4 @@
+  create module -f modules/ifnlGenbankXmlPopulator.xml genbankXmlPopulator
   create module -f modules/ifnlSideDataImporter.xml
   create module -f modules/unconstrainedAlignmentImporter.xml
   create module -f modules/featureLocationTextToGlue.xml 
