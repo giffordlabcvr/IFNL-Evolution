@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>NM_001276254</GBSeq_locus>
+    <GBSeq_length>1636</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PRI</GBSeq_division>
+    <GBSeq_update-date>19-MAR-2019</GBSeq_update-date>
+    <GBSeq_create-date>17-JAN-2013</GBSeq_create-date>
+    <GBSeq_definition>Homo sapiens interferon lambda 4 (gene/pseudogene) (IFNL4), transcript variant 1, mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>NM_001276254</GBSeq_primary-accession>
+    <GBSeq_accession-version>NM_001276254.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|NM_001276254.2|</GBSeqid>
+      <GBSeqid>gi|482513659</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Homo sapiens (human)</GBSeq_source>
+    <GBSeq_organism>Homo sapiens</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1636</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Su QJ</GBAuthor>
+          <GBAuthor>Wang X</GBAuthor>
+          <GBAuthor>Zhou RH</GBAuthor>
+          <GBAuthor>Guo L</GBAuthor>
+          <GBAuthor>Liu H</GBAuthor>
+          <GBAuthor>Li JL</GBAuthor>
+          <GBAuthor>Ho WZ</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>IFN-lambda4 inhibits HIV infection of macrophages through signalling of IFN-lambdaR1/IL-10R2 receptor complex</GBReference_title>
+        <GBReference_journal>Scand. J. Immunol. 88 (5), e12717 (2018)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1111/sji.12717</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>30247785</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: IFN-lambda4 suppressed HIV infection of macrophages. This IFN-lambda4-mediated HIV inhibition was compromised by the antibodies against IFN-lambda receptor complex, IFN-lambdaR1/IL-10R2.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1636</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bamford CGG</GBAuthor>
+          <GBAuthor>Aranday-Cortes E</GBAuthor>
+          <GBAuthor>Filipe IC</GBAuthor>
+          <GBAuthor>Sukumar S</GBAuthor>
+          <GBAuthor>Mair D</GBAuthor>
+          <GBAuthor>Filipe ADS</GBAuthor>
+          <GBAuthor>Mendoza JL</GBAuthor>
+          <GBAuthor>Garcia KC</GBAuthor>
+          <GBAuthor>Fan S</GBAuthor>
+          <GBAuthor>Tishkoff SA</GBAuthor>
+          <GBAuthor>McLauchlan J</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A polymorphic residue that attenuates the antiviral potential of interferon lambda 4 in hominid lineages</GBReference_title>
+        <GBReference_journal>PLoS Pathog. 14 (10), e1007307 (2018)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.ppat.1007307</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>30308076</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: demonstrate that attenuated activity of IFNlambda4 is conserved among humans and postulate that differences in IFNlambda4 activity between species contribute to distinct host-specific responses to-and outcomes of-infection; Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1636</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Brahm J</GBAuthor>
+          <GBAuthor>Urzua A</GBAuthor>
+          <GBAuthor>Poniachik J</GBAuthor>
+          <GBAuthor>Caceres DD</GBAuthor>
+          <GBAuthor>Carreno L</GBAuthor>
+          <GBAuthor>Venegas M</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>[Interferon Lambda 4 RS12979860 C&gt;T polymorphism is not associated with liver fibrosis in patients with hepatitis C]</GBReference_title>
+        <GBReference_journal>Rev Med Chil 146 (7), 823-829 (2018)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.4067/s0034-98872018000700823</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>30534880</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: IFNL4 rs12979860 C&gt;T polymorphism is not associated with risk of liver fibrosis in this group of patients with chronic hepatitis C.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>4</GBReference_reference>
+        <GBReference_position>1..1636</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kucherenko,A.</GBAuthor>
+          <GBAuthor>Pampukha,V.</GBAuthor>
+          <GBAuthor>Romanchuk,K.</GBAuthor>
+          <GBAuthor>Chernushyn,S.</GBAuthor>
+          <GBAuthor>Bobrova,I.</GBAuthor>
+          <GBAuthor>Moroz,L.</GBAuthor>
+          <GBAuthor>Livshits,L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>IFNL4 polymorphism as a predictor of chronic hepatitis C treatment efficiency in Ukrainian patients</GBReference_title>
+        <GBReference_journal>Tsitol. Genet. 50 (5), 79-84 (2016)</GBReference_journal>
+        <GBReference_pubmed>30480920</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: The results show that IFNL4 ss469415590 DeltaG/DeltaG genotype was associated with poor virological response to anti-hepatitis C combination therapy.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>5</GBReference_reference>
+        <GBReference_position>1..1636</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Key FM</GBAuthor>
+          <GBAuthor>Peter B</GBAuthor>
+          <GBAuthor>Dennis MY</GBAuthor>
+          <GBAuthor>Huerta-Sanchez E</GBAuthor>
+          <GBAuthor>Tang W</GBAuthor>
+          <GBAuthor>Prokunina-Olsson L</GBAuthor>
+          <GBAuthor>Nielsen R</GBAuthor>
+          <GBAuthor>Andres AM</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Selection on a variant associated with improved viral clearance drives local, adaptive pseudogenization of interferon lambda 4 (IFNL4)</GBReference_title>
+        <GBReference_journal>PLoS Genet. 10 (10), e1004681 (2014)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pgen.1004681</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25329461</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: Natural selection history of IFNL4-inactivating allele has thus shaped present-day heterogeneity across populations not only in genetic variation, but also in relevant phenotypes and susceptibility to hepatitis C.; Erratum:[PLoS Genet. 2014 Nov;10(11):e1004882]; Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>6</GBReference_reference>
+        <GBReference_position>1..1636</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Aka PV</GBAuthor>
+          <GBAuthor>Kuniholm MH</GBAuthor>
+          <GBAuthor>Pfeiffer RM</GBAuthor>
+          <GBAuthor>Wang AS</GBAuthor>
+          <GBAuthor>Tang W</GBAuthor>
+          <GBAuthor>Chen S</GBAuthor>
+          <GBAuthor>Astemborski J</GBAuthor>
+          <GBAuthor>Plankey M</GBAuthor>
+          <GBAuthor>Villacres MC</GBAuthor>
+          <GBAuthor>Peters MG</GBAuthor>
+          <GBAuthor>Desai S</GBAuthor>
+          <GBAuthor>Seaberg EC</GBAuthor>
+          <GBAuthor>Edlin BR</GBAuthor>
+          <GBAuthor>Strickler HD</GBAuthor>
+          <GBAuthor>Thomas DL</GBAuthor>
+          <GBAuthor>Prokunina-Olsson L</GBAuthor>
+          <GBAuthor>Sharp GB</GBAuthor>
+          <GBAuthor>O'Brien TR</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Association of the IFNL4-DeltaG Allele With Impaired Spontaneous Clearance of Hepatitis C Virus</GBReference_title>
+        <GBReference_journal>J. Infect. Dis. 209 (3), 350-354 (2014)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1093/infdis/jit433</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23956438</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: IFNL4-DeltaG is strongly associated with impaired spontaneous hepatitis C virus clearance.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>7</GBReference_reference>
+        <GBReference_position>1..1636</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Stattermayer AF</GBAuthor>
+          <GBAuthor>Strassl R</GBAuthor>
+          <GBAuthor>Maieron A</GBAuthor>
+          <GBAuthor>Rutter K</GBAuthor>
+          <GBAuthor>Stauber R</GBAuthor>
+          <GBAuthor>Strasser M</GBAuthor>
+          <GBAuthor>Beinhardt S</GBAuthor>
+          <GBAuthor>Datz C</GBAuthor>
+          <GBAuthor>Scherzer TM</GBAuthor>
+          <GBAuthor>Steindl-Munda P</GBAuthor>
+          <GBAuthor>Gschwantler M</GBAuthor>
+          <GBAuthor>Trauner M</GBAuthor>
+          <GBAuthor>Hofer H</GBAuthor>
+          <GBAuthor>Ferenci P</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Polymorphisms of interferon-lambda4 and IL28B - effects on treatment response to interferon/ribavirin in patients with chronic hepatitis C</GBReference_title>
+        <GBReference_journal>Aliment. Pharmacol. Ther. 39 (1), 104-111 (2014)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1111/apt.12547</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>24205831</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: IFNL4 improves prediction of response to interferon-based hepatitis C therapies, if SNP rs8099917 is used.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>8</GBReference_reference>
+        <GBReference_position>1..1636</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Duggal P</GBAuthor>
+          <GBAuthor>Thio CL</GBAuthor>
+          <GBAuthor>Wojcik GL</GBAuthor>
+          <GBAuthor>Goedert JJ</GBAuthor>
+          <GBAuthor>Mangia A</GBAuthor>
+          <GBAuthor>Latanich R</GBAuthor>
+          <GBAuthor>Kim AY</GBAuthor>
+          <GBAuthor>Lauer GM</GBAuthor>
+          <GBAuthor>Chung RT</GBAuthor>
+          <GBAuthor>Peters MG</GBAuthor>
+          <GBAuthor>Kirk GD</GBAuthor>
+          <GBAuthor>Mehta SH</GBAuthor>
+          <GBAuthor>Cox AL</GBAuthor>
+          <GBAuthor>Khakoo SI</GBAuthor>
+          <GBAuthor>Alric L</GBAuthor>
+          <GBAuthor>Cramp ME</GBAuthor>
+          <GBAuthor>Donfield SM</GBAuthor>
+          <GBAuthor>Edlin BR</GBAuthor>
+          <GBAuthor>Tobler LH</GBAuthor>
+          <GBAuthor>Busch MP</GBAuthor>
+          <GBAuthor>Alexander G</GBAuthor>
+          <GBAuthor>Rosen HR</GBAuthor>
+          <GBAuthor>Gao X</GBAuthor>
+          <GBAuthor>Abdel-Hamid M</GBAuthor>
+          <GBAuthor>Apps R</GBAuthor>
+          <GBAuthor>Carrington M</GBAuthor>
+          <GBAuthor>Thomas DL</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genome-wide association study of spontaneous resolution of hepatitis C virus infection: data from multiple cohorts</GBReference_title>
+        <GBReference_journal>Ann. Intern. Med. 158 (4), 235-245 (2013)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.7326/0003-4819-158-4-201302190-00003</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23420232</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>9</GBReference_reference>
+        <GBReference_position>1..1636</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Prokunina-Olsson L</GBAuthor>
+          <GBAuthor>Muchmore B</GBAuthor>
+          <GBAuthor>Tang W</GBAuthor>
+          <GBAuthor>Pfeiffer RM</GBAuthor>
+          <GBAuthor>Park H</GBAuthor>
+          <GBAuthor>Dickensheets H</GBAuthor>
+          <GBAuthor>Hergott D</GBAuthor>
+          <GBAuthor>Porter-Gill P</GBAuthor>
+          <GBAuthor>Mumy A</GBAuthor>
+          <GBAuthor>Kohaar I</GBAuthor>
+          <GBAuthor>Chen S</GBAuthor>
+          <GBAuthor>Brand N</GBAuthor>
+          <GBAuthor>Tarway M</GBAuthor>
+          <GBAuthor>Liu L</GBAuthor>
+          <GBAuthor>Sheikh F</GBAuthor>
+          <GBAuthor>Astemborski J</GBAuthor>
+          <GBAuthor>Bonkovsky HL</GBAuthor>
+          <GBAuthor>Edlin BR</GBAuthor>
+          <GBAuthor>Howell CD</GBAuthor>
+          <GBAuthor>Morgan TR</GBAuthor>
+          <GBAuthor>Thomas DL</GBAuthor>
+          <GBAuthor>Rehermann B</GBAuthor>
+          <GBAuthor>Donnelly RP</GBAuthor>
+          <GBAuthor>O'Brien TR</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A variant upstream of IFNL3 (IL28B) creating a new interferon gene IFNL4 is associated with impaired clearance of hepatitis C virus</GBReference_title>
+        <GBReference_journal>Nat. Genet. 45 (2), 164-171 (2013)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1038/ng.2521</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23291588</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: A new interferon gene IFNL4 is associated with impaired clearance of hepatitis C virus.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>10</GBReference_reference>
+        <GBReference_position>1..1636</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ge D</GBAuthor>
+          <GBAuthor>Fellay J</GBAuthor>
+          <GBAuthor>Thompson AJ</GBAuthor>
+          <GBAuthor>Simon JS</GBAuthor>
+          <GBAuthor>Shianna KV</GBAuthor>
+          <GBAuthor>Urban TJ</GBAuthor>
+          <GBAuthor>Heinzen EL</GBAuthor>
+          <GBAuthor>Qiu P</GBAuthor>
+          <GBAuthor>Bertelsen AH</GBAuthor>
+          <GBAuthor>Muir AJ</GBAuthor>
+          <GBAuthor>Sulkowski M</GBAuthor>
+          <GBAuthor>McHutchison JG</GBAuthor>
+          <GBAuthor>Goldstein DB</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genetic variation in IL28B predicts hepatitis C treatment-induced viral clearance</GBReference_title>
+        <GBReference_journal>Nature 461 (7262), 399-401 (2009)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1038/nature08309</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>19684573</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>REVIEWED REFSEQ: This record has been curated by NCBI staff. The reference sequence was derived from JN806234.1.; On Apr 23, 2013 this sequence version replaced NM_001276254.1.; ~Summary: This gene is a polymorphic pseudogene which, in some humans, encodes the interferon (IFN) lambda 4 protein. Humans are polymorphic for the dinucleotide TT/deltaG allele. Compared to the ancestral state in non-human primates, the TT allele produces a frameshift in the coding region of this gene which is predicted to induce nonsense-mediated mRNA decay. This allele, and an allele in the first intron of this gene, have experienced a rapid increase in frequency and show indications of positive selection. The ancestral states of these alleles are associated with an impaired ability to clear hepatitis C virus. This gene, like other type III interferons (IFNs), interacts with the IFN lambda receptor complex (IFNLR) whose signaling is generally restricted to epithelial cells. This gene resides in a cluster of four type III IFN genes and at least two pseudogenes on chromosome 19q13.2. In general, interferons are produced in response to viral infection and block viral replication and propagation to uninfected cells by activating the JAK-STAT pathway and up-regulating antiviral genes. Multiple alternatively spliced transcripts have been described for this gene but their biological validity and protein coding status is still being ascertained. [provided by RefSeq, May 2017].; ~Transcript Variant: This variant (1) represents a protein coding transcript of this gene. Human populations are polymorphic for a frameshifting single nucleotide insertion in this transcript and thus transcripts with the alternate allele are non-coding.; ~Publication Note: This RefSeq record includes a subset of the publications that are available for this gene. Please see the Gene record to access additional publications.; ; ##Evidence-Data-START## ; Transcript exon combination :: JN806227.1, JN806234.1 [ECO:0000332] ; RNAseq introns :: mixed/partial sample support SAMEA1968968, SAMEA2148874 [ECO:0000350] ; ##Evidence-Data-END##; ; ##RefSeq-Attributes-START## ; polymorphic pseudogene :: PMID: 25329461 ; ##RefSeq-Attributes-END##</GBSeq_comment>
+    <GBSeq_primary>REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP~1-1636              JN806234.1         1-1636</GBSeq_primary>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1636</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1636</GBInterval_to>
+            <GBInterval_accession>NM_001276254.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9606</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>19</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>map</GBQualifier_name>
+            <GBQualifier_value>19q13.2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1636</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1636</GBInterval_to>
+            <GBInterval_accession>NM_001276254.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IFNAN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>interferon lambda 4 (gene/pseudogene)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:101180976</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>HGNC:HGNC:44480</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>MIM:615090</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>1..427</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>427</GBInterval_to>
+            <GBInterval_accession>NM_001276254.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IFNAN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>248..250</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>248</GBInterval_from>
+            <GBInterval_to>250</GBInterval_to>
+            <GBInterval_accession>NM_001276254.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IFNAN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>upstream in-frame stop codon</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>278..817</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>278</GBInterval_from>
+            <GBInterval_to>817</GBInterval_to>
+            <GBInterval_accession>NM_001276254.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IFNAN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>IFN-lambda-4; interferon, lambda 4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>interferon lambda-4 precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>NP_001263183.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:101180976</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>HGNC:HGNC:44480</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>MIM:615090</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRPSVWAAVAAGLWVLCTVIAAAPRRCLLSHYRSLEPRTLAAAKALRDRYEEEALSWGQRNCSFRPRRDPPRPSSCARLRHVARGIADAQAVLSGLHRSELLPGAGPILELLAAAGRDVAACLELARPGSSRKVPGAQKRRHKPRRADSPRCRKASVVFNLLRLLTWELRLAAHSGPCL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>sig_peptide</GBFeature_key>
+        <GBFeature_location>278..340</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>278</GBInterval_from>
+            <GBInterval_to>340</GBInterval_to>
+            <GBInterval_accession>NM_001276254.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IFNAN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>experiment</GBQualifier_name>
+            <GBQualifier_value>experimental evidence, no additional details recorded</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>{ECO:0000255}; propagated from UniProtKB/Swiss-Prot (K9M1U5.1)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MRPSVWAAVAAGLWVLCTVIA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>341..814</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>341</GBInterval_from>
+            <GBInterval_to>814</GBInterval_to>
+            <GBInterval_accession>NM_001276254.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IFNAN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>Interferon lambda-4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>experiment</GBQualifier_name>
+            <GBQualifier_value>experimental evidence, no additional details recorded</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>propagated from UniProtKB/Swiss-Prot (K9M1U5.1)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>AAPRRCLLSHYRSLEPRTLAAAKALRDRYEEEALSWGQRNCSFRPRRDPPRPSSCARLRHVARGIADAQAVLSGLHRSELLPGAGPILELLAAAGRDVAACLELARPGSSRKVPGAQKRRHKPRRADSPRCRKASVVFNLLRLLTWELRLAAHSGPCL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>428..499</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>428</GBInterval_from>
+            <GBInterval_to>499</GBInterval_to>
+            <GBInterval_accession>NM_001276254.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IFNAN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>500..643</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>500</GBInterval_from>
+            <GBInterval_to>643</GBInterval_to>
+            <GBInterval_accession>NM_001276254.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IFNAN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>644..718</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>644</GBInterval_from>
+            <GBInterval_to>718</GBInterval_to>
+            <GBInterval_accession>NM_001276254.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IFNAN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>719..1636</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>719</GBInterval_from>
+            <GBInterval_to>1636</GBInterval_to>
+            <GBInterval_accession>NM_001276254.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IFNAN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gttgcccaggtggagacggctctggacgcctcccaggggacagtggacggcagcacctgctgcagcacgaggcacagagggtgcactgcagacaggagtgagggcagaggccaaggcgaggagggggccggctcccactctctctcccactgtgtgtgctgtgccttcacgctccgagcattgccttccctgggatcctaacccaaggcggggggctggacgcgctggaccctctctttggcttccctgacgtctctcgcctgctgcagaagcagagatgcggccgagtgtctgggccgcagtggccgcggggctgtgggtcctgtgcacggtgatcgcagcggccccccggcgctgcctgctctcgcactaccgctcgctggagccccggacgctggcggctgccaaggcgctgagggaccgctacgaggaagaggcgctgagctgggggcagcgcaactgctccttccgccccaggagggatcctccgcggccatcgtcctgcgctcggctccgccacgtggcccggggcatcgcggacgcccaggcagtgctcagcggcctgcaccgctcggagctgctccccggcgccggcccgatcctggagctgctggcggccgcggggagggatgtggcggcctgccttgagctggcacggccaggctcctccaggaaggtccccggggcccagaagaggcgtcacaaaccccggagagcggactcgcctcggtgccgcaaagccagcgtggtcttcaacctcctgcgcctgctcacgtgggagctccggctggctgcacactctgggccttgcctctgaccccgccccctctggcagcacggaaacctccacgccattggctgccgaaagcagctcctgtcgtccattgggctggccgggcgaggctctcagtcaatgggtgctgaggcacgaaaacttcttcgcagccttgggcctgacttggatccactgtctcagatataagaggagcgggtccttctacagggaagagaccacagttctccaggaagccacgatatttcctcggggtgcattgtacgaccctccaacggttgctgtggcaggaaaaaacttgagctctggaaaccgtggctgaccccaggcaacagggaccagttcctccttgtgtggttaccaggacacccccaacaccaggtcctaaccccggatttgtagccccacagccagctttgagattctgtgaatccgtgactcttggatccggcatctaagggacaccaatccatgagggatttggtagtgaaaggcccaagggtccttaaccgactgtggttctttggattcccttacgtgtgtttgtatttgtgaagttcctgtgcatttgctattctgtctcccggtttaaatttattgccagttatcaaagagtgttttgatcgcattggttgttttccgtatgatgattgtgaggtgcaccttacagcaaaaaaagaggccgagccagggactcaggtggcctgagtttcagttctgaccctgccagttaattacagtggaattcagggcaaattacttttctgagcctctgtttcctcacctataggatgggttagcatacttgccttgtggaggagtagtgtccgttgagatcacgtt</GBSeq_sequence>
+  </GBSeq>

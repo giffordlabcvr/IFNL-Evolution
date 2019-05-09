@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>XM_014541703</GBSeq_locus>
+    <GBSeq_length>426</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>MAM</GBSeq_division>
+    <GBSeq_update-date>04-NOV-2015</GBSeq_update-date>
+    <GBSeq_create-date>04-NOV-2015</GBSeq_create-date>
+    <GBSeq_definition>PREDICTED: Myotis brandtii interferon lambda-1 (LOC102244333), partial mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>XM_014541703</GBSeq_primary-accession>
+    <GBSeq_accession-version>XM_014541703.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|XM_014541703.1|</GBSeqid>
+      <GBSeqid>gi|946768620</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA218631</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+      <GBKeyword>corrected model</GBKeyword>
+      <GBKeyword>includes ab initio</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Myotis brandtii (Brandt's bat)</GBSeq_source>
+    <GBSeq_organism>Myotis brandtii</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Laurasiatheria; Chiroptera; Microchiroptera; Vespertilionidae; Myotis</GBSeq_taxonomy>
+    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NW_005360548.1) annotated using gene prediction method: Gnomon.~Also see:~ Documentation of NCBI's Annotation Process~; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Version :: Myotis brandtii Annotation Release 101 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 6.4 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##; ; ##RefSeq-Attributes-START## ; ab initio :: 1% of CDS bases ; frameshifts :: corrected 1 indel ; ##RefSeq-Attributes-END##; COMPLETENESS: incomplete on the 5' end.</GBSeq_comment>
+    <GBSeq_primary>REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP~1-99                ANKR01217888.1     3878-3976~100-243             ANKR01217888.1     4222-4365~244-273             ANKR01217888.1     4468-4497~274-274             "N"                1-1~275-327             ANKR01217888.1     4498-4550~328-426             ANKR01217888.1     4639-4737</GBSeq_primary>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..426</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>426</GBInterval_to>
+            <GBInterval_accession>XM_014541703.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Myotis brandtii</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:109478</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>Unknown</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>sex</GBQualifier_name>
+            <GBQualifier_value>male</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Russia: Perm poKrai</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lat_lon</GBQualifier_name>
+            <GBQualifier_value>58.8348 N 57.6119 E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Dec-2011</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>collected at hibernation roost</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..426</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>426</GBInterval_to>
+            <GBInterval_accession>XM_014541703.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC102244333</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>The sequence of the model RefSeq transcript was modified relative to its source genomic sequence to represent the inferred CDS: inserted 1 base in 1 codon; Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 8 Proteins, and 53% coverage of the annotated genomic feature by RNAseq alignments</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:102244333</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..426</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>426</GBInterval_to>
+            <GBInterval_accession>XM_014541703.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC102244333</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>The sequence of the model RefSeq protein was modified relative to its source genomic sequence to represent the inferred CDS: inserted 1 base in 1 codon</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>LOW QUALITY PROTEIN: interferon lambda-1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>XP_014397189.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:102244333</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>PLPFALQEESLLLKNRSCSSRPLPRTRDLRQLQVWERPVALEAELALTLKVLGTLKNSTLGDILDQPLRTLRHIHSKLQACVPAQSTAGPRXRGHLCQWQHCLQEAGKKESHGYLKASVTFNLFHHLTHDLKYVSDGDLCV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cctctgccctttgctctccaggaagagtcccttctgctgaagaaccggagctgcagctcccgcccactccccaggacccgggacctgaggcagctgcaggtgtgggagcgccctgtggccttggaggctgagctggccctgacactgaaggtcctggggaccttgaagaactcgaccctgggtgacatcctggaccagccccttcgcacgctgcgccacatccactccaagcttcaggcctgtgtcccagctcagtccacagcaggccccaggncccggggccacctctgccaatggcagcactgcctccaggaggccgggaagaaggagtcccatggctacctcaaagcctctgtcactttcaatctcttccaccacctcactcatgacctgaaatatgtctccgatggagacctgtgtgtctga</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA218631</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>

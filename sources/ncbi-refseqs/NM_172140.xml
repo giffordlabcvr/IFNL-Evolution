@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>NM_172140</GBSeq_locus>
+    <GBSeq_length>775</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PRI</GBSeq_division>
+    <GBSeq_update-date>23-APR-2019</GBSeq_update-date>
+    <GBSeq_create-date>04-DEC-2002</GBSeq_create-date>
+    <GBSeq_definition>Homo sapiens interferon lambda 1 (IFNL1), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>NM_172140</GBSeq_primary-accession>
+    <GBSeq_accession-version>NM_172140.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|NM_172140.2|</GBSeqid>
+      <GBSeqid>gi|1519242306</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Homo sapiens (human)</GBSeq_source>
+    <GBSeq_organism>Homo sapiens</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..775</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ding S</GBAuthor>
+          <GBAuthor>Zhu S</GBAuthor>
+          <GBAuthor>Ren L</GBAuthor>
+          <GBAuthor>Feng N</GBAuthor>
+          <GBAuthor>Song Y</GBAuthor>
+          <GBAuthor>Ge X</GBAuthor>
+          <GBAuthor>Li B</GBAuthor>
+          <GBAuthor>Flavell RA</GBAuthor>
+          <GBAuthor>Greenberg HB</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Rotavirus VP3 targets MAVS for degradation to inhibit type III interferon expression in intestinal epithelial cells</GBReference_title>
+        <GBReference_journal>Elife 7, e39494 (2018)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.7554/eLife.39494</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>30460894</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: Rotavirus VP3 targets MAVS for degradation to inhibit type III interferon expression in intestinal epithelial cells.; Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..775</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ran M</GBAuthor>
+          <GBAuthor>Huang J</GBAuthor>
+          <GBAuthor>Liang H</GBAuthor>
+          <GBAuthor>Jiang J</GBAuthor>
+          <GBAuthor>Liang B</GBAuthor>
+          <GBAuthor>Ning C</GBAuthor>
+          <GBAuthor>Zang N</GBAuthor>
+          <GBAuthor>Liao W</GBAuthor>
+          <GBAuthor>Liu H</GBAuthor>
+          <GBAuthor>Qin F</GBAuthor>
+          <GBAuthor>Yang Q</GBAuthor>
+          <GBAuthor>Ho W</GBAuthor>
+          <GBAuthor>Ye L</GBAuthor>
+          <GBAuthor>Chen H</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Alcohol attenuates anti-HCV function of IFN-lambda1 through up-regulation of PLASy expression in human hepatic cells</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 90 (6), 1112-1120 (2018)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.25053</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>29446489</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: Investigation of the mechanisms responsible for the alcohol action revealed that alcohol enhanced the expression of protein inhibitor of activated STAT (PIASy) and overexpression of PIASy compromised anti-hepatitis C virus ability of IFN-lambda1.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..775</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mozhgani SH</GBAuthor>
+          <GBAuthor>Jahantigh HR</GBAuthor>
+          <GBAuthor>Rafatpanah H</GBAuthor>
+          <GBAuthor>Valizadeh N</GBAuthor>
+          <GBAuthor>Mohammadi A</GBAuthor>
+          <GBAuthor>Basharkhah S</GBAuthor>
+          <GBAuthor>Rezaee SA</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Interferon Lambda Family along with HTLV-1 Proviral Load, Tax, and HBZ Implicated in the Pathogenesis of Myelopathy/Tropical Spastic Paraparesis</GBReference_title>
+        <GBReference_journal>Neurodegener Dis 18 (2-3), 150-155 (2018)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1159/000490058</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>29990995</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: that IL29, IL28B, and IL28R interfere in the infection of HTLV-1-associated myelopathy/tropical spastic paraparesis, mainly via Tax activation</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>4</GBReference_reference>
+        <GBReference_position>1..775</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hosokawa Y</GBAuthor>
+          <GBAuthor>Hosokawa I</GBAuthor>
+          <GBAuthor>Shindo S</GBAuthor>
+          <GBAuthor>Ozaki K</GBAuthor>
+          <GBAuthor>Matsuo T</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>IL-29 Enhances CXCL10 Production in TNF-alpha-stimulated Human Oral Epithelial Cells</GBReference_title>
+        <GBReference_journal>Immunol. Invest. 46 (6), 615-624 (2017)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1080/08820139.2017.1336176</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>28753407</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: In conclusion, IL-29 enhanced CXCL10 production in human oral epithelial cells via the p38 MAPK, STAT3, and NF-kappaB pathways, which might control Th1-cell accumulation in periodontal lesions and be involved in pathological processes in periodontal disease.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>5</GBReference_reference>
+        <GBReference_position>1..775</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sui H</GBAuthor>
+          <GBAuthor>Zhou M</GBAuthor>
+          <GBAuthor>Imamichi H</GBAuthor>
+          <GBAuthor>Jiao X</GBAuthor>
+          <GBAuthor>Sherman BT</GBAuthor>
+          <GBAuthor>Lane HC</GBAuthor>
+          <GBAuthor>Imamichi T</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>STING is an essential mediator of the Ku70-mediated production of IFN-lambda1 in response to exogenous DNA</GBReference_title>
+        <GBReference_journal>Sci Signal 10 (488) (2017)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1126/scisignal.aah5054</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>28720717</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: The DNA binding domain of Ku70 was essential for formation of the Ku70-STING complex. Knocking down STING in primary human macrophages inhibited their ability to produce IFN-lambda1 in response to transfection with DNA or infection with the DNA virus HSV-2 (herpes simplex virus-2). Together, these data suggest that STING mediates the Ku70-mediated IFN-lambda1 innate immune response to exogenous DNA or DNA virus infection.; Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>6</GBReference_reference>
+        <GBReference_position>1..775</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Meager A</GBAuthor>
+          <GBAuthor>Visvalingam K</GBAuthor>
+          <GBAuthor>Dilger P</GBAuthor>
+          <GBAuthor>Bryan D</GBAuthor>
+          <GBAuthor>Wadhwa M</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Biological activity of interleukins-28 and -29: comparison with type I interferons</GBReference_title>
+        <GBReference_journal>Cytokine 31 (2), 109-118 (2005)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.cyto.2005.04.003</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15899585</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: we found IL-28A and IL-29 act similarly to IFNs, but are less effective generally and have activity in a more limited range of cell lines</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>7</GBReference_reference>
+        <GBReference_position>1..775</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Brand S</GBAuthor>
+          <GBAuthor>Zitzmann K</GBAuthor>
+          <GBAuthor>Dambacher J</GBAuthor>
+          <GBAuthor>Beigel F</GBAuthor>
+          <GBAuthor>Olszak T</GBAuthor>
+          <GBAuthor>Vlotides G</GBAuthor>
+          <GBAuthor>Eichhorst ST</GBAuthor>
+          <GBAuthor>Goke B</GBAuthor>
+          <GBAuthor>Diepolder H</GBAuthor>
+          <GBAuthor>Auernhammer CJ</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>SOCS-1 inhibits expression of the antiviral proteins 2',5'-OAS and MxA induced by the novel interferon-lambdas IL-28A and IL-29</GBReference_title>
+        <GBReference_journal>Biochem. Biophys. Res. Commun. 331 (2), 543-548 (2005)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.bbrc.2005.04.004</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15850793</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: IL-28A and IL-29 induced mRNA expression of the antiviral proteins 2',5'-OAS and MxA was abolished by overexpression of SOCS-1</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>8</GBReference_reference>
+        <GBReference_position>1..775</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Dumoutier L</GBAuthor>
+          <GBAuthor>Tounsi A</GBAuthor>
+          <GBAuthor>Michiels T</GBAuthor>
+          <GBAuthor>Sommereyns C</GBAuthor>
+          <GBAuthor>Kotenko SV</GBAuthor>
+          <GBAuthor>Renauld JC</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Role of the interleukin (IL)-28 receptor tyrosine residues for antiviral and antiproliferative activity of IL-29/interferon-lambda 1: similarities with type I interferon signaling</GBReference_title>
+        <GBReference_journal>J. Biol. Chem. 279 (31), 32269-32274 (2004)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1074/jbc.M404789200</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15166220</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: IL-29 antiviral and antiproliferative activity requires interleukin (IL)-28 receptor tyrosine residues</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>9</GBReference_reference>
+        <GBReference_position>1..775</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kotenko SV</GBAuthor>
+          <GBAuthor>Gallagher G</GBAuthor>
+          <GBAuthor>Baurin VV</GBAuthor>
+          <GBAuthor>Lewis-Antes A</GBAuthor>
+          <GBAuthor>Shen M</GBAuthor>
+          <GBAuthor>Shah NK</GBAuthor>
+          <GBAuthor>Langer JA</GBAuthor>
+          <GBAuthor>Sheikh F</GBAuthor>
+          <GBAuthor>Dickensheets H</GBAuthor>
+          <GBAuthor>Donnelly RP</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>IFN-lambdas mediate antiviral protection through a distinct class II cytokine receptor complex</GBReference_title>
+        <GBReference_journal>Nat. Immunol. 4 (1), 69-77 (2003)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1038/ni875</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>12483210</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: closely positioned genes on human chromosome 19 encode distinct but paralogous proteins, which we designate interferon-lambda1 (IFN-lambda1), IFN-lambda2 and IFN-lambda3</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>10</GBReference_reference>
+        <GBReference_position>1..775</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sheppard P</GBAuthor>
+          <GBAuthor>Kindsvogel W</GBAuthor>
+          <GBAuthor>Xu W</GBAuthor>
+          <GBAuthor>Henderson K</GBAuthor>
+          <GBAuthor>Schlutsmeyer S</GBAuthor>
+          <GBAuthor>Whitmore TE</GBAuthor>
+          <GBAuthor>Kuestner R</GBAuthor>
+          <GBAuthor>Garrigues U</GBAuthor>
+          <GBAuthor>Birks C</GBAuthor>
+          <GBAuthor>Roraback J</GBAuthor>
+          <GBAuthor>Ostrander C</GBAuthor>
+          <GBAuthor>Dong D</GBAuthor>
+          <GBAuthor>Shin J</GBAuthor>
+          <GBAuthor>Presnell S</GBAuthor>
+          <GBAuthor>Fox B</GBAuthor>
+          <GBAuthor>Haldeman B</GBAuthor>
+          <GBAuthor>Cooper E</GBAuthor>
+          <GBAuthor>Taft D</GBAuthor>
+          <GBAuthor>Gilbert T</GBAuthor>
+          <GBAuthor>Grant FJ</GBAuthor>
+          <GBAuthor>Tackett M</GBAuthor>
+          <GBAuthor>Krivan W</GBAuthor>
+          <GBAuthor>McKnight G</GBAuthor>
+          <GBAuthor>Clegg C</GBAuthor>
+          <GBAuthor>Foster D</GBAuthor>
+          <GBAuthor>Klucher KM</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>IL-28, IL-29 and their class II cytokine receptor IL-28R</GBReference_title>
+        <GBReference_journal>Nat. Immunol. 4 (1), 63-68 (2003)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1038/ni873</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>12469119</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: identified from the human genomic sequence a family of three cytokines, designated interleukin 28A (IL-28A), IL-28B and IL-29, that are distantly related to type I interferons (IFNs) and the IL-10 family</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>REVIEWED REFSEQ: This record has been curated by NCBI staff. The reference sequence was derived from AY129150.1 and AC011445.6.; On Nov 22, 2018 this sequence version replaced NM_172140.1.; ~Summary: This gene encodes a cytokine distantly related to type I interferons and the IL-10 family. This gene, interleukin 28A (IL28A), and interleukin 28B (IL28B) are three closely related cytokine genes that form a cytokine gene cluster on a chromosomal region mapped to 19q13. Expression of the cytokines encoded by the three genes can be induced by viral infection. All three cytokines have been shown to interact with a heterodimeric class II cytokine receptor that consists of interleukin 10 receptor, beta (IL10RB) and interleukin 28 receptor, alpha (IL28RA). [provided by RefSeq, Jul 2008].; ~Publication Note: This RefSeq record includes a subset of the publications that are available for this gene. Please see the Gene record to access additional publications.; ; ##Evidence-Data-START## ; Transcript exon combination :: AY129150.1, BC117482.1 [ECO:0000332] ; RNAseq introns :: mixed/partial sample support SAMEA1966682, SAMEA1968832 [ECO:0000350] ; ##Evidence-Data-END##; COMPLETENESS: full length.</GBSeq_comment>
+    <GBSeq_primary>REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP~1-774               AY129150.1         83-856~775-775             AC011445.6         79775-79775</GBSeq_primary>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..775</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>775</GBInterval_to>
+            <GBInterval_accession>NM_172140.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9606</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>19</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>map</GBQualifier_name>
+            <GBQualifier_value>19q13.2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..775</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>775</GBInterval_to>
+            <GBInterval_accession>NM_172140.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29; IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>interferon lambda 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:282618</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>HGNC:HGNC:18363</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>MIM:607403</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>1..186</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>186</GBInterval_to>
+            <GBInterval_accession>NM_172140.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29; IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>16..618</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>16</GBInterval_from>
+            <GBInterval_to>618</GBInterval_to>
+            <GBInterval_accession>NM_172140.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29; IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>interleukin-29; IFN-lambda-1; cytokine Zcyto21; interleukin 29 (interferon, lambda 1)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>interferon lambda-1 precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>NP_742152.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>CCDS:CCDS12531.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:282618</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>HGNC:HGNC:18363</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>MIM:607403</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAAAWTVVLVTLVLGLAVAGPVPTSKPTTTGKGCHIGRFKSLSPQELASFKKARDALEESLKLKNWSCSSPVFPGNWDLRLLQVRERPVALEAELALTLKVLEAAAGPALEDVLDQPLHTLHHILSQLQACIQPQPTAGPRPRGRLHHWLHRLQEAPKKESAGCLEASVTFNLFRLLTRDLKYVADGNLCLRTSTHPEST</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>sig_peptide</GBFeature_key>
+        <GBFeature_location>16..72</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>16</GBInterval_from>
+            <GBInterval_to>72</GBInterval_to>
+            <GBInterval_accession>NM_172140.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29; IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>COORDINATES: ab initio prediction:SignalP:4.0</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MAAAWTVVLVTLVLGLAVA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>208..210</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>208</GBInterval_from>
+            <GBInterval_to>210</GBInterval_to>
+            <GBInterval_accession>NM_172140.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29; IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>experiment</GBQualifier_name>
+            <GBQualifier_value>experimental evidence, no additional details recorded</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>N-linked (GlcNAc...) asparagine. {ECO:0000255}; propagated from UniProtKB/Swiss-Prot (Q8IU54.1); glycosylation site</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>187..264</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>187</GBInterval_from>
+            <GBInterval_to>264</GBInterval_to>
+            <GBInterval_accession>NM_172140.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29; IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>265..408</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>265</GBInterval_from>
+            <GBInterval_to>408</GBInterval_to>
+            <GBInterval_accession>NM_172140.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29; IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>409..492</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>409</GBInterval_from>
+            <GBInterval_to>492</GBInterval_to>
+            <GBInterval_accession>NM_172140.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29; IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>493..775</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>493</GBInterval_from>
+            <GBInterval_to>775</GBInterval_to>
+            <GBInterval_accession>NM_172140.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29; IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agttgcgatttagccatggctgcagcttggaccgtggtgctggtgactttggtgctaggcttggccgtggcaggccctgtccccacttccaagcccaccacaactgggaagggctgccacattggcaggttcaaatctctgtcaccacaggagctagcgagcttcaagaaggccagggacgccttggaagagtcactcaagctgaaaaactggagttgcagctctcctgtcttccccgggaattgggacctgaggcttctccaggtgagggagcgccctgtggccttggaggctgagctggccctgacgctgaaggtcctggaggccgctgctggcccagccctggaggacgtcctagaccagccccttcacaccctgcaccacatcctctcccagctccaggcctgtatccagcctcagcccacagcagggcccaggccccggggccgcctccaccactggctgcaccggctccaggaggcccccaaaaaggagtccgctggctgcctggaggcatctgtcaccttcaacctcttccgcctcctcacgcgagacctcaaatatgtggccgatgggaacctgtgtctgagaacgtcaacccaccctgagtccacctgacaccccacaccttatttatgcgctgagccctactccttccttaatttatttcctctcaccctttatttatgaagctgcagccctgactgagacatagggctgagtttattgttttacttttatacattatgcacaaataaacaacaaggaattggaa</GBSeq_sequence>
+  </GBSeq>

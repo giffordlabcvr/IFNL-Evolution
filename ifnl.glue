@@ -16,17 +16,25 @@ project ifnl
   # create modules
   run file glue/ifnlModules.glue
 
+  # Import fasta sources 
+  import source sources/ifnl-fasta/
+
   # Import NCBI sources 
-  import source sources/digs-fasta/
+  import source sources/ncbi-refseqs/
+  module genbankXmlPopulator populate
  
   # Define features
-  #run file glue/ifnlFeatures.glue
+  run file glue/ifnlFeatures.glue
 
   # Create references
-  #run file glue/ifnlReferences.glue
+  run file glue/ifnlReferences.glue
 
   # Import IFNL-1 alignments 
   run file glue/ifnlAlignments.glue
+
+  # Import alignment tree
+  run file glue/ifnlAlignmentTree.glue
+
 
   # Validate
   validate
