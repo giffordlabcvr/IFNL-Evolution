@@ -1,21 +1,28 @@
-  #~#~# Constrained alignment tree 
+  #~#~# Define constrained alignment tree 
   
   ## Root alignment
   create alignment AL_IFNL_MASTER -r REF_IFNLA_MASTER 
 
-  ## Major branch alignments
+
+  ## Major branches
   alignment AL_IFNL_MASTER 
 
     add member --allSequences
-
+    
 	extract child AL_IFNLA --refName REF_IFNLA_MASTER
-	demote member AL_IFNLA --whereClause "sequence.name = 'ifnl-a'" 	
-
-	extract child AL_IFNLB --refName REF_IFNLB1
-	
+	demote member AL_IFNLA --whereClause "sequence.name = 'ifnl-a'" 		
+	extract child AL_IFNLB --refName REF_IFNLB1	
 	demote member AL_IFNLB --whereClause "sequence.name = 'ifnl-b1'" 	
-
     exit
+
+  ## The IFNL-B branch
+  alignment AL_IFNLB 
+
+    add member --allSequences
+	extract child AL_IFNLB_chiroptera --refName REF_IFNLA_MASTER
+	demote member AL_IFNLB_chiroptera --whereClause "sequence.name = 'ifnl-b-chiroptera'" 		
+
+
 
   #~#~# Derive constrained alignment segments from unconstrained alignments  
 
@@ -30,5 +37,3 @@
   alignment AL_IFNLB
     derive segments AL_IFNLB_UNCONSTRAINED -a --mergeStrategy OVERWRITE
     exit
-
-
