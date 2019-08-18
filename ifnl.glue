@@ -22,7 +22,12 @@ project ifnl
   # Import NCBI sources 
   import source sources/ncbi-refseqs/
   module genbankXmlPopulator populate
- 
+
+  # Import metadata for IFNL reference sequences
+  module ifnlSideDataImporter 
+    populate -f tabular/ifnl-data.tsv
+    exit
+
   # Define features
   run file glue/ifnlFeatures.glue
 
@@ -34,7 +39,6 @@ project ifnl
 
   # Import alignment tree
   run file glue/ifnlAlignmentTree.glue
-
 
   # Validate
   validate

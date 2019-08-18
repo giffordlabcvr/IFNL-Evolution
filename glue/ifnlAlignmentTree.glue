@@ -21,7 +21,7 @@
     add member --allSequences
 	extract child AL_IFNLB_chiroptera --refName REF_IFNLA_MASTER
 	demote member AL_IFNLB_chiroptera --whereClause "sequence.name = 'ifnl-b-chiroptera'" 		
-
+    exit
 
 
   #~#~# Derive constrained alignment segments from unconstrained alignments  

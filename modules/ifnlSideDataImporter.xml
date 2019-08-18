@@ -12,16 +12,29 @@
         <header>name</header>
         <property>name</property>
     </textFileColumn>
+    
     <textFileColumn>
-        <header>full_name</header>
+        <header>name</header>
         <property>full_name</property>
     </textFileColumn>
-    <textFileColumn>
-        <header>genus</header>
+
+   <textFileColumn>
+        <header>Major</header>
+        <property>subfamily</property>
+    </textFileColumn>
+
+   <textFileColumn>
+        <header>MammalLineage</header>
         <property>genus</property>
     </textFileColumn>
-    <textFileColumn>
-        <header>clade</header>
+
+   <textFileColumn>
+        <header>PlacentalLinage</header>
+        <property>subgenus</property>
+    </textFileColumn>
+
+   <textFileColumn>
+        <header>SubLineage</header>
         <property>clade</property>
     </textFileColumn>
 
