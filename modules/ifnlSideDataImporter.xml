@@ -4,37 +4,32 @@
     
     <textFileColumn>
         <identifier>true</identifier>
-        <header>sequenceID</header>
+        <header>id</header>
         <property>sequenceID</property>
     </textFileColumn>
 
     <textFileColumn>
-        <header>name</header>
+        <header>GeneID</header>
         <property>name</property>
     </textFileColumn>
     
     <textFileColumn>
-        <header>name</header>
+        <header>full_name</header>
         <property>full_name</property>
     </textFileColumn>
 
    <textFileColumn>
-        <header>Major</header>
+        <header>Order</header>
         <property>subfamily</property>
     </textFileColumn>
 
    <textFileColumn>
-        <header>MammalLineage</header>
+        <header>Family</header>
         <property>genus</property>
     </textFileColumn>
 
    <textFileColumn>
-        <header>PlacentalLinage</header>
-        <property>subgenus</property>
-    </textFileColumn>
-
-   <textFileColumn>
-        <header>SubLineage</header>
+        <header>Genus</header>
         <property>clade</property>
     </textFileColumn>
 
