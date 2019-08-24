@@ -1,4 +1,4 @@
-id	Species	Class	Superorder	Order	Family	Genus	Ref	Protein_accession	Accession	GeneID	full_name	Lineage
+id	Species	Class	Superorder	Order	Family	Genus	Ref	Protein_accession	Accession	GeneID	full_name	Clade
 XM_001517881	Ornithorhynchus-anatinus	Mammalia	Marsupials	Monotremata	Ornithorhynchidae	Ornithorhynchus	xMo	XP_001517931.2	XM_001517881	IFNLB	IFNLB-Monotremata	Monotremata
 XM_027855300	Vombatus-ursinus	Mammalia	Marsupials	Diprotodontia	Vombatidae	Vombatus	xMa	XP_027711101.1	XM_027855300.1	IFNLB	IFNLB-Diprotodontia	Diprotodontia
 XM_004388217	Trichechus-manatus	Mammalia	Afrotheria	Sirenia	Trichechidae	Trichechus		XP_004388274.1	XM_004388217.1	IFNLB	IFNLB-Placental-1-Sirenia	Pm1-Sirenia

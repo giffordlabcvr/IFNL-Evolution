@@ -9,7 +9,7 @@
     </textFileColumn>
 
     <textFileColumn>
-        <header>GeneID</header>
+        <header>full_name</header>
         <property>name</property>
     </textFileColumn>
     
@@ -19,17 +19,17 @@
     </textFileColumn>
 
    <textFileColumn>
-        <header>Order</header>
+        <header>GeneID</header>
         <property>subfamily</property>
     </textFileColumn>
 
    <textFileColumn>
-        <header>Family</header>
+        <header>Genus</header>
         <property>genus</property>
     </textFileColumn>
 
    <textFileColumn>
-        <header>Genus</header>
+        <header>Clade</header>
         <property>clade</property>
     </textFileColumn>
 
