@@ -45,8 +45,9 @@
 	  <p>
 		This <a target="_blank" href="https://github.com/">GitHub</a> repository contains
 		data and program logic supporting comparative and phylogenetic investigations of
-		<b>interferon lambda</b>
-		<a target="_blank" href="https://pfam.xfam.org/family/IL28A">IFNL</a> evolution. 
+		<b>interferon lambda</b>, an inflammatory
+		<a target="_blank" href="https://en.wikipedia.org/wiki/Cytokine">cytokine</a> 
+		(<a target="_blank" href="https://pfam.xfam.org/family/IL28A"><b>IFNL</b></a>) evolution. 
 	  </p>
 
 
@@ -55,8 +56,7 @@
 	   </h3>
 	   
 	   <p>
-		 IFNL is a <a target="_blank" href="https://en.wikipedia.org/wiki/Cytokine">cytokine</a> 
-		 and is also referred to as <b>Interleukin-28</b> (IL-28).
+		 IFNL is also referred to as <b>Interleukin-28</b> (IL-28).
 	   </p>
 
 	   <h3>
@@ -89,6 +89,55 @@
 		 Sequences in this source have unique IDs based on arbitrary numbering. 
 	   </p>
 	      	   
+
+	   <h3>
+	   <a id="sequenceSideData" class="anchor" href="#sequenceSideData" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Sequence-associated data</strong>
+	   </h3>
+	   
+	   <p>
+         Sequences included in this project are linked to auxiliary data in tabular format, this includes:
+		 
+		 <ol>
+		   <li><a href="https://github.com/giffordlabcvr/IFNL-Evolution/blob/master/tabular/ifnl-side-data.tsv">Sequence-associated metadata</a> for the reference mRNA sequences in <b>ncbi-refseqs</b>.</li> 
+		   <li>Locus data for the EVE sequences in <b>fasta-curated</b>.</li> 
+		 </ol>
+		 
+	   </p>
+
+		 
+	   <h3>
+		 <a id="alignments" class="anchor" href="#alignments" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Multiple sequence alignments (MSAs)</strong>
+	   </h3>
+	   
+	   <p>
+		 Several distinct categories of MSA are included in this project, each representing a distinct taxonomic level.
+		
+		 <ol>
+		   <li><b>Tip</b>: Alignments of IFNL alleles from a single species (mRNAs)</li> 
+		   <li><b>Internal</b>: <a href="https://github.com/giffordlabcvr/IFNL-Evolution/tree/master/alignments/internal">IFNL genes</a> (mRNAs) and IFNL gene loci</a> (genomic DNA)</li> 
+		   <li><b>Root</b>: <a href="https://github.com/giffordlabcvr/IFNL-Evolution/tree/master/alignments/root">MSAs capturing homology between distint IFNL genes</a></li> 
+		 </ol>
+	   </p>
+
+
+
+
+	   <h3>
+	   <a id="glueProject" class="anchor" href="#glueProject" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>GLUE project</strong>
+	   </h3>
+
+      	   
+	   <p>
+	
+         On computers with <a href="http://tools.glue.cvr.ac.uk/#/installation">GLUE installed</a>,
+         the <b>IFNL-Evolution</b> project can be instantiated by navigating to the project folder,
+         initiating GLUE, and issuing the following command in the GLUE shell:
+         
+  <pre>
+  <code>Mode path: /
+  GLUE> run file ifnlProject.glue</code></pre>
+		 
+	   </p>
 
 
 
