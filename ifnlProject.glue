@@ -25,7 +25,7 @@ project ifnl
 
   # Import metadata for IFNL reference sequences
   module ifnlSideDataImporter 
-    populate -f tabular/ifnl-data.tsv
+    populate -f tabular/ifnl-side-data.tsv
     exit
 
   # Define features
