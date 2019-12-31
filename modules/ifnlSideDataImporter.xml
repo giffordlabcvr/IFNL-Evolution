@@ -8,24 +8,14 @@
         <property>sequenceID</property>
     </textFileColumn>
 
+   <textFileColumn>
+        <header>GeneID</header>
+        <property>gene_id</property>
+    </textFileColumn>
+
     <textFileColumn>
         <header>full_name</header>
         <property>name</property>
-    </textFileColumn>
-    
-    <textFileColumn>
-        <header>full_name</header>
-        <property>full_name</property>
-    </textFileColumn>
-
-   <textFileColumn>
-        <header>GeneID</header>
-        <property>subfamily</property>
-    </textFileColumn>
-
-   <textFileColumn>
-        <header>Genus</header>
-        <property>genus</property>
     </textFileColumn>
 
    <textFileColumn>
