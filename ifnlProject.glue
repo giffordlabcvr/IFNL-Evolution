@@ -16,10 +16,8 @@ project ifnl
   # create modules
   run file glue/ifnlModules.glue
 
-  # Import fasta sources 
-  import source sources/ifnl-fasta/
-
-  # Import NCBI sources 
+  # Import sources 
+  import source sources/fasta-refseqs/
   import source sources/ncbi-refseqs/
 
   # Import metadata for IFNL reference sequences

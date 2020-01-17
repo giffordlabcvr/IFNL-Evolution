@@ -47,9 +47,6 @@
 
 	extract child AL_IFNL_MAMM1 --refName REF_IFNL_MAMM1_MASTER	
 	demote member AL_IFNL_MAMM1 --whereClause "sequence.gene_id = 'MAMM1'" 	
-
-	extract child AL_IFNL_MAMM1_rtg --refName REF_IFNL_MAMM1_rtg_MASTER	
-	demote member AL_IFNL_MAMM1_rtg --whereClause "sequence.gene_id = 'MAMM1_rtg'" 	
 	
 	extract child AL_IFNL_MAMM2 --refName REF_IFNL_MAMM2_MASTER	
 	demote member AL_IFNL_MAMM2 --whereClause "sequence.gene_id = 'MAMM2'"
@@ -60,6 +57,9 @@
   # Mammal B1 branch    
   alignment AL_IFNL_MAMM1 
 
+	extract child AL_IFNL_MAMM1_rtg --refName REF_IFNL_MAMM1_rtg_MASTER	
+	demote member AL_IFNL_MAMM1_rtg --whereClause "sequence.gene_id = 'MAMM1_rtg'" 	
+
 	#extract child AL_IFNLB_chiroptera --refName AL_IFNLB_chiroptera
 	#demote member AL_IFNLB_chiroptera --whereClause "sequence.name = 'ifnl-b-chiroptera'" 
 			
@@ -68,14 +68,14 @@
 
   # Derive constrained alignment segments from unconstrained alignments  
 
-  #alignment AL_IFNL_ROOT
-  #  derive segments AL_IFNL_ROOT_UNCONSTRAINED -a --mergeStrategy OVERWRITE
-  #  exit
+  alignment AL_IFNL_ROOT
+    derive segments AL_IFNL_ROOT_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+    exit
     
-  #alignment AL_IFNLA
-  #  derive segments AL_IFNLA_UNCONSTRAINED -a --mergeStrategy OVERWRITE
-  #  exit
+  alignment AL_IFNL_MAMM4
+    derive segments AL_IFNLA_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+    exit
 
-  #alignment AL_IFNLB
-  #  derive segments AL_IFNLB_UNCONSTRAINED -a --mergeStrategy OVERWRITE
-  #  exit
+  alignment AL_IFNL_MAMMB
+    derive segments AL_IFNLB_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+    exit

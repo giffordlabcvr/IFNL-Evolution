@@ -1,5 +1,4 @@
 
-
   # IFNL amphibian 
   create reference REF_IFNL_AMPH_MASTER               ncbi-refseqs NM_001171763  #  Xenopus
   #create reference REF_IFNL_AMPH_Xenopus1             ncbi-refseqs NM_001171763
@@ -27,7 +26,7 @@
   create reference REF_IFNL_MAMM4_MASTER              ncbi-refseqs NM_001276254  # IFNLA  
 
   # IFNLB1_psi
-  create reference REF_IFNL_MAMM1_PSI_MASTER          ifnl-fasta IFNLB1_Psi_Hsa
-  create reference REF_IFNL_MAMM4_PSI_MASTER          ifnl-fasta IFNLA_Psi_Hsa
+  create reference REF_IFNL_MAMM1_PSI_MASTER          fasta-refseqs IFNLB1_Psi_Hsa
+  create reference REF_IFNL_MAMM4_PSI_MASTER          fasta-refseqs IFNLA_Psi_Hsa
 
   
