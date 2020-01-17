@@ -1,21 +1,34 @@
-  #### IFNLA    
-  create reference REF_IFNLA_MASTER ncbi-refseqs NM_001276254  
-  create reference REF_IFNLA_Primates   ncbi-refseqs NM_001276254  
 
-  #### IFNLA_psi
-  create reference REF_IFNLA_psi ifnl-fasta IFNLA_Psi_Hsa
 
-  #### IFNLB1
-  create reference REF_IFNLB1 ncbi-refseqs NM_172140
+  # IFNL amphibian 
+  #create reference REF_IFNL_AMPH_MASTER               ncbi-refseqs NM_001171763  #  Xenopus
+  #create reference REF_IFNL_AMPH_Xenopus1             ncbi-refseqs NM_001171763
+  #create reference REF_IFNL_AMPH_Xenopus2             ncbi-refseqs NM_001171763
 
-  #### IFNLB1_psi
-  create reference REF_IFNLB1_psi ifnl-fasta IFNLB1_Psi_Hsa
+  # IFNL reptile 1
+  #create reference REF_IFNL_REPT1_MASTER              ncbi-refseqs NM_001276254  # 
+  #create reference REF_IFNL_REPT1_Pelodiscus          ncbi-refseqs NM_001276254  
+  create reference REF_IFNL_REPT1_Alligator           ncbi-refseqs XM_025202241  
+   
+  # IFNL reptile 2
+  create reference REF_IFNL_REPT2_MASTER              ncbi-refseqs XM_025186888  # Pelodiscus
+  create reference REF_IFNL_REPT2_Terrapene           ncbi-refseqs XM_026646209  
+  create reference REF_IFNL_REPT2_Alligator           ncbi-refseqs XM_014607441  
 
-  #### IFNLB2
-  create reference REF_IFNLB2 ncbi-refseqs NM_172138
+  # IFNL avian
+  create reference REF_IFNL_AVES_MASTER               ncbi-refseqs NM_001310792  # Duck
+  create reference REF_IFNL_AVES_MASTER_Columba       ncbi-refseqs XM_005501688
+  create reference REF_IFNL_AVES_MASTER_Meleagris     ncbi-refseqs XM_003207378
 
-  #### IFNLB3
-  create reference REF_IFNLB3 ncbi-refseqs NM_001346937
+  # IFNL mammals    
+  create reference REF_IFNL_MAMM1_MASTER              ncbi-refseqs NM_172140     # IFNLB1
+  create reference REF_IFNL_MAMM1_rtg_MASTER          ncbi-refseqs NM_001142837  # RTG
+  create reference REF_IFNL_MAMM2_MASTER              ncbi-refseqs NM_172138     # IFNLB2
+  create reference REF_IFNL_MAMM3_MASTER              ncbi-refseqs NM_001346937  # IFNLB3
+  create reference REF_IFNL_MAMM4_MASTER              ncbi-refseqs NM_001276254  # IFNLA  
 
-  #### IFNLB-retro1
-  create reference REF_IFNLB_retro1 ncbi-refseqs NM_001142837 
+  # IFNLB1_psi
+  create reference REF_IFNL_MAMM1_PSI_MASTER          ifnl-fasta IFNLB1_Psi_Hsa
+  create reference REF_IFNL_MAMM4_PSI_MASTER          ifnl-fasta IFNLA_Psi_Hsa
+
+  

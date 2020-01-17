@@ -1,102 +1,110 @@
-id	Species	Class	Superorder	Order	Family	Genus	Ref	Protein_accession	Accession	GeneID	full_name	Clade
-XM_001517881	Ornithorhynchus-anatinus	Mammalia	Marsupials	Monotremata	Ornithorhynchidae	Ornithorhynchus	xMo	XP_001517931.2	XM_001517881	IFNLB	IFNLB-Monotremata	Monotremata
-XM_027855300	Vombatus-ursinus	Mammalia	Marsupials	Diprotodontia	Vombatidae	Vombatus	xMa	XP_027711101.1	XM_027855300.1	IFNLB	IFNLB-Diprotodontia	Diprotodontia
-XM_004388217	Trichechus-manatus	Mammalia	Afrotheria	Sirenia	Trichechidae	Trichechus		XP_004388274.1	XM_004388217.1	IFNLB	IFNLB-Placental-1-Sirenia	Pm1-Sirenia
-XM_007958477	Orycteropus-afer	Mammalia	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	xA	XP_007956668.1	XM_007958477.1	IFNLB	IFNLB-Placental-1-Tubulidentata	Pm1-Tubulidentata
-XM_007945560	Orycteropus-afer	Mammalia	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	xA	XP_007943751.1	XM_007945560.1	IFNLB	IFNLB-Placental-1-Tubulidentata-rtg	Pm1-Tubulidentata-rtg
-XM_002711467	Oryctolagus-cuniculus	Mammalia	Euarchontoglires	Lagomorpha	Leporidae	Oryctolagus		XP_002711513.1	XM_002711467.2	IFNLB	IFNLB-Placental-1-Lagomorpha	Pm1-Lagomorpha
-XM_003735566	Callithrix-jacchus	Mammalia	Euarchontoglires	Primates	Cebidae	Callithrix		XP_003735614.2	XM_003735566.3	IFNLB	IFNLB-Placental-1-Primates	Pm1-Primates
-XM_017503063	Cebus-capucinus	Mammalia	Euarchontoglires	Primates	Cebidae	Cebus		XM_017503063	XM_017503063	IFNLB	IFNLB-Placental-1-Primates	Pm1-Primates
-XM_015123826	Macaca-mulatta	Mammalia	Euarchontoglires	Primates	Cercopithecidae	Macaca		XP_014979312.1	XM_015123826.2	IFNLB	IFNLB-Placental-1-Primates	Pm1-Primates
-XM_003802138	Otolemur-garnettii	Mammalia	Euarchontoglires	Primates	Galagidae	Otolemur		XP_003802186.1	XM_003802138.1	IFNLB	IFNLB-Placental-1-Primates	Pm1-Primates
-NM_172140	Homo-sapiens	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	xE	NM_172140.1	NM_172140.1	IFNLB	IFNLB-Placental-1-Primates	Pm1-Primates
-IFNLB1_Psi_Hsa	Homo-sapiens	Mammalia	Euarchontoglires	Primates	Hominidae	Homo				IFNLB	IFNLB-Placental-1-Primates	Pm1-Primates
-XM_012657018	Propithecus-coquereli	Mammalia	Euarchontoglires	Primates	Indriidae	Propithecus		XM_012657018	XM_012657018	IFNLB	IFNLB-Placental-1-Primates	Pm1-Primates
-XM_008057587	Carlito-syrichta	Mammalia	Euarchontoglires	Primates	Tarsiidae	Tarsius		XP_008055778.1	XM_008057587.1	IFNLB	IFNLB-Placental-1-Primates	Pm1-Primates
-XM_014587715	Tupaia-chinensis	Mammalia	Euarchontoglires	Scandentia	Tupaiidae	Tupaia		XP_014443201.2	XM_014587715.2	IFNLB	IFNLB-Placental-1-Scandentia	Pm1-Scandentia
-XM_006941288	Felis-catus	Mammalia	Laurasiatheria	Carnivora	Felidae	Felis		XM_006941288	XM_006941288	IFNLB	IFNLB-Placental-1-Carnivora	Pm1-Carnivora
-XM_011234942	Ailuropoda-melanoleuca	Mammalia	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	xL	XP_011233244.1 	XM_011234942.2	IFNLB	IFNLB-Placental-1-Carnivora	Pm1-Carnivora
-XM_011225064	Ailuropoda-melanoleuca	Mammalia	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	xL	XP_011223366.1 	XM_011225064.2	IFNLB	IFNLB-Placental-1-Laurasiatheria-rtg	Pm1-Laurasiatheria-rtg
-XM_028165960	Balaenoptera-acutorostrata	Mammalia	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera		XP_028021761.1	XM_028165960.1	IFNLB	IFNLB-Placental-1-Cetacea	Pm1-Cetacea
-XM_028529999	Phyllostomus-discolor	Mammalia	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus		XP_028385800.1 	XM_028529999.1	IFNLB	IFNLB-Placental-1-Chiroptera	Pm1-Chiroptera
-XM_016166772	Rousettus-aegyptiacus	Mammalia	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus		XP_016022258.1 	XM_016166772.1	IFNLB	IFNLB-Placental-1-Chiroptera	Pm1-Chiroptera
-XM_007524026	Erinaceus-europaeus	Mammalia	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus		XP_007524088.1	XM_007524026.1	IFNLB	IFNLB-Placental-1-Insectivora	Pm1-Insectivora
-XM_004687048	Condylura-cristata	Mammalia	Laurasiatheria	Insectivora	Talpidae	Condylura		XP_004687105.1 	XM_004687048.1	IFNLB	IFNLB-Placental-1-Laurasiatheria-rtg	Pm1-Laurasiatheria-rtg
-XM_014732932	Equus-caballus	Mammalia	Laurasiatheria	Perissodactyla	Equidae	Equus		XP_014588418.2 	XM_014732932.2	IFNLB	IFNLB-Placental-1-Perissodactyla	Pm1-Perissodactyla
-XM_023626728	Equus-caballus	Mammalia	Laurasiatheria	Perissodactyla	Equidae	Equus		XP_023482496.1	XM_023626728.1	IFNLB	IFNLB-Placental-1-Laurasiatheria-rtg	Pm1-Laurasiatheria-rtg
-retroIFNL1a	Ceratotherium	Mammalia	Laurasiatheria	Perissodactyla	Rhinocerotidae	Ceratotherium				IFNLB	IFNLB-Placental-1-Laurasiatheria-rtg	Pm1-Laurasiatheria-rtg
-XM_017656413	Manis-javanica	Mammalia	Laurasiatheria	Pholidota	Manidae	Manis		XP_017511902.1 	XM_017656413.1	IFNLB	IFNLB-Placental-1-Pholidota	Pm1-Pholidota
-XM_017651898	Manis-javanica	Mammalia	Laurasiatheria	Pholidota	Manidae	Manis		XP_017507387.1	XM_017651898.1	IFNLB	IFNLB-Placental-1-Laurasiatheria-rtg	Pm1-Laurasiatheria-rtg
-NM_001142837	Sus-scrofa	Mammalia	Laurasiatheria	Unclassified	Suidae	Sus		NP_001136309.1	NM_001142837.1	IFNLB	IFNLB-Placental-1-Laurasiatheria-rtg	Pm1-Laurasiatheria-rtg
-XM_004481462	Dasypus-novemcinctus	Mammalia	Xenarthra	Cingulata	Dasypodidae	Dasypus	xX	XP_004481519.1	XM_004481462.1	IFNLB	IFNLB-Placental-1-Dasypodidae	Pm1-Dasypodidae
-XM_003420833	Loxodonta-africana	Mammalia	Afrotheria	Proboscidea	Elephantidae	Loxodonta	xA	XP_003420881.2	XM_003420833.3	IFNLB	IFNLB-Placental-2-Elephantidae	Pm2-Elephantidae
-XM_017967394	Callithrix-jacchus	Mammalia	Euarchontoglires	Primates	Cebidae	Callithrix		XP_017822883.1	XM_017967394.1	IFNLB	IFNLB-Placental-2-Cebidae	Pm2-Cebidae
-XM_017503063	Cebus-capucinus	Mammalia	Euarchontoglires	Primates	Cebidae	Cebus		XM_017503063	XM_017503063	IFNLB	IFNLB-Placental-2-Cebidae	Pm2-Cebidae
-XM_001086865	Macaca-mulatta	Mammalia	Euarchontoglires	Primates	Cercopithecidae	Macaca		XP_001086865.3	XM_001086865.4	IFNLB	IFNLB-Placental-2-Cercopithecidae	Pm2-Cercopithecidae
-XM_003802158	Otolemur-garnettii	Mammalia	Euarchontoglires	Primates	Galagidae	Otolemur		XP_003802206.1	XM_003802158.1	IFNLB	IFNLB-Placental-2-Galagidae	Pm2-Galagidae
-NC_000019	Homo-sapiens	Mammalia	Euarchontoglires	Primates	Hominidae	Homo		NC_000019.1	NC_000019.1	IFNLB	IFNLB-Placental-2-Hominini-1	Pm2-Hominini-1
-NM_001346937	Homo-sapiens	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	xE	NM_001346937.1	NM_001346937.1	IFNLB	IFNLB-Placental-2-Hominini-2	Pm2-Hominini-2
-XM_008057580	Carlito-syrichta	Mammalia	Euarchontoglires	Primates	Tarsiidae	Tarsius		XP_008055771.1	XM_008057580.1	IFNLB	IFNLB-Placental-2-Tarsiidae	Pm2-Tarsiidae
-XM_013077381	Heterocephalus-glaber	Mammalia	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus		XP_012932835.1	XM_013077381.2	IFNLB	IFNLB-Placental-2-Rodentia	Pm2-Rodentia
-XM_020156959	Castor-canadensis	Mammalia	Euarchontoglires	Rodentia	Castoridae	Castor		XP_020012548.1	XM_020156959.1	IFNLB	IFNLB-Placental-2-Rodentia	Pm2-Rodentia
-XM_006986319	Peromyscus-maniculatus 	Mammalia	Euarchontoglires	Rodentia	Cricetidae	Peromyscus		XP_006986381.1 	XM_006986319.1	IFNLB	IFNLB-Placental-2-Rodentia	Pm2-Rodentia
-XM_004636884	Octodon-degus	Mammalia	Euarchontoglires	Rodentia	Octodontidae	Octodon		XP_004636941.1	XM_004636884.1	IFNLB	IFNLB-Placental-2-Rodentia	Pm2-Rodentia
-XM_017803384	Nannospalax-galili	Mammalia	Euarchontoglires	Rodentia	Spalacidae	Nannospalax		XP_017658873.1 	XM_017803384.1	IFNLB	IFNLB-Placental-2-Rodentia	Pm2-Rodentia
-XM_006140390	Tupaia-chinensis	Mammalia	Euarchontoglires	Scandentia	Tupaiidae	Tupaia		XP_006140452.1	XM_006140390.1	IFNLB	IFNLB-Placental-2-Scandentia	Pm2-Scandentia
-XM_002927388	Ailuropoda-melanoleuca	Mammalia	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	xL	XP_002927434.1	XM_002927388.3	IFNLB	IFNLB-Placental-2-Carnivora	Pm2-Carnivora
-XM_007179988	Balaenoptera-acutorostrata	Mammalia	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera		XP_007180050.1 	XM_007179988.1	IFNLB	IFNLB-Placental-2-Cetacea	Pm2-Cetacea
-XM_016165227	Rousettus-aegyptiacus	Mammalia	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus		XP_016020713.1	XM_016165227.1	IFNLB	IFNLB-Placental-2-Chiroptera	Pm2-Chiroptera
-XM_023760577	Myotis-lucifugus	Mammalia	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis		XP_023616345.1	XM_023760577.1	IFNLB	IFNLB-Placental-2-Chiroptera	Pm2-Chiroptera
-XM_007523978	Erinaceus-europaeus	Mammalia	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus		XP_007524040.1	XM_007523978.1	IFNLB	IFNLB-Placental-2-Insectivora	Pm2-Insectivora
-XM_005596230	Equus-caballus	Mammalia	Laurasiatheria	Perissodactyla	Equidae	Equus		XP_005596287.2	XM_005596230.2	IFNLB	IFNLB-Placental-2-Laurasiatheria	Pm2-Laurasiatheria
-XM_025268342	Bubalus-bubalis	Mammalia	Laurasiatheria	Unclassified	Bovidae	Bubalus		XP_025124127.1 	XM_025268342.1	IFNLB	IFNLB-Placental-2-Artiodactyl	Pm2-Artiodactyl
-XM_010985162	Camelus-dromedarius	Mammalia	Laurasiatheria	Unclassified	Camelidae	Camelus		XP_010983464.1 	XM_010985162.1	IFNLB	IFNLB-Placental-2-Artiodactyl	Pm2-Artiodactyl
-XM_021097830	Sus-scrofa	Mammalia	Laurasiatheria	Unclassified	Suidae	Sus		XP_020953489.1	XM_021097830.1	IFNLB	IFNLB-Placental-2-Artiodactyl	Pm2-Artiodactyl
-XM_023585477	Dasypus-novemcinctus	Mammalia	Xenarthra	Cingulata	Dasypodidae	Dasypus	xX	XP_023441245.1 	XM_023585477.1	IFNLB	IFNLB-Placental-2-Xenarthra	Pm2-Xenarthra
-XM_013077381	Heterocephalus-glaber	Mammalia	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus		XM_013077381	XM_013077381	IFNLB	IFNLB-Placental-?-Rodentia	?-Rodentia
-XM_028859190	Peromyscus-leucopus	Mammalia	Euarchontoglires	Rodentia	Cricetidae	Peromyscus		XP_028715023.1 	XM_028859190.1	IFNLB	IFNLB-Placental-?-Rodentia	?-Rodentia
-XM_008854037	Nannospalax-galili	Mammalia	Euarchontoglires	Rodentia	Spalacidae	Nannospalax		XP_008852259.1	XM_008854037.1	IFNLB	IFNLB-Placental-?-Rodentia	?-Rodentia
-retroIFNL3	Myotis-lucifugus	Mammalia	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis		NW_005871296.1		IFNLB	iIFNLB-Placental-2-Myotis-rtg	?-Chiroptera
-XM_005886334	Myotis-brandtii	Mammalia	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis		XM_005886334.2	XM_005886334.2	IFNLB	IFNLB-Placental-2-Myotis-rtg	Pm2-Myotis-rtg
-XM_010600326	Loxodonta-africana	Mammalia	Afrotheria	Proboscidea	Elephantidae	Loxodonta	xA	XP_010598628.1 	XM_010600326.2	IFNLA	IFNLA-Proboscidea	
-XM_008257170	Oryctolagus-cuniculus	Mammalia	Euarchontoglires	Lagomorpha	Leporidae	Oryctolagus		XP_008255392.1 	XM_008257170.1	IFNLA	IFNLA-Lagomorpha	
-XM_008987976	Callithrix-jacchus	Mammalia	Euarchontoglires	Primates	Cebidae	Callithrix		XP_008986224.1	XM_008987976.1	IFNLA	IFNLA-Primates	
-XM_015123824	Macaca-mulatta	Mammalia	Euarchontoglires	Primates	Cercopithecidae	Macaca		XP_014979310.2	XM_015123824.2	IFNLA	IFNLA-Primates	
-NM_001276254	Homo-sapiens	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	xE	NM_001276254.2	NM_001276254.2	IFNLA	IFNLA-Primates	
-XM_021239619	Heterocephalus-glaber	Mammalia	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus		XP_021095278.1	XM_021239619.1	IFNLA	IFNLA-Rodentia	
-XM_020156960	Castor-canadensis	Mammalia	Euarchontoglires	Rodentia	Castoridae	Castor		XP_020012549.1	XM_020156960.1	IFNLA	IFNLA-Rodentia	
-XM_004636883	Octodon-degus	Mammalia	Euarchontoglires	Rodentia	Octodontidae	Octodon		XP_004636940.1	XM_004636883.1	IFNLA	IFNLA-Rodentia	
-XM_027765624	Tupaia-chinensis	Mammalia	Euarchontoglires	Scandentia	Tupaiidae	Tupaia		XP_027621425.1	XM_027765624.1	IFNLA	IFNLA-Scandentia	
-XM_011234954	Ailuropoda-melanoleuca	Mammalia	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	xL	XP_011233256.1	XM_011234954.1	IFNLA	IFNLA-Carnivora	
-XM_012533543	Orcinus-orca	Mammalia	Laurasiatheria	Cetacea	Delphinidae	Orcinus		XP_012388997.1	XM_012533543.1	IFNLA	IFNLA-Cetacea	
-XM_016165225	Rousettus-aegyptiacus	Mammalia	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus		XP_016020711.1 	XM_016165225.1	IFNLA	IFNLA-Chiroptera	
-XM_023760558	Myotis-lucifugus	Mammalia	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis		XP_023616326.1	XM_023760558.1	IFNLA	IFNLA-Chiroptera	
-XM_007524025	Erinaceus-europaeus	Mammalia	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus		XP_007524087.1 	XM_007524025.1	IFNLA	IFNLA-Insectivora	
-XM_025268277	Bubalus-bubalis	Mammalia	Laurasiatheria	Unclassified	Bovidae	Bubalus		XP_025124062.1	XM_025268277.1	IFNLA	IFNLA-Unclassified	
-XM_013990503	Sus-scrofa	Mammalia	Laurasiatheria	Unclassified	Suidae	Sus		XP_013845957.1 	XM_013990503.2	IFNLA	IFNLA-Unclassified	
-XM_027855301	Vombatus-ursinus	Mammalia	Unclassified	Diprotodontia	Vombatidae	Vombatus	xMa	XM_027855301	XM_027855301	IFNLA	IFNLA-Diprotodontia	
-XM_007660152	Ornithorhynchus-anatinus	Mammalia	Unclassified	Monotremata	Ornithorhynchidae	Ornithorhynchus	xMo	XP_007658342.2	XM_007660152.2	IFNLA	IFNLA-Monotremata	
-XM_019431989 	Panthera pardus 	Mammalia	Laurasiatheria	Carnivora	Felidae	Panthera			XM_019431989.1 	IFNLA	IFNLA-Carnivora	
-XM_019431940 	Panthera pardus 	Mammalia	Laurasiatheria	Carnivora	Felidae	Panthera			XM_019431940.1 	IFNLA	IFNLA-Carnivora	
-XM_004396490 	Odobenus rosmarus divergens	Mammalia	Laurasiatheria	Carnivora	Odobenidae	Odobenus			XM_004396490.1 	IFNLA	IFNLA-Carnivora	
-XM_021700959 	Neomonachus schauinslandi	Mammalia	Laurasiatheria	Carnivora	Phocidae	Monachus			XM_021700959.1 	IFNLA	IFNLA-Carnivora	
-XM_019666268 	Hipposideros armiger	Mammalia	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros			XM_019666268.1 	IFNLA	IFNLA-Chiroptera	
-XM_005219127 	Bos taurus	Mammalia	Laurasiatheria	Unclassified	Bovidae	Bos			XM_005219127.2 	IFNLA	IFNLA-Unclassified	
-XM_028165945 	Balaenoptera acutorostrata scammoni 	Mammalia	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			XM_028165945.1 	IFNLA	IFNLA-Cetacea	
-XM_007180047 	Balaenoptera acutorostrata scammoni 	Mammalia	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			XM_007180047.1 	IFNLA	IFNLA-Cetacea	
-XM_007180046	Balaenoptera acutorostrata scammoni 	Mammalia	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			XM_007180046.1	IFNLA	IFNLA-Cetacea	
-XM_017503065 	Cebus capucinus	Mammalia	Euarchontoglires	Primates	Cebidae	Cebus			XM_017503065.1 	IFNLA	IFNLA-Primates	
-XM_028839087 	Macaca mulatta 	Mammalia	Euarchontoglires	Primates	Cercopithecidae	Macaca			XM_028839087.1 	IFNLA	IFNLA-Primates	
-XM_019014912	Gorilla gorilla	Mammalia	Euarchontoglires	Primates	Hominidae	Gorilla			XM_019014912.1	IFNLA	IFNLA-Primates	
-XM_008964691	Pan paniscus	Mammalia	Euarchontoglires	Primates	Hominidae	Pan			XM_008964691.1	IFNLA	IFNLA-Primates	
-XM_008964650 	Pan paniscus	Mammalia	Euarchontoglires	Primates	Hominidae	Pan			XM_008964650.1 	IFNLA	IFNLA-Primates	
-XM_012496610 	Nomascus leucogenys	Mammalia	Euarchontoglires	Primates	Hylobatidae	Nomascus			XM_012496610.1 	IFNLA	IFNLA-Primates	
-XM_004617296	Sorex araneus	Mammalia	Laurasiatheria	Insectivora	Soricidae	Sorex			XM_004617296.2	IFNLA	IFNLA-Insectivora	
-XM_027765624	Tree shrew	Mammalia	Euarchontoglires	Scandentia	Tupaiidae	Tupaia			XM_027765624.1	IFNLA	IFNLA-Scandentia	
-XM_021239678	Heterocephalus-glaber	Mammalia	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus			XM_021239678.1	IFNLA	IFNLA-Rodentia	
-XM_021239619	Heterocephalus-glaber	Mammalia	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus			XM_021239619.1	IFNLA	IFNLA-Rodentia	
-XM_020156960 	Castor canadensis	Mammalia	Euarchontoglires	Rodentia	Castoridae	Castor			XM_020156960.1 	IFNLA	IFNLA-Rodentia	
-XM_013522287	Chinchilla lanigera	Mammalia	Euarchontoglires	Rodentia	Chinchillidae	Chinchilla			XM_013522287.1	IFNLA	IFNLA-Rodentia	
-XM_005336481	Ictidomys tridecemlineatus	Mammalia	Euarchontoglires	Rodentia	Sciuridae	Ictidomys			XM_005336481	IFNLA	IFNLA-Rodentia	
-XM_004636883 	Octodon degus	Mammalia	Euarchontoglires	Rodentia	Octodontidae	Octodon			XM_004636883.1 	IFNLA	IFNLA-Rodentia	
-IFNLA_Psi_Hsa	Homo-sapiens	Mammalia	Euarchontoglires	Primates	Hominidae	Homo				IFNLA-psi	IFNLA-Primates	
+id	GeneID	Clade	Species	full_name	Class	Superorder	Order	Family	Genus	Protein_accession	Ref
+NM_001171763	AMPH										
+XM_025202241	REPTILE1										
+XM_025186888	REPTILE2										
+XM_026646209	REPTILE2										
+XM_014607441	REPTILE2										
+NM_001310792	AVES				Aves						
+XM_005501688	AVES				Aves						
+XM_003207378	AVES				Aves						
+XM_023585477	MAMM	Xenarthra	Dasypus novemcinctus	Placental-2-Xenarthra	Mammalia	Xenarthra	Cingulata	Dasypodidae	Dasypus	XP_023441245.1 	xX
+XM_013077381	MAMM	?-Rodentia	Heterocephalus glaber	Placental-?-Rodentia	Mammalia	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	XM_013077381	
+XM_028859190	MAMM	?-Rodentia	Peromyscus leucopus	Placental-?-Rodentia	Mammalia	Euarchontoglires	Rodentia	Cricetidae	Peromyscus	XP_028715023.1 	
+XM_008854037	MAMM	?-Rodentia	Nannospalax galili	Placental-?-Rodentia	Mammalia	Euarchontoglires	Rodentia	Spalacidae	Nannospalax	XP_008852259.1	
+XM_006941288	MAMM1	Carnivora	Felis catus	Placental-1-Carnivora	Mammalia	Laurasiatheria	Carnivora	Felidae	Felis	XM_006941288	
+XM_011234942	MAMM1	Carnivora	Ailuropoda melanoleuca	Placental-1-Carnivora	Mammalia	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233244.1 	xL
+XM_028165960	MAMM1	Cetacea	Balaenoptera acutorostrata	Placental-1-Cetacea	Mammalia	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_028021761.1	
+XM_028529999	MAMM1	Chiroptera	Phyllostomus discolor	Placental-1-Chiroptera	Mammalia	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus	XP_028385800.1 	
+XM_016166772	MAMM1	Chiroptera	Rousettus aegyptiacus	Placental-1-Chiroptera	Mammalia	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	XP_016022258.1 	
+XM_004481462	MAMM1	Dasypodidae	Dasypus novemcinctus	Placental-1-Dasypodidae	Mammalia	Xenarthra	Cingulata	Dasypodidae	Dasypus	XP_004481519.1	xX
+XM_007524026	MAMM1	Insectivora	Erinaceus europaeus	Placental-1-Insectivora	Mammalia	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524088.1	
+XM_002711467	MAMM1	Lagomorpha	Oryctolagus cuniculus	Placental-1-Lagomorpha	Mammalia	Euarchontoglires	Lagomorpha	Leporidae	Oryctolagus	XP_002711513.1	
+XM_014732932	MAMM1	Perissodactyla	Equus caballus	Placental-1-Perissodactyla	Mammalia	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_014588418.2 	
+XM_017656413	MAMM1	Pholidota	Manis javanica	Placental-1-Pholidota	Mammalia	Laurasiatheria	Pholidota	Manidae	Manis	XP_017511902.1 	
+XM_003735566	MAMM1	Primates	Callithrix jacchus	Placental-1-Primates	Mammalia	Euarchontoglires	Primates	Cebidae	Callithrix	XP_003735614.2	
+XM_017503063	MAMM1	Primates	Cebus capucinus	Placental-1-Primates	Mammalia	Euarchontoglires	Primates	Cebidae	Cebus	XM_017503063	
+XM_015123826	MAMM1	Primates	Macaca mulatta	Placental-1-Primates	Mammalia	Euarchontoglires	Primates	Cercopithecidae	Macaca	XP_014979312.1	
+XM_003802138	MAMM1	Primates	Otolemur garnettii	Placental-1-Primates	Mammalia	Euarchontoglires	Primates	Galagidae	Otolemur	XP_003802186.1	
+NM_172140	MAMM1	Primates	Homo sapiens	Placental-1-Primates	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_172140.1	xE
+IFNLB1_Psi_Hsa	MAMM1	Primates	Homo sapiens	Placental-1-Primates	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NULL	
+XM_012657018	MAMM1	Primates	Propithecus coquereli	Placental-1-Primates	Mammalia	Euarchontoglires	Primates	Indriidae	Propithecus	XM_012657018	
+XM_008057587	MAMM1	Primates	Carlito syrichta	Placental-1-Primates	Mammalia	Euarchontoglires	Primates	Tarsiidae	Tarsius	XP_008055778.1	
+XM_014587715	MAMM1	Scandentia	Tupaia chinensis	Placental-1-Scandentia	Mammalia	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_014443201.2	
+XM_004388217	MAMM1	Sirenia	Trichechus manatus	Placental-1-Sirenia	Mammalia	Afrotheria	Sirenia	Trichechidae	Trichechus	XP_004388274.1	
+XM_007958477	MAMM1	Tubulidentata	Orycteropus afer	Placental-1-Tubulidentata	Mammalia	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	XP_007956668.1	xA
+XM_011225064	MAMM1_rtg	Laurasiatheria-rtg	Ailuropoda melanoleuca	Placental-1-Laurasiatheria-rtg	Mammalia	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011223366.1 	xL
+retroIFNL3	MAMM1_rtg	?-Chiroptera	Myotis lucifugus	iPlacental-2-Myotis-rtg	Mammalia	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	NW_005871296.1	
+XM_005886334	MAMM1_rtg	Myotis-rtg	Myotis brandtii	Placental-2-Myotis-rtg	Mammalia	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	XM_005886334.2	
+XM_004687048	MAMM1_rtg	Laurasiatheria-rtg	Condylura cristata	Placental-1-Laurasiatheria-rtg	Mammalia	Laurasiatheria	Insectivora	Talpidae	Condylura	XP_004687105.1 	
+XM_023626728	MAMM1_rtg	Laurasiatheria-rtg	Equus caballus	Placental-1-Laurasiatheria-rtg	Mammalia	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_023482496.1	
+retroIFNL1a	MAMM1_rtg	Laurasiatheria-rtg	Ceratotherium	Placental-1-Laurasiatheria-rtg	Mammalia	Laurasiatheria	Perissodactyla	Rhinocerotidae	Ceratotherium	NULL	
+XM_017651898	MAMM1_rtg	Laurasiatheria-rtg	Manis javanica	Placental-1-Laurasiatheria-rtg	Mammalia	Laurasiatheria	Pholidota	Manidae	Manis	XP_017507387.1	
+XM_007945560	MAMM1_rtg	Tubulidentata-rtg	Orycteropus afer	Placental-1-Tubulidentata-rtg	Mammalia	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	XP_007943751.1	xA
+NM_001142837	MAMM1_rtg	Laurasiatheria-rtg	Sus scrofa	Placental-1-Laurasiatheria-rtg	Mammalia	Laurasiatheria	Unclassified	Suidae	Sus	NP_001136309.1	
+XM_002927388	MAMM2	Carnivora	Ailuropoda melanoleuca	Placental-2-Carnivora	Mammalia	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_002927434.1	xL
+XM_007179988	MAMM2	Cetacea	Balaenoptera acutorostrata	Placental-2-Cetacea	Mammalia	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_007180050.1 	
+XM_016165227	MAMM2	Chiroptera	Rousettus aegyptiacus	Placental-2-Chiroptera	Mammalia	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	XP_016020713.1	
+XM_023760577	MAMM2	Chiroptera	Myotis lucifugus	Placental-2-Chiroptera	Mammalia	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	XP_023616345.1	
+XM_007523978	MAMM2	Insectivora	Erinaceus europaeus	Placental-2-Insectivora	Mammalia	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524040.1	
+XM_005596230	MAMM2	Laurasiatheria	Equus caballus	Placental-2-Laurasiatheria	Mammalia	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_005596287.2	
+XM_017967394	MAMM2	Cebidae	Callithrix jacchus	Placental-2-Cebidae	Mammalia	Euarchontoglires	Primates	Cebidae	Callithrix	XP_017822883.1	
+XM_017503063	MAMM2	Cebidae	Cebus capucinus	Placental-2-Cebidae	Mammalia	Euarchontoglires	Primates	Cebidae	Cebus	XM_017503063	
+XM_001086865	MAMM2	Cercopithecidae	Macaca mulatta	Placental-2-Cercopithecidae	Mammalia	Euarchontoglires	Primates	Cercopithecidae	Macaca	XP_001086865.3	
+XM_003802158	MAMM2	Galagidae	Otolemur garnettii	Placental-2-Galagidae	Mammalia	Euarchontoglires	Primates	Galagidae	Otolemur	XP_003802206.1	
+NC_000019	MAMM2	Hominini-1	Homo sapiens	Placental-2-Hominini-1	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NC_000019.1	
+NM_001346937	MAMM2	Hominini-2	Homo sapiens	Placental-2-Hominini-2	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
+XM_008057580	MAMM2	Tarsiidae	Carlito syrichta	Placental-2-Tarsiidae	Mammalia	Euarchontoglires	Primates	Tarsiidae	Tarsius	XP_008055771.1	
+XM_003420833	MAMM2	Elephantidae	Loxodonta africana	Placental-2-Elephantidae	Mammalia	Afrotheria	Proboscidea	Elephantidae	Loxodonta	XP_003420881.2	xA
+XM_013077381	MAMM2	Rodentia	Heterocephalus glaber	Placental-2-Rodentia	Mammalia	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	XP_012932835.1	
+XM_020156959	MAMM2	Rodentia	Castor canadensis	Placental-2-Rodentia	Mammalia	Euarchontoglires	Rodentia	Castoridae	Castor	XP_020012548.1	
+XM_006986319	MAMM2	Rodentia	Peromyscus maniculatus 	Placental-2-Rodentia	Mammalia	Euarchontoglires	Rodentia	Cricetidae	Peromyscus	XP_006986381.1 	
+XM_004636884	MAMM2	Rodentia	Octodon degus	Placental-2-Rodentia	Mammalia	Euarchontoglires	Rodentia	Octodontidae	Octodon	XP_004636941.1	
+XM_017803384	MAMM2	Rodentia	Nannospalax galili	Placental-2-Rodentia	Mammalia	Euarchontoglires	Rodentia	Spalacidae	Nannospalax	XP_017658873.1 	
+XM_006140390	MAMM2	Scandentia	Tupaia chinensis	Placental-2-Scandentia	Mammalia	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_006140452.1	
+XM_025268342	MAMM2	Artiodactyl	Bubalus bubalis	Placental-2-Artiodactyl	Mammalia	Laurasiatheria	Unclassified	Bovidae	Bubalus	XP_025124127.1 	
+XM_010985162	MAMM2	Artiodactyl	Camelus dromedarius	Placental-2-Artiodactyl	Mammalia	Laurasiatheria	Unclassified	Camelidae	Camelus	XP_010983464.1 	
+XM_021097830	MAMM2	Artiodactyl	Sus scrofa	Placental-2-Artiodactyl	Mammalia	Laurasiatheria	Unclassified	Suidae	Sus	XP_020953489.1	
+XM_011234954	MAMM4		Ailuropoda melanoleuca	Carnivora	Mammalia	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233256.1	xL
+XM_019431989 	MAMM4		Panthera pardus 	Carnivora	Mammalia	Laurasiatheria	Carnivora	Felidae	Panthera		
+XM_019431940 	MAMM4		Panthera pardus 	Carnivora	Mammalia	Laurasiatheria	Carnivora	Felidae	Panthera		
+XM_004396490 	MAMM4		Odobenus rosmarus divergens	Carnivora	Mammalia	Laurasiatheria	Carnivora	Odobenidae	Odobenus		
+XM_021700959 	MAMM4		Neomonachus schauinslandi	Carnivora	Mammalia	Laurasiatheria	Carnivora	Phocidae	Monachus		
+XM_012533543	MAMM4		Orcinus orca	Cetacea	Mammalia	Laurasiatheria	Cetacea	Delphinidae	Orcinus	XP_012388997.1	
+XM_028165945 	MAMM4		Balaenoptera acutorostrata scammoni 	Cetacea	Mammalia	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera		
+XM_007180047 	MAMM4		Balaenoptera acutorostrata scammoni 	Cetacea	Mammalia	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera		
+XM_007180046	MAMM4		Balaenoptera acutorostrata scammoni 	Cetacea	Mammalia	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera		
+XM_016165225	MAMM4		Rousettus aegyptiacus	Chiroptera	Mammalia	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	XP_016020711.1 	
+XM_023760558	MAMM4		Myotis lucifugus	Chiroptera	Mammalia	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	XP_023616326.1	
+XM_019666268 	MAMM4		Hipposideros armiger	Chiroptera	Mammalia	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros		
+XM_027855301	MAMM4		Vombatus ursinus	Diprotodontia	Mammalia	Unclassified	Diprotodontia	Vombatidae	Vombatus	XM_027855301	xMa
+XM_007524025	MAMM4		Erinaceus europaeus	Insectivora	Mammalia	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524087.1 	
+XM_004617296	MAMM4		Sorex araneus	Insectivora	Mammalia	Laurasiatheria	Insectivora	Soricidae	Sorex		
+XM_008257170	MAMM4		Oryctolagus cuniculus	Lagomorpha	Mammalia	Euarchontoglires	Lagomorpha	Leporidae	Oryctolagus	XP_008255392.1 	
+XM_007660152	MAMM4		Ornithorhynchus anatinus	Monotremata	Mammalia	Unclassified	Monotremata	Ornithorhynchidae	Ornithorhynchus	XP_007658342.2	xMo
+XM_008987976	MAMM4		Callithrix jacchus	Primates	Mammalia	Euarchontoglires	Primates	Cebidae	Callithrix	XP_008986224.1	
+XM_015123824	MAMM4		Macaca mulatta	Primates	Mammalia	Euarchontoglires	Primates	Cercopithecidae	Macaca	XP_014979310.2	
+NM_001276254	MAMM4		Homo sapiens	Primates	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_001276254.2	xE
+XM_017503065 	MAMM4		Cebus capucinus	Primates	Mammalia	Euarchontoglires	Primates	Cebidae	Cebus		
+XM_028839087 	MAMM4		Macaca mulatta 	Primates	Mammalia	Euarchontoglires	Primates	Cercopithecidae	Macaca		
+XM_019014912	MAMM4		Gorilla gorilla	Primates	Mammalia	Euarchontoglires	Primates	Hominidae	Gorilla		
+XM_008964691	MAMM4		Pan paniscus	Primates	Mammalia	Euarchontoglires	Primates	Hominidae	Pan		
+XM_008964650 	MAMM4		Pan paniscus	Primates	Mammalia	Euarchontoglires	Primates	Hominidae	Pan		
+XM_012496610 	MAMM4		Nomascus leucogenys	Primates	Mammalia	Euarchontoglires	Primates	Hylobatidae	Nomascus		
+IFNLA_Psi_Hsa	MAMM4	Primate_psi	Homo sapiens	Primates	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NULL	
+XM_010600326	MAMM4		Loxodonta africana	Proboscidea	Mammalia	Afrotheria	Proboscidea	Elephantidae	Loxodonta	XP_010598628.1 	xA
+XM_021239619	MAMM4		Heterocephalus glaber	Rodentia	Mammalia	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	XP_021095278.1	
+XM_020156960	MAMM4		Castor canadensis	Rodentia	Mammalia	Euarchontoglires	Rodentia	Castoridae	Castor	XP_020012549.1	
+XM_004636883	MAMM4		Octodon degus	Rodentia	Mammalia	Euarchontoglires	Rodentia	Octodontidae	Octodon	XP_004636940.1	
+XM_021239678	MAMM4		Heterocephalus glaber	Rodentia	Mammalia	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus		
+XM_021239619	MAMM4		Heterocephalus glaber	Rodentia	Mammalia	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus		
+XM_020156960 	MAMM4		Castor canadensis	Rodentia	Mammalia	Euarchontoglires	Rodentia	Castoridae	Castor		
+XM_013522287	MAMM4		Chinchilla lanigera	Rodentia	Mammalia	Euarchontoglires	Rodentia	Chinchillidae	Chinchilla		
+XM_005336481	MAMM4		Ictidomys tridecemlineatus	Rodentia	Mammalia	Euarchontoglires	Rodentia	Sciuridae	Ictidomys		
+XM_004636883 	MAMM4		Octodon degus	Rodentia	Mammalia	Euarchontoglires	Rodentia	Octodontidae	Octodon		
+XM_027765624	MAMM4		Tupaia chinensis	Scandentia	Mammalia	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_027621425.1	
+XM_027765624	MAMM4		Tree shrew	Scandentia	Mammalia	Euarchontoglires	Scandentia	Tupaiidae	Tupaia		
+XM_025268277	MAMM4		Bubalus bubalis	Unclassified	Mammalia	Laurasiatheria	Unclassified	Bovidae	Bubalus	XP_025124062.1	
+XM_013990503	MAMM4		Sus scrofa	Unclassified	Mammalia	Laurasiatheria	Unclassified	Suidae	Sus	XP_013845957.1 	
+XM_005219127 	MAMM4		Bos taurus	Unclassified	Mammalia	Laurasiatheria	Unclassified	Bovidae	Bos		
+XM_027855300	MARSUPIAL	Diprotodontia	Vombatus ursinus	Diprotodontia	Mammalia	Marsupials	Diprotodontia	Vombatidae	Vombatus	XP_027711101.1	xMa
+XM_001517881	MONOTREME	Monotremata	Ornithorhynchus anatinus	Monotremata	Mammalia	Marsupials	Monotremata	Ornithorhynchidae	Ornithorhynchus	XP_001517931.2	xMo
