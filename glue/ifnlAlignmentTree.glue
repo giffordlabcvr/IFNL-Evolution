@@ -1,46 +1,81 @@
   #~#~# Define constrained alignment tree 
   
-  ## Root alignment
-  create alignment AL_IFNL_MASTER -r REF_IFNLA_MASTER 
+  # Root alignment
+  create alignment AL_IFNL_ROOT -r REF_IFNL_MAMM1_MASTER 
 
 
-  ## Major branches
-  alignment AL_IFNL_MASTER 
+  # Major branches
+  alignment AL_IFNL_ROOT 
 
     add member --allSequences
+    
+	extract child AL_IFNL_AMPH --refName REF_IFNL_AMPH_MASTER
+	demote member AL_IFNL_AMPH --whereClause "sequence.class = 'AMPH'" 
+
+	extract child AL_IFNL_REPT1 --refName REF_IFNL_REPT1_MASTER
+	demote member AL_IFNL_REPT1 --whereClause "sequence.class = 'REPT1'" 
+
+	extract child AL_IFNL_REPT2 --refName REF_IFNL_REPT2_MASTER
+	demote member AL_IFNL_REPT2 --whereClause "sequence.class = 'REPT2'" 
+
+	extract child AL_IFNL_AVES --refName REF_IFNL_AVES_MASTER
+	demote member AL_IFNL_AVES --whereClause "sequence.class = 'AVES'" 
+
+	extract child AL_IFNL_MAMM --refName REF_IFNL_MAMM1_MASTER
+	demote member AL_IFNL_MAMM --whereClause "sequence.class = 'MAMM'" 
+			
+    exit
+
+
+  # Mammal branch
+  alignment AL_IFNL_MAMM
     
 	extract child AL_IFNL_MAMM4 --refName REF_IFNL_MAMM4_MASTER
-	demote member AL_IFNL_MAMM4 --whereClause "sequence.name = 'MAMM4'" 
+	demote member AL_IFNL_MAMM4 --whereClause "sequence.clade = 'A'" 
+
+	extract child AL_IFNL_MAMMB --refName REF_IFNL_MAMM1_MASTER
+	demote member AL_IFNL_MAMMB --whereClause "sequence.clade = 'B'" 
 			
-	extract child AL_IFNL_MAMM1 --refName REF_IFNL_MAMM1_MASTER	
-	demote member AL_IFNL_MAMM1 --whereClause "sequence.name = 'MAMM1'" 	
-	
-	extract child AL_IFNL_MAMM2 --refName REF_IFNL_MAMM2_MASTER	
-	demote member AL_IFNL_MAMM2 --whereClause "sequence.name = 'MAMM2'"
-	
-	extract child AL_IFNL_MAMM1 --refName REF_IFNL_MAMM1_MASTER	
-	demote member AL_IFNL_MAMM1 --whereClause "sequence.name = 'MAMM1'" 	
-    exit
-
-  ## The IFNL-B branch
-  alignment AL_IFNLB 
-
-    add member --allSequences
-	extract child AL_IFNLB_chiroptera --refName REF_IFNLA_MASTER
-	demote member AL_IFNLB_chiroptera --whereClause "sequence.name = 'ifnl-b-chiroptera'" 		
-    exit
-
-
-  #~#~# Derive constrained alignment segments from unconstrained alignments  
-
-  alignment AL_IFNL_MASTER
-    derive segments AL_IFNL_ROOT_UNCONSTRAINED -a --mergeStrategy OVERWRITE
     exit
     
-  alignment AL_IFNLA
-    derive segments AL_IFNLA_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+
+  # Mammal B branch    
+  alignment AL_IFNL_MAMMB 
+
+	#extract child AL_IFNL_MARSUPIAL --refName REF_IFNL_MARSUPIAL_MASTER	
+	#demote member AL_IFNL_MARSUPIAL --whereClause "sequence.gene_id = 'MARSUPIAL'" 	
+
+	extract child AL_IFNL_MAMM1 --refName REF_IFNL_MAMM1_MASTER	
+	demote member AL_IFNL_MAMM1 --whereClause "sequence.gene_id = 'MAMM1'" 	
+
+	extract child AL_IFNL_MAMM1_rtg --refName REF_IFNL_MAMM1_rtg_MASTER	
+	demote member AL_IFNL_MAMM1_rtg --whereClause "sequence.gene_id = 'MAMM1_rtg'" 	
+	
+	extract child AL_IFNL_MAMM2 --refName REF_IFNL_MAMM2_MASTER	
+	demote member AL_IFNL_MAMM2 --whereClause "sequence.gene_id = 'MAMM2'"
+	
     exit
 
-  alignment AL_IFNLB
-    derive segments AL_IFNLB_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+
+  # Mammal B1 branch    
+  alignment AL_IFNL_MAMM1 
+
+	#extract child AL_IFNLB_chiroptera --refName AL_IFNLB_chiroptera
+	#demote member AL_IFNLB_chiroptera --whereClause "sequence.name = 'ifnl-b-chiroptera'" 
+			
     exit
+
+
+  # Derive constrained alignment segments from unconstrained alignments  
+
+  #alignment AL_IFNL_ROOT
+  #  derive segments AL_IFNL_ROOT_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+  #  exit
+    
+  #alignment AL_IFNLA
+  #  derive segments AL_IFNLA_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+  #  exit
+
+  #alignment AL_IFNLB
+  #  derive segments AL_IFNLB_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+  #  exit

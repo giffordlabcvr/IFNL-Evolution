@@ -9,19 +9,30 @@
     </textFileColumn>
 
    <textFileColumn>
+        <header>Class</header>
+        <property>class</property>
+    </textFileColumn>
+    
+   <textFileColumn>
+        <header>Clade</header>
+        <property>clade</property>
+    </textFileColumn>
+    
+   <textFileColumn>
         <header>GeneID</header>
         <property>gene_id</property>
     </textFileColumn>
 
+   <textFileColumn>
+        <header>Subclade</header>
+        <property>subclade</property>
+    </textFileColumn>
+    
     <textFileColumn>
         <header>full_name</header>
         <property>name</property>
     </textFileColumn>
 
-   <textFileColumn>
-        <header>Clade</header>
-        <property>clade</property>
-    </textFileColumn>
 
     <skipMissing>true</skipMissing>
 

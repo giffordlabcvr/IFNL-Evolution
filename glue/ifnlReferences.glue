@@ -1,14 +1,13 @@
 
 
   # IFNL amphibian 
-  #create reference REF_IFNL_AMPH_MASTER               ncbi-refseqs NM_001171763  #  Xenopus
+  create reference REF_IFNL_AMPH_MASTER               ncbi-refseqs NM_001171763  #  Xenopus
   #create reference REF_IFNL_AMPH_Xenopus1             ncbi-refseqs NM_001171763
   #create reference REF_IFNL_AMPH_Xenopus2             ncbi-refseqs NM_001171763
 
   # IFNL reptile 1
-  #create reference REF_IFNL_REPT1_MASTER              ncbi-refseqs NM_001276254  # 
+  create reference REF_IFNL_REPT1_MASTER              ncbi-refseqs XM_025202241  # 
   #create reference REF_IFNL_REPT1_Pelodiscus          ncbi-refseqs NM_001276254  
-  create reference REF_IFNL_REPT1_Alligator           ncbi-refseqs XM_025202241  
    
   # IFNL reptile 2
   create reference REF_IFNL_REPT2_MASTER              ncbi-refseqs XM_025186888  # Pelodiscus
