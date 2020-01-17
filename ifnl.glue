@@ -21,7 +21,6 @@ project ifnl
 
   # Import NCBI sources 
   import source sources/ncbi-refseqs/
-  module genbankXmlPopulator populate
 
   # Import metadata for IFNL reference sequences
   module ifnlSideDataImporter 

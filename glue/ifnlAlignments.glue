@@ -8,7 +8,5 @@
     import AL_IFNLA_UNCONSTRAINED -f alignments/internal/ifnla/ifnla-mrna.fna
     import AL_IFNLB_UNCONSTRAINED -f alignments/internal/ifnlb/ifnlb-mrna.fna
 
-
-
     exit
 
