@@ -32,10 +32,10 @@ project ifnl
   run file glue/ifnlReferences.glue
 
   # Import IFNL-1 alignments 
-  run file glue/ifnlAlignments.glue
+  #run file glue/ifnlAlignments.glue
 
   # Import alignment tree
-  run file glue/ifnlAlignmentTree.glue
+  #run file glue/ifnlAlignmentTree.glue
 
   # Validate
   validate

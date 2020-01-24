@@ -1,7 +1,7 @@
   #~#~# Define constrained alignment tree 
   
   # Root alignment
-  create alignment AL_IFNL_ROOT -r REF_IFNL_MAMM1_MASTER 
+  create alignment AL_IFNL_ROOT -r REF_IFNLb_Mammal_MASTER 
 
 
   # Major branches
@@ -9,60 +9,39 @@
 
     add member --allSequences
     
-	extract child AL_IFNL_AMPH --refName REF_IFNL_AMPH_MASTER
-	demote member AL_IFNL_AMPH --whereClause "sequence.class = 'AMPH'" 
+	extract child AL_IFNLb_AMPH --refName REF_IFNLb_Anura_MASTER
+	demote member AL_IFNLb_AMPH --whereClause "sequence.class = 'IFNL-Amphibian'" 
 
-	extract child AL_IFNL_REPT1 --refName REF_IFNL_REPT1_MASTER
-	demote member AL_IFNL_REPT1 --whereClause "sequence.class = 'REPT1'" 
+	extract child AL_IFNLb_REPT1 --refName REF_IFNLb_Alligator_MASTER
+	demote member AL_IFNLb_REPT1 --whereClause "sequence.class = 'IFNL-Reptile'" 
+	
+	extract child AL_IFNLb_AVES    --refName REF_IFNLb_Aves_MASTER
+	demote member AL_IFNLb_AVES    --whereClause "sequence.class = 'IFNL-Aves'" 
 
-	extract child AL_IFNL_REPT2 --refName REF_IFNL_REPT2_MASTER
-	demote member AL_IFNL_REPT2 --whereClause "sequence.class = 'REPT2'" 
+	extract child AL_IFNLb_MAMMAL --refName REF_IFNLb_Mammal_MASTER
+	demote member AL_IFNLb_MAMMAL --whereClause "sequence.class = 'IFNL-Mammal'" 
 
-	extract child AL_IFNL_AVES --refName REF_IFNL_AVES_MASTER
-	demote member AL_IFNL_AVES --whereClause "sequence.class = 'AVES'" 
+	extract child AL_IFNLa_MAMMAL --refName REF_IFNLa_Mammal_MASTER
+	demote member AL_IFNLa_MAMMAL --whereClause "sequence.class = 'IFNLa-Mammal'" 
 
-	extract child AL_IFNL_MAMM --refName REF_IFNL_MAMM1_MASTER
-	demote member AL_IFNL_MAMM --whereClause "sequence.class = 'MAMM'" 
-			
-    exit
-
-
-  # Mammal branch
-  alignment AL_IFNL_MAMM
-    
-	extract child AL_IFNL_MAMM4 --refName REF_IFNL_MAMM4_MASTER
-	demote member AL_IFNL_MAMM4 --whereClause "sequence.clade = 'A'" 
-
-	extract child AL_IFNL_MAMMB --refName REF_IFNL_MAMM1_MASTER
-	demote member AL_IFNL_MAMMB --whereClause "sequence.clade = 'B'" 
+	#extract child AL_IFNLa_SERPENTES --refName REF_IFNLa_Serpentes_MASTER
+	#demote member AL_IFNLa_SERPENTES --whereClause "sequence.class = 'IFNLa-Reptile'" 
 			
     exit
     
 
   # Mammal B branch    
-  alignment AL_IFNL_MAMMB 
+  alignment AL_IFNLb_MAMMAL
 
-	#extract child AL_IFNL_MARSUPIAL --refName REF_IFNL_MARSUPIAL_MASTER	
-	#demote member AL_IFNL_MARSUPIAL --whereClause "sequence.gene_id = 'MARSUPIAL'" 	
+	extract child AL_IFNLb_MARSUPIAL --refName REF_IFNLb_Mammal_1_marsupial	
+	demote member AL_IFNLb_MARSUPIAL --whereClause "sequence.gene_id = 'MARSUPIAL'" 	
 
-	extract child AL_IFNL_MAMM1 --refName REF_IFNL_MAMM1_MASTER	
-	demote member AL_IFNL_MAMM1 --whereClause "sequence.gene_id = 'MAMM1'" 	
+	extract child AL_IFNLb_MAMMAL1 --refName REF_IFNLb_Mammal_MASTER	
+	demote member AL_IFNLb_MAMMAL1 --whereClause "sequence.gene_id = 'MAMM1'" 	
 	
-	extract child AL_IFNL_MAMM2 --refName REF_IFNL_MAMM2_MASTER	
-	demote member AL_IFNL_MAMM2 --whereClause "sequence.gene_id = 'MAMM2'"
+	extract child AL_IFNLb_MAMMAL2 --refName REF_IFNLb_Mammal_2_MASTER	
+	demote member AL_IFNLb_MAMMAL2 --whereClause "sequence.gene_id = 'MAMM2'"
 	
-    exit
-
-
-  # Mammal B1 branch    
-  alignment AL_IFNL_MAMM1 
-
-	extract child AL_IFNL_MAMM1_rtg --refName REF_IFNL_MAMM1_rtg_MASTER	
-	demote member AL_IFNL_MAMM1_rtg --whereClause "sequence.gene_id = 'MAMM1_rtg'" 	
-
-	#extract child AL_IFNLB_chiroptera --refName AL_IFNLB_chiroptera
-	#demote member AL_IFNLB_chiroptera --whereClause "sequence.name = 'ifnl-b-chiroptera'" 
-			
     exit
 
 
@@ -71,11 +50,18 @@
   alignment AL_IFNL_ROOT
     derive segments AL_IFNL_ROOT_UNCONSTRAINED -a --mergeStrategy OVERWRITE
     exit
-    
-  alignment AL_IFNL_MAMM4
-    derive segments AL_IFNLA_UNCONSTRAINED -a --mergeStrategy OVERWRITE
-    exit
 
-  alignment AL_IFNL_MAMMB
+  alignment AL_IFNLb_MAMMAL
     derive segments AL_IFNLB_UNCONSTRAINED -a --mergeStrategy OVERWRITE
     exit
+    
+  alignment AL_IFNLa_MAMMAL
+    derive segments AL_IFNLA_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+    exit
+    
+    
+    
+    
+    
+    
+    
