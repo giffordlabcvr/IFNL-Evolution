@@ -32,7 +32,7 @@ project ifnl
   # Create references
   run file glue/ifnlReferences.glue
 
-  # Define features
+  # Define feature locations
   run file glue/ifnlExplicitFeatureLocations.glue
 
   # Import alignments 
