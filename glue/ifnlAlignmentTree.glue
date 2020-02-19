@@ -33,7 +33,7 @@
   # Mammal B branch    
   alignment AL_IFNLb_MAMMAL
 
-	extract child AL_IFNLb_MARSUPIAL --refName REF_IFNLb_Mammal_1_marsupial	
+	extract child AL_IFNLb_MARSUPIAL --refName REF_IFNLb_Mammal_Marsupial	
 	demote member AL_IFNLb_MARSUPIAL --whereClause "sequence.gene_id = 'MARSUPIAL'" 	
 
 	extract child AL_IFNLb_MAMMAL1 --refName REF_IFNLb_Mammal_MASTER	
