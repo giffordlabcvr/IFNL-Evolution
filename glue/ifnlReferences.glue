@@ -13,9 +13,9 @@
   #~# IFNLb main subclades
   create reference REF_IFNLb_Mammal_1_MASTER        ncbi-refseqs NM_172140     # Human IFNLb1 
   create reference REF_IFNLb_Mammal_2_MASTER        ncbi-refseqs NM_172138     # Human IFNLb2 
+  create reference REF_IFNLb_Mammal_Marsupial       ncbi-refseqs XM_027855300  # Monodelphis   
  
  #~# IFNLb 1 species group reference sequences
-  create reference REF_IFNLb_Mammal_1_marsupial     ncbi-refseqs XM_027855300  # Monodelphis   
   create reference REF_IFNLb_Mammal_1_afrotheria    ncbi-refseqs XM_006871441  # Elephant   
   create reference REF_IFNLb_Mammal_1_primate       ncbi-refseqs NM_172140     # Human   
   create reference REF_IFNLb_Mammal_1_rodent        ncbi-refseqs XM_008854037  # Nanospallax   
