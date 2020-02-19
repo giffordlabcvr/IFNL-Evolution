@@ -32,10 +32,13 @@ project ifnl
   # Create references
   run file glue/ifnlReferences.glue
 
-  # Import IFNL-1 alignments 
+  # Define features
+  run file glue/ifnlExplicitFeatureLocations.glue
+
+  # Import alignments 
   run file glue/ifnlAlignments.glue
 
-  # Import alignment tree
+  # Define constrained alignment tree
   run file glue/ifnlAlignmentTree.glue
 
   # Validate

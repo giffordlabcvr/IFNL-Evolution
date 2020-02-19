@@ -1,18 +1,18 @@
 
   #~# IFNLb locus master reference sequences
   create reference REF_IFNLb_Mammal_MASTER          ncbi-refseqs NM_172140     # Human
-  create reference REF_IFNLb_Testudines_MASTER      ncbi-refseqs XM_025186888  # Pelodiscus
-  create reference REF_IFNLb_Anura_MASTER           ncbi-refseqs NM_001171763  # Xenopus
-  create reference REF_IFNLb_Alligator_MASTER       ncbi-refseqs XM_025202241  # Alligator  
-  create reference REF_IFNLb_Aves_MASTER            ncbi-refseqs NM_001310792  # Mallard
+  create reference REF_IFNLb_Testudines             ncbi-refseqs XM_025186888  # Pelodiscus
+  create reference REF_IFNLb_Anura                  ncbi-refseqs NM_001171763  # Xenopus
+  create reference REF_IFNLb_Alligator              ncbi-refseqs XM_025202241  # Alligator  
+  create reference REF_IFNLb_Aves                   ncbi-refseqs NM_001310792  # Mallard
 
   #~# IFNLa locus master reference sequences  
-  create reference REF_IFNLa_Mammal_MASTER          ncbi-refseqs NM_001276254  # Human
-  #create reference REF_IFNLa_Serpentes_MASTER      ncbi-refseqs XM_026688830  # Tiger snake
+  create reference REF_IFNLa_Mammal                 ncbi-refseqs NM_001276254  # Human
+  #create reference REF_IFNLa_Serpentes             ncbi-refseqs XM_026688830  # Tiger snake
 
   #~# IFNLb main subclades
-  create reference REF_IFNLb_Mammal_1_MASTER        ncbi-refseqs NM_172140     # Human IFNLb1 
-  create reference REF_IFNLb_Mammal_2_MASTER        ncbi-refseqs NM_172138     # Human IFNLb2 
+  create reference REF_IFNLb_Mammal_1               ncbi-refseqs NM_172140     # Human IFNLb1 
+  create reference REF_IFNLb_Mammal_2               ncbi-refseqs NM_172138     # Human IFNLb2 
   create reference REF_IFNLb_Mammal_Marsupial       ncbi-refseqs XM_027855300  # Monodelphis   
  
  #~# IFNLb 1 species group reference sequences

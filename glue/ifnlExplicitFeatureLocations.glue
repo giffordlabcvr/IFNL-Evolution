@@ -1,10 +1,15 @@
   # Define features on MASTER refseq 
   
-  reference REF_MASTER_B_AF033819
+  reference REF_IFNLb_Mammal_MASTER
 
-    add feature-location whole_genome
-    feature-location whole_genome
-      add segment 1 9181
+    add feature-location mRNA
+    feature-location mRNA
+      add segment 1 775
+      exit
+
+    add feature-location orf
+    feature-location orf
+      add segment 16 618
       exit
             
   exit 
