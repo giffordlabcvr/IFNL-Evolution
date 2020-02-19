@@ -56,13 +56,13 @@
     exit
 
   alignment AL_IFNLb_MAMMAL
-    derive segments AL_IFNLB_UNCONSTRAINED -a
-    #derive segments AL_IFNLB_UNCONSTRAINED -a --existingMembersOnly
+    #derive segments AL_IFNLB_UNCONSTRAINED -a
+    derive segments AL_IFNLB_UNCONSTRAINED -a --existingMembersOnly
     exit
     
   alignment AL_IFNLa_MAMMAL
-    derive segments AL_IFNLA_UNCONSTRAINED -a
-    #derive segments AL_IFNLA_UNCONSTRAINED -a --existingMembersOnly
+    #derive segments AL_IFNLA_UNCONSTRAINED -a
+    derive segments AL_IFNLA_UNCONSTRAINED -a --existingMembersOnly
     exit
     
     
