@@ -7,7 +7,7 @@
     <GBSeq_moltype>mRNA</GBSeq_moltype>
     <GBSeq_topology>linear</GBSeq_topology>
     <GBSeq_division>ROD</GBSeq_division>
-    <GBSeq_update-date>11-AUG-2016</GBSeq_update-date>
+    <GBSeq_update-date>24-JUN-2019</GBSeq_update-date>
     <GBSeq_create-date>21-AUG-2014</GBSeq_create-date>
     <GBSeq_definition>PREDICTED: Nannospalax galili interferon lambda-1 (LOC103750791), mRNA</GBSeq_definition>
     <GBSeq_primary-accession>XM_008854037</GBSeq_primary-accession>
@@ -19,12 +19,11 @@
     <GBSeq_project>PRJNA254049</GBSeq_project>
     <GBSeq_keywords>
       <GBKeyword>RefSeq</GBKeyword>
-      <GBKeyword>includes ab initio</GBKeyword>
     </GBSeq_keywords>
     <GBSeq_source>Nannospalax galili (Upper Galilee mountains blind mole rat)</GBSeq_source>
     <GBSeq_organism>Nannospalax galili</GBSeq_organism>
-    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha; Muroidea; Spalacidae; Spalacinae; Nannospalax</GBSeq_taxonomy>
-    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NW_008355971.1) annotated using gene prediction method: Gnomon.~Also see:~ Documentation of NCBI's Annotation Process~; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Version :: Nannospalax galili Annotation Release 101 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 7.1 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##; ; ##RefSeq-Attributes-START## ; ab initio :: 1% of CDS bases ; ##RefSeq-Attributes-END##</GBSeq_comment>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi; Muroidea; Spalacidae; Spalacinae; Nannospalax</GBSeq_taxonomy>
+    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NW_008355971.1) annotated using gene prediction method: Gnomon.~Also see:~ Documentation of NCBI's Annotation Process~; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Name :: Nannospalax galili Annotation Release 102 ; Annotation Version :: 102 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 8.2 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##</GBSeq_comment>
     <GBSeq_feature-table>
       <GBFeature>
         <GBFeature_key>source</GBFeature_key>
@@ -88,7 +87,7 @@
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>note</GBQualifier_name>
-            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 11 Proteins, and 24% coverage of the annotated genomic feature by RNAseq alignments</GBQualifier_value>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 19 Proteins, and 24% coverage of the annotated genomic feature by RNAseq alignments</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>db_xref</GBQualifier_name>

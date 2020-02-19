@@ -7,7 +7,7 @@
     <GBSeq_moltype>mRNA</GBSeq_moltype>
     <GBSeq_topology>linear</GBSeq_topology>
     <GBSeq_division>PRI</GBSeq_division>
-    <GBSeq_update-date>23-APR-2019</GBSeq_update-date>
+    <GBSeq_update-date>16-FEB-2020</GBSeq_update-date>
     <GBSeq_create-date>08-NOV-2016</GBSeq_create-date>
     <GBSeq_definition>Homo sapiens interferon lambda 3 (IFNL3), transcript variant 1, mRNA</GBSeq_definition>
     <GBSeq_primary-accession>NM_001346937</GBSeq_primary-accession>
@@ -30,100 +30,114 @@
         <GBReference_reference>1</GBReference_reference>
         <GBReference_position>1..629</GBReference_position>
         <GBReference_authors>
-          <GBAuthor>Aytekin FY</GBAuthor>
-          <GBAuthor>Barut HS</GBAuthor>
-          <GBAuthor>Rustemoglu A</GBAuthor>
-          <GBAuthor>Atay A</GBAuthor>
-          <GBAuthor>Gunal O</GBAuthor>
-          <GBAuthor>Duygu F</GBAuthor>
+          <GBAuthor>Moghimi M</GBAuthor>
+          <GBAuthor>Tavakoli F</GBAuthor>
+          <GBAuthor>Doosti M</GBAuthor>
+          <GBAuthor>Ahmadi-Vasmehjani A</GBAuthor>
+          <GBAuthor>Akhondi-Meybodi M</GBAuthor>
         </GBReference_authors>
-        <GBReference_title>Factors related to fatalities and clinical progression of Crimean-Congo hemorrhagic fever patients and the effects of IL 28-B gene polymorphism</GBReference_title>
-        <GBReference_journal>Arch. Virol. 164 (2), 547-557 (2019)</GBReference_journal>
+        <GBReference_title>Correlation between interleukin-28 gene polymorphism with interleukin-28 cytokine levels and viral genotypes among HCV patients in Yazd, Iran</GBReference_title>
+        <GBReference_journal>BMC Res Notes 12 (1), 626 (2019)</GBReference_journal>
         <GBReference_xref>
           <GBXref>
             <GBXref_dbname>doi</GBXref_dbname>
-            <GBXref_id>10.1007/s00705-018-4106-1</GBXref_id>
+            <GBXref_id>10.1186/s13104-019-4651-z</GBXref_id>
           </GBXref>
         </GBReference_xref>
-        <GBReference_pubmed>30478788</GBReference_pubmed>
-        <GBReference_remark>GeneRIF: The IL 28-B rs12979860 polymorphism was not found to have a statistically significant correlation with fatality or symptoms indicating serious clinical progression in Crimean-Congo hemorrhagic fever patients.</GBReference_remark>
+        <GBReference_pubmed>31551080</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: Findings indicate a significant association in the distribution of CC genotype and C allele of interleukin-28B (IL-28B) gene at rs12979860 SNP of IL-28B and spontaneous hepatitis C viral clearance rates.; Publication Status: Online-Only</GBReference_remark>
       </GBReference>
       <GBReference>
         <GBReference_reference>2</GBReference_reference>
         <GBReference_position>1..629</GBReference_position>
         <GBReference_authors>
-          <GBAuthor>Ali Q</GBAuthor>
-          <GBAuthor>Jamal A</GBAuthor>
-          <GBAuthor>Imran M</GBAuthor>
-          <GBAuthor>Ullah S</GBAuthor>
-          <GBAuthor>Kalam I</GBAuthor>
-          <GBAuthor>Ullah S</GBAuthor>
-          <GBAuthor>Waqar AB</GBAuthor>
+          <GBAuthor>Qin S</GBAuthor>
+          <GBAuthor>Wang J</GBAuthor>
+          <GBAuthor>Zhou C</GBAuthor>
+          <GBAuthor>Xu Y</GBAuthor>
+          <GBAuthor>Zhang Y</GBAuthor>
+          <GBAuthor>Wang X</GBAuthor>
+          <GBAuthor>Wang S</GBAuthor>
         </GBReference_authors>
-        <GBReference_title>Correlation of IL28B rs12979860 genotype and gender with spontaneous clearance of HCV infection: a Pakistani cross-section study</GBReference_title>
-        <GBReference_journal>Per Med 15 (6), 495-502 (2018)</GBReference_journal>
+        <GBReference_title>The influence of interleukin 28B polymorphisms on the risk of hepatocellular carcinoma among patients with HBV or HCV infection: An updated meta-analysis</GBReference_title>
+        <GBReference_journal>Medicine (Baltimore) 98 (38), e17275 (2019)</GBReference_journal>
         <GBReference_xref>
           <GBXref>
             <GBXref_dbname>doi</GBXref_dbname>
-            <GBXref_id>10.2217/pme-2018-0016</GBXref_id>
+            <GBXref_id>10.1097/MD.0000000000017275</GBXref_id>
           </GBXref>
         </GBReference_xref>
-        <GBReference_pubmed>30398404</GBReference_pubmed>
-        <GBReference_remark>GeneRIF: Our results showed that IL28B rs12979860 CT was critically involved in spontaneous clearance of HCV infection and there is an independent role of the favorable IL28B rs12979860 CT genotype and female gender with spontaneous clearance of Hepatitis C Virus infection in the Pakistani population.</GBReference_remark>
+        <GBReference_pubmed>31568008</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: meta-analysis of influence of SNPs on risk of hepatocellular carcinoma among patients with HBV or HCV infection</GBReference_remark>
       </GBReference>
       <GBReference>
         <GBReference_reference>3</GBReference_reference>
         <GBReference_position>1..629</GBReference_position>
         <GBReference_authors>
-          <GBAuthor>Chen JY</GBAuthor>
-          <GBAuthor>Wang CM</GBAuthor>
-          <GBAuthor>Chen TD</GBAuthor>
-          <GBAuthor>Jan Wu YJ</GBAuthor>
-          <GBAuthor>Lin JC</GBAuthor>
-          <GBAuthor>Lu LY</GBAuthor>
-          <GBAuthor>Wu J</GBAuthor>
+          <GBAuthor>Zhao Z</GBAuthor>
+          <GBAuthor>Qin Z</GBAuthor>
+          <GBAuthor>Zhou L</GBAuthor>
+          <GBAuthor>Xiang L</GBAuthor>
+          <GBAuthor>You J</GBAuthor>
+          <GBAuthor>Cao R</GBAuthor>
+          <GBAuthor>Wang H</GBAuthor>
+          <GBAuthor>Wang B</GBAuthor>
+          <GBAuthor>Li M</GBAuthor>
         </GBReference_authors>
-        <GBReference_title>Interferon-lambda3/4 genetic variants and interferon-lambda3 serum levels are biomarkers of lupus nephritis and disease activity in Taiwanese</GBReference_title>
-        <GBReference_journal>Arthritis Res. Ther. 20 (1), 193 (2018)</GBReference_journal>
+        <GBReference_title>The impact of IFNL3 genotype on interferon treatment outcome in patients chronically infected with hepatitis B virus: A meta-analysis</GBReference_title>
+        <GBReference_journal>Microb. Pathog. 134, 103598 (2019)</GBReference_journal>
         <GBReference_xref>
           <GBXref>
             <GBXref_dbname>doi</GBXref_dbname>
-            <GBXref_id>10.1186/s13075-018-1683-z</GBXref_id>
+            <GBXref_id>10.1016/j.micpath.2019.103598</GBXref_id>
           </GBXref>
         </GBReference_xref>
-        <GBReference_pubmed>30157968</GBReference_pubmed>
-        <GBReference_remark>GeneRIF: Interferon lambda 3 (IFN-lambda3)/interferon lambda 4 (IFNlambda4) genetic variants play a unique role in the development of lupus nephritis and systemic lupus erythematosus (SLE).; Publication Status: Online-Only</GBReference_remark>
+        <GBReference_pubmed>31201901</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: IFNL3 may play a crucial role in the IFN-based treatment of chronic hepatitis B, especially in HBeAg positive group.
+Review article</GBReference_remark>
       </GBReference>
       <GBReference>
         <GBReference_reference>4</GBReference_reference>
         <GBReference_position>1..629</GBReference_position>
         <GBReference_authors>
-          <GBAuthor>Semenov,S.I.</GBAuthor>
-          <GBAuthor>Fedorov,A.L.</GBAuthor>
-          <GBAuthor>Osakovsky,V.L.</GBAuthor>
-          <GBAuthor>Maksimova,S.S.</GBAuthor>
-          <GBAuthor>Platonov,F.A.</GBAuthor>
+          <GBAuthor>Chmelova K</GBAuthor>
+          <GBAuthor>Frankova S</GBAuthor>
+          <GBAuthor>Jirsa M</GBAuthor>
+          <GBAuthor>Neroldova M</GBAuthor>
+          <GBAuthor>Sticova E</GBAuthor>
+          <GBAuthor>Merta D</GBAuthor>
+          <GBAuthor>Senkerikova R</GBAuthor>
+          <GBAuthor>Trunecka P</GBAuthor>
+          <GBAuthor>Spicak J</GBAuthor>
+          <GBAuthor>Sperl J</GBAuthor>
         </GBReference_authors>
-        <GBReference_title>[FREQUENCY OF OCCURRENCE OF POLYMORPHIC VARIANTS OF IL28B GENE AND GENOTYPES OF HEPATITIS C VIRUS IN POPULATION OF YAKUTIA: CLINICAL OUTCOMES]</GBReference_title>
-        <GBReference_journal>Zh. Mikrobiol. Epidemiol. Immunobiol. (2), 86-92 (2017)</GBReference_journal>
-        <GBReference_pubmed>30695542</GBReference_pubmed>
-        <GBReference_remark>GeneRIF: Combination of HCV lb with polymorphic variants of IL28B'gene rs12979860 CC and rs8099917 CT showed a less aggressive course of the disease. On the other hand, HCV infection of individuals with geno- type 3a and polymorphism rs12979860 CC or rs809917 TT of IL28B gene showed a more severe clinical presentation.</GBReference_remark>
+        <GBReference_title>IL28B rs12979860 T allele protects against CMV disease in liver transplant recipients in the post-prophylaxis and late period</GBReference_title>
+        <GBReference_journal>Transpl Infect Dis 21 (4), e13124 (2019)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1111/tid.13124</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>31165537</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: IL28B rs12979860 T allele carriers had a lower risk of Cytomegalovirus Post-prophylaxis disease in liver transplant recipients</GBReference_remark>
       </GBReference>
       <GBReference>
         <GBReference_reference>5</GBReference_reference>
         <GBReference_position>1..629</GBReference_position>
         <GBReference_authors>
-          <GBAuthor>Matinyan,I.A.</GBAuthor>
-          <GBAuthor>Sentsova,T.B.</GBAuthor>
-          <GBAuthor>Vorozhko,I.V.</GBAuthor>
-          <GBAuthor>Chernyak,O.O.</GBAuthor>
-          <GBAuthor>Strokova,T.V.</GBAuthor>
-          <GBAuthor>Gapparov,M.M.G.</GBAuthor>
+          <GBAuthor>Kurniawan J</GBAuthor>
+          <GBAuthor>Gani RA</GBAuthor>
+          <GBAuthor>Djauzi S</GBAuthor>
+          <GBAuthor>Ibrahim F</GBAuthor>
+          <GBAuthor>Harimurti K</GBAuthor>
+          <GBAuthor>Nafrialdi N</GBAuthor>
+          <GBAuthor>Imannuel S</GBAuthor>
         </GBReference_authors>
-        <GBReference_title>[THE CLINICAL COURSE OF HEPATITIS C IN CHILDREN WITH DIFFERENT VARIANTS OF THE GENE POLYMORPHISM IL28B]</GBReference_title>
-        <GBReference_journal>Eksp Klin Gastroenterol (7), 52-55 (2016)</GBReference_journal>
-        <GBReference_pubmed>30284423</GBReference_pubmed>
-        <GBReference_remark>GeneRIF: When analyzing the frequency of occurrence of a polymorphic variant T&gt;G [rs8099917] IL-28B gene in children with chronic hepatitis C and healthy children revealed no differences in the distribution of alleles.</GBReference_remark>
+        <GBReference_title>The Role of Hepatitis C Virus NS5A Region Mutation and SNP IL-28B of Host to Support Successful Pegylated Interferon and Ribavirin Treatment in Patients with HCV-HIV Coinfection: A Prospective Cohort Study</GBReference_title>
+        <GBReference_journal>Acta Med Indones 51 (2), 128-136 (2019)</GBReference_journal>
+        <GBReference_pubmed>31383827</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: SNP-IL28B polymorphism is predicted to have an effect on HCV quasispecies evolution. Of the 27 HCV-HIV coinfected patients with CC-gene, 21 subjects had non-neutral mutation.</GBReference_remark>
       </GBReference>
       <GBReference>
         <GBReference_reference>6</GBReference_reference>

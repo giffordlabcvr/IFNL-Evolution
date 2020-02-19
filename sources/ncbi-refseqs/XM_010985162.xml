@@ -7,7 +7,7 @@
     <GBSeq_moltype>mRNA</GBSeq_moltype>
     <GBSeq_topology>linear</GBSeq_topology>
     <GBSeq_division>MAM</GBSeq_division>
-    <GBSeq_update-date>07-JAN-2015</GBSeq_update-date>
+    <GBSeq_update-date>23-OCT-2019</GBSeq_update-date>
     <GBSeq_create-date>07-JAN-2015</GBSeq_create-date>
     <GBSeq_definition>PREDICTED: Camelus dromedarius interferon lambda-3-like (LOC105093313), mRNA</GBSeq_definition>
     <GBSeq_primary-accession>XM_010985162</GBSeq_primary-accession>
@@ -16,14 +16,14 @@
       <GBSeqid>ref|XM_010985162.1|</GBSeqid>
       <GBSeqid>gi|744579786</GBSeqid>
     </GBSeq_other-seqids>
-    <GBSeq_project>PRJNA269961</GBSeq_project>
+    <GBSeq_project>PRJNA565028</GBSeq_project>
     <GBSeq_keywords>
       <GBKeyword>RefSeq</GBKeyword>
     </GBSeq_keywords>
     <GBSeq_source>Camelus dromedarius (Arabian camel)</GBSeq_source>
     <GBSeq_organism>Camelus dromedarius</GBSeq_organism>
     <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Tylopoda; Camelidae; Camelus</GBSeq_taxonomy>
-    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NW_011591367.1) annotated using gene prediction method: Gnomon.~Also see:~ Documentation of NCBI's Annotation Process~; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Version :: Camelus dromedarius Annotation Release 100 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 6.2 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##</GBSeq_comment>
+    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NC_044519.1) annotated using gene prediction method: Gnomon.~Also see:~ Documentation of NCBI's Annotation Process~; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Name :: Camelus dromedarius Annotation Release 101 ; Annotation Version :: 101 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 8.2 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##</GBSeq_comment>
     <GBSeq_feature-table>
       <GBFeature>
         <GBFeature_key>source</GBFeature_key>
@@ -45,28 +45,48 @@
             <GBQualifier_value>mRNA</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>Drom800</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>isolated from an animal called Varis</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
             <GBQualifier_name>db_xref</GBQualifier_name>
             <GBQualifier_value>taxon:9838</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>chromosome</GBQualifier_name>
-            <GBQualifier_value>Unknown</GBQualifier_value>
+            <GBQualifier_value>9</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>sex</GBQualifier_name>
-            <GBQualifier_value>male</GBQualifier_value>
+            <GBQualifier_value>female</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>tissue_type</GBQualifier_name>
             <GBQualifier_value>blood</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
+            <GBQualifier_name>dev_stage</GBQualifier_name>
+            <GBQualifier_value>adult</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
             <GBQualifier_name>country</GBQualifier_name>
-            <GBQualifier_value>Saudi Arabia: Riyadh</GBQualifier_value>
+            <GBQualifier_value>Austria: Eithental</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>13-Jan-2013</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>Pamela Burger</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>breed</GBQualifier_name>
-            <GBQualifier_value>Arabia</GBQualifier_value>
+            <GBQualifier_value>African</GBQualifier_value>
           </GBQualifier>
         </GBFeature_quals>
       </GBFeature>
@@ -87,7 +107,7 @@
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>note</GBQualifier_name>
-            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 16 Proteins</GBQualifier_value>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 18 Proteins</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>db_xref</GBQualifier_name>
@@ -141,7 +161,7 @@
     <GBSeq_xrefs>
       <GBXref>
         <GBXref_dbname>BioProject</GBXref_dbname>
-        <GBXref_id>PRJNA269961</GBXref_id>
+        <GBXref_id>PRJNA565028</GBXref_id>
       </GBXref>
     </GBSeq_xrefs>
   </GBSeq>

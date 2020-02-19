@@ -7,25 +7,29 @@
   # Major branches
   alignment AL_IFNL_ROOT 
 
-    add member --allSequences
+    add member --whereClause "source.name = 'ncbi-refseqs'"
+    add member --whereClause "source.name = 'fasta-refseqs'"
     
 	extract child AL_IFNLb_AMPH --refName REF_IFNLb_Anura_MASTER
-	demote member AL_IFNLb_AMPH --whereClause "sequence.class = 'IFNL-Amphibian'" 
+	demote member AL_IFNLb_AMPH --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Anura'" 
 
-	extract child AL_IFNLb_REPT1 --refName REF_IFNLb_Alligator_MASTER
-	demote member AL_IFNLb_REPT1 --whereClause "sequence.class = 'IFNL-Reptile'" 
+	extract child AL_IFNLb_ALLIGATOR --refName REF_IFNLb_Alligator_MASTER
+	demote member AL_IFNLb_ALLIGATOR --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Alligator'" 
+
+	extract child AL_IFNLb_TESTUDINES --refName REF_IFNLb_Testudines_MASTER
+	demote member AL_IFNLb_TESTUDINES --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Testudines'" 
 	
 	extract child AL_IFNLb_AVES    --refName REF_IFNLb_Aves_MASTER
-	demote member AL_IFNLb_AVES    --whereClause "sequence.class = 'IFNL-Aves'" 
+	demote member AL_IFNLb_AVES    --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Aves'" 
 
 	extract child AL_IFNLb_MAMMAL --refName REF_IFNLb_Mammal_MASTER
-	demote member AL_IFNLb_MAMMAL --whereClause "sequence.class = 'IFNL-Mammal'" 
+	demote member AL_IFNLb_MAMMAL --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Mammal'" 
 
 	extract child AL_IFNLa_MAMMAL --refName REF_IFNLa_Mammal_MASTER
-	demote member AL_IFNLa_MAMMAL --whereClause "sequence.class = 'IFNLa-Mammal'" 
+	demote member AL_IFNLa_MAMMAL --whereClause "sequence.clade = 'A' and sequence.vertebrate_lineage = 'Mammal'" 
 
 	#extract child AL_IFNLa_SERPENTES --refName REF_IFNLa_Serpentes_MASTER
-	#demote member AL_IFNLa_SERPENTES --whereClause "sequence.class = 'IFNLa-Reptile'" 
+	#demote member AL_IFNLa_SERPENTES --whereClause "sequence.clade = 'A' and sequence.vertebrate_lineage = 'Serpentes'" 
 			
     exit
     
@@ -34,13 +38,13 @@
   alignment AL_IFNLb_MAMMAL
 
 	extract child AL_IFNLb_MARSUPIAL --refName REF_IFNLb_Mammal_Marsupial	
-	demote member AL_IFNLb_MARSUPIAL --whereClause "sequence.gene_id = 'MARSUPIAL'" 	
+	demote member AL_IFNLb_MARSUPIAL --whereClause "sequence.clade = 'B' and sequence.major_subclade = 'Marsupial'" 	
 
 	extract child AL_IFNLb_MAMMAL1 --refName REF_IFNLb_Mammal_MASTER	
-	demote member AL_IFNLb_MAMMAL1 --whereClause "sequence.gene_id = 'MAMM1'" 	
+	demote member AL_IFNLb_MAMMAL1 --whereClause "sequence.clade = 'B' and sequence.major_subclade = '1'" 	
 	
 	extract child AL_IFNLb_MAMMAL2 --refName REF_IFNLb_Mammal_2_MASTER	
-	demote member AL_IFNLb_MAMMAL2 --whereClause "sequence.gene_id = 'MAMM2'"
+	demote member AL_IFNLb_MAMMAL2 --whereClause "sequence.clade = 'B' and sequence.major_subclade = '2'"
 	
     exit
 
@@ -48,15 +52,17 @@
   # Derive constrained alignment segments from unconstrained alignments  
 
   alignment AL_IFNL_ROOT
-    derive segments AL_IFNL_ROOT_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+    derive segments AL_IFNL_ROOT_UNCONSTRAINED -a --existingMembersOnly
     exit
 
   alignment AL_IFNLb_MAMMAL
-    derive segments AL_IFNLB_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+    derive segments AL_IFNLB_UNCONSTRAINED -a
+    #derive segments AL_IFNLB_UNCONSTRAINED -a --existingMembersOnly
     exit
     
   alignment AL_IFNLa_MAMMAL
-    derive segments AL_IFNLA_UNCONSTRAINED -a --mergeStrategy OVERWRITE
+    derive segments AL_IFNLA_UNCONSTRAINED -a
+    #derive segments AL_IFNLA_UNCONSTRAINED -a --existingMembersOnly
     exit
     
     

@@ -9,31 +9,53 @@
     </textFileColumn>
 
    <textFileColumn>
-        <header>Class</header>
-        <property>class</property>
+        <header>name</header>
+        <property>name</property>
     </textFileColumn>
-    
+
    <textFileColumn>
-        <header>Clade</header>
-        <property>clade</property>
-    </textFileColumn>
-    
-   <textFileColumn>
-        <header>GeneID</header>
+        <header>gene_id</header>
         <property>gene_id</property>
     </textFileColumn>
 
    <textFileColumn>
-        <header>Subclade</header>
-        <property>subclade</property>
+        <header>clade</header>
+        <property>clade</property>
+    </textFileColumn>
+        
+   <textFileColumn>
+        <header>vertebrate_lineage</header>
+        <property>vertebrate_lineage</property>
+    </textFileColumn>
+    
+   <textFileColumn>
+        <header>major_subclade</header>
+        <property>major_subclade</property>
+    </textFileColumn>
+
+   <textFileColumn>
+        <header>duplicate_type</header>
+        <property>duplicate_type</property>
     </textFileColumn>
     
     <textFileColumn>
-        <header>full_name</header>
-        <property>name</property>
+        <header>duplicate_numeric_id</header>
+        <property>duplicate_numeric_id</property>
+    </textFileColumn>
+
+   <textFileColumn>
+        <header>order</header>
+        <property>subclade</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>species</header>
+        <property>organism</property>
     </textFileColumn>
 
 
     <skipMissing>true</skipMissing>
 
 </textFilePopulator>
+
+
