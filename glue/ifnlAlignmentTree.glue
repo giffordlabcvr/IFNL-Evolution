@@ -43,7 +43,7 @@
 	extract child AL_IFNLb_MAMMAL1 --refName REF_IFNLb_Mammal_MASTER	
 	demote member AL_IFNLb_MAMMAL1 --whereClause "sequence.clade = 'B' and sequence.major_subclade = '1'" 	
 	
-	extract child AL_IFNLb_MAMMAL2 --refName REF_IFNLb_Mammal_MASTER_2	
+	extract child AL_IFNLb_MAMMAL2 --refName REF_IFNLb_Mammal_2	
 	demote member AL_IFNLb_MAMMAL2 --whereClause "sequence.clade = 'B' and sequence.major_subclade = '2'"
 	
     exit
