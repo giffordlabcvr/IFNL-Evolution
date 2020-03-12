@@ -112,12 +112,12 @@ XM_005219127	IFNL-A-Mammal	Bos taurus		IFNL	A	Mammal				Laurasiatheria	Unclassif
 XM_027855300	IFNL-B-Mammal-Marsupial	Vombatus ursinus	REF_IFNLb_Mammal_Marsupial	IFNL	B	Mammal	Marsupial			Marsupials	Diprotodontia	Vombatidae	Vombatus	XP_027711101.1	xMa
 XM_001517881	IFNL-B-Mammal-Monotreme	Ornithorhynchus anatinus		IFNL	B	Mammal	Monotreme			Marsupials	Monotremata	Ornithorhynchidae	Ornithorhynchus	XP_001517931.2	xMo
 NM_001024673	IFNL-B-Mammal-2	Mus musculus		IFNL	B	Mammal	2			Euarchontoglires	Rodentia		Mus		
-NM_001166490	IFNL-B-Mammal-2	Sus scrofa		IFNL	B	Mammal	2			Laurasiatheria	Unclassified	Suidae	Sus		
+NM_001166490	IFNL-B-Mammal-1	Sus scrofa		IFNL	B	Mammal	1			Laurasiatheria	Unclassified	Suidae	Sus		
 NM_177396	IFNL-B-Mammal-2	Mus musculus		IFNL	B	Mammal	2			Euarchontoglires	Rodentia		Mus		
 XM_004617293	IFNL-B-Mammal-2	Sorex araneus		IFNL	B	Mammal	2			Laurasiatheria					
 XM_004636880	IFNL-B-Mammal-2	Octodon degus		IFNL	B	Mammal	2			Euarchontoglires					
 XM_004636881	IFNL-B-Mammal-2	Octodon degus		IFNL	B	Mammal	2			Euarchontoglires					
-XM_006871441	IFNL-B-Mammal-2	Chrysochloris asiatica		IFNL	B	Mammal	2			Afrotheria					
+XM_006871441	IFNL-B-Mammal-1	Chrysochloris asiatica		IFNL	B	Mammal	1			Afrotheria					
 XM_007179990	IFNL-B-Mammal-2	Balaenoptera acutorostrata		IFNL	B	Mammal	2			Laurasiatheria					
 XM_016209154	IFNL-B-Mammal-2	Miniopterus natalensis		IFNL	B	Mammal	2			Laurasiatheria	Chiroptera				
 XM_016209155	IFNL-B-Mammal-2	Miniopterus natalensis		IFNL	B	Mammal	2			Laurasiatheria	Chiroptera				

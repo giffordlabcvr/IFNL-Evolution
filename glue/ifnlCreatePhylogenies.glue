@@ -1,6 +1,10 @@
-  module raxmlPhylogenyGenerator
-    generate nucleotide phylogeny AL_IFNLa_MAMMAL -a -o trees/ifnla.tre NEWICK_BOOTSTRAPS
-    exit
+  delete module raxmlPhylogenyGenerator
+  
+  create module -t raxmlPhylogenyGenerator
+
+  #module raxmlPhylogenyGenerator
+  #  generate nucleotide phylogeny AL_IFNLa_MAMMAL -a -o trees/ifnla.tre NEWICK_BOOTSTRAPS
+  #  exit
     
   module raxmlPhylogenyGenerator
     generate nucleotide phylogeny AL_IFNLb_MAMMAL1 -a -o trees/ifnlb1.tre NEWICK_BOOTSTRAPS
