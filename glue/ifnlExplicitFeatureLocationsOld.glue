@@ -1,0 +1,114 @@
+  # Define features on MASTER refseq 
+  
+  reference REF_IFNLb_Mammal_MASTER
+
+    add feature-location mRNA
+    feature-location mRNA
+      add segment 1 775
+      exit
+
+    add feature-location orf
+    feature-location orf
+      add segment 16 618
+      exit
+
+    add feature-location orf_exon1
+    feature-location orf_exon1
+      add segment 16 187
+      exit
+ 
+    add feature-location SP
+    feature-location SP
+      add segment 19 84
+      exit
+      
+    add feature-location N-term-extension
+    feature-location N-term-extension
+      add segment 85 144
+      exit
+
+    add feature-location N-helix
+    feature-location N-helix
+      add segment 145 417
+      exit
+
+    add feature-location N-helix
+    feature-location N-helix
+      add segment 145 417
+      exit
+
+    add feature-location orf_exon2
+    feature-location orf_exon2
+      add segment 145 417
+      exit
+
+    add feature-location loop1
+    feature-location loop1
+      add segment 145 417
+      exit
+
+    add feature-location orf_exon2
+    feature-location orf_exon2
+      add segment 145 417
+      exit
+
+    add feature-location helix-b
+    feature-location helix-b
+      add segment 145 417
+      exit
+
+    add feature-location loop2
+    feature-location loop2
+      add segment 145 417
+      exit
+
+    add feature-location orf_exon3
+    feature-location orf_exon3
+      add segment 145 417
+      exit
+
+    add feature-location loop3
+    feature-location loop3
+      add segment 145 417
+      exit
+
+    add feature-location loop4
+    feature-location loop4
+      add segment 145 417
+      exit
+
+    add feature-location orf_exon4
+    feature-location orf_exon4
+      add segment 145 417
+      exit
+
+    add feature-location helix-e
+    feature-location helix-e
+      add segment 145 417
+      exit
+
+    add feature-location orf_exon4
+    feature-location orf_exon4
+      add segment 145 417
+      exit
+
+    add feature-location loop5
+    feature-location loop5
+      add segment 145 417
+      exit
+
+    add feature-location orf_exon5
+    feature-location orf_exon5
+      add segment 145 417
+      exit
+
+    add feature-location helix-f
+    feature-location helix-f
+      add segment 145 417
+      exit
+
+    add feature-location c-term
+    feature-location c-term
+      add segment 145 417
+      exit
+
