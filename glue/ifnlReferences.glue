@@ -8,13 +8,14 @@
 
   #~# IFNLa locus master reference sequences  
   create reference REF_IFNLa_Mammal                 ncbi-refseqs NM_001276254  # Human
-  #create reference REF_IFNLa_Serpentes             ncbi-refseqs XM_026688830  # Tiger snake
+  create reference REF_IFNLa_Serpentes              ncbi-refseqs XM_026688830  # Tiger snake
 
   #~# IFNLb main subclades
   create reference REF_IFNLb_Mammal_1               ncbi-refseqs NM_172140     # Human IFNLb1 
   create reference REF_IFNLb_Mammal_2               ncbi-refseqs NM_172138     # Human IFNLb2 
   create reference REF_IFNLb_Mammal_Marsupial       ncbi-refseqs XM_027855300  # Monodelphis   
- 
+  #create reference REF_IFNLb_Mammal_Monotreme       ncbi-refseqs XM_001517881  # Monotreme   
+
  #~# IFNLb 1 species group reference sequences
   create reference REF_IFNLb_Mammal_1_primate       ncbi-refseqs NM_172140     # Human   
   create reference REF_IFNLb_Mammal_1_afrotheria    ncbi-refseqs XM_006871441  # Chrysochloris   

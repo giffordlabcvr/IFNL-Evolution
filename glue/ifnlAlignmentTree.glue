@@ -37,6 +37,9 @@
   # Mammal B branch    
   alignment AL_IFNLb_MAMMAL
 
+	#extract child AL_IFNLb_MONOTREME --refName REF_IFNLb_Mammal_Monotreme	
+	#demote member AL_IFNLb_MONOTREME --whereClause "sequence.clade = 'B' and sequence.major_subclade = 'Monotreme'" 	
+
 	extract child AL_IFNLb_MARSUPIAL --refName REF_IFNLb_Mammal_Marsupial	
 	demote member AL_IFNLb_MARSUPIAL --whereClause "sequence.clade = 'B' and sequence.major_subclade = 'Marsupial'" 	
 
@@ -49,23 +52,7 @@
     exit
 
 
-  # Derive constrained alignment segments from unconstrained alignments  
-
-  alignment AL_IFNL_ROOT
-    derive segments AL_IFNL_ROOT_UNCONSTRAINED -a --existingMembersOnly
-    exit
-
-  alignment AL_IFNLb_MAMMAL
-    #derive segments AL_IFNLB_UNCONSTRAINED -a
-    derive segments AL_IFNLB_UNCONSTRAINED -a --existingMembersOnly
-    exit
-    
-  alignment AL_IFNLa_MAMMAL
-    #derive segments AL_IFNLA_UNCONSTRAINED -a
-    derive segments AL_IFNLA_UNCONSTRAINED -a --existingMembersOnly
-    exit
-    
-    
+   
     
     
     
