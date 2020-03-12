@@ -1,114 +1,97 @@
-  # Define features on MASTER refseq 
-  
+  # Define features on master reference sequences for IFNLb
+   
   reference REF_IFNLb_Mammal_MASTER
 
     add feature-location mRNA
-    feature-location mRNA
-      add segment 1 775
-      exit
-
+    feature-location mRNA add segment 1 775
     add feature-location orf
-    feature-location orf
-      add segment 16 618
-      exit
+    feature-location orf add segment 16 618
+            
+  exit 
+  
+  reference REF_IFNLb_Testudines
 
-    add feature-location orf_exon1
-    feature-location orf_exon1
-      add segment 16 187
-      exit
- 
-    add feature-location SP
-    feature-location SP
-      add segment 19 84
-      exit
-      
-    add feature-location N-term-extension
-    feature-location N-term-extension
-      add segment 85 144
-      exit
+    add feature-location mRNA
+    feature-location mRNA add segment 1 1736
+    add feature-location orf
+    feature-location orf add segment 16 618
+            
+  exit 
 
-    add feature-location N-helix
-    feature-location N-helix
-      add segment 145 417
-      exit
+  
+  reference REF_IFNLb_Anura
 
-    add feature-location N-helix
-    feature-location N-helix
-      add segment 145 417
-      exit
+    add feature-location mRNA
+    feature-location mRNA add segment 1 540
+    add feature-location orf
+    feature-location orf add segment 1 540
+             
+  exit 
 
-    add feature-location orf_exon2
-    feature-location orf_exon2
-      add segment 145 417
-      exit
+  
+  reference REF_IFNLb_Alligator
 
-    add feature-location loop1
-    feature-location loop1
-      add segment 145 417
-      exit
+    add feature-location mRNA
+    feature-location mRNA add segment 1 989
+    add feature-location orf
+    feature-location orf add segment 45 629
+             
+  exit 
 
-    add feature-location orf_exon2
-    feature-location orf_exon2
-      add segment 145 417
-      exit
+  
+  reference REF_IFNLb_Aves
 
-    add feature-location helix-b
-    feature-location helix-b
-      add segment 145 417
-      exit
+    add feature-location mRNA
+    feature-location mRNA add segment 1 558
+    add feature-location orf
+    feature-location orf add segment 1 558
+             
+  exit 
 
-    add feature-location loop2
-    feature-location loop2
-      add segment 145 417
-      exit
+   
+  reference REF_IFNLa_Mammal
 
-    add feature-location orf_exon3
-    feature-location orf_exon3
-      add segment 145 417
-      exit
+    add feature-location mRNA
+    feature-location mRNA add segment 1 558
+    add feature-location orf
+    feature-location orf add segment 1 558
+             
+  exit 
+  
+  reference REF_IFNLa_Serpentes
 
-    add feature-location loop3
-    feature-location loop3
-      add segment 145 417
-      exit
+    add feature-location mRNA
+    feature-location mRNA add segment 1 657
+    add feature-location orf
+    feature-location orf add segment 1 657
+            
+  exit 
 
-    add feature-location loop4
-    feature-location loop4
-      add segment 145 417
-      exit
+  reference REF_IFNLb_Mammal_1
 
-    add feature-location orf_exon4
-    feature-location orf_exon4
-      add segment 145 417
-      exit
+    add feature-location mRNA
+    feature-location mRNA add segment 1 775
+    add feature-location orf
+    feature-location orf add segment 16 618
+            
+  exit 
 
-    add feature-location helix-e
-    feature-location helix-e
-      add segment 145 417
-      exit
+  reference REF_IFNLb_Mammal_2
 
-    add feature-location orf_exon4
-    feature-location orf_exon4
-      add segment 145 417
-      exit
+    add feature-location mRNA
+    feature-location mRNA add segment 1 951
+    add feature-location orf
+    feature-location orf add segment 174 776
+    
+  exit 
 
-    add feature-location loop5
-    feature-location loop5
-      add segment 145 417
-      exit
+  reference REF_IFNLb_Mammal_Marsupial
 
-    add feature-location orf_exon5
-    feature-location orf_exon5
-      add segment 145 417
-      exit
+    add feature-location mRNA
+    feature-location mRNA add segment 1 579
+    add feature-location orf
+    feature-location orf add segment 1 579
+            
+  exit 
 
-    add feature-location helix-f
-    feature-location helix-f
-      add segment 145 417
-      exit
-
-    add feature-location c-term
-    feature-location c-term
-      add segment 145 417
-      exit
 

@@ -35,11 +35,20 @@ project ifnl
   # Define feature locations
   run file glue/ifnlExplicitFeatureLocations.glue
 
-  # Import alignments 
+  # Import root alignments 
   run file glue/ifnlAlignments.glue
 
   # Define constrained alignment tree
   run file glue/ifnlAlignmentTree.glue
+
+  # Compute alignments
+  run file glue/ifnlComputeAlignments.glue
+
+  # Inherit feature locations
+  run file glue/inheritFeatureLocations.glue
+
+  # Build phylogenies
+  run file glue/ifnlCreatePhylogenies.glue
 
   # Validate
   validate
