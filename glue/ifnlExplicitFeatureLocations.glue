@@ -5,85 +5,24 @@
     add feature-location mRNA
     feature-location mRNA add segment 1 775
     add feature-location orf
-    feature-location orf add segment 16 618
-            
-  exit 
-  
-  reference REF_IFNLb_Testudines
-
-    add feature-location mRNA
-    feature-location mRNA add segment 1 1736
-    add feature-location orf
-    feature-location orf add segment 16 618
-            
-  exit 
-
-  
-  reference REF_IFNLb_Anura
-
-    add feature-location mRNA
-    feature-location mRNA add segment 1 540
-    add feature-location orf
-    feature-location orf add segment 1 540
-             
-  exit 
-
-  
-  reference REF_IFNLb_Alligator
-
-    add feature-location mRNA
-    feature-location mRNA add segment 1 989
-    add feature-location orf
-    feature-location orf add segment 45 629
-             
-  exit 
-
-  
-  reference REF_IFNLb_Aves
-
-    add feature-location mRNA
-    feature-location mRNA add segment 1 558
-    add feature-location orf
-    feature-location orf add segment 1 558
-             
-  exit 
-
-   
-  reference REF_IFNLa_Mammal
-
-    add feature-location mRNA
-    feature-location mRNA add segment 1 558
-    add feature-location orf
-    feature-location orf add segment 1 558
-             
-  exit 
-  
-  reference REF_IFNLa_Serpentes
-
-    add feature-location mRNA
-    feature-location mRNA add segment 1 657
-    add feature-location orf
-    feature-location orf add segment 1 657
-            
-  exit 
+    feature-location orf add segment 16 618            
+    exit 
 
   reference REF_IFNLb_Mammal_1
 
     add feature-location mRNA
     feature-location mRNA add segment 1 775
     add feature-location orf
-    feature-location orf add segment 16 618
-            
-  exit 
+    feature-location orf add segment 16 618           
+    exit 
 
   reference REF_IFNLb_Mammal_2
 
     add feature-location mRNA
     feature-location mRNA add segment 1 951
     add feature-location orf
-    feature-location orf add segment 174 776
-    
-  exit 
+    feature-location orf add segment 174 776  
+    exit 
 
   reference REF_IFNLb_Mammal_Marsupial
 
@@ -91,7 +30,62 @@
     feature-location mRNA add segment 1 579
     add feature-location orf
     feature-location orf add segment 1 579
-            
-  exit 
+    exit 
 
+  reference REF_IFNLb_Mammal_1_afrotheria
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 576
+    add feature-location orf
+    feature-location orf add segment 1 576
+    exit 
+  
+  
+  reference REF_IFNLb_Testudines
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 1736
+    add feature-location orf
+    feature-location orf add segment 1 978
+    exit  
+
+  reference REF_IFNLb_Anura
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 540
+    add feature-location orf
+    feature-location orf add segment 1 540
+    exit 
+
+  reference REF_IFNLb_Alligator
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 989
+    add feature-location orf
+    feature-location orf add segment 45 629
+    exit 
+
+  reference REF_IFNLb_Aves
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 558
+    add feature-location orf
+    feature-location orf add segment 1 558
+    exit 
+   
+  reference REF_IFNLa_Mammal
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 1636
+    add feature-location orf
+    feature-location orf add segment 278 817
+    exit 
+  
+  reference REF_IFNLa_Serpentes
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 657
+    add feature-location orf
+    feature-location orf add segment 1 657
+    exit 
 

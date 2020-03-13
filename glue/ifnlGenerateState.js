@@ -3,13 +3,11 @@
 var orf_fasta_aa = [ ];
 var orf_fasta_nt = [ ];
 
-
 // Summarise the reference sequences in this project
 process_refseqs();
 
 // Summarise the alignments in this project
 process_alignment_tree("AL_IFNL_ROOT");
-
 
 // *
 // TOP-LEVEL SUBROUTINES
@@ -54,9 +52,9 @@ function process_refseqs() {
 	write_feature_fasta(orf_fasta_aa)
 }
 
-
 // Recursively process alignment tree from a given node to tips
 function process_alignment_tree(parentAlignName) {
+
     glue.logInfo("Processing alignment "+parentAlignName);
  
    // Get a list of the alignment members
@@ -83,7 +81,6 @@ function process_alignment_tree(parentAlignName) {
 	_.each(childAlignments,function(childAlignmentName){		
 		process_alignment_tree(childAlignmentName);
 	});
-	
 
 }
 
@@ -127,7 +124,7 @@ function create_feature_fasta(refseqID, featureID, featureCodons, featureSummary
 	  
 	});
 
- 	//glue.logInfo("FASTA amino acid "+fasta_aa);	
+ 	glue.logInfo("FASTA amino acid "+fasta_aa);	
 	//glue.logInfo("FASTA nucleotide "+fasta_codons);
 	
 	fasta_aa     = fasta_aa+"\n";
@@ -149,8 +146,6 @@ function write_feature_fasta(orf_fasta_aa) {
 	glue.command(["file-util", "save-string", orf_fasta_aa_str, "export/orf_fasta.faa"]);
 	var orf_fasta_nt_str = orf_fasta_nt.join("\n");
 	glue.command(["file-util", "save-string", orf_fasta_nt_str, "export/orf_fasta.fna"]);
-
-
 
 }
 
@@ -250,7 +245,5 @@ function get_coding_feature_map() {
 	return resultMap;
 
 }
-
-
 
 

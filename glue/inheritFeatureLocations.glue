@@ -1,7 +1,4 @@
-  reference REF_IFNLb_Mammal_1_afrotheria
-	inherit feature-location AL_IFNLb_MAMMAL1 -l REF_IFNLb_Mammal_MASTER orf
-	exit
-  
+
   reference REF_IFNLb_Mammal_1_rodent
 	inherit feature-location AL_IFNLb_MAMMAL1 -l REF_IFNLb_Mammal_MASTER orf
 	exit
