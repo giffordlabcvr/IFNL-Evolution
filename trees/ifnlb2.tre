@@ -1,1 +1,135 @@
-(alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_001024673:0.00238403525782977278,(alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_006986319:0.16152591866222856809,((alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_020156959:0.14675332000153964995,((alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636884:0.06743250913335545327,(alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636880:0.04859314704029345233,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636881:0.05735963400207170354)97:0.02976047784002485916)100:0.14764106316084149584,(((alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_001086865:0.01588101888468741035,(alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_001346937:0.00935582114820220426,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_172138:0.01188331468067910929)97:0.01771780218355510986)99:0.01873510454377504478,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_017967394:0.04530518543051167968)100:0.06370008500691892728,((((alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_019818982:0.21479652258190040648,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_003420833:0.12658470626403098280)77:0.02093429160910557571,(alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_002927388:0.10557854861009750846,(((alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016165227:0.16269212616905620594,(alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_023760577:0.07905235164973789530,(alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016209156:0.00181268535309630770,(alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016209155:0.00000100000050002909,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016209154:0.00000100000050002909)90:0.00172424732023309540)100:0.06654379552769282280)90:0.02947729076419694852)93:0.02954003128034220563,(((alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_007179990:0.00000100000050002909,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_007179988:0.00000100000050002909)100:0.01299104185733051045,(alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_018063174:0.02007336893275307732,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_025268342:0.01900027378421874358)100:0.06082209300959882242)90:0.01759844479653888821,(alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_021097830:0.07202511419662788184,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_010985162:0.04575508210179327073)84:0.01958157894648779665)87:0.02079642443517883132)46:0.00888270271048885625,((alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_005596230:0.00000100000050002909,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_023651251:0.02345348767742186369)100:0.14241769494461914425,(alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004617293:0.23996933758429603301,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_007523978:0.09455634548787540672)77:0.04195419517149635152)57:0.02200688092237944316)37:0.00000100000050002909)68:0.01202482269891525825)63:0.01802964266339759231,(alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_006140390:0.19271455598867490155,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_008057580:0.08401952181213520610)70:0.02161220047732779689)32:0.01276047059150473700,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_003802158:0.14651218078664712818)15:0.00000100000050002909)96:0.03244807940375534633)82:0.02733824599729022670)100:0.06755750868630852612,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_017803384:0.08560588761643309064)100:0.04034950655301565436)100:0.08760624406301435740,alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_177396:0.03604205722451353511);
+#NEXUS
+begin taxa;
+	dimensions ntax=33;
+	taxlabels
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_001024673'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_001346937'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_172138'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_177396'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_001086865'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_002927388'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_003420833'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_003802158'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004617293'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636880'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636881'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636884'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_005596230'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_006140390'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_006986319'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_007179988'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_007179990'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_007523978'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_008057580'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_010985162'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016165227'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016209154'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016209155'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016209156'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_017803384'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_017967394'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_018063174'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_019818982'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_020156959'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_021097830'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_023651251'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_023760577'
+	'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_025268342'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_001024673':0.002384,('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_006986319':0.161526,(('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_020156959':0.146753,(('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636884':0.067433,('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636880':0.048593,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636881':0.05736)[&label=97]:0.02976)[&label=100]:0.147641,((('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_001086865':0.015881,('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_001346937':0.009356,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_172138':0.011883)[&label=97]:0.017718)[&label=99]:0.018735,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_017967394':0.045305)[&label=100]:0.0637,(((('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_019818982':0.214797,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_003420833':0.126585)[&label=77]:0.020934,('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_002927388':0.105579,((('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016165227':0.162692,('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_023760577':0.079052,('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016209156':0.001813,('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016209155':1.0E-6,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016209154':1.0E-6)[&label=90]:0.001724)[&label=100]:0.066544)[&label=90]:0.029477)[&label=93]:0.02954,((('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_007179990':1.0E-6,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_007179988':1.0E-6)[&label=100]:0.012991,('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_018063174':0.020073,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_025268342':0.019)[&label=100]:0.060822)[&label=90]:0.017598,('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_021097830':0.072025,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_010985162':0.045755)[&label=84]:0.019582)[&label=87]:0.020796)[&label=46]:0.008883,(('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_005596230':1.0E-6,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_023651251':0.023453)[&label=100]:0.142418,('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004617293':0.239969,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_007523978':0.094556)[&label=77]:0.041954)[&label=57]:0.022007)[&label=37]:1.0E-6)[&label=68]:0.012025)[&label=63]:0.01803,('alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_006140390':0.192715,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_008057580':0.08402)[&label=70]:0.021612)[&label=32]:0.01276,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_003802158':0.146512)[&label=15]:1.0E-6)[&label=96]:0.032448)[&label=82]:0.027338)[&label=100]:0.067558,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_017803384':0.085606)[&label=100]:0.04035)[&label=100]:0.087606,'alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_177396':0.036042);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

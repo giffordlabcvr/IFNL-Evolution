@@ -48,7 +48,7 @@ project ifnl
   run file glue/inheritFeatureLocations.glue
 
   # Build phylogenies
-  #run file glue/ifnlCreatePhylogenies.glue
+  run file glue/ifnlCreatePhylogenies.glue
 
   # Validate
   validate

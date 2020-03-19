@@ -1,4 +1,5 @@
   table sequence
+    create field organism VARCHAR 100
     create field name VARCHAR 100  
     create field gene_id VARCHAR 50
     create field vertebrate_lineage VARCHAR 50
@@ -7,7 +8,6 @@
     create field duplicate_numeric_id VARCHAR 50
     create field subclade VARCHAR 50
     create field clade VARCHAR 50
-    create field organism VARCHAR 100
   exit
 
   table alignment
