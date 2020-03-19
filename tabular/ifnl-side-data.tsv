@@ -110,6 +110,7 @@ XM_025268277	IFNL-A-Mammal	Bubalus bubalis		IFNL	A	Mammal				Laurasiatheria	Uncl
 XM_013990503	IFNL-A-Mammal	Sus scrofa		IFNL	A	Mammal				Laurasiatheria	Unclassified	Suidae	Sus	XP_013845957.1 	
 XM_005219127	IFNL-A-Mammal	Bos taurus		IFNL	A	Mammal				Laurasiatheria	Unclassified	Bovidae	Bos		
 XM_027855300	IFNL-B-Mammal-Marsupial	Vombatus ursinus	REF_IFNLb_Mammal_Marsupial	IFNL	B	Mammal	Marsupial			Marsupials	Diprotodontia	Vombatidae	Vombatus	XP_027711101.1	xMa
+XM_020972372	IFNL-B-Mammal-Marsupial	Phascolarctos cinereus		IFNL	B	Mammal	Marsupial			Marsupials	Diprotodontia	Phascolarctidae	Phascolarctos	XP_020828031.1	
 XM_001517881	IFNL-B-Mammal-Monotreme	Ornithorhynchus anatinus		IFNL	B	Mammal	Monotreme			Marsupials	Monotremata	Ornithorhynchidae	Ornithorhynchus	XP_001517931.2	xMo
 NM_001024673	IFNL-B-Mammal-2	Mus musculus		IFNL	B	Mammal	2			Euarchontoglires	Rodentia		Mus		
 NM_001166490	IFNL-B-Mammal-1	Sus scrofa		IFNL	B	Mammal	1			Laurasiatheria	Unclassified	Suidae	Sus		
@@ -125,3 +126,4 @@ XM_016209156	IFNL-B-Mammal-2	Miniopterus natalensis		IFNL	B	Mammal	2			Laurasiat
 XM_018063174	IFNL-B-Mammal-2	Capra hircus		IFNL	B	Mammal	2			Laurasiatheria					
 XM_023651251	IFNL-B-Mammal-2	Equus caballus		IFNL	B	Mammal	2			Laurasiatheria					
 XM_019818982	IFNL-B-Mammal-2	Felis catus		IFNL	B	Mammal	2			Laurasiatheria	Carnivora	Felidae	Felis		
+XM_021168771	IFNL-B-Mammal-2	Mus caroli		IFNL	B	Mammal	2			Euarchontoglires	Rodentia		Mus		
