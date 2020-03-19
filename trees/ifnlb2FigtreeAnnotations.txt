@@ -1,0 +1,34 @@
+taxon	sequenceID	organism	gene_id	vertebrate_lineage	major_subclade	duplicate_type	duplicate_numeric_id	duplicate_numeric_id	combined
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_001024673	NM_001024673	Mus musculus	IFNL	Mammal	2	-	-	-	NM_001024673/Mus musculus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_001346937	NM_001346937	Homo sapiens	IFNL	Mammal	2	-	-	-	NM_001346937/Homo sapiens/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_172138	NM_172138	Homo sapiens	IFNL	Mammal	2	-	-	-	NM_172138/Homo sapiens/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_177396	NM_177396	Mus musculus	IFNL	Mammal	2	-	-	-	NM_177396/Mus musculus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_001086865	XM_001086865	Macaca mulatta	IFNL	Mammal	2	-	-	-	XM_001086865/Macaca mulatta/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_002927388	XM_002927388	Ailuropoda melanoleuca	IFNL	Mammal	2	-	-	-	XM_002927388/Ailuropoda melanoleuca/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_003420833	XM_003420833	Loxodonta africana	IFNL	Mammal	2	-	-	-	XM_003420833/Loxodonta africana/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_003802158	XM_003802158	Otolemur garnettii	IFNL	Mammal	2	-	-	-	XM_003802158/Otolemur garnettii/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004617293	XM_004617293	Sorex araneus	IFNL	Mammal	2	-	-	-	XM_004617293/Sorex araneus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636880	XM_004636880	Octodon degus	IFNL	Mammal	2	-	-	-	XM_004636880/Octodon degus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636881	XM_004636881	Octodon degus	IFNL	Mammal	2	-	-	-	XM_004636881/Octodon degus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636884	XM_004636884	Octodon degus	IFNL	Mammal	2	-	-	-	XM_004636884/Octodon degus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_005596230	XM_005596230	Equus caballus	IFNL	Mammal	2	-	-	-	XM_005596230/Equus caballus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_006140390	XM_006140390	Tupaia chinensis	IFNL	Mammal	2	-	-	-	XM_006140390/Tupaia chinensis/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_006986319	XM_006986319	Peromyscus maniculatus 	IFNL	Mammal	2	-	-	-	XM_006986319/Peromyscus maniculatus /IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_007179988	XM_007179988	Balaenoptera acutorostrata	IFNL	Mammal	2	-	-	-	XM_007179988/Balaenoptera acutorostrata/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_007179990	XM_007179990	Balaenoptera acutorostrata	IFNL	Mammal	2	-	-	-	XM_007179990/Balaenoptera acutorostrata/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_007523978	XM_007523978	Erinaceus europaeus	IFNL	Mammal	2	-	-	-	XM_007523978/Erinaceus europaeus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_008057580	XM_008057580	Carlito syrichta	IFNL	Mammal	2	-	-	-	XM_008057580/Carlito syrichta/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_010985162	XM_010985162	Camelus dromedarius	IFNL	Mammal	2	-	-	-	XM_010985162/Camelus dromedarius/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016165227	XM_016165227	Rousettus aegyptiacus	IFNL	Mammal	2	-	-	-	XM_016165227/Rousettus aegyptiacus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016209154	XM_016209154	Miniopterus natalensis	IFNL	Mammal	2	-	-	-	XM_016209154/Miniopterus natalensis/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016209155	XM_016209155	Miniopterus natalensis	IFNL	Mammal	2	-	-	-	XM_016209155/Miniopterus natalensis/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_016209156	XM_016209156	Miniopterus natalensis	IFNL	Mammal	2	-	-	-	XM_016209156/Miniopterus natalensis/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_017803384	XM_017803384	Nannospalax galili	IFNL	Mammal	2	-	-	-	XM_017803384/Nannospalax galili/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_017967394	XM_017967394	Callithrix jacchus	IFNL	Mammal	2	-	-	-	XM_017967394/Callithrix jacchus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_018063174	XM_018063174	Capra hircus	IFNL	Mammal	2	-	-	-	XM_018063174/Capra hircus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_019818982	XM_019818982	Felis catus	IFNL	Mammal	2	-	-	-	XM_019818982/Felis catus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_020156959	XM_020156959	Castor canadensis	IFNL	Mammal	2	-	-	-	XM_020156959/Castor canadensis/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_021097830	XM_021097830	Sus scrofa	IFNL	Mammal	2	-	-	-	XM_021097830/Sus scrofa/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_023651251	XM_023651251	Equus caballus	IFNL	Mammal	2	-	-	-	XM_023651251/Equus caballus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_023760577	XM_023760577	Myotis lucifugus	IFNL	Mammal	2	-	-	-	XM_023760577/Myotis lucifugus/IFNL/Mammal/2/2/}
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_025268342	XM_025268342	Bubalus bubalis	IFNL	Mammal	2	-	-	-	XM_025268342/Bubalus bubalis/IFNL/Mammal/2/2/}

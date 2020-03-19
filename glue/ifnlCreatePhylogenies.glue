@@ -20,19 +20,19 @@
 
   module ifnlPhyloUtility 
 	reroot-phylogeny \
-      --inputFile trees/trees/ifnla.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/ifnla.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/trees/ifnlaMidpointRerooted.tree NEWICK_BOOTSTRAPS
+      --outputFile trees/ifnlaMidpointRerooted.tree NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/trees/ifnlb1.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/ifnlb1.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/trees/ifnlb1MidpointRerooted.tree NEWICK_BOOTSTRAPS
+      --outputFile trees/ifnlb1MidpointRerooted.tree NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/trees/ifnlb2.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/ifnlb2.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/trees/ifnlb2MidpointRerooted.tree NEWICK_BOOTSTRAPS
+      --outputFile trees/ifnlb2MidpointRerooted.tree NEWICK_BOOTSTRAPS
     exit
 
 
