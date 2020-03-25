@@ -11,6 +11,7 @@
    <textFileColumn>
         <header>name</header>
         <property>name</property>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull>
     </textFileColumn>
 
    <textFileColumn>

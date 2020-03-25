@@ -1,4 +1,3 @@
-
 delete project ifnl
 
 create project ifnl "GLUE project for interferon Lambda" --minVersion 0.1.50
@@ -20,7 +19,10 @@ project ifnl
   import source sources/fasta-refseqs/
   import source sources/ncbi-refseqs/
   import source sources/ncbi-curated/
-  
+
+  # Import GenBank side data
+  module ifnlGenbankXmlPopulator populate
+
   # Import metadata for IFNL reference sequences
   module ifnlSideDataImporter 
     populate -f tabular/ifnl-side-data.tsv
