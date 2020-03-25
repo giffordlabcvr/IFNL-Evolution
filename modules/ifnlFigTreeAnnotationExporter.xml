@@ -27,12 +27,4 @@
 		<annotationName>duplicate_numeric_id</annotationName>
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.duplicate_numeric_id')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
-	<figTreeAnnotation>
-		<annotationName>duplicate_numeric_id</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.duplicate_numeric_id')}</valueFreemarkerTemplate>
-	</figTreeAnnotation>
-	<figTreeAnnotation>
-		<annotationName>combined</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.sequenceID')}/${renderNestedProperty('sequence.organism')}/${renderNestedProperty('sequence.gene_id')}/${renderNestedProperty('sequence.vertebrate_lineage')}/${renderNestedProperty('sequence.major_subclade')}/${renderNestedProperty('sequence.major_subclade')}/}</valueFreemarkerTemplate>
-	</figTreeAnnotation>
 </figTreeAnnotationExporter>

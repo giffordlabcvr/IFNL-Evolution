@@ -9,6 +9,7 @@
 
     add member --whereClause "source.name = 'ncbi-refseqs'"
     add member --whereClause "source.name = 'fasta-refseqs'"
+    add member --whereClause "source.name = 'ncbi-curated'"
     
 	extract child AL_IFNLb_AMPH --refName REF_IFNLb_Anura
 	demote member AL_IFNLb_AMPH --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Anura'" 
