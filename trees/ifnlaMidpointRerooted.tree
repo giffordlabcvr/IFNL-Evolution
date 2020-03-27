@@ -1,1 +1,155 @@
-(alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_018063271:0.952315550473241307485,(alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019431940:0.01992121092145630532,((alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019431990:0.00000100000050002909,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019431989:0.00000100000050002909)100:0.00344797194969924522,(((alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_026491561:0.01542483620720586784,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_011234954:0.01542761342895350093)100:0.01552266374205860285,(((alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004396491:0.00000100000050002909,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004396490:0.00000100000050002909)100:0.01743613679040116257,(alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_021700961:0.00000100000050002909,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021700959:0.00000100000050002909)100:0.00449282303960764091)57:0.00349885097758940913,alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_022525015:0.04048305240660059895)68:0.00304060303813748082)97:0.02041854543279580589,((((((alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_023760558:0.05268049535973443748,(alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_008140039:0.01959456168069704379,alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_014541702:0.45429799392314040851)64:0.00366889228582935453)78:0.06069179012360904207,alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_016209132:0.22176984370927224632)69:0.00949792621160142590,alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_024577451:0.10816236912283347382)83:0.02570987261316358755,((alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_006911731:0.03402081543881214920,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_016165225:0.03833473877221792170)100:0.06807846511491369434,(alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019666267:0.00000100000050002909,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019666268:0.00000100000050002909)100:0.04012123240867102036)73:0.00618712806437891113)69:0.01321623969488375759,(alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_013990503:0.05798242750510355925,((alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_012533543:0.01359153505857530614,(alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_028165945:0.00000100000050002909,(alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007180046:0.00000100000050002909,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007180047:0.00000100000050002909)71:0.00000100000050002909)97:0.02085760741193699169)96:0.03131720216151055725,(alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_025268277:0.01148143334370200185,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_005219127:0.00972303616441509005)100:0.07540465433590964883)100:0.01382711174890611724)99:0.04695405320305260505)58:0.00912937963212320444,((alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004617296:0.24803296617952122483,((alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_027855301:0.47257666097359030122,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007660152:0.47949040407763987570)23:0.09172435714399716777,(alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007524024:0.00000100000050002909,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007524025:0.00000100000050002909)100:0.12609797470916284112)26:0.07521516243373642385)19:0.03822302616761080740,((alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007955548:0.40395389158745853564,(alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_006878034:0.15682234222522239975,((alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_010600326:0.00000100000050002909,alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_010600327:0.00000100000050002909)100:0.05212144552385977736,alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_010600391:0.04367121984561986997)84:0.03128357971334585347)62:0.01627546667824553150)56:0.05826898855636634261,(((alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004595181:0.51673095397951696039,(alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_020156960:0.15005959276573768713,((((alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021239678:0.00000100000050002909,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021239619:0.00000100000050002909)100:0.11835841202407854089,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_013522287:0.51502394626278635847)68:0.00093161941145912855,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004636883:0.18660936071211758902)100:0.06086610143123118155,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_005336481:0.09368654261716286014)60:0.02175639356893515133)52:0.01453328326245899305)48:0.01210096059329650135,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008257170:0.11612989085553321322)29:0.00917432941503533959,(alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_027765624:0.16989932060159243510,((alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008987976:0.02425430202619318493,(alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_017503067:0.00287512164146975797,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_017503065:0.02682328454125788506)100:0.01319452218466977272)100:0.04826873261734846571,((alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_028839087:0.07429239031892936884,(alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_015123824:0.00660664546410089093,(alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_021931090:0.00642997525741507460,alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007996757:0.01039057361795817265)100:0.01300697874801817581)99:0.01183054439160038593)83:0.01743293943817883496,(((alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/NM_001276259:0.00000100000050002909,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008964691:0.00274596999895237960)94:0.00754338235614949483,(alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019014912:0.00578494987547737566,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/NM_001276254:0.01262143732900956883)61:0.00355846169650423077)96:0.01579952063725909364,(alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_012496610:0.03031958616580131619,(alignment/AL_IFNLa_MAMMAL/member/fasta-refseqs/IFNLA_Psi_Hsa:0.01518216528682784019,(alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019015012:0.01427834235919354586,alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008964650:0.01642146386750066925)83:0.01011279124676929889)85:0.00897723445819367111)100:0.04444184659319956598)74:0.00751074067073635894)88:0.02176538483668708987)100:0.05121337735922285028)85:0.02858395347259588132)56:0.02112441239884247854)49:0.00700727574214999455)16:0.01838615965582927197)27:0.02601311707542394019)31:0.04942625135291518756)31:0.06167568299315483865):0.112161389572933794395);
+#NEXUS
+begin taxa;
+	dimensions ntax=61;
+	taxlabels
+	'alignment/AL_IFNLa_MAMMAL/member/fasta-refseqs/IFNLA_Psi_Hsa'[&duplicate_numeric_id="1",duplicate_type="psi",gene_id="IFNL",major_subclade="-",organism="Homo sapiens",sequenceID="IFNLA_Psi_Hsa",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/NM_001276259'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Pan troglodytes",sequenceID="NM_001276259",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004396491'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Odobenus rosmarus",sequenceID="XM_004396491",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004595181'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Ochotona princeps",sequenceID="XM_004595181",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_006878034'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Chrysochloris asiatica",sequenceID="XM_006878034",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_006911731'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Pteropus alecto",sequenceID="XM_006911731",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007524024'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Erinaceus europaeus",sequenceID="XM_007524024",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007955548'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Orycteropus afer afer",sequenceID="XM_007955548",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007996757'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Chlorocebus sabaeus",sequenceID="XM_007996757",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_008140039'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Eptesicus fuscus",sequenceID="XM_008140039",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_010600327'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Loxodonta africana",sequenceID="XM_010600327",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_010600391'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Loxodonta africana",sequenceID="XM_010600391",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_014541702'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Myotis brandtii",sequenceID="XM_014541702",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_016209132'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Miniopterus natalensis",sequenceID="XM_016209132",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_017503067'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Cebus capucinus imitator",sequenceID="XM_017503067",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_018063271'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Capra hircus",sequenceID="XM_018063271",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019015012'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Gorilla gorilla gorilla",sequenceID="XM_019015012",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019431990'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Panthera pardus",sequenceID="XM_019431990",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019666267'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Hipposideros armiger",sequenceID="XM_019666267",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_021700961'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Neomonachus schauinslandi",sequenceID="XM_021700961",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_021931090'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Papio anubis",sequenceID="XM_021931090",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_022525015'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Enhydra lutris kenyoni",sequenceID="XM_022525015",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_024577451'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Desmodus rotundus",sequenceID="XM_024577451",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_026491561'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Ursus arctos horribilis",sequenceID="XM_026491561",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/NM_001276254'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Homo sapiens",sequenceID="NM_001276254",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004396490'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Odobenus rosmarus divergens",sequenceID="XM_004396490",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004617296'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Sorex araneus",sequenceID="XM_004617296",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004636883'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Octodon degus",sequenceID="XM_004636883",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_005219127'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Bos taurus",sequenceID="XM_005219127",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_005336481'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Ictidomys tridecemlineatus",sequenceID="XM_005336481",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007180046'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Balaenoptera acutorostrata scammoni",sequenceID="XM_007180046",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007180047'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Balaenoptera acutorostrata scammoni",sequenceID="XM_007180047",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007524025'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Erinaceus europaeus",sequenceID="XM_007524025",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007660152'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Ornithorhynchus anatinus",sequenceID="XM_007660152",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008257170'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Oryctolagus cuniculus",sequenceID="XM_008257170",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008964650'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Pan paniscus",sequenceID="XM_008964650",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008964691'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Pan paniscus",sequenceID="XM_008964691",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008987976'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Callithrix jacchus",sequenceID="XM_008987976",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_010600326'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Loxodonta africana",sequenceID="XM_010600326",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_011234954'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Ailuropoda melanoleuca",sequenceID="XM_011234954",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_012496610'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Nomascus leucogenys",sequenceID="XM_012496610",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_012533543'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Orcinus orca",sequenceID="XM_012533543",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_013522287'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Chinchilla lanigera",sequenceID="XM_013522287",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_013990503'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Sus scrofa",sequenceID="XM_013990503",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_015123824'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Macaca mulatta",sequenceID="XM_015123824",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_016165225'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Rousettus aegyptiacus",sequenceID="XM_016165225",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_017503065'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Cebus capucinus",sequenceID="XM_017503065",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019014912'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Gorilla gorilla",sequenceID="XM_019014912",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019431940'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Panthera pardus",sequenceID="XM_019431940",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019431989'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Panthera pardus",sequenceID="XM_019431989",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019666268'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Hipposideros armiger",sequenceID="XM_019666268",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_020156960'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Castor canadensis",sequenceID="XM_020156960",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021239619'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Heterocephalus glaber",sequenceID="XM_021239619",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021239678'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Heterocephalus glaber",sequenceID="XM_021239678",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021700959'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Neomonachus schauinslandi",sequenceID="XM_021700959",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_023760558'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Myotis lucifugus",sequenceID="XM_023760558",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_025268277'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Bubalus bubalis",sequenceID="XM_025268277",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_027765624'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Tree shrew",sequenceID="XM_027765624",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_027855301'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Vombatus ursinus",sequenceID="XM_027855301",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_028165945'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Balaenoptera acutorostrata scammoni",sequenceID="XM_028165945",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_028839087'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade="-",organism="Macaca mulatta",sequenceID="XM_028839087",vertebrate_lineage="Mammal"]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_018063271':0.952316,('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019431940':0.019921,(('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019431990':1.0E-6,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019431989':1.0E-6)[&label=100]:0.003448,((('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_026491561':0.015425,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_011234954':0.015428)[&label=100]:0.015523,((('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004396491':1.0E-6,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004396490':1.0E-6)[&label=100]:0.017436,('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_021700961':1.0E-6,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021700959':1.0E-6)[&label=100]:0.004493)[&label=57]:0.003499,'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_022525015':0.040483)[&label=68]:0.003041)[&label=97]:0.020419,(((((('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_023760558':0.05268,('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_008140039':0.019595,'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_014541702':0.454298)[&label=64]:0.003669)[&label=78]:0.060692,'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_016209132':0.22177)[&label=69]:0.009498,'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_024577451':0.108162)[&label=83]:0.02571,(('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_006911731':0.034021,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_016165225':0.038335)[&label=100]:0.068078,('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019666267':1.0E-6,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019666268':1.0E-6)[&label=100]:0.040121)[&label=73]:0.006187)[&label=69]:0.013216,('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_013990503':0.057982,(('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_012533543':0.013592,('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_028165945':1.0E-6,('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007180046':1.0E-6,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007180047':1.0E-6)[&label=71]:1.0E-6)[&label=97]:0.020858)[&label=96]:0.031317,('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_025268277':0.011481,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_005219127':0.009723)[&label=100]:0.075405)[&label=100]:0.013827)[&label=99]:0.046954)[&label=58]:0.009129,(('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004617296':0.248033,(('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_027855301':0.472577,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007660152':0.47949)[&label=23]:0.091724,('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007524024':1.0E-6,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007524025':1.0E-6)[&label=100]:0.126098)[&label=26]:0.075215)[&label=19]:0.038223,(('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007955548':0.403954,('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_006878034':0.156822,(('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_010600326':1.0E-6,'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_010600327':1.0E-6)[&label=100]:0.052121,'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_010600391':0.043671)[&label=84]:0.031284)[&label=62]:0.016275)[&label=56]:0.058269,((('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004595181':0.516731,('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_020156960':0.15006,(((('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021239678':1.0E-6,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021239619':1.0E-6)[&label=100]:0.118358,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_013522287':0.515024)[&label=68]:9.32E-4,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004636883':0.186609)[&label=100]:0.060866,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_005336481':0.093687)[&label=60]:0.021756)[&label=52]:0.014533)[&label=48]:0.012101,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008257170':0.11613)[&label=29]:0.009174,('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_027765624':0.169899,(('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008987976':0.024254,('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_017503067':0.002875,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_017503065':0.026823)[&label=100]:0.013195)[&label=100]:0.048269,(('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_028839087':0.074292,('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_015123824':0.006607,('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_021931090':0.00643,'alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007996757':0.010391)[&label=100]:0.013007)[&label=99]:0.011831)[&label=83]:0.017433,((('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/NM_001276259':1.0E-6,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008964691':0.002746)[&label=94]:0.007543,('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019014912':0.005785,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/NM_001276254':0.012621)[&label=61]:0.003558)[&label=96]:0.0158,('alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_012496610':0.03032,('alignment/AL_IFNLa_MAMMAL/member/fasta-refseqs/IFNLA_Psi_Hsa':0.015182,('alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019015012':0.014278,'alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008964650':0.016421)[&label=83]:0.010113)[&label=85]:0.008977)[&label=100]:0.044442)[&label=74]:0.007511)[&label=88]:0.021765)[&label=100]:0.051213)[&label=85]:0.028584)[&label=56]:0.021124)[&label=49]:0.007007)[&label=16]:0.018386)[&label=27]:0.026013)[&label=31]:0.049426)[&label=31]:0.061676):0.112161);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="Abadi MT Condensed Extra Bold";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="Arial";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShape.colourAttribute="User selection";
+	set nodeShape.isShown=false;
+	set nodeShape.minSize=10.0;
+	set nodeShape.scaleType=Width;
+	set nodeShape.shapeType=Circle;
+	set nodeShape.size=4.0;
+	set nodeShape.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="organism";
+	set tipLabels.displayAttribute="organism";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

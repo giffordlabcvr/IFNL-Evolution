@@ -6,7 +6,6 @@ XM_007180046	IFNL-A-Mammal	Balaenoptera acutorostrata scammoni		IFNL	A	Mammal			
 XM_005219127	IFNL-A-Mammal	Bos taurus		IFNL	A	Mammal				Laurasiatheria	Unclassified	Bovidae	Bos		
 XM_025268277	IFNL-A-Mammal	Bubalus bubalis		IFNL	A	Mammal				Laurasiatheria	Unclassified	Bovidae	Bubalus	XP_025124062.1	
 XM_008987976	IFNL-A-Mammal	Callithrix jacchus		IFNL	A	Mammal				Euarchontoglires	Primates	Cebidae	Callithrix	XP_008986224.1	
-XM_018063271	IFNL-A-Mammal	Capra hircus	-	IFNL	A	Mammal									
 XM_020156960	IFNL-A-Mammal	Castor canadensis		IFNL	A	Mammal				Euarchontoglires	Rodentia	Castoridae	Castor	XP_020012549.1	
 XM_020156960 	IFNL-A-Mammal	Castor canadensis		IFNL	A	Mammal				Euarchontoglires	Rodentia	Castoridae	Castor		
 XM_017503065	IFNL-A-Mammal	Cebus capucinus		IFNL	A	Mammal				Euarchontoglires	Primates	Cebidae	Cebus		
@@ -20,7 +19,7 @@ XM_008140039	IFNL-A-Mammal	Eptesicus fuscus	-	IFNL	A	Mammal
 XM_007524025	IFNL-A-Mammal	Erinaceus europaeus		IFNL	A	Mammal				Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524087.1 	
 XM_007524024	IFNL-A-Mammal	Erinaceus europaeus	-	IFNL	A	Mammal									
 XM_019014912	IFNL-A-Mammal	Gorilla gorilla		IFNL	A	Mammal				Euarchontoglires	Primates	Hominidae	Gorilla		
-XM_019015012	IFNL-A-Mammal	Gorilla gorilla gorilla	-	IFNL	A	Mammal									
+XM_019015012	IFNL-A-Mammal	Gorilla gorilla	-	IFNL	A	Mammal									
 XM_021239619	IFNL-A-Mammal	Heterocephalus glaber		IFNL	A	Mammal				Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	XP_021095278.1	
 XM_021239678	IFNL-A-Mammal	Heterocephalus glaber		IFNL	A	Mammal				Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus		
 XM_021239619	IFNL-A-Mammal	Heterocephalus glaber		IFNL	A	Mammal				Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus		
@@ -70,8 +69,8 @@ XM_014607441	IFNL-B-Alligator	Alligator mississippiensis		IFNL	A	Alligator
 XM_025202241	IFNL-B-Alligator	Alligator sinensis	REF_IFNLb_Alligator_MASTER	IFNL	B	Alligator							Alligator		
 NM_001171763	IFNL-B-Anura	Xenopus tropicalis	REF_IFNLb_Anura_MASTER	IFNL	B	Anura									
 XM_005501688	IFNL-B-Aves	Columba livia		IFNL	B	Aves									
-NM_001310792	IFNL-B-Aves		REF_IFNLb_Aves_MASTER	IFNL	B	Aves									
-XM_003207378	IFNL-B-Aves			IFNL	B	Aves									
+NM_001310792	IFNL-B-Aves	Anas platyrhynchos	REF_IFNLb_Aves_MASTER	IFNL	B	Aves									
+XM_003207378	IFNL-B-Aves	Meleagris gallopavo		IFNL	B	Aves									
 XM_011234942	IFNL-B-Mammal-1	Ailuropoda melanoleuca		IFNL	B	Mammal	1			Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233244.1 	xL
 XM_028165960	IFNL-B-Mammal-1	Balaenoptera acutorostrata		IFNL	B	Mammal	1			Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_028021761.1	
 XM_003735566	IFNL-B-Mammal-1	Callithrix jacchus		IFNL	B	Mammal	1			Euarchontoglires	Primates	Cebidae	Callithrix	XP_003735614.2	
@@ -132,6 +131,7 @@ XM_025268342	IFNL-B-Mammal-2	Bubalus bubalis		IFNL	B	Mammal	2			Laurasiatheria	U
 XM_017967394	IFNL-B-Mammal-2	Callithrix jacchus		IFNL	B	Mammal	2			Euarchontoglires	Primates	Cebidae	Callithrix	XP_017822883.1	
 XM_010972051	IFNL-B-Mammal-2	Camelus bactrianus	-	IFNL	B	Mammal	1								
 XM_010985162	IFNL-B-Mammal-2	Camelus dromedarius		IFNL	B	Mammal	2			Laurasiatheria	Unclassified	Camelidae	Camelus	XP_010983464.1 	
+XM_018063271	IFNL-B-Mammal-2	Capra hircus	-	IFNL	B	Mammal	2								
 XM_018063174	IFNL-B-Mammal-2	Capra hircus		IFNL	B	Mammal	2			Laurasiatheria					
 XM_008057580	IFNL-B-Mammal-2	Carlito syrichta		IFNL	B	Mammal	2			Euarchontoglires	Primates	Tarsiidae	Tarsius	XP_008055771.1	
 XM_020156959	IFNL-B-Mammal-2	Castor canadensis		IFNL	B	Mammal	2			Euarchontoglires	Rodentia	Castoridae	Castor	XP_020012548.1	
