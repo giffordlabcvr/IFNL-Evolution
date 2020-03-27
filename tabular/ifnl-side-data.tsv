@@ -4,6 +4,7 @@ XM_028165945	IFNL-A-Mammal	Balaenoptera acutorostrata scammoni		IFNL	A	Mammal			
 XM_007180047	IFNL-A-Mammal	Balaenoptera acutorostrata scammoni		IFNL	A	Mammal				Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera		
 XM_007180046	IFNL-A-Mammal	Balaenoptera acutorostrata scammoni		IFNL	A	Mammal				Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera		
 XM_005219127	IFNL-A-Mammal	Bos taurus		IFNL	A	Mammal				Laurasiatheria	Unclassified	Bovidae	Bos		
+XM_005219126	IFNL-A-Mammal	Bos taurus		IFNL	A	Mammal				Laurasiatheria					
 XM_025268277	IFNL-A-Mammal	Bubalus bubalis		IFNL	A	Mammal				Laurasiatheria	Unclassified	Bovidae	Bubalus	XP_025124062.1	
 XM_008987976	IFNL-A-Mammal	Callithrix jacchus		IFNL	A	Mammal				Euarchontoglires	Primates	Cebidae	Callithrix	XP_008986224.1	
 XM_020156960	IFNL-A-Mammal	Castor canadensis		IFNL	A	Mammal				Euarchontoglires	Rodentia	Castoridae	Castor	XP_020012549.1	
@@ -14,6 +15,7 @@ XM_013522287	IFNL-A-Mammal	Chinchilla lanigera		IFNL	A	Mammal				Euarchontoglire
 XM_007996757	IFNL-A-Mammal	Chlorocebus sabaeus	-	IFNL	A	Mammal									
 XM_006878034	IFNL-A-Mammal	Chrysochloris asiatica	-	IFNL	A	Mammal									
 XM_024577451	IFNL-A-Mammal	Desmodus rotundus	-	IFNL	A	Mammal									
+XM_004710487	IFNL-A-Mammal	Echinops telfairi		IFNL	A	Mammal				Afrotheria					
 XM_022525015	IFNL-A-Mammal	Enhydra lutris kenyoni	-	IFNL	A	Mammal									
 XM_008140039	IFNL-A-Mammal	Eptesicus fuscus	-	IFNL	A	Mammal									
 XM_007524025	IFNL-A-Mammal	Erinaceus europaeus		IFNL	A	Mammal				Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524087.1 	
@@ -68,8 +70,8 @@ KF192925	IFNL-A-Squamata	Anolis carolinensis		IFNL	A	Squamata
 XM_014607441	IFNL-B-Alligator	Alligator mississippiensis		IFNL	A	Alligator									
 XM_025202241	IFNL-B-Alligator	Alligator sinensis	REF_IFNLb_Alligator_MASTER	IFNL	B	Alligator							Alligator		
 NM_001171763	IFNL-B-Anura	Xenopus tropicalis	REF_IFNLb_Anura_MASTER	IFNL	B	Anura									
-XM_005501688	IFNL-B-Aves	Columba livia		IFNL	B	Aves									
 NM_001310792	IFNL-B-Aves	Anas platyrhynchos	REF_IFNLb_Aves_MASTER	IFNL	B	Aves									
+XM_005501688	IFNL-B-Aves	Columba livia		IFNL	B	Aves									
 XM_003207378	IFNL-B-Aves	Meleagris gallopavo		IFNL	B	Aves									
 XM_011234942	IFNL-B-Mammal-1	Ailuropoda melanoleuca		IFNL	B	Mammal	1			Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233244.1 	xL
 XM_028165960	IFNL-B-Mammal-1	Balaenoptera acutorostrata		IFNL	B	Mammal	1			Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_028021761.1	
@@ -126,7 +128,6 @@ NM_001142837	IFNL-B-Mammal-1-rtg-1	Sus scrofa	REF_IFNLb_Mammal_rtg_laurasia	IFNL
 XM_002927388	IFNL-B-Mammal-2	Ailuropoda melanoleuca		IFNL	B	Mammal	2			Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_002927434.1	xL
 XM_007179988	IFNL-B-Mammal-2	Balaenoptera acutorostrata		IFNL	B	Mammal	2			Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_007180050.1 	
 XM_007179990	IFNL-B-Mammal-2	Balaenoptera acutorostrata		IFNL	B	Mammal	2			Laurasiatheria					
-XM_005219126	IFNL-B-Mammal-2	Bos taurus		IFNL	B	Mammal	2			Laurasiatheria					
 XM_025268342	IFNL-B-Mammal-2	Bubalus bubalis		IFNL	B	Mammal	2			Laurasiatheria	Unclassified	Bovidae	Bubalus	XP_025124127.1 	
 XM_017967394	IFNL-B-Mammal-2	Callithrix jacchus		IFNL	B	Mammal	2			Euarchontoglires	Primates	Cebidae	Callithrix	XP_017822883.1	
 XM_010972051	IFNL-B-Mammal-2	Camelus bactrianus	-	IFNL	B	Mammal	1								
@@ -139,7 +140,6 @@ XM_017503063	IFNL-B-Mammal-2	Cebus capucinus		IFNL	B	Mammal	2			Euarchontoglires
 XM_012730587	IFNL-B-Mammal-2	Condylura cristata	-	IFNL	B	Mammal	1								
 XM_024577417	IFNL-B-Mammal-2	Desmodus rotundus	-	IFNL	B	Mammal	1								
 XM_024577418	IFNL-B-Mammal-2	Desmodus rotundus	-	IFNL	B	Mammal	2								
-XM_004710487	IFNL-B-Mammal-2	Echinops telfairi		IFNL	B	Mammal	2			Afrotheria					
 XM_004710311	IFNL-B-Mammal-2	Echinops telfairi		IFNL	B	Mammal	2			Afrotheria					
 XM_006901124	IFNL-B-Mammal-2	Elephantulus edwardii	-	IFNL	B	Mammal	1								
 XM_008161658	IFNL-B-Mammal-2	Eptesicus fuscus	-	IFNL	B	Mammal	1								

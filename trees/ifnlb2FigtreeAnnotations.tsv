@@ -15,8 +15,6 @@ alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636880	XM_004636880	Octodon
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636881	XM_004636881	Octodon degus	IFNL	Mammal	2	-	-
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_004636884	XM_004636884	Octodon degus	IFNL	Mammal	2	-	-
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-curated/XM_004710311	XM_004710311	Echinops telfairi	IFNL	Mammal	2	-	-
-alignment/AL_IFNLb_MAMMAL2/member/ncbi-curated/XM_004710487	XM_004710487	Echinops telfairi	IFNL	Mammal	2	-	-
-alignment/AL_IFNLb_MAMMAL2/member/ncbi-curated/XM_005219126	XM_005219126	Bos taurus	IFNL	Mammal	2	-	-
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_005596230	XM_005596230	Equus caballus	IFNL	Mammal	2	-	-
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-curated/XM_005886332	XM_005886332	Myotis brandtii	IFNL	Mammal	2	-	-
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_006140390	XM_006140390	Tupaia chinensis	IFNL	Mammal	2	-	-
@@ -39,6 +37,7 @@ alignment/AL_IFNLb_MAMMAL2/member/ncbi-curated/XM_016947939	XM_016947939	Pan tro
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_017803384	XM_017803384	Nannospalax galili	IFNL	Mammal	2	-	-
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_017967394	XM_017967394	Callithrix jacchus	IFNL	Mammal	2	-	-
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_018063174	XM_018063174	Capra hircus	IFNL	Mammal	2	-	-
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-curated/XM_018063271	XM_018063271	Capra hircus	IFNL	Mammal	2	-	-
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-curated/XM_019666264	XM_019666264	Hipposideros armiger	IFNL	Mammal	2	-	-
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_019818982	XM_019818982	Felis catus	IFNL	Mammal	2	-	-
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_020156959	XM_020156959	Castor canadensis	IFNL	Mammal	2	-	-

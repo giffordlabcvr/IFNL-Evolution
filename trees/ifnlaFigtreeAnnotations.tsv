@@ -7,6 +7,8 @@ alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004396491	XM_004396491	Odobenus
 alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004595181	XM_004595181	Ochotona princeps	IFNL	Mammal	-	-	-
 alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004617296	XM_004617296	Sorex araneus	IFNL	Mammal	-	-	-
 alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004636883	XM_004636883	Octodon degus	IFNL	Mammal	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004710487	XM_004710487	Echinops telfairi	IFNL	Mammal	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_005219126	XM_005219126	Bos taurus	IFNL	Mammal	-	-	-
 alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_005219127	XM_005219127	Bos taurus	IFNL	Mammal	-	-	-
 alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_005336481	XM_005336481	Ictidomys tridecemlineatus	IFNL	Mammal	-	-	-
 alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_006878034	XM_006878034	Chrysochloris asiatica	IFNL	Mammal	-	-	-
@@ -37,9 +39,8 @@ alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_016165225	XM_016165225	Rousettu
 alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_016209132	XM_016209132	Miniopterus natalensis	IFNL	Mammal	-	-	-
 alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_017503065	XM_017503065	Cebus capucinus	IFNL	Mammal	-	-	-
 alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_017503067	XM_017503067	Cebus capucinus imitator	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_018063271	XM_018063271	Capra hircus	IFNL	Mammal	-	-	-
 alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019014912	XM_019014912	Gorilla gorilla	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019015012	XM_019015012	Gorilla gorilla gorilla	IFNL	Mammal	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019015012	XM_019015012	Gorilla gorilla	IFNL	Mammal	-	-	-
 alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019431940	XM_019431940	Panthera pardus	IFNL	Mammal	-	-	-
 alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019431989	XM_019431989	Panthera pardus	IFNL	Mammal	-	-	-
 alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019431990	XM_019431990	Panthera pardus	IFNL	Mammal	-	-	-
