@@ -8,6 +8,31 @@
         <property>sequenceID</property>
     </textFileColumn>
 
+    <textFileColumn>
+        <header>species</header>
+        <property>species</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>species_superorder</header>
+        <property>species_superorder</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>species_order</header>
+        <property>species_order</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>species_family</header>
+        <property>species_family</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>species_genus</header>
+        <property>species_genus</property>
+    </textFileColumn>
+
    <textFileColumn>
         <header>name</header>
         <property>name</property>
@@ -48,12 +73,6 @@
         <header>order</header>
         <property>subclade</property>
     </textFileColumn>
-
-    <textFileColumn>
-        <header>species</header>
-        <property>organism</property>
-    </textFileColumn>
-
 
     <skipMissing>true</skipMissing>
 

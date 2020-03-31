@@ -1,5 +1,9 @@
   table sequence
-    create field organism VARCHAR 100
+    create field species VARCHAR 100
+    create field species_superorder VARCHAR 100
+    create field species_order VARCHAR 100
+    create field species_family VARCHAR 100
+    create field species_genus VARCHAR 100			
     create field name VARCHAR 100  
     create field gene_id VARCHAR 50
     create field vertebrate_lineage VARCHAR 50
