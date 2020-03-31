@@ -19,7 +19,7 @@
     </textFileColumn>
 
     <textFileColumn>
-        <header>Order</header>
+        <header>Species_order</header>
         <property>species_order</property>
     </textFileColumn>
 
@@ -67,11 +67,6 @@
     <textFileColumn>
         <header>duplicate_numeric_id</header>
         <property>duplicate_numeric_id</property>
-    </textFileColumn>
-
-   <textFileColumn>
-        <header>order</header>
-        <property>subclade</property>
     </textFileColumn>
 
     <skipMissing>true</skipMissing>

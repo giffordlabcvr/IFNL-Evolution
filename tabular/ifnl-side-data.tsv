@@ -1,4 +1,4 @@
-id	name	species	Species	reference_id	gene_id	clade	vertebrate_lineage	major_subclade	duplicate_type	duplicate_numeric_id	Superorder	Order	Family	Genus	protein_accession	ref
+id	name	species	Species	reference_id	gene_id	clade	vertebrate_lineage	major_subclade	duplicate_type	duplicate_numeric_id	Superorder	Species_order	Family	Genus	protein_accession	ref
 XM_011234954	IFNL-A-Mammal	Ailuropoda melanoleuca	Ailuropoda melanoleuca		IFNL	A	Mammal				Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233256.1	xL
 XM_028165945	IFNL-A-Mammal	Balaenoptera acutorostrata scammoni	Balaenoptera acutorostrata scammoni		IFNL	A	Mammal				Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera		
 XM_007180047	IFNL-A-Mammal	Balaenoptera acutorostrata scammoni	Balaenoptera acutorostrata scammoni		IFNL	A	Mammal				Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera		
@@ -202,4 +202,3 @@ XM_027855300	IFNL-B-Mammal-Marsupial	Vombatus ursinus	Vombatus ursinus	REF_IFNLb
 XM_001517881	IFNL-B-Mammal-Monotreme	Ornithorhynchus anatinus	Ornithorhynchus anatinus		IFNL	B	Mammal	Monotreme			Unclassified	Monotremata	Ornithorhynchidae	Ornithorhynchus	XP_001517931.2	xMo
 XM_025186888	IFNL-B-Testudines	Pelodiscus sinensis	Pelodiscus sinensis	REF_IFNLb_Testudines_MASTER	IFNL	B	Testudines				Unclassified	Testudines	Trionychidae	Pelodiscus		
 XM_026646209	IFNL-B-Testudines	Terrapene carolina	Terrapene carolina		IFNL	B	Testudines				Unclassified	Testudines	Emydidae	Terrapene		
-																
