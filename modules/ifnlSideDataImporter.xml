@@ -14,22 +14,22 @@
     </textFileColumn>
 
     <textFileColumn>
-        <header>species_superorder</header>
+        <header>Superorder</header>
         <property>species_superorder</property>
     </textFileColumn>
 
     <textFileColumn>
-        <header>species_order</header>
+        <header>Order</header>
         <property>species_order</property>
     </textFileColumn>
 
     <textFileColumn>
-        <header>species_family</header>
+        <header>Family</header>
         <property>species_family</property>
     </textFileColumn>
 
     <textFileColumn>
-        <header>species_genus</header>
+        <header>Genus</header>
         <property>species_genus</property>
     </textFileColumn>
 
