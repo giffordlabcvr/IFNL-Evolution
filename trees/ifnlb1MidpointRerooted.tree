@@ -1,1 +1,152 @@
-((alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_002711467:0.38386667609896157893,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_004595092:0.15096074431355635537)78:0.03134878871237583956,((alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_008057587:0.16465273654529385960,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_014587715:0.20342508201166950577)46:0.01004528995307647950,((alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_013077381:0.29039053988590829425,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_008854037:0.17784770375898198425,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_028859190:0.09047199594007060419,alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_021210483:0.07252304793174327302)99:0.05667350100112150679)100:0.09758263526220367634)20:0.03124850852911612714,(((alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_004481462:0.02435272829486575044,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_023585477:0.12892770378732290593)100:0.12175306281543424314,(((alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_007524026:0.29126830414041571249,((((alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_011234942:0.02938867597526288386,alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_014117025:0.06801529266005112984)91:0.02326598155416986780,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_006941288:0.05005409102237821928)100:0.03520471040285901715,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_017656413:0.08015443229219262888)97:0.01867040704804118212,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_014732932:0.15081631020464889015,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_028165960:0.16683347622927977016,((alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/NM_001290171:0.02110440431202734168,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_016166772:0.05523452976702451778)100:0.06100640388504719597,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_016209157:0.06494475421458101305,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_024577416:0.13353351157900286705,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_028529999:0.03269242577074473605,alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_028530311:0.00818566966129439556)99:0.01529281578295011920)100:0.06565848536580305705)100:0.04240660454916712202)100:0.05023488900201328322)59:0.00499505407313411472)52:0.00332072572874748907)93:0.02034035721814382927)16:0.00986997331819866423,((alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/NM_001166490:0.10685344641793394216,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_014541703:0.05475912809713195245,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_005886334:0.04898101324501804438)99:0.06167484615915634627)51:0.04735119957877530206,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_004687048:0.17358272079288422640,((alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_017651898:0.09166469992265341427,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/NM_001040680:0.09657839027447381874,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_011225064:0.05619449988148304820,alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/NM_001114853:0.05901603818543924018)72:0.01286586814749464402)98:0.03063513364122973787)38:0.01750870985979723418,((alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_004430284:0.04066091829336048596,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_023626728:0.00806519886086074292,alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_014832969:0.00189033660694310217)100:0.05195672843815962727)100:0.02801805898736887956,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/NM_001142837:0.13457401889507950021)31:0.00690057956641027849)10:0.00046564837298334634)94:0.01999038833615886246)26:0.00659911225788127522)8:0.00367180280212528248,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_004388217:0.06989827715793198171,((alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_007958477:0.07141071497949415259,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_007945560:0.03432694697209966173)100:0.05335729346100222953,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_006871441:0.10081915496736010285,(alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_004710488:0.09533125876740154714,alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_004710310:0.07945294514576559108)100:0.09007660981783331688)76:0.01504733694237488095)80:0.01122304814467214862)93:0.02831732144757388020)12:0.00905847749255944343)10:0.00904896995341477293,((alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_012657018:0.05567035621375676646,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_003802138:0.09288962101737020804)96:0.02423618705475837770,((alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_003735566:0.02522515788136782053,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_017503063:0.02760124483548907423)100:0.04282481539563221667,((alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_011952424:0.02755669851915182669,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_015123826:0.01512732865176589711)100:0.02634018938455842673,((alignment/AL_IFNLb_MAMMAL1/member/fasta-refseqs/IFNLB1_Psi_Hsa:0.17770449478381636355,alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_016934446:0.00087555502278431965)88:0.00545683643698468418,alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/NM_172140:0.00718268396339402822)100:0.01899553222576344860)93:0.01140450335943911722)100:0.08733320322911609923)52:0.00851558833984520508)11:0.00972534530114755810)48:0.02050034094141371666)78:0.03285092748646621826);
+#NEXUS
+begin taxa;
+	dimensions ntax=50;
+	taxlabels
+	'alignment/AL_IFNLb_MAMMAL1/member/fasta-refseqs/IFNLB1_Psi_Hsa'[&duplicate_numeric_id="-",duplicate_type="psi",gene_id="IFNL",major_subclade=1,sequenceID="IFNLB1_Psi_Hsa",species="Homo sapiens",species_family="Hominidae",species_genus="Homo",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/NM_001040680'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="NM_001040680",species="Felis catus",species_family="Felidae",species_genus="Felis",species_order="Carnivora",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/NM_001114853'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="NM_001114853",species="Canis lupus familiaris",species_family="Canidae",species_genus="Canis",species_order="Carnivora",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/NM_001290171'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="NM_001290171",species="Pteropus alecto",species_family="Pteropodidae",species_genus="Pteropus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_004430284'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_004430284",species="Ceratotherium simum",species_family="Rhinocerotidae",species_genus="Ceratotherium",species_order="Perissodactyla",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_004710310'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_004710310",species="Echinops telfairi",species_family="Tenrecidae",species_genus="Echinops",species_order="Unclassified",species_superorder="Afrotheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_004710488'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_004710488",species="Echinops telfairi",species_family="Tenrecidae",species_genus="Echinops",species_order="Unclassified",species_superorder="Afrotheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_011952424'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_011952424",species="Colobus angolensis palliatus",species_family="Cercopithecidae",species_genus="Colobus",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_014117025'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_014117025",species="Canis lupus",species_family="Canidae",species_genus="Canis",species_order="Carnivora",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_014541703'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_014541703",species="Myotis brandtii",species_family="Vespertilionidae",species_genus="Myotis",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_014832969'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_014832969",species="Equus asinus",species_family="Equidae",species_genus="Equus",species_order="Perissodactyla",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_016209157'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_016209157",species="Miniopterus natalensis",species_family="Vespertilionidae",species_genus="Miniopterus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_016934446'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_016934446",species="Pan troglodytes",species_family="Hominidae",species_genus="Pan",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_021210483'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_021210483",species="Mus pahari",species_family="Muridae",species_genus="Mus",species_order="Rodentia",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_024577416'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_024577416",species="Desmodus rotundus",species_family="Phyllostomidae",species_genus="Desmodus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_028530311'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_028530311",species="Phyllostomus discolor",species_family="Phyllostomidae",species_genus="Phyllostomus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/NM_001142837'[&duplicate_numeric_id="1",duplicate_type="rtg",gene_id="IFNL",major_subclade=1,sequenceID="NM_001142837",species="Sus scrofa",species_family="Suidae",species_genus="Sus",species_order="Unclassified",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/NM_001166490'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="NM_001166490",species="Sus scrofa",species_family="Suidae",species_genus="Sus",species_order="Unclassified",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/NM_172140'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="NM_172140",species="Homo sapiens",species_family="Hominidae",species_genus="Homo",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_002711467'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_002711467",species="Oryctolagus cuniculus",species_family="Leporidae",species_genus="Oryctolagus",species_order="Lagomorpha",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_003735566'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_003735566",species="Callithrix jacchus",species_family="Cebidae",species_genus="Callithrix",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_003802138'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_003802138",species="Otolemur garnettii",species_family="Galagidae",species_genus="Otolemur",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_004388217'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_004388217",species="Trichechus manatus",species_family="Trichechidae",species_genus="Trichechus",species_order="Sirenia",species_superorder="Afrotheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_004481462'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_004481462",species="Dasypus novemcinctus",species_family="Dasypodidae",species_genus="Dasypus",species_order="Cingulata",species_superorder="Xenarthra",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_004595092'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_004595092",species="Ochotona princeps",species_family="Ochotonidae",species_genus="Ochotona",species_order="Lagomorpha",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_004687048'[&duplicate_numeric_id="1",duplicate_type="rtg",gene_id="IFNL",major_subclade=1,sequenceID="XM_004687048",species="Condylura cristata",species_family="Talpidae",species_genus="Condylura",species_order="Insectivora",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_005886334'[&duplicate_numeric_id="1",duplicate_type="rtg",gene_id="IFNL",major_subclade=1,sequenceID="XM_005886334",species="Myotis brandtii",species_family="Vespertilionidae",species_genus="Myotis",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_006871441'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_006871441",species="Chrysochloris asiatica",species_family="Chrysochloridae",species_genus="Chrysochloris",species_order="Unclassified",species_superorder="Afrotheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_006941288'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_006941288",species="Felis catus",species_family="Felidae",species_genus="Felis",species_order="Carnivora",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_007524026'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_007524026",species="Erinaceus europaeus",species_family="Erinaceidae",species_genus="Erinaceus",species_order="Insectivora",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_007945560'[&duplicate_numeric_id="2",duplicate_type="rtg",gene_id="IFNL",major_subclade=1,sequenceID="XM_007945560",species="Orycteropus afer",species_family="Orycteropodidae",species_genus="Orycteropus",species_order="Tubulidentata",species_superorder="Afrotheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_007958477'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_007958477",species="Orycteropus afer",species_family="Orycteropodidae",species_genus="Orycteropus",species_order="Tubulidentata",species_superorder="Afrotheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_008057587'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_008057587",species="Carlito syrichta",species_family="Tarsiidae",species_genus="Tarsius",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_008854037'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_008854037",species="Nannospalax galili",species_family="Spalacidae",species_genus="Nannospalax",species_order="Rodentia",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_011225064'[&duplicate_numeric_id="1",duplicate_type="rtg",gene_id="IFNL",major_subclade=1,sequenceID="XM_011225064",species="Ailuropoda melanoleuca",species_family="Ursidae",species_genus="Ailuropoda",species_order="Carnivora",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_011234942'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_011234942",species="Ailuropoda melanoleuca",species_family="Ursidae",species_genus="Ailuropoda",species_order="Carnivora",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_012657018'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_012657018",species="Propithecus coquereli",species_family="Indriidae",species_genus="Propithecus",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_013077381'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_013077381",species="Heterocephalus glaber",species_family="Bathyergidae",species_genus="Heterocephalus",species_order="Rodentia",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_014587715'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_014587715",species="Tupaia chinensis",species_family="Tupaiidae",species_genus="Tupaia",species_order="Scandentia",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_014732932'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_014732932",species="Equus caballus",species_family="Equidae",species_genus="Equus",species_order="Perissodactyla",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_015123826'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_015123826",species="Macaca mulatta",species_family="Cercopithecidae",species_genus="Macaca",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_016166772'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_016166772",species="Rousettus aegyptiacus",species_family="Pteropodidae",species_genus="Rousettus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_017503063'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_017503063",species="Cebus capucinus",species_family="Cebidae",species_genus="Cebus",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_017651898'[&duplicate_numeric_id="1",duplicate_type="rtg",gene_id="IFNL",major_subclade=1,sequenceID="XM_017651898",species="Manis javanica",species_family="Manidae",species_genus="Manis",species_order="Pholidota",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_017656413'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_017656413",species="Manis javanica",species_family="Manidae",species_genus="Manis",species_order="Pholidota",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_023585477'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_023585477",species="Dasypus novemcinctus",species_family="Dasypodidae",species_genus="Dasypus",species_order="Cingulata",species_superorder="Xenarthra",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_023626728'[&duplicate_numeric_id="1",duplicate_type="rtg",gene_id="IFNL",major_subclade=1,sequenceID="XM_023626728",species="Equus caballus",species_family="Equidae",species_genus="Equus",species_order="Perissodactyla",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_028165960'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_028165960",species="Balaenoptera acutorostrata",species_family="Balaenopteridae",species_genus="Balaenoptera",species_order="Cetacea",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_028529999'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_028529999",species="Phyllostomus discolor",species_family="Phyllostomidae",species_genus="Phyllostomus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_028859190'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="IFNL",major_subclade=1,sequenceID="XM_028859190",species="Peromyscus leucopus",species_family="Cricetidae",species_genus="Peromyscus",species_order="Rodentia",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_002711467':0.383867,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_004595092':0.150961)[&label=78]:0.031349,(('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_008057587':0.164653,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_014587715':0.203425)[&label=46]:0.010045,(('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_013077381':0.290391,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_008854037':0.177848,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_028859190':0.090472,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_021210483':0.072523)[&label=99]:0.056674)[&label=100]:0.097583)[&label=20]:0.031249,((('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_004481462':0.024353,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_023585477':0.128928)[&label=100]:0.121753,((('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_007524026':0.291268,(((('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_011234942':0.029389,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_014117025':0.068015)[&label=91]:0.023266,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_006941288':0.050054)[&label=100]:0.035205,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_017656413':0.080154)[&label=97]:0.01867,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_014732932':0.150816,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_028165960':0.166833,(('alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/NM_001290171':0.021104,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_016166772':0.055235)[&label=100]:0.061006,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_016209157':0.064945,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_024577416':0.133534,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_028529999':0.032692,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_028530311':0.008186)[&label=99]:0.015293)[&label=100]:0.065658)[&label=100]:0.042407)[&label=100]:0.050235)[&label=59]:0.004995)[&label=52]:0.003321)[&label=93]:0.02034)[&label=16]:0.00987,(('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/NM_001166490':0.106853,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_014541703':0.054759,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_005886334':0.048981)[&label=99]:0.061675)[&label=51]:0.047351,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_004687048':0.173583,(('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_017651898':0.091665,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/NM_001040680':0.096578,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_011225064':0.056194,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/NM_001114853':0.059016)[&label=72]:0.012866)[&label=98]:0.030635)[&label=38]:0.017509,(('alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_004430284':0.040661,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_023626728':0.008065,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_014832969':0.00189)[&label=100]:0.051957)[&label=100]:0.028018,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/NM_001142837':0.134574)[&label=31]:0.006901)[&label=10]:4.66E-4)[&label=94]:0.01999)[&label=26]:0.006599)[&label=8]:0.003672,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_004388217':0.069898,(('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_007958477':0.071411,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_007945560':0.034327)[&label=100]:0.053357,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_006871441':0.100819,('alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_004710488':0.095331,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_004710310':0.079453)[&label=100]:0.090077)[&label=76]:0.015047)[&label=80]:0.011223)[&label=93]:0.028317)[&label=12]:0.009058)[&label=10]:0.009049,(('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_012657018':0.05567,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_003802138':0.09289)[&label=96]:0.024236,(('alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_003735566':0.025225,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_017503063':0.027601)[&label=100]:0.042825,(('alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_011952424':0.027557,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/XM_015123826':0.015127)[&label=100]:0.02634,(('alignment/AL_IFNLb_MAMMAL1/member/fasta-refseqs/IFNLB1_Psi_Hsa':0.177704,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/XM_016934446':8.76E-4)[&label=88]:0.005457,'alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/NM_172140':0.007183)[&label=100]:0.018996)[&label=93]:0.011405)[&label=100]:0.087333)[&label=52]:0.008516)[&label=11]:0.009725)[&label=48]:0.0205)[&label=78]:0.032851);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="species_order";
+	set tipLabels.displayAttribute="species";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=12;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
