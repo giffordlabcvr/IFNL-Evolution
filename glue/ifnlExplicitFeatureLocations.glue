@@ -40,6 +40,13 @@
     feature-location orf add segment 1 576
     exit 
   
+  reference REF_IFNL_Anura
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 540
+    add feature-location orf
+    feature-location orf add segment 1 540
+    exit 
   
   reference REF_IFNLb_Testudines
 
@@ -48,14 +55,6 @@
     add feature-location orf
     feature-location orf add segment 1 978
     exit  
-
-  reference REF_IFNLb_Anura
-
-    add feature-location mRNA
-    feature-location mRNA add segment 1 540
-    add feature-location orf
-    feature-location orf add segment 1 540
-    exit 
 
   reference REF_IFNLb_Alligator
 

@@ -1,16 +1,22 @@
 
-  #~# IFNLb locus master reference sequences
-  create reference REF_IFNLb_Mammal_MASTER          ncbi-refseqs NM_172140     # Human
+  #~# IFNL
+  create reference REF_IFNL_Anura                   ncbi-refseqs NM_001171763  # Xenopus
+
+  #~# IFNL humans
+  create reference REF_IFNLb_Mammal_MASTER          ncbi-refseqs NM_172140     # Human IFNLb1
+  create reference REF_IFNLb_Mammal_2_primate_1     ncbi-refseqs NM_172138     # Human IFNLb2
+  create reference REF_IFNLb_Mammal_2_primate_2     ncbi-refseqs NM_001346937  # Human IFNLb3 
+
+  #~# IFNL non-mammal
   create reference REF_IFNLb_Testudines             ncbi-refseqs XM_025186888  # Pelodiscus
-  create reference REF_IFNLb_Anura                  ncbi-refseqs NM_001171763  # Xenopus
   create reference REF_IFNLb_Alligator              ncbi-refseqs XM_025202241  # Alligator  
   create reference REF_IFNLb_Aves                   ncbi-refseqs NM_001310792  # Mallard
 
-  #~# IFNLa locus master reference sequences  
+  #~# IFNLa
   create reference REF_IFNLa_Mammal                 ncbi-refseqs NM_001276254  # Human
   create reference REF_IFNLa_Serpentes              ncbi-refseqs XM_026688830  # Tiger snake
 
-  #~# IFNLb main subclades
+  #~# IFNLb mammal: main subclades
   create reference REF_IFNLb_Mammal_1               ncbi-refseqs NM_172140     # Human IFNLb1 
   create reference REF_IFNLb_Mammal_2               ncbi-refseqs NM_172138     # Human IFNLb2 
   create reference REF_IFNLb_Mammal_Marsupial       ncbi-refseqs XM_027855300  # Monodelphis   
@@ -21,11 +27,10 @@
   create reference REF_IFNLb_Mammal_1_afrotheria    ncbi-refseqs XM_006871441  # Chrysochloris   
   create reference REF_IFNLb_Mammal_1_rodent        ncbi-refseqs XM_008854037  # Nanospallax   
   create reference REF_IFNLb_Mammal_1_lagomorph     ncbi-refseqs XM_004595092  # Pika   
-  #create reference REF_IFNLb_Mammal_1_carnivora     ncbi-refseqs XM_01981898   # Cat
   create reference REF_IFNLb_Mammal_1_perisso       ncbi-refseqs XM_014732932  # Horse
+  #create reference REF_IFNLb_Mammal_1_carnivora     ncbi-refseqs XM_01981898   # Cat
 
   #~# IFNLb 2 species group reference sequences  
-  create reference REF_IFNLb_Mammal_2_primate_1     ncbi-refseqs NM_172138     # Human
   create reference REF_IFNLb_Mammal_2_rodent_1      ncbi-refseqs NM_001024673  # Mouse   
   create reference REF_IFNLb_Mammal_2_afrotheria    ncbi-refseqs XM_003420833  # Elephant   
   create reference REF_IFNLb_Mammal_2_chiroptera_1  ncbi-refseqs XM_016209154  # Miniopterus
@@ -40,7 +45,6 @@
   create reference REF_IFNLb_Mammal_1_rtg_orycteropus ncbi-refseqs XM_007945560  # Aardvark
 
   #~# IFNLb 2 duplicates
-  create reference REF_IFNLb_Mammal_2_primate_2     ncbi-refseqs NM_001346937  # Human IFNLb3 
   create reference REF_IFNLb_Mammal_2_mus_2         ncbi-refseqs NM_177396     # Mus IFNLb3
   create reference REF_IFNLb_Mammal_2_octodon_2     ncbi-refseqs XM_004636880  # Octodon 
   create reference REF_IFNLb_Mammal_2_octodon_3     ncbi-refseqs XM_004636881  # Octodon 
@@ -48,5 +52,4 @@
   create reference REF_IFNLb_Mammal_2_chiroptera_3  ncbi-refseqs XM_016209156  # Miniopterus
   create reference REF_IFNLb_Mammal_2_capra_2       ncbi-refseqs XM_018063174  # Goat
   create reference REF_IFNLb_Mammal_2_balaenopt_2   ncbi-refseqs XM_007179990  # Minke whale
-
 
