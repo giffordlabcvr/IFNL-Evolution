@@ -11,8 +11,8 @@
     add member --whereClause "source.name = 'fasta-refseqs'"
     add member --whereClause "source.name = 'ncbi-curated'"
     
-	extract child AL_IFNLb_AMPH --refName REF_IFNLb_Anura
-	demote member AL_IFNLb_AMPH --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Anura'" 
+	extract child AL_IFNL_AMPH --refName REF_IFNL_Anura
+	demote member AL_IFNL_AMPH --whereClause "sequence.vertebrate_lineage = 'Anura'" 
 
 	extract child AL_IFNLb_ALLIGATOR --refName REF_IFNLb_Alligator
 	demote member AL_IFNLb_ALLIGATOR --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Alligator'" 
