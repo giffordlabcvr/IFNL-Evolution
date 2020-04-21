@@ -20,60 +20,57 @@
   feature orf set metatag INCLUDE_IN_SUMMARY true
   feature orf set metatag CODES_AMINO_ACIDS true
 
-  create feature orf_exon1 -p orf "Exon 1 (mRNA)"
-  feature orf_exon1 set metatag CODES_AMINO_ACIDS true
+  create feature orf_exon1 -p mRNA "Exon 1 (mRNA)"
+  create feature orf_exon2 -p mRNA "Exon 2 (mRNA)"
+  create feature orf_exon3 -p mRNA "Exon 3 (mRNA)"
+  create feature orf_exon4 -p mRNA "Exon 4 (mRNA)"
+  create feature orf_exon5 -p mRNA "Exon 5 (mRNA)"
+  create feature orf_exon6 -p mRNA "Exon 6 (mRNA)"
 
-  create feature SP -p orf_exon1 "SP"
+  create feature SP -p orf "SP"
   feature SP set metatag CODES_AMINO_ACIDS true
 
-  create feature N-term-extension -p orf_exon1 "N-term extension"
-  feature N-term-extension set metatag CODES_AMINO_ACIDS true
+  create feature n-term -p orf "N-term extension"
+  feature n-term set metatag CODES_AMINO_ACIDS true
 
-  create feature N-helix -p orf_exon1 "Helix A"
+  create feature N-helix -p orf "Helix A"
   feature N-helix set metatag CODES_AMINO_ACIDS true
 
-  create feature orf_exon2 -p orf "Exon 2 (mRNA)"
-  feature orf_exon2 set metatag CODES_AMINO_ACIDS true
-
-  create feature loop1 -p orf_exon2 "loop1"
+  create feature loop1 -p orf "loop1"
   feature loop1 set metatag CODES_AMINO_ACIDS true
 
-  create feature helix-b -p orf_exon2 "Helix B"
+  create feature helix-b -p orf "Helix B"
   feature helix-b set metatag CODES_AMINO_ACIDS true
 
-  create feature loop2 -p orf_exon2 "loop2"
+  create feature loop2 -p orf "loop2"
   feature loop2 set metatag CODES_AMINO_ACIDS true
 
-  create feature helix-c -p orf_exon2 "Helix C"
+  create feature helix-c -p orf "Helix C"
   feature helix-c set metatag CODES_AMINO_ACIDS true
   
-  create feature orf_exon3 -p orf "Exon 3 (mRNA)"
-  feature orf_exon3 set metatag CODES_AMINO_ACIDS true
-
-  create feature loop3 -p orf_exon3 "loop3"
+  create feature loop3 -p orf "loop3"
   feature loop3 set metatag CODES_AMINO_ACIDS true
 
-  create feature helix-d -p orf_exon3 "Helix D"
+  create feature helix-d -p orf "Helix D"
   feature helix-d  set metatag CODES_AMINO_ACIDS true
 
-  create feature loop4 -p orf_exon3 "loop4"
+  create feature loop4 -p orf "loop4"
   feature loop4 set metatag CODES_AMINO_ACIDS true
 
-  create feature orf_exon4 -p orf "Exon 4 (mRNA)"
-  feature orf_exon4 set metatag CODES_AMINO_ACIDS true
-
-  create feature helix-e -p orf_exon4 "Helix E"
+  create feature helix-e -p orf "Helix E"
   feature helix-e set metatag CODES_AMINO_ACIDS true
 
-  create feature loop5 -p orf_exon4 "loop5"  
+  create feature loop5 -p orf "loop5"  
   feature loop5 set metatag CODES_AMINO_ACIDS true
 
-  create feature orf_exon5 -p orf "Exon 5 (mRNA)"
-  feature orf_exon5 set metatag CODES_AMINO_ACIDS true
 
-  create feature helix-f -p orf_exon5 "Helix F"
+  create feature helix-f -p orf "Helix F"
   feature helix-f set metatag CODES_AMINO_ACIDS true
 
-  create feature c-term  -p orf_exon5 "C-term extension"  
+
+  create feature loop6 -p orf "loop6"  
+  feature loop6 set metatag CODES_AMINO_ACIDS true
+
+  create feature c-term  -p orf "C-term extension"  
   feature c-term set metatag CODES_AMINO_ACIDS true
 
