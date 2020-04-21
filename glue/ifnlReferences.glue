@@ -1,9 +1,9 @@
 
 
   #~# IFNL MASTER REFERENCES FOR 'A' and 'B' clades
-  create reference REF_IFNLa_MASTER                 ncbi-refseqs NM_172140     # Human IFNLA
+  create reference REF_IFNLa_MASTER                 ncbi-refseqs NM_001276254  # Human IFNLA
   create reference REF_IFNLb_MASTER                 ncbi-refseqs NM_001346937  # Human IFNLB3
-  create reference REF_IFNLa_Mammal_MASTER          ncbi-refseqs NM_172140     # Human IFNLA
+  create reference REF_IFNLa_Mammal_MASTER          ncbi-refseqs NM_001276254  # Human IFNLA
   create reference REF_IFNLb_Mammal_MASTER          ncbi-refseqs NM_001346937  # Human IFNLB3
 
 

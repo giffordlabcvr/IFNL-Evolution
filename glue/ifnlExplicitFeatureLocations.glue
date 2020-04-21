@@ -1,6 +1,59 @@
   # Define features on master reference sequences for IFNL
 
-  # REF_IFNLb_MASTER (Homo sapiens IFNLb3 MASTER) 
+  # Human IFNLA accession number: NM_001276254
+  reference REF_IFNLa_MASTER
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 1636
+    
+    add feature-location orf
+    feature-location orf add segment 278 817
+
+    add feature-location SP
+    feature-location SP add segment 278 349
+
+    add feature-location loop1
+    feature-location loop1 add segment 350 385
+
+    add feature-location N-helix
+    feature-location N-helix add segment 386 445
+
+    add feature-location loop2
+    feature-location loop2 add segment 446 451
+
+    add feature-location helix-b
+    feature-location helix-b add segment 452 499
+
+    add feature-location loop3
+    feature-location loop3 add segment 500 502
+
+    add feature-location helix-c
+    feature-location helix-c add segment 503 565
+
+    add feature-location loop4
+    feature-location loop4 add segment 566 583
+
+    add feature-location helix-d
+    feature-location helix-d add segment 584 643
+
+    add feature-location loop5
+    feature-location loop5 add segment 644 673
+
+    add feature-location helix-e
+    feature-location helix-e add segment 674 718
+
+    add feature-location loop6
+    feature-location loop6 add segment 719 724
+
+    add feature-location helix-f
+    feature-location helix-f add segment 725 814
+
+    add feature-location c-term
+    feature-location c-term add segment 815 817
+    exit 
+
+
+  # Human IFNLb3 accession number: NM_001346937
   reference REF_IFNLb_MASTER
 
     add feature-location mRNA
@@ -9,23 +62,23 @@
     add feature-location orf
     feature-location orf add segment 1 603  
 
-    add feature-location orf_exon1
-    feature-location orf_exon1 add segment 1 10  
+    add feature-location mRNA_exon1
+    feature-location mRNA_exon1 add segment 1 10  
 
-    add feature-location orf_exon2
-    feature-location orf_exon2 add segment 11 192  
+    add feature-location mRNA_exon2
+    feature-location mRNA_exon2 add segment 11 192  
 
-    add feature-location orf_exon3
-    feature-location orf_exon3 add segment 193 270  
+    add feature-location mRNA_exon3
+    feature-location mRNA_exon3 add segment 193 270  
 
-    add feature-location orf_exon4
-    feature-location orf_exon4 add segment 271 420  
+    add feature-location mRNA_exon4
+    feature-location mRNA_exon4 add segment 271 420  
 
-    add feature-location orf_exon5
-    feature-location orf_exon5 add segment 421 504  
+    add feature-location mRNA_exon5
+    feature-location mRNA_exon5 add segment 421 504  
 
-    add feature-location orf_exon6
-    feature-location orf_exon6 add segment 505 629  
+    add feature-location mRNA_exon6
+    feature-location mRNA_exon6 add segment 505 629  
 
     add feature-location SP
     feature-location SP add segment 1 57  
@@ -79,23 +132,23 @@
     add feature-location orf
     feature-location orf add segment 1 603  
 
-    add feature-location orf_exon1
-    feature-location orf_exon1 add segment 1 10  
+    add feature-location mRNA_exon1
+    feature-location mRNA_exon1 add segment 1 10  
 
-    add feature-location orf_exon2
-    feature-location orf_exon2 add segment 11 192  
+    add feature-location mRNA_exon2
+    feature-location mRNA_exon2 add segment 11 192  
 
-    add feature-location orf_exon3
-    feature-location orf_exon3 add segment 193 270  
+    add feature-location mRNA_exon3
+    feature-location mRNA_exon3 add segment 193 270  
 
-    add feature-location orf_exon4
-    feature-location orf_exon4 add segment 271 420  
+    add feature-location mRNA_exon4
+    feature-location mRNA_exon4 add segment 271 420  
 
-    add feature-location orf_exon5
-    feature-location orf_exon5 add segment 421 504  
+    add feature-location mRNA_exon5
+    feature-location mRNA_exon5 add segment 421 504  
 
-    add feature-location orf_exon6
-    feature-location orf_exon6 add segment 505 629  
+    add feature-location mRNA_exon6
+    feature-location mRNA_exon6 add segment 505 629  
 
     add feature-location SP
     feature-location SP add segment 1 57  
@@ -144,6 +197,15 @@
 
   #~#~#  IFNL subgroups
   
+  reference REF_IFNLa_Mammal
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 1636
+    
+    add feature-location orf
+    feature-location orf add segment 278 817  
+    exit 
+
   reference REF_IFNLb_Mammal_1
 
     add feature-location mRNA
@@ -160,7 +222,6 @@
 
     add feature-location orf
     feature-location orf add segment 174 776  
-
     exit 
 
 
@@ -185,23 +246,23 @@
     add feature-location orf
     feature-location orf add segment 1 603  
 
-    add feature-location orf_exon1
-    feature-location orf_exon1 add segment 1 10  
+    add feature-location mRNA_exon1
+    feature-location mRNA_exon1 add segment 1 10  
 
-    add feature-location orf_exon2
-    feature-location orf_exon2 add segment 11 192  
+    add feature-location mRNA_exon2
+    feature-location mRNA_exon2 add segment 11 192  
 
-    add feature-location orf_exon3
-    feature-location orf_exon3 add segment 193 270  
+    add feature-location mRNA_exon3
+    feature-location mRNA_exon3 add segment 193 270  
 
-    add feature-location orf_exon4
-    feature-location orf_exon4 add segment 271 420  
+    add feature-location mRNA_exon4
+    feature-location mRNA_exon4 add segment 271 420  
 
-    add feature-location orf_exon5
-    feature-location orf_exon5 add segment 421 504  
+    add feature-location mRNA_exon5
+    feature-location mRNA_exon5 add segment 421 504  
 
-    add feature-location orf_exon6
-    feature-location orf_exon6 add segment 505 629  
+    add feature-location mRNA_exon6
+    feature-location mRNA_exon6 add segment 505 629  
 
     add feature-location SP
     feature-location SP add segment 1 57  
@@ -266,17 +327,6 @@
     
     add feature-location orf
     feature-location orf add segment 1 576
-    
-    exit 
-
-   
-  reference REF_IFNLa_Mammal
-
-    add feature-location mRNA
-    feature-location mRNA add segment 1 1636
-    
-    add feature-location orf
-    feature-location orf add segment 278 817
     
     exit 
 

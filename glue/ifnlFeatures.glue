@@ -20,12 +20,12 @@
   feature orf set metatag INCLUDE_IN_SUMMARY true
   feature orf set metatag CODES_AMINO_ACIDS true
 
-  create feature orf_exon1 -p mRNA "Exon 1 (mRNA)"
-  create feature orf_exon2 -p mRNA "Exon 2 (mRNA)"
-  create feature orf_exon3 -p mRNA "Exon 3 (mRNA)"
-  create feature orf_exon4 -p mRNA "Exon 4 (mRNA)"
-  create feature orf_exon5 -p mRNA "Exon 5 (mRNA)"
-  create feature orf_exon6 -p mRNA "Exon 6 (mRNA)"
+  create feature mRNA_exon1 -p mRNA "Exon 1 (mRNA)"
+  create feature mRNA_exon2 -p mRNA "Exon 2 (mRNA)"
+  create feature mRNA_exon3 -p mRNA "Exon 3 (mRNA)"
+  create feature mRNA_exon4 -p mRNA "Exon 4 (mRNA)"
+  create feature mRNA_exon5 -p mRNA "Exon 5 (mRNA)"
+  create feature mRNA_exon6 -p mRNA "Exon 6 (mRNA)"
 
   create feature SP -p orf "SP"
   feature SP set metatag CODES_AMINO_ACIDS true
