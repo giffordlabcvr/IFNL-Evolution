@@ -1,20 +1,16 @@
 
-  #~# IFNL
-  create reference REF_IFNL_Anura                   ncbi-refseqs NM_001171763  # Xenopus
+
+  #~# IFNL MASTER REFERENCES FOR 'A' and 'B' clades
+  create reference REF_IFNLa_MASTER                 ncbi-refseqs NM_172140     # Human IFNLA
+  create reference REF_IFNLb_MASTER                 ncbi-refseqs NM_001346937  # Human IFNLB3
+  create reference REF_IFNLa_Mammal_MASTER          ncbi-refseqs NM_172140     # Human IFNLA
+  create reference REF_IFNLb_Mammal_MASTER          ncbi-refseqs NM_001346937  # Human IFNLB3
+
 
   #~# IFNL humans
-  create reference REF_IFNLb_Mammal_MASTER          ncbi-refseqs NM_172140     # Human IFNLb1
+  create reference REF_IFNLb_Mammal_1_primate_1     ncbi-refseqs NM_172140     # Human IFNLb1
   create reference REF_IFNLb_Mammal_2_primate_1     ncbi-refseqs NM_172138     # Human IFNLb2
   create reference REF_IFNLb_Mammal_2_primate_2     ncbi-refseqs NM_001346937  # Human IFNLb3 
-
-  #~# IFNL non-mammal
-  create reference REF_IFNLb_Testudines             ncbi-refseqs XM_025186888  # Pelodiscus
-  create reference REF_IFNLb_Alligator              ncbi-refseqs XM_025202241  # Alligator  
-  create reference REF_IFNLb_Aves                   ncbi-refseqs NM_001310792  # Mallard
-
-  #~# IFNLa
-  create reference REF_IFNLa_Mammal                 ncbi-refseqs NM_001276254  # Human
-  create reference REF_IFNLa_Serpentes              ncbi-refseqs XM_026688830  # Tiger snake
 
   #~# IFNLb mammal: main subclades
   create reference REF_IFNLb_Mammal_1               ncbi-refseqs NM_172140     # Human IFNLb1 
@@ -53,3 +49,14 @@
   create reference REF_IFNLb_Mammal_2_capra_2       ncbi-refseqs XM_018063174  # Goat
   create reference REF_IFNLb_Mammal_2_balaenopt_2   ncbi-refseqs XM_007179990  # Minke whale
 
+  #~# IFNLa
+  create reference REF_IFNLa_Mammal                 ncbi-refseqs NM_001276254  # Human
+
+  #~# IFNL non-mammal
+  create reference REF_IFNLb_Testudines             ncbi-refseqs XM_025186888  # Pelodiscus
+  create reference REF_IFNLb_Alligator              ncbi-refseqs XM_025202241  # Alligator  
+  create reference REF_IFNLb_Aves                   ncbi-refseqs NM_001310792  # Mallard
+  create reference REF_IFNLa_Serpentes              ncbi-refseqs XM_026688830  # Tiger snake
+
+  #~# IFNL outgroup amphibians
+  create reference REF_IFNL_Anura                   ncbi-refseqs NM_001171763  # Xenopus
