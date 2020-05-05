@@ -20,13 +20,8 @@ project ifnl
   import source sources/ncbi-refseqs/
   import source sources/ncbi-curated/
 
-  # Import GenBank side data
-  module ifnlGenbankXmlPopulator populate
-
-  # Import metadata for IFNL reference sequences
-  module ifnlSideDataImporter 
-    populate -f tabular/ifnl-side-data.tsv
-    exit
+  # Import sequence associated data
+  run file glue/ifnlLoadRefseqSidedata.glue
 
   # Define features
   run file glue/ifnlFeatures.glue
@@ -50,7 +45,7 @@ project ifnl
   run file glue/inheritFeatureLocations.glue
 
   # Build phylogenies
-  #run file glue/ifnlCreatePhylogenies.glue
+  run file glue/ifnlCreatePhylogenies.glue
 
   # Validate
   validate

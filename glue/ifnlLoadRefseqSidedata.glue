@@ -1,0 +1,8 @@
+
+  # Import GenBank side data
+  module ifnlGenbankXmlPopulator populate
+
+  # Import metadata for IFNL reference sequences
+  module ifnlSideDataImporter 
+    populate -f tabular/ifnl-side-data.tsv
+    exit
