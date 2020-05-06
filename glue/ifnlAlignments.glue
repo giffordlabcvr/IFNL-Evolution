@@ -8,20 +8,20 @@
     import AL_UNC_IFNLA_mRNA -f alignments/internal/ifnla/ifnla-mrna.fna
     import AL_UNC_IFNLB_mRNA -f alignments/internal/ifnlb/ifnlb-mrna.fna
 
-    #~# Internal alignments (locus)
-    import AL_UNC_IFNLA_locus -f alignments/internal/ifnla/IFNL-a-primates.locus.fna
-    import AL_UNC_IFNLB_locus -f alignments/internal/ifnlb/ifnlb-mrna.fna
+    #~# Internal alignments (locus, individual genes)
+    #import AL_UNC_IFNLA_locus -f alignments/internal/ifnla/IFNL-a-primates.locus.fna
+    #import AL_UNC_IFNLB_locus -f alignments/internal/ifnla/IFNL-b-primates.locus.fna
     
-    #~# Internal alignments (locus)
+    #~# Internal alignments, IFNL-B lineages (locus, individual genes,)
     import AL_UNC_IFNLB_locus_artiodactyla  -f alignments/internal/ifnlb/locus-IFNL-b-artiodactyl.aln.fna
     import AL_UNC_IFNLB_locus_carnivora     -f alignments/internal/ifnlb/locus-IFNL-b-carnivora.aln.fna
     import AL_UNC_IFNLB_locus_ceratotheria  -f alignments/internal/ifnlb/locus-IFNL-b-ceratotheria.aln.fna
     import AL_UNC_IFNLB_locus_cetacea       -f alignments/internal/ifnlb/locus-IFNL-b-cetacea.aln.fna
-    import AL_UNC_IFNLB_locus_chiroptera    -f alignments/internal/ifnlb/locus-IFNL-b-chiroptera.aln.fna
+    #import AL_UNC_IFNLB_locus_chiroptera    -f alignments/internal/ifnlb/locus-IFNL-b-chiroptera.aln.fna
     import AL_UNC_IFNLB_locus_lagomorpha    -f alignments/internal/ifnlb/locus-IFNL-b-lagomorpha.aln.fna
-    import AL_UNC_IFNLB_locus_primates      -f alignments/internal/ifnlb/locus-IFNL-b-primates.aln.fna
-    import AL_UNC_IFNLB_locus_rodents       -f alignments/internal/ifnlb/locus-IFNL-b-rodents.aln.fna
-    import AL_UNC_IFNLB_locus_strepsirrhini -f alignments/internal/ifnlb/locus-IFNL-b-strepsirrhini.aln.fna
+    #import AL_UNC_IFNLB_locus_primates      -f alignments/internal/ifnlb/locus-IFNL-b-primates.aln.fna
+    #import AL_UNC_IFNLB_locus_rodents       -f alignments/internal/ifnlb/locus-IFNL-b-rodents.aln.fna
+    #import AL_UNC_IFNLB_locus_strepsirrhini -f alignments/internal/ifnlb/locus-IFNL-b-strepsirrhini.aln.fna
 
     exit
 
