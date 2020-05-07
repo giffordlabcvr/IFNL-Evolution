@@ -45,8 +45,11 @@ project ifnl
   # Inherit feature locations
   run file glue/inheritFeatureLocations.glue
 
+  # Define variations 
+  run file glue/ifnlVariations.glue
+
   # Build phylogenies
-  run file glue/ifnlCreatePhylogenies.glue
+  #run file glue/ifnlCreatePhylogenies.glue
 
   # Validate
   validate

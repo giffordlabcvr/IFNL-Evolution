@@ -1,0 +1,59 @@
+reference REF_IFNLb_Mammal_MASTER
+
+  feature-location orf
+  
+    # Glycosylation site
+    create variation n-linked-glycosylation -t aminoAcidRegexPolymorphism --labeledCodon 1 201
+    variation n-linked-glycosylation    
+      set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+    exit
+                                    
+  exit
+  
+exit
+
+reference REF_IFNLb_MASTER
+
+  feature-location orf
+  
+    # Glycosylation site
+    create variation n-linked-glycosylation -t aminoAcidRegexPolymorphism --labeledCodon 1 201
+    variation n-linked-glycosylation    
+      set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+    exit
+                                    
+  exit
+  
+exit
+
+reference REF_IFNLa_MASTER
+
+  feature-location orf
+  
+    # Glycosylation site
+    create variation n-linked-glycosylation -t aminoAcidRegexPolymorphism --labeledCodon 50 100
+    variation n-linked-glycosylation    
+      set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+    exit
+                                    
+  exit
+  
+exit
+
+
+
+reference REF_IFNLa_Mammal
+
+  feature-location orf
+  
+    # Glycosylation site
+    create variation n-linked-glycosylation -t aminoAcidRegexPolymorphism --labeledCodon 50 100
+    variation n-linked-glycosylation    
+      set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+    exit
+                                    
+  exit
+  
+exit
+
+

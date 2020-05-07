@@ -1,5 +1,4 @@
 taxon	sequenceID	species	species_superorder	species_order	species_family	species_genus	gene_id	vertebrate_lineage	major_subclade	duplicate_type	duplicate_numeric_id
-alignment/AL_IFNLb_MAMMAL1/member/fasta-refseqs/IFNLB1_Psi_Hsa	IFNLB1_Psi_Hsa	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	1	psi	-
 alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/NM_001040680	NM_001040680	Felis catus	Laurasiatheria	Carnivora	Felidae	Felis	IFNL	Mammal	1	canonical	-
 alignment/AL_IFNLb_MAMMAL1/member/ncbi-curated/NM_001114853	NM_001114853	Canis lupus familiaris	Laurasiatheria	Carnivora	Canidae	Canis	IFNL	Mammal	1	rtg	1
 alignment/AL_IFNLb_MAMMAL1/member/ncbi-refseqs/NM_001142837	NM_001142837	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus	IFNL	Mammal	1	rtg	1
