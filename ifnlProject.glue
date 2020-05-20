@@ -49,7 +49,7 @@ project ifnl
   run file glue/ifnlVariations.glue
 
   # Build phylogenies
-  #run file glue/ifnlCreatePhylogenies.glue
+  run file glue/ifnlCreatePhylogenies.glue
 
   # Validate
   validate
