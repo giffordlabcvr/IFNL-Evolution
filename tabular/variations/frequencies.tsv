@@ -1,0 +1,5 @@
+referenceName	featureName	variationName	membersPresent	pctPresent	membersAbsent	pctAbsent
+REF_IFNLb_Mammal_2	orf	n-linked-glycosylation-o	0	0.0	18	100.0
+REF_IFNLb_Mammal_2	orf	n-linked-glycosylation-a	21	35.0	39	65.0
+REF_IFNLb_Mammal_2	orf	n-linked-glycosylation-b	2	28.571428571428573	5	71.42857142857143
+REF_IFNLb_Mammal_2	orf	n-linked-glycosylation-c	0	0.0	63	100.0
