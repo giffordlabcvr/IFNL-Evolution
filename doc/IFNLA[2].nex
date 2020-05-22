@@ -1,14 +1,0 @@
-#NEXUSBegin DATA;  Dimensions ntax=1 nchar=180;  Format datatype=PROTEIN interleave gap=-;  Matrix  [                   1         11        21        31        41        51        ]  [                   |         |         |         |         |         |         ]  'NM_001276254|Homo' MRPSVWAAVAAGLWVLCTVIAAAPRRCLLSHYRSLEPRTLAAAKALRDRYEEEALSWGQR                      ------------------------************--------------------**--  [                   61        71        81        91        101       111       ]  [                   |         |         |         |         |         |         ]  'NM_001276254|Homo' NCSFRPRRDPPRPSSCARLRHVARGIADAQAVLSGLHRSELLPGAGPILELLAAAGRDVA                      --------------*---------------------******------------------  [                   121       131       141       151       161       171       ]  [                   |         |         |         |         |         |         ]  'NM_001276254|Homo' ACLELARPGSSRKVPGAQKRRHKPRRADSPRCRKASVVFNLLRLLTWELRLAAHSGPCL*                      --**********---------------**-----------------------------*;End;1 - signal peptide ---
-2 - loop 1 ***
-3 - helix a
-4 - loop 2
-5 - helix b
-6 - loop 3
-7 - helix c
-8 - loop 4
-9 - helix d
-10 - loop 5
-11 - helix e
-12 - loop 6
-13 - helix f
-14 - c-term extension
