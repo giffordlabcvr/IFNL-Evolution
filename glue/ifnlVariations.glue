@@ -27,9 +27,9 @@ reference REF_IFNLb_MASTER
 exit
 
 
-# REF_IFNLb_Mammal_2_primate_2 (IFNLB3)
+# REF_IFNLb_Mammal_2 (IFNLB3)
 
-reference REF_IFNLb_Mammal_2_primate_2
+reference REF_IFNLb_Mammal_2
 
   feature-location orf
 
