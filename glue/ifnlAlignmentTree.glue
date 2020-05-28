@@ -3,7 +3,6 @@
   # Root alignment
   create alignment AL_IFNL_ROOT -r REF_IFNLb_Mammal_MASTER 
 
-
   # Major branches
   alignment AL_IFNL_ROOT 
 
@@ -52,10 +51,3 @@
 	
     exit
 
-
-   
-    
-    
-    
-    
-    

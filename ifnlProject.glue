@@ -40,7 +40,7 @@ project ifnl
   run file glue/ifnlAlignmentTree.glue
 
   # Compute alignments
-  run file glue/ifnlComputeAlignments.glue
+  #run file glue/ifnlComputeAlignments.glue
 
   # Inherit feature locations
   run file glue/inheritFeatureLocations.glue
