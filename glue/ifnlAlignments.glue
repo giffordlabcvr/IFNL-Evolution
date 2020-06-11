@@ -17,8 +17,9 @@
     import AL_UNC_IFNLB_locus_carnivora     -f alignments/internal/ifnlb/locus-IFNL-b-carnivora.aln.fna
     import AL_UNC_IFNLB_locus_ceratotheria  -f alignments/internal/ifnlb/locus-IFNL-b-ceratotheria.aln.fna
     import AL_UNC_IFNLB_locus_cetacea       -f alignments/internal/ifnlb/locus-IFNL-b-cetacea.aln.fna
-    #import AL_UNC_IFNLB_locus_chiroptera    -f alignments/internal/ifnlb/locus-IFNL-b-chiroptera.aln.fna
     import AL_UNC_IFNLB_locus_lagomorpha    -f alignments/internal/ifnlb/locus-IFNL-b-lagomorpha.aln.fna
+
+    #import AL_UNC_IFNLB_locus_chiroptera    -f alignments/internal/ifnlb/locus-IFNL-b-chiroptera.aln.fna
     #import AL_UNC_IFNLB_locus_primates      -f alignments/internal/ifnlb/locus-IFNL-b-primates.aln.fna
     #import AL_UNC_IFNLB_locus_rodents       -f alignments/internal/ifnlb/locus-IFNL-b-rodents.aln.fna
     #import AL_UNC_IFNLB_locus_strepsirrhini -f alignments/internal/ifnlb/locus-IFNL-b-strepsirrhini.aln.fna

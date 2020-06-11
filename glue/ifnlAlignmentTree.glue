@@ -51,3 +51,15 @@
 	
     exit
 
+
+  #~# Derive constrained alignment segments from unconstrained alignments
+  
+  alignment AL_IFNLa_MAMMAL
+	derive segments AL_UNC_IFNLA_mRNA -a --mergeStrategy OVERWRITE
+	exit
+
+  alignment AL_IFNLb_MAMMAL
+	derive segments AL_UNC_IFNLB_mRNA -a --mergeStrategy OVERWRITE
+	exit
+
+
