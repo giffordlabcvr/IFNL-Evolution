@@ -2,7 +2,7 @@ taxon	sequenceID	species	species_superorder	species_order	species_family	species
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-curated/HQ201955	HQ201955	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus	IFNL	Mammal	2	-	2
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_001024673	NM_001024673	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus	IFNL	Mammal	2	-	2
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_001346937	NM_001346937	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	2	-	2
-alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_172138	NM_172138	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	2	-	2
+alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_172138	NM_172138	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	2	-	1
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/NM_177396	NM_177396	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus	IFNL	Mammal	2	-	2
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_001086865	XM_001086865	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	IFNL	Mammal	2	-	2
 alignment/AL_IFNLb_MAMMAL2/member/ncbi-refseqs/XM_002927388	XM_002927388	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	IFNL	Mammal	2	-	2

@@ -27,6 +27,8 @@
   create feature mRNA_exon5 -p mRNA "Exon 5 (mRNA)"
   create feature mRNA_exon6 -p mRNA "Exon 6 (mRNA)"
 
+  # Subdomains in ORF
+
   create feature SP -p orf "SP"
   feature SP set metatag CODES_AMINO_ACIDS true
 
@@ -63,14 +65,33 @@
   create feature loop5 -p orf "loop5"  
   feature loop5 set metatag CODES_AMINO_ACIDS true
 
-
   create feature helix-f -p orf "Helix F"
   feature helix-f set metatag CODES_AMINO_ACIDS true
-
 
   create feature loop6 -p orf "loop6"  
   feature loop6 set metatag CODES_AMINO_ACIDS true
 
   create feature c-term  -p orf "C-term extension"  
   feature c-term set metatag CODES_AMINO_ACIDS true
+
+
+  # Glycosylation regions
+  
+  create feature glycosylation-region-1 -p orf "Glycosylation region 1"
+  feature glycosylation-region-1  set metatag CODES_AMINO_ACIDS true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -150,8 +150,8 @@ XM_019818982	IFNL-B-Mammal-2	Felis catus	Felis catus		IFNL	B	Mammal	2		2	Laurasi
 XM_013077381	IFNL-B-Mammal-2	Heterocephalus glaber	Heterocephalus glaber		IFNL	B	Mammal	2		2	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	XP_012932835.1	
 XM_019666252	IFNL-B-Mammal-2	Hipposideros armiger	Hipposideros armiger	-	IFNL	B	Mammal	2		1	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros		
 XM_019666264	IFNL-B-Mammal-2	Hipposideros armiger	Hipposideros armiger	-	IFNL	B	Mammal	2		2	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros		
-NM_172138	IFNL-B-Mammal-2	Homo sapiens	Homo sapiens	REF_IFNLb_Mammal_2_MASTER	IFNL	B	Mammal	2		2	Euarchontoglires	Primates	Hominidae	Homo	NC_000019.1	
-NM_001346937	IFNL-B-Mammal-2	Homo sapiens	Homo sapiens		IFNL	B	Mammal	2		2	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
+NM_172138	IFNL-B-Mammal-2	Homo sapiens	Homo sapiens	REF_IFNLb_Mammal_B2_1	IFNL	B	Mammal	2		1	Euarchontoglires	Primates	Hominidae	Homo	NC_000019.1	
+NM_001346937	IFNL-B-Mammal-2	Homo sapiens	Homo sapiens	REF_IFNLb_Mammal_B2_2_MASTER	IFNL	B	Mammal	2		2	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
 XM_003420833	IFNL-B-Mammal-2	Loxodonta africana	Loxodonta africana		IFNL	B	Mammal	2		2	Afrotheria	Proboscidea	Elephantidae	Loxodonta	XP_003420881.2	xA
 XM_001086865	IFNL-B-Mammal-2	Macaca mulatta	Macaca mulatta		IFNL	B	Mammal	2		2	Euarchontoglires	Primates	Cercopithecidae	Macaca	XP_001086865.3	
 XM_016209154	IFNL-B-Mammal-2	Miniopterus natalensis	Miniopterus natalensis		IFNL	B	Mammal	2		2	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus		

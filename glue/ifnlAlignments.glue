@@ -5,8 +5,10 @@
     import AL_UNC_IFNL_ROOT -f alignments/root/infl-root.fna
 
     #~# Internal alignments (mRNA)
-    import AL_UNC_IFNLA_mRNA -f alignments/internal/ifnla/ifnla-mrna.fna
-    import AL_UNC_IFNLB_mRNA -f alignments/internal/ifnlb/ifnlb-mrna.fna
+    import AL_UNC_IFNLA_mRNA -f alignments/internal/ifnla/ifnla-mrna.aln.fna
+    import AL_UNC_IFNLB_mRNA -f alignments/internal/ifnlb/ifnlb-mrna.aln.fna
+    import AL_UNC_IFNLB1_mRNA -f alignments/internal/ifnlb/ifnlb1-mrna.aln.fna
+    import AL_UNC_IFNLB2_mRNA -f alignments/internal/ifnlb/ifnlb2-mrna.aln.fna
 
     #~# Internal alignments (locus, individual genes)
     #import AL_UNC_IFNLA_locus -f alignments/internal/ifnla/IFNL-a-primates.locus.fna

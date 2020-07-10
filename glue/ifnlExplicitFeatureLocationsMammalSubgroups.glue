@@ -1,59 +1,48 @@
 
-  # Human IFNLA accession number: NM_001276254
-  reference REF_IFNLa_Mammal_MASTER
+  #~#~#  IFNL subgroups
+  
+  reference REF_IFNLa_Mammal
 
     add feature-location mRNA
     feature-location mRNA add segment 1 1636
     
     add feature-location orf
-    feature-location orf add segment 278 817
+    feature-location orf add segment 278 817  
+    exit 
 
-    add feature-location SP
-    feature-location SP add segment 278 349
+  reference REF_IFNLb_Mammal_1
 
-    add feature-location loop1
-    feature-location loop1 add segment 350 385
+    add feature-location mRNA
+    feature-location mRNA add segment 1 775
 
-    add feature-location N-helix
-    feature-location N-helix add segment 386 445
+    add feature-location orf
+    feature-location orf add segment 16 618           
+    exit 
 
-    add feature-location loop2
-    feature-location loop2 add segment 446 451
+  reference REF_IFNLb_Mammal_2
 
-    add feature-location helix-b
-    feature-location helix-b add segment 452 499
+    add feature-location mRNA
+    feature-location mRNA add segment 1 951
 
-    add feature-location loop3
-    feature-location loop3 add segment 500 502
-
-    add feature-location helix-c
-    feature-location helix-c add segment 503 565
-
-    add feature-location loop4
-    feature-location loop4 add segment 566 583
-
-    add feature-location helix-d
-    feature-location helix-d add segment 584 643
-
-    add feature-location loop5
-    feature-location loop5 add segment 644 673
-
-    add feature-location helix-e
-    feature-location helix-e add segment 674 718
-
-    add feature-location loop6
-    feature-location loop6 add segment 719 724
-
-    add feature-location helix-f
-    feature-location helix-f add segment 725 814
-
-    add feature-location c-term
-    feature-location c-term add segment 815 817
+    add feature-location orf
+    feature-location orf add segment 174 776  
     exit 
 
 
-  # Human IFNLb3 accession number: NM_001346937
-  reference REF_IFNLb2_Mammal_MASTER
+  # REF_IFNLb_Mammal_2_primate_1 (Homo sapiens IFNLb2 MASTER) 
+  reference REF_IFNLb_Mammal_2_primate_1
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 951
+
+    add feature-location orf
+    feature-location orf add segment 174 776  
+    exit 
+
+
+
+  # REF_IFNLb_Mammal_2_primate_2 (Homo sapiens IFNLb3 MASTER) 
+  reference REF_IFNLb_Mammal_2_primate_2
 
     add feature-location mRNA
     feature-location mRNA add segment 1 629
@@ -103,9 +92,6 @@
     add feature-location loop4
     feature-location loop4 add segment 349 354  
 
-    add feature-location glycosylation-region-1
-    feature-location glycosylation-region-1 add segment 501 551
-
     add feature-location helix-d
     feature-location helix-d add segment 355 417   
 
@@ -124,5 +110,29 @@
     add feature-location c-term
     feature-location c-term add segment 598 603   
     exit 
+
+  
+
+  #~#~#  IFNLb mammalian subgroups
+
+  reference REF_IFNLb_Mammal_Marsupial
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 579
+
+    add feature-location orf
+    feature-location orf add segment 1 579
+    exit 
+
+  reference REF_IFNLb_Mammal_1_afrotheria
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 576
+    
+    add feature-location orf
+    feature-location orf add segment 1 576
+    
+    exit 
+
 
 
