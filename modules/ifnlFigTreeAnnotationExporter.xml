@@ -56,11 +56,11 @@
 	
 	<figTreeAnnotation>
 		<annotationName>glycosylation_o2_present</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o1_present')}</valueFreemarkerTemplate>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o2_present')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 	<figTreeAnnotation>
 		<annotationName>glycosylation_o2_coverage</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o1_coverage')}</valueFreemarkerTemplate>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o2_coverage')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 	
 	
