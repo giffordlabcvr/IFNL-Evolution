@@ -43,4 +43,25 @@
 		<annotationName>duplicate_numeric_id</annotationName>
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.duplicate_numeric_id')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o1_present</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o1_present')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o1_coverage</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o1_coverage')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o2_present</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o1_present')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o2_coverage</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o1_coverage')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	
 </figTreeAnnotationExporter>

@@ -29,7 +29,7 @@ project ifnl
 
   # Create references
   run file glue/ifnlReferences.glue
-  #run file glue/ifnlReferencesMammalianSubgroups.glue
+  run file glue/ifnlReferencesMammalianSubgroups.glue
 
   # Define feature locations
   run file glue/ifnlExplicitFeatureLocations.glue
@@ -48,7 +48,7 @@ project ifnl
 
   # Build phylogenies
   #run file glue/ifnlCreatePhylogeniesRoot.glue
-  #run file glue/ifnlCreatePhylogeniesClades.glue
+  run file glue/ifnlCreatePhylogeniesClades.glue
 
   # Validate
   validate

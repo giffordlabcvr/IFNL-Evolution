@@ -1,0 +1,21 @@
+<ecmaFunctionInvoker>
+
+	<scriptFileName>hivCalculateEntropy.js</scriptFileName>
+	
+	<function>
+		<name>calculateEntropy</name>
+		<parameter>
+			<name>refsequence</name>
+		</parameter>
+		<parameter>
+			<name>alignment</name>
+		</parameter>
+		<parameter>
+			<name>feature</name>
+		</parameter>
+	
+		<tableFromObjectsResultType/>
+	</function>
+	
+</ecmaFunctionInvoker>
+	 

@@ -1,63 +1,63 @@
-taxon	sequenceID	species	species_superorder	species_order	species_family	species_genus	gene_id	vertebrate_lineage	major_subclade	duplicate_type	duplicate_numeric_id
-alignment/AL_IFNLa_MAMMAL/member/fasta-refseqs-mrna/IFNLA_Psi_Hsa	IFNLA_Psi_Hsa	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	-	psi	1
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/NM_001276254	NM_001276254	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/NM_001276259	NM_001276259	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004396490	XM_004396490	Odobenus rosmarus divergens	Laurasiatheria	Carnivora	Odobenidae	Odobenus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004396491	XM_004396491	Odobenus rosmarus	Laurasiatheria	Carnivora	Odobenidae	Odobenus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004595181	XM_004595181	Ochotona princeps	Euarchontoglires	Lagomorpha	Ochotonidae	Ochotona	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004617296	XM_004617296	Sorex araneus	Laurasiatheria	Insectivora	Soricidae	Sorex	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004636883	XM_004636883	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004710487	XM_004710487	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_005219126	XM_005219126	Bos taurus	Laurasiatheria	Unclassified	Bovidae	Bos	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_005219127	XM_005219127	Bos taurus	Laurasiatheria	Unclassified	Bovidae	Bos	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_005336481	XM_005336481	Ictidomys tridecemlineatus	Euarchontoglires	Rodentia	Sciuridae	Ictidomys	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_006878034	XM_006878034	Chrysochloris asiatica	Afrotheria	Unclassified	Chrysochloridae	Chrysochloris	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_006911731	XM_006911731	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007180046	XM_007180046	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007180047	XM_007180047	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007524024	XM_007524024	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007524025	XM_007524025	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007660152	XM_007660152	Ornithorhynchus anatinus	Unclassified	Monotremata	Ornithorhynchidae	Ornithorhynchus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007955548	XM_007955548	Orycteropus afer afer	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007996757	XM_007996757	Chlorocebus sabaeus	Euarchontoglires	Primates	Cercopithecidae	Chlorocebus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_008140039	XM_008140039	Eptesicus fuscus	Laurasiatheria	Chiroptera	Vespertilionidae	Eptesicus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008257170	XM_008257170	Oryctolagus cuniculus	Euarchontoglires	Lagomorpha	Leporidae	Oryctolagus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008964650	XM_008964650	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008964691	XM_008964691	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008987976	XM_008987976	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_010600326	XM_010600326	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_010600327	XM_010600327	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_010600391	XM_010600391	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_011234954	XM_011234954	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_012496610	XM_012496610	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_012533543	XM_012533543	Orcinus orca	Laurasiatheria	Cetacea	Delphinidae	Orcinus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_013522287	XM_013522287	Chinchilla lanigera	Euarchontoglires	Rodentia	Chinchillidae	Chinchilla	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_013990503	XM_013990503	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_014541702	XM_014541702	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_015123824	XM_015123824	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_016165225	XM_016165225	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_016209132	XM_016209132	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_017503065	XM_017503065	Cebus capucinus	Euarchontoglires	Primates	Cebidae	Cebus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_017503067	XM_017503067	Cebus capucinus imitator	Euarchontoglires	Primates	Cebidae	Cebus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019014912	XM_019014912	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019015012	XM_019015012	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019431940	XM_019431940	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019431989	XM_019431989	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019431990	XM_019431990	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019666267	XM_019666267	Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019666268	XM_019666268	Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_020156960	XM_020156960	Castor canadensis	Euarchontoglires	Rodentia	Castoridae	Castor	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021239619	XM_021239619	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021239678	XM_021239678	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021700959	XM_021700959	Neomonachus schauinslandi	Laurasiatheria	Carnivora	Phocidae	Monachus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_021700961	XM_021700961	Neomonachus schauinslandi	Laurasiatheria	Carnivora	Phocidae	Monachus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_021931090	XM_021931090	Papio anubis	Euarchontoglires	Primates	Cercopithecidae	Papio	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_022525015	XM_022525015	Enhydra lutris kenyoni	Laurasiatheria	Carnivora	Mustelidae	Enhydra	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_023760558	XM_023760558	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_024577451	XM_024577451	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_025268277	XM_025268277	Bubalus bubalis	Laurasiatheria	Unclassified	Bovidae	Bubalus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_026491561	XM_026491561	Ursus arctos horribilis	Laurasiatheria	Carnivora	Ursidae	Ursus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_027765624	XM_027765624	Tree shrew	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_027855301	XM_027855301	Vombatus ursinus	Unclassified	Diprotodontia	Vombatidae	Vombatus	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_028165945	XM_028165945	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	IFNL	Mammal	-	-	-
-alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_028839087	XM_028839087	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	IFNL	Mammal	-	-	-
+taxon	sequenceID	species	species_superorder	species_order	species_family	species_genus	gene_id	vertebrate_lineage	major_subclade	duplicate_type	duplicate_numeric_id	glycosylation_o1_present	glycosylation_o1_coverage	glycosylation_o2_present	glycosylation_o2_coverage
+alignment/AL_IFNLa_MAMMAL/member/fasta-refseqs-mrna/IFNLA_Psi_Hsa	IFNLA_Psi_Hsa	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	-	psi	1	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/NM_001276254	NM_001276254	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/NM_001276259	NM_001276259	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004396490	XM_004396490	Odobenus rosmarus divergens	Laurasiatheria	Carnivora	Odobenidae	Odobenus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004396491	XM_004396491	Odobenus rosmarus	Laurasiatheria	Carnivora	Odobenidae	Odobenus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004595181	XM_004595181	Ochotona princeps	Euarchontoglires	Lagomorpha	Ochotonidae	Ochotona	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004617296	XM_004617296	Sorex araneus	Laurasiatheria	Insectivora	Soricidae	Sorex	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_004636883	XM_004636883	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_004710487	XM_004710487	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_005219126	XM_005219126	Bos taurus	Laurasiatheria	Unclassified	Bovidae	Bos	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_005219127	XM_005219127	Bos taurus	Laurasiatheria	Unclassified	Bovidae	Bos	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_005336481	XM_005336481	Ictidomys tridecemlineatus	Euarchontoglires	Rodentia	Sciuridae	Ictidomys	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_006878034	XM_006878034	Chrysochloris asiatica	Afrotheria	Unclassified	Chrysochloridae	Chrysochloris	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_006911731	XM_006911731	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007180046	XM_007180046	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007180047	XM_007180047	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007524024	XM_007524024	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007524025	XM_007524025	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_007660152	XM_007660152	Ornithorhynchus anatinus	Unclassified	Monotremata	Ornithorhynchidae	Ornithorhynchus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007955548	XM_007955548	Orycteropus afer afer	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_007996757	XM_007996757	Chlorocebus sabaeus	Euarchontoglires	Primates	Cercopithecidae	Chlorocebus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_008140039	XM_008140039	Eptesicus fuscus	Laurasiatheria	Chiroptera	Vespertilionidae	Eptesicus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008257170	XM_008257170	Oryctolagus cuniculus	Euarchontoglires	Lagomorpha	Leporidae	Oryctolagus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008964650	XM_008964650	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008964691	XM_008964691	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_008987976	XM_008987976	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_010600326	XM_010600326	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_010600327	XM_010600327	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_010600391	XM_010600391	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_011234954	XM_011234954	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_012496610	XM_012496610	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_012533543	XM_012533543	Orcinus orca	Laurasiatheria	Cetacea	Delphinidae	Orcinus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_013522287	XM_013522287	Chinchilla lanigera	Euarchontoglires	Rodentia	Chinchillidae	Chinchilla	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_013990503	XM_013990503	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_014541702	XM_014541702	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_015123824	XM_015123824	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_016165225	XM_016165225	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_016209132	XM_016209132	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_017503065	XM_017503065	Cebus capucinus	Euarchontoglires	Primates	Cebidae	Cebus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_017503067	XM_017503067	Cebus capucinus imitator	Euarchontoglires	Primates	Cebidae	Cebus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019014912	XM_019014912	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019015012	XM_019015012	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019431940	XM_019431940	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019431989	XM_019431989	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019431990	XM_019431990	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_019666267	XM_019666267	Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_019666268	XM_019666268	Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_020156960	XM_020156960	Castor canadensis	Euarchontoglires	Rodentia	Castoridae	Castor	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021239619	XM_021239619	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021239678	XM_021239678	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_021700959	XM_021700959	Neomonachus schauinslandi	Laurasiatheria	Carnivora	Phocidae	Monachus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_021700961	XM_021700961	Neomonachus schauinslandi	Laurasiatheria	Carnivora	Phocidae	Monachus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_021931090	XM_021931090	Papio anubis	Euarchontoglires	Primates	Cercopithecidae	Papio	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_022525015	XM_022525015	Enhydra lutris kenyoni	Laurasiatheria	Carnivora	Mustelidae	Enhydra	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_023760558	XM_023760558	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_024577451	XM_024577451	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_025268277	XM_025268277	Bubalus bubalis	Laurasiatheria	Unclassified	Bovidae	Bubalus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-curated/XM_026491561	XM_026491561	Ursus arctos horribilis	Laurasiatheria	Carnivora	Ursidae	Ursus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_027765624	XM_027765624	Tree shrew	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_027855301	XM_027855301	Vombatus ursinus	Unclassified	Diprotodontia	Vombatidae	Vombatus	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_028165945	XM_028165945	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	IFNL	Mammal	-	-	-	-	-	-	-
+alignment/AL_IFNLa_MAMMAL/member/ncbi-refseqs/XM_028839087	XM_028839087	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	IFNL	Mammal	-	-	-	-	-	-	-

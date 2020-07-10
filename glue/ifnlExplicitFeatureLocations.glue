@@ -107,7 +107,7 @@
     feature-location glycosylation-region-1 add segment 337 354
 
     add feature-location glycosylation-region-2
-    feature-location glycosylation-region-2 add segment 340 351
+    feature-location glycosylation-region-2 add segment 343 354
 
     add feature-location helix-d
     feature-location helix-d add segment 355 417   
