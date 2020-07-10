@@ -29,7 +29,7 @@ project ifnl
 
   # Create references
   run file glue/ifnlReferences.glue
-  run file glue/ifnlReferencesMammalianSubgroups.glue
+  #run file glue/ifnlReferencesMammalianSubgroups.glue
 
   # Define feature locations
   run file glue/ifnlExplicitFeatureLocations.glue
@@ -39,9 +39,6 @@ project ifnl
 
   # Define constrained alignment tree
   run file glue/ifnlAlignmentTree.glue
-
-  # Compute alignments
-  run file glue/ifnlComputeAlignments.glue
 
   # Inherit feature locations
   #run file glue/inheritFeatureLocations.glue

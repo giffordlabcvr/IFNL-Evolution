@@ -18,12 +18,29 @@ reference REF_IFNLb2_Mammal_MASTER
   feature-location glycosylation-region-1
 
     # Glycosylation site O
-    create variation n-linked-glycosylation-o -t aminoAcidRegexPolymorphism --labeledCodon 1 17
+    create variation n-linked-glycosylation-o -t aminoAcidRegexPolymorphism --labeledCodon 113 118 
     variation n-linked-glycosylation-o   
       set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
     exit
 
+    create variation n-linked-glycosylation-x -t aminoAcidRegexPolymorphism --labeledCodon 114 117 
+    variation n-linked-glycosylation-x   
+      set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+    exit
+
   exit
+
+reference REF_IFNLb2_Mammal_MASTER
+
+  feature-location glycosylation-region-2
+
+    create variation n-linked-glycosylation-x -t aminoAcidRegexPolymorphism --labeledCodon 114 117 
+    variation n-linked-glycosylation-x   
+      set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+    exit
+
+  exit
+
   
 exit
 
