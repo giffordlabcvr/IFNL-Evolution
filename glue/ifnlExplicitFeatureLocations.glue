@@ -104,10 +104,13 @@
     feature-location loop4 add segment 349 354  
 
     add feature-location glycosylation-region-1
-    feature-location glycosylation-region-1 add segment 337 354
+    feature-location glycosylation-region-1 add segment 214 222
 
     add feature-location glycosylation-region-2
-    feature-location glycosylation-region-2 add segment 343 354
+    feature-location glycosylation-region-2 add segment 337 354
+
+    add feature-location glycosylation-region-3
+    feature-location glycosylation-region-3 add segment 343 354
 
     add feature-location helix-d
     feature-location helix-d add segment 355 417   
