@@ -19,10 +19,10 @@
 	extract child AL_IFNLb_TESTUDINES --refName REF_IFNLb_Testudines
 	demote member AL_IFNLb_TESTUDINES --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Testudines'" 
 	
-	extract child AL_IFNLb_AVES    --refName REF_IFNLb_Aves
-	demote member AL_IFNLb_AVES    --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Aves'" 
+	extract child AL_IFNLb_AVES --refName REF_IFNLb_Aves
+	demote member AL_IFNLb_AVES --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Aves'" 
 
-	extract child AL_IFNLb_MAMMAL --refName REF_IFNLb2_Mammal_MASTER
+	extract child AL_IFNLb_MAMMAL --refName REF_IFNLb_Mammal_MASTER
 	demote member AL_IFNLb_MAMMAL --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Mammal'" 
 
 	extract child AL_IFNLa_MAMMAL --refName REF_IFNLa_Mammal_MASTER

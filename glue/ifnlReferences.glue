@@ -2,6 +2,8 @@
 
   #~# Mammals
   create reference REF_IFNLa_Mammal_MASTER            ncbi-refseqs NM_001276254  # Human IFNLA
+  create reference REF_IFNLb_Mammal_MASTER            ncbi-refseqs NM_001346937  # Human IFNLb3
+
   create reference REF_IFNLb1_Mammal_MASTER           ncbi-refseqs NM_172140     # Human IFNLb1
   create reference REF_IFNLb2_Mammal_MASTER           ncbi-refseqs NM_001346937  # Human IFNLb3
   create reference REF_IFNLb_Mammal_1_rtg_laurasia    ncbi-refseqs NM_001142837  # Pig rtg
