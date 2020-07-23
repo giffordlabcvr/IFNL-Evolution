@@ -1,7 +1,7 @@
   #~#~# Define constrained alignment tree 
   
   # Root alignment
-  create alignment AL_IFNL_ROOT -r REF_IFNLb2_Mammal_MASTER 
+  create alignment AL_IFNL_ROOT -r REF_IFNLb_Mammal_2_MASTER 
 
   # Major branches
   alignment AL_IFNL_ROOT 
@@ -40,10 +40,10 @@
 	extract child AL_IFNLb_MARSUPIAL --refName REF_IFNLb_Marsupial	
 	demote member AL_IFNLb_MARSUPIAL --whereClause "sequence.clade = 'B' and sequence.major_subclade = 'Marsupial'" 	
 
-	extract child AL_IFNLb_MAMMAL1 --refName REF_IFNLb1_Mammal_MASTER	
+	extract child AL_IFNLb_MAMMAL1 --refName REF_IFNLb_Mammal_1_MASTER	
 	demote member AL_IFNLb_MAMMAL1 --whereClause "sequence.clade = 'B' and sequence.major_subclade = '1'" 	
 	
-	extract child AL_IFNLb_MAMMAL2 --refName REF_IFNLb2_Mammal_MASTER	
+	extract child AL_IFNLb_MAMMAL2 --refName REF_IFNLb_Mammal_2_MASTER	
 	demote member AL_IFNLb_MAMMAL2 --whereClause "sequence.clade = 'B' and sequence.major_subclade = '2'"
 	
     exit

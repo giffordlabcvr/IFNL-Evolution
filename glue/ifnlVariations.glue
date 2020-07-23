@@ -14,7 +14,7 @@ reference REF_IFNLa_Mammal_MASTER
   exit
 
 
-reference REF_IFNLb2_Mammal_MASTER
+reference REF_IFNLb_Mammal_2_MASTER
 
 
   feature-location glycosylation-region-1
