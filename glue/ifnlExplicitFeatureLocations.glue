@@ -53,7 +53,7 @@
 
 
   # Human IFNLb3 accession number: NM_001346937
-  reference REF_IFNLb2_Mammal_MASTER
+  reference REF_IFNLb_Mammal_2_MASTER
 
     add feature-location mRNA
     feature-location mRNA add segment 1 629

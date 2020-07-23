@@ -16,6 +16,8 @@
     create field glycosylation_o1_present VARCHAR 50
     create field glycosylation_o2_coverage VARCHAR 50
     create field glycosylation_o2_present VARCHAR 50
+    create field glycosylation_o3_coverage VARCHAR 50
+    create field glycosylation_o3_present VARCHAR 50
 
     create field clade VARCHAR 50
     create field length INTEGER

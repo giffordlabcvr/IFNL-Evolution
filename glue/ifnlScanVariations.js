@@ -1,10 +1,20 @@
 
 // Get list of variations to scan for 
-var variationTable;
+var variationTable = {};
 get_variations(variationTable);
 
-// Get list of alignments to scan in
+// Scan alignments for variations
+var variationResultTable = {};
 scan_for_variations(variationTable)
+
+// Enter results in table
+scan_for_variations(variationTable)
+
+
+
+// Save table result to file
+
+
 
 // Get feature names for a give reference sequence
 function get_variations(variationTable) {
@@ -53,6 +63,5 @@ function scan_for_variations(variationTable) {
 		});
 
 	}		
-
 }
 
