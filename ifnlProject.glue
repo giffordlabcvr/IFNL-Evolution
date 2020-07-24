@@ -47,10 +47,10 @@ project ifnl
   run file glue/ifnlVariations.glue
 
   # Scan for variations 
-  run script glue/ifnlScanVariations.js
+  #run script glue/ifnlScanVariations.js
 
   # Build phylogenies
-  #run file glue/ifnlCreatePhylogeniesRoot.glue
+  run file glue/ifnlCreatePhylogeniesRoot.glue
   run file glue/ifnlCreatePhylogeniesClades.glue
 
   # Validate

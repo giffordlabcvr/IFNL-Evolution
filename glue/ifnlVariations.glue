@@ -46,6 +46,17 @@ reference REF_IFNLb_Mammal_2_MASTER
       exit
                                     
     exit
+
+  feature-location orf
+
+    # Glycosylation site anywhere in orf
+    create variation n-linked-glycosylation-orf -t aminoAcidRegexPolymorphism --labeledCodon 1 200 
+    variation n-linked-glycosylation-orf   
+      set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+      exit
+                                    
+    exit
+
   
   exit
 
