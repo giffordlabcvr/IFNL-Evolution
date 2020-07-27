@@ -30,7 +30,7 @@ function get_variations(variationTable) {
 		var refSeqName    = rowObj["featureLoc.referenceSequence.name"];
 		glue.logInfo("Processing variation: "+variationName+" in reference: "+refSeqName+", feature: "+featureName);
 	
-	    variationTable.set(featureName, rowObj);
+	    variationTable.featureName = rowObj;
 
 	}		
 }
