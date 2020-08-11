@@ -50,8 +50,8 @@ project ifnl
   #run script glue/ifnlScanVariations.js
 
   # Build phylogenies
-  run file glue/ifnlCreatePhylogeniesRoot.glue
-  run file glue/ifnlCreatePhylogeniesClades.glue
+  #run file glue/ifnlCreatePhylogeniesRoot.glue
+  #run file glue/ifnlCreatePhylogeniesClades.glue
 
   # Validate
   validate

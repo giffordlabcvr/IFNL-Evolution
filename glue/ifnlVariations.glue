@@ -7,6 +7,7 @@ reference REF_IFNLa_Mammal_MASTER
     create variation n-linked-glycosylation -t aminoAcidRegexPolymorphism --labeledCodon 50 100
     variation n-linked-glycosylation    
       set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
       exit
                                     
     exit
@@ -21,8 +22,9 @@ reference REF_IFNLb_Mammal_2_MASTER
 
     # Glycosylation site 1
     create variation n-linked-glycosylation-o1 -t aminoAcidRegexPolymorphism --labeledCodon 72 74
-    variation n-linked-glycosylation-o1   
+    variation n-linked-glycosylation-o1
       set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
       exit
                                     
     exit
@@ -33,6 +35,7 @@ reference REF_IFNLb_Mammal_2_MASTER
     create variation n-linked-glycosylation-o1 -t aminoAcidRegexPolymorphism --labeledCodon 113 117
     variation n-linked-glycosylation-o1   
       set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
       exit
                                     
     exit
@@ -43,6 +46,7 @@ reference REF_IFNLb_Mammal_2_MASTER
     create variation n-linked-glycosylation-o2 -t aminoAcidRegexPolymorphism --labeledCodon 116 118 
     variation n-linked-glycosylation-o2   
       set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
       exit
                                     
     exit
@@ -53,6 +57,7 @@ reference REF_IFNLb_Mammal_2_MASTER
     create variation n-linked-glycosylation-orf -t aminoAcidRegexPolymorphism --labeledCodon 1 200 
     variation n-linked-glycosylation-orf   
       set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
       exit
                                     
     exit
