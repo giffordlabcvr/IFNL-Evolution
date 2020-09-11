@@ -12,10 +12,12 @@
   #~# Marsupial
   create reference REF_IFNLb_Marsupial                ncbi-refseqs XM_027855300  # Vombatus   
 
-  #~# IFNL non-mammal
+  #~# IFNLb non-mammal
   create reference REF_IFNLb_Testudines               ncbi-refseqs XM_025186888  # Pelodiscus
   create reference REF_IFNLb_Alligator                ncbi-refseqs XM_025202241  # Alligator  
   create reference REF_IFNLb_Aves                     ncbi-refseqs NM_001310792  # Mallard
+  
+  #~# IFNLa non-mammal
   create reference REF_IFNLa_Serpentes                ncbi-refseqs XM_026688830  # Tiger snake
 
   #~# IFNL outgroup amphibians
