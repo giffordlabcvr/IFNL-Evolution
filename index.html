@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127397242-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-127397242-1');
+	</script>
+
+
+    <meta charset="UTF-8">
+    <title>IFNL-Evolution by giffordlabcvr</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+
+
+  </head>
+  
+  <body>
+  
+    <section class="page-header">
+      <h1 class="project-name">IFNL-Evolution</h1>
+      <h2 class="project-tagline">Comparative evolutionary analysis of IFNL genes</h2>
+      <a href="https://github.com/giffordlabcvr/IFNL-Evolution/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/giffordlabcvr/IFNL-Evolution/tarball/master" class="btn">Download .tar.gz</a>
+      <a href="https://github.com/giffordlabcvr/IFNL-Evolution" class="btn">View on GitHub</a>
+    </section>
+
+    <section class="main-content">
+
+
+	  <h3>
+		<a id="ifnl-glue" class="anchor" href="#ifnl-glue" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Description</strong>
+	  </h3>
+
+	  <p>
+		This <a target="_blank" href="https://github.com/">GitHub</a> repository contains
+		data and program logic supporting comparative and phylogenetic investigations of
+		<b>interferon lambda</b> (<a target="_blank" href="https://pfam.xfam.org/family/IL28A"><b>IFNL</b></a>),
+	    an inflammatory <a target="_blank" href="https://en.wikipedia.org/wiki/Cytokine">cytokine</a>. 
+	  </p>
+
+
+	   <h3>
+		 <a id="sequenceNomenclature" class="anchor" href="#sequenceNomenclature" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Nomenclature</strong>
+	   </h3>
+	   
+	   <p>
+		 IFNL is also referred to as <b>Interleukin-28</b> (IL-28).
+	   </p>
+
+	   <h3>
+		 <a id="sequenceData" class="anchor" href="#sequenceData" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Sequence data</strong>
+	   </h3>
+	   
+	   <p>
+		 The sequence data in this project have been organised into the following
+		 <b>sources</b>:<br>
+	   </p>
+   	   
+	   <p>	      
+		 <b>ncbi-refseqs</b>: mRNA <a href="https://github.com/giffordlabcvr/IFNL-Evolution/blob/master/tabular/ifnl-side-data.tsv">reference sequences</a>
+		 of IFNL genes from distinct species.		 
+		 These <a href="https://github.com/giffordlabcvr/IFNL-Evolution/tree/master/sources/ncbi-refseqs">XML-formatted files</a>
+		 are downloaded directly from <a target="_blank" href="https://www.ncbi.nlm.nih.gov/genbank/">NCBI</a> using a GLUE module
+		 (see <a href="https://github.com/giffordlabcvr/IFNL-Evolution/blob/master/modules/ifnlNcbiImporterReferences.xml">here</a>)
+		 and are uniquely identified within this project by their <a target="_blank" href="https://www.ncbi.nlm.nih.gov/Sequin/acc.html">GenBank accession numbers</a>. 
+
+
+	   </p>
+	   
+	   <p>
+		 <b>fasta-curated</b>: A non-redundant set of loci disclosing similarity to IFNL proteins.
+		 These <a href="https://github.com/giffordlabcvr/IFNL-Evolution/tree/master/sources/fasta-curated">FASTA sequences</a>
+		 have been curated via systematic screening of whole genome sequence (WGS) assemblies using the 
+		 <a target="_blank" href="https://giffordlabcvr.github.io/DIGS-tool/"><b>DIGS tool</b></a>.
+		 Sequences in this source have been given unique IDs based on arbitrary numbering. 
+	   </p>
+	      	   
+
+	   <h3>
+	   <a id="sequenceSideData" class="anchor" href="#sequenceSideData" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Sequence-associated data</strong>
+	   </h3>
+	   
+	   <p>
+         Sequences included in this project are linked to auxiliary data in tabular format, this includes:
+		 
+		 <ol>
+		   <li><a href="https://github.com/giffordlabcvr/IFNL-Evolution/blob/master/tabular/ifnl-side-data.tsv">Sequence-associated metadata</a> for the reference mRNA sequences in <b>ncbi-refseqs</b>.</li> 
+		   <li>Locus data for the sequences in the <b>fasta-curated</b> source</li> 
+		 </ol>
+		 
+	   </p>
+
+		 
+	   <h3>
+		 <a id="alignments" class="anchor" href="#alignments" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Multiple sequence alignments (MSAs)</strong>
+	   </h3>
+	   
+	   <p>
+		 Several distinct categories of MSA are included in this project, each representing a distinct taxonomic level.
+		
+		 <ol>
+		   <li><b>Tip</b> MSAs: Alignments of IFNL alleles from a single species (mRNAs)</li> 
+		   <li><a href="https://github.com/giffordlabcvr/IFNL-Evolution/tree/master/alignments/internal"><b>Internal</b></a> MSAs: IFNL genes (mRNAs) and IFNL gene loci (genomic DNA)</li> 
+		   <li><a href="https://github.com/giffordlabcvr/IFNL-Evolution/tree/master/alignments/root"><b>Root</b></a> MSA capturing homology between distinct IFNL genes</li> 
+		 </ol>
+	   </p>
+
+
+
+
+	   <h3>
+	   <a id="glueProject" class="anchor" href="#glueProject" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>GLUE project</strong>
+	   </h3>
+
+      	   
+	   <p>
+	
+         On computers with <a href="http://glue-tools.cvr.gla.ac.uk/#/installation">GLUE installed</a>,
+         the <b>IFNL-Evolution</b> project can be instantiated by navigating to the project folder,
+         initiating GLUE, and issuing the following command in the GLUE shell:
+         
+  <pre>
+  <code>Mode path: /
+  GLUE> run file ifnlProject.glue</code></pre>
+		 
+	   </p>
+
+
+
+	   <h3>
+		 <a id="contributors" class="anchor" href="#contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Contributors</strong>
+	   </h3>
+	   
+	   <p>
+
+		 Access to this GitHub repository is currently restricted. To request access please contact:
+
+		 <p>Connor Bamford (<a href="mailto:connor.bamford@glasgow.ac.uk">c.bamford@qub.ac.uk</a>)</p>
+		 <p>Robert J. Gifford (<a href="mailto:robert.gifford@glasgow.ac.uk">robert.gifford@glasgow.ac.uk</a>)</p>
+
+		 
+	   </p>
+
+
+	  <footer class="site-footer">
+		<span class="site-footer-owner"><a href="https://github.com/giffordlabcvr/IFNL-Evolution">IFNL-Evolution</a> is maintained by <a href="https://github.com/giffordlabcvr">giffordlabcvr</a>.</span>
+
+		<span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+	  </footer>
+
+    </section>
+
+
+  </body>
+</html>
