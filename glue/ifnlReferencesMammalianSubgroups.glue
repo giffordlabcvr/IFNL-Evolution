@@ -1,5 +1,13 @@
 
- #~# IFNLb 1 species group reference sequences
+  #~# Marsupial IFNL reference sequences
+  #create reference REF_IFNL_Mammal_marsupial       ncbi-refseqs XM_006871441  # Vombatus   
+  #create reference REF_IFNL_Mammal_monotremata      ncbi-refseqs XM_006871441  # Vombatus   
+
+  #~# IFNLa species group reference sequences
+  #create reference REF_IFNL_Mammal_xenarthra       ncbi-refseqs XM_006871441  # Choloepus 
+  #create reference REF_IFNL_Mammal_afrotheria      ncbi-refseqs XM_006871441  # Loxodonta   
+
+  #~# IFNLb 1 species group reference sequences
   create reference REF_IFNLb_Mammal_1_afrotheria    ncbi-refseqs XM_006871441  # Chrysochloris   
   create reference REF_IFNLb_Mammal_1_rodent        ncbi-refseqs XM_008854037  # Nanospallax   
   create reference REF_IFNLb_Mammal_1_lagomorph     ncbi-refseqs XM_004595092  # Pika   
