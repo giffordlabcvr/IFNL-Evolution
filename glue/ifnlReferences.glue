@@ -12,6 +12,10 @@
   #~# Marsupial
   create reference REF_IFNLb_Marsupial                ncbi-refseqs XM_027855300  # Vombatus   
 
+  #~# Monotreme
+  create reference REF_IFNLb_Monotreme                ncbi-refseqs XM_027855300  # Ornithorhynchus   
+
+
   #~# IFNLb non-mammal
   create reference REF_IFNLb_Testudines               ncbi-refseqs XM_025186888  # Pelodiscus
   create reference REF_IFNLb_Alligator                ncbi-refseqs XM_025202241  # Alligator  
