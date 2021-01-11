@@ -1,8 +1,15 @@
-delete module ncbiImporter
+# Clean-up
+delete module ncbiImporterRefSeqs
+delete module ncbiImporterCurated
 
-create module -f modules/ifnlNcbiImporterReferences.xml ncbiImporter
+# Create modules
+create module -f modules/ifnlNcbiImporterReferences.xml ncbiImporterRefSeqs
+create module -f modules/ifnlNcbiImporterCurated.xml ncbiImporterCurated
 
 # Download NCBI sequences 
-module ncbiImporter import
+module ncbiImporterRefSeqs import
+module ncbiImporterCurated import
 
+# Export sources
 export source ncbi-refseqs
+export source ncbi-curated

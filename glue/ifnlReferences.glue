@@ -29,7 +29,7 @@
   #create reference REF_IFNL_Monotreme                   ncbi-refseqs   # Ornithorhynchus    
 
   #~# Mammalia A
-  create reference REF_IFNL_Mammala_MASTER              ncbi-refseqs NM_001276254  # Human IFNLA
+  create reference REF_IFNLa_Mammal_MASTER              ncbi-refseqs NM_001276254  # Human IFNLA
 
   #~# Sauria
   create reference REF_IFNL_Crocodylia_1                ncbi-refseqs XM_014607441  # Alligator  
