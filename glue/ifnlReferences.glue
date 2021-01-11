@@ -1,7 +1,7 @@
 
 
   #~# Mammalia B
-  create reference REF_IFNL_Mammalb_MASTER              ncbi-refseqs NM_001346937  # Human  (IFNLb3)
+  create reference REF_IFNL_Mammalb_MASTER              ncbi-refseqs NM_001346937  # Human (IFNLb3)
 
   #~# Mammalia B subclades
   create reference REF_IFNL_Mammalb_Chiroptera_1        ncbi-refseqs XM_016209154  # Miniopterus
@@ -10,25 +10,23 @@
   create reference REF_IFNL_Mammalb_Eulipotyphyla_1     ncbi-refseqs XM_007523978  # Erinaceus 
   create reference REF_IFNL_Mammalb_Xenarthra_1         ncbi-refseqs XM_004481462  # Dasypus (rogue?) 
   create reference REF_IFNL_Mammalb_Perissodactyla_1    ncbi-refseqs XM_014732932  # Equus 
-  create reference REF_IFNL_Mammalb_Chiroptera_2        ncbi-refseqs XM_0016209157 # Miniopterus
+  create reference REF_IFNL_Mammalb_Chiroptera_2        ncbi-refseqs XM_016209157  # Miniopterus
   create reference REF_IFNL_Mammalb_Carnivore_2         ncbi-refseqs XM_002927388  # Panda
-  
-  create reference REF_IFNL_Mammalb_Laurasiatheria_rtg  ncbi-refseqs NM_001142837  # Pig rtg
-   
+  create reference REF_IFNL_Mammalb_Laurasiatheria_rtg  ncbi-refseqs NM_001142837  # Pig rtg  
   create reference REF_IFNL_Mammalb_Simiiformes_1       ncbi-refseqs NM_172140     # Human 1 (IFNLb1)
   create reference REF_IFNL_Mammalb_Simiiformes_2_1     ncbi-refseqs NM_172138     # Human 2 (IFNLb2)
   create reference REF_IFNL_Mammalb_Simiiformes_2_2     ncbi-refseqs NM_001346937  # Human 2 (IFNLb3)
-  create reference REF_IFNL_Mammalb_Lagomorphs_1        ncbi-refseqs NM_001346937  # Consensus
+  
+  #create reference REF_IFNL_Mammalb_Lagomorphs_1        ncbi-refseqs   # Consensus
   create reference REF_IFNL_Mammalb_Rodents_1_1         ncbi-refseqs NM_001024673  # Mus
   create reference REF_IFNL_Mammalb_Rodents_1_2         ncbi-refseqs NM_177396     # Mus
   create reference REF_IFNL_Mammalb_Scandentia_1        ncbi-refseqs XM_014587715  # Tupaia
   create reference REF_IFNL_Mammalb_Eulipotyphyla_2     ncbi-refseqs XM_007524026  # Hedgehog 
   create reference REF_IFNL_Mammalb_Lemuriformes_1      ncbi-refseqs XM_012775211  # Microcebus
-  create reference REF_IFNL_Mammalb_Afrotheria_1        ncbi-refseqs XM_012775211  # Aardvark 
+  create reference REF_IFNL_Mammalb_Afrotheria_1        ncbi-refseqs XM_007958477  # Aardvark 
   create reference REF_IFNL_Mammalb_Afrotheria_rtg      ncbi-refseqs XM_007945560  # Aardvark rtg
   create reference REF_IFNL_Marsupial                   ncbi-refseqs XM_027855300  # Vombatus   
-  create reference REF_IFNL_Monotreme                   ncbi-refseqs XM_027855300  # Ornithorhynchus   
-  
+  #create reference REF_IFNL_Monotreme                   ncbi-refseqs   # Ornithorhynchus    
 
   #~# Mammalia A
   create reference REF_IFNL_Mammala_MASTER              ncbi-refseqs NM_001276254  # Human IFNLA
