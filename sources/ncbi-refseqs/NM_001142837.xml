@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>NM_001142837</GBSeq_locus>
+    <GBSeq_length>576</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>MAM</GBSeq_division>
+    <GBSeq_update-date>01-JUL-2020</GBSeq_update-date>
+    <GBSeq_create-date>22-DEC-2008</GBSeq_create-date>
+    <GBSeq_definition>Sus scrofa interleukin 29 (interferon, lambda 1) (IL29), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>NM_001142837</GBSeq_primary-accession>
+    <GBSeq_accession-version>NM_001142837.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|NM_001142837.1|</GBSeqid>
+      <GBSeqid>gi|218664480</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Sus scrofa (pig)</GBSeq_source>
+    <GBSeq_organism>Sus scrofa</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Laurasiatheria; Artiodactyla; Suina; Suidae; Sus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..576</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Wang D</GBAuthor>
+          <GBAuthor>Fang L</GBAuthor>
+          <GBAuthor>Zhao F</GBAuthor>
+          <GBAuthor>Luo R</GBAuthor>
+          <GBAuthor>Chen H</GBAuthor>
+          <GBAuthor>Xiao S</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular cloning, expression and antiviral activity of porcine interleukin-29 (poIL-29)</GBReference_title>
+        <GBReference_journal>Dev. Comp. Immunol. 35 (3), 378-384 (2011)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.dci.2010.11.003</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>21078342</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: We here report the molecular cloning, expression and antiviral activity of porcine IL-29</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..576</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Uenishi H</GBAuthor>
+          <GBAuthor>Eguchi-Ogawa T</GBAuthor>
+          <GBAuthor>Shinkai H</GBAuthor>
+          <GBAuthor>Okumura N</GBAuthor>
+          <GBAuthor>Suzuki K</GBAuthor>
+          <GBAuthor>Toki D</GBAuthor>
+          <GBAuthor>Hamasima N</GBAuthor>
+          <GBAuthor>Awata T</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>PEDE (Pig EST Data Explorer) has been expanded into Pig Expression Data Explorer, including 10 147 porcine full-length cDNA sequences</GBReference_title>
+        <GBReference_journal>Nucleic Acids Res. 35 (Database issue), D650-D653 (2007)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1093/nar/gkl954</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>17145712</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..576</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Uenishi H</GBAuthor>
+          <GBAuthor>Eguchi T</GBAuthor>
+          <GBAuthor>Suzuki K</GBAuthor>
+          <GBAuthor>Sawazaki T</GBAuthor>
+          <GBAuthor>Toki D</GBAuthor>
+          <GBAuthor>Shinkai H</GBAuthor>
+          <GBAuthor>Okumura N</GBAuthor>
+          <GBAuthor>Hamasima N</GBAuthor>
+          <GBAuthor>Awata T</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>PEDE (Pig EST Data Explorer): construction of a database for ESTs derived from porcine full-length cDNA libraries</GBReference_title>
+        <GBReference_journal>Nucleic Acids Res. 32 (Database issue), D484-D488 (2004)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1093/nar/gkh037</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>14681463</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>PROVISIONAL REFSEQ: This record has not yet been subject to final NCBI review. The reference sequence was derived from FJ455508.1.; ; ##Evidence-Data-START## ; Transcript exon combination :: FJ455508.1 [ECO:0000332] ; ##Evidence-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..576</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>576</GBInterval_to>
+            <GBInterval_accession>NM_001142837.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Sus scrofa</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9823</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>17</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>map</GBQualifier_name>
+            <GBQualifier_value>17</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..576</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>576</GBInterval_to>
+            <GBInterval_accession>NM_001142837.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>interleukin 29 (interferon, lambda 1)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:100217388</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..576</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>576</GBInterval_to>
+            <GBInterval_accession>NM_001142837.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>interferon lamda 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>interleukin-29 precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>NP_001136309.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:100217388</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MATAWIVVLATVMLDLARAGPVPTFKPTTTRKGCHMGQFQSLSPQELKGFKKAKDALEESLSLKNWSCSSPLFPRTRDLRQLQVWERLVALEAELDLTLKVLRAAADSSLGVTLDQPLRTLHHIHVELQACIRAQPTAGSRLQGRLNHWLHRLQEATKKESQGCLEASVTFNLFHLLVRDLRSVTSGDLHI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>sig_peptide</GBFeature_key>
+        <GBFeature_location>1..57</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>57</GBInterval_to>
+            <GBInterval_accession>NM_001142837.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>COORDINATES: ab initio prediction:SignalP:4.0</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MATAWIVVLATVMLDLARA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>1..576</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>576</GBInterval_to>
+            <GBInterval_accession>NM_001142837.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IL29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>IL-29</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggctacagcttggatcgtggtgctggcgactgtgatgctggacttggccagagctggccctgtccccactttcaagcccaccacaaccaggaagggctgccacatgggccagttccaatctctgtcaccacaggagctgaagggcttcaagaaagccaaggatgctttggaagagtcactctcactgaagaactggagctgcagctctcccctcttccccaggacccgggacctgaggcagctgcaggtgtgggagcgcctcgtggccttagaggctgagctagacttgactctgaaggtcctaagggccgcggctgactcatccctgggggtcaccctggaccagccacttcgcacgctgcatcacatccacgtcgaacttcaggcttgcatcagggctcagcccacggcaggatcccggctccagggccgcctcaaccactggctgcaccggctccaagaagccacaaagaaagagtcccaaggctgccttgaggcctctgtgacattcaacctcttccacctcctcgtaagggacctgagaagtgttaccagtggagacttgcacatctga</GBSeq_sequence>
+  </GBSeq>

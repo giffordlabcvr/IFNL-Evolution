@@ -43,5 +43,5 @@
   create reference REF_IFNL_Anura                       ncbi-refseqs NM_001171763  # Xenopus
 
   #~# Cartilaginous fish 
-  create reference REF_IFNL_Chondrichthyes              ncbi-refseqs IFNL_Chondrichthyes  # Catshark
+  #create reference REF_IFNL_Chondrichthyes              ncbi-refseqs IFNL_Chondrichthyes  # Catshark
 

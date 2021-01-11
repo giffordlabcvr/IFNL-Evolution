@@ -2,11 +2,12 @@
 <ncbiImporter>
 
   <sequenceFormat>GENBANK_XML</sequenceFormat>
-  <sourceName>ncbi-refseqs-amdo</sourceName>
+  <sourceName>ncbi-refseqs</sourceName>
+  
   <specificPrimaryAccessions>
 
       <!-- Mammal B -->	  
-	  <primaryAccession>NM_001024673</primaryAccession> <!-- Human (IFNLb3) -->
+	  <primaryAccession>NM_001346937</primaryAccession> <!-- Human (IFNLb3) -->
 	  <primaryAccession>XM_016209154</primaryAccession> <!-- Miniopterus -->
 	  <primaryAccession>NM_001166490</primaryAccession> <!-- Sus -->
 	  <primaryAccession>XM_002927388</primaryAccession> <!-- Panda -->
@@ -14,34 +15,30 @@
 	  <primaryAccession>XM_004481462</primaryAccession> <!-- Dasypus -->
 	  <primaryAccession>XM_014732932</primaryAccession> <!-- Equus -->
 	  <primaryAccession>XM_016209157</primaryAccession> <!-- Miniopterus -->
-	  <primaryAccession>XM_002927388</primaryAccession> <!-- Panda -->
-	  <primaryAccession>NM_001142837</primaryAccession> <!-- Pig RTG -->
-	  
+	  <primaryAccession>XM_011225064</primaryAccession> <!-- Panda -->
+	  <primaryAccession>NM_001142837</primaryAccession> <!-- Pig RTG -->	  
 	  <primaryAccession>NM_172140</primaryAccession>    <!-- Human 1 (IFNLb1) -->
-	  <primaryAccession>NM_172138</primaryAccession>    <!-- Human 2 (IFNLb2) -->
-	  <primaryAccession>NM_001346937</primaryAccession> <!-- Human 2 (IFNLb3) -->
-	  
-	  
-	  <primaryAccession>NM_001171763</primaryAccession> <!-- Mus -->
+	  <primaryAccession>NM_172138</primaryAccession>    <!-- Human 2.1 (IFNLb2) -->
+	  <primaryAccession>NM_001346937</primaryAccession> <!-- Human 2.2 (IFNLb3) -->
+	  <primaryAccession>NM_001024673</primaryAccession> <!-- Mus -->
       <primaryAccession>NM_177396</primaryAccession>    <!-- Mus -->
 	  <primaryAccession>XM_014587715</primaryAccession> <!-- Tupaia -->
 	  <primaryAccession>XM_007524026</primaryAccession> <!-- Hedgehog -->
 	  <primaryAccession>XM_012775211</primaryAccession> <!-- Microcebus -->
-
-
 	  <primaryAccession>XM_007958477</primaryAccession> <!-- Aardvark -->
 	  <primaryAccession>XM_007945560</primaryAccession> <!-- Aardvark rtg -->
 	  <primaryAccession>XM_027855300</primaryAccession> <!-- Vombatus -->
-	  <primaryAccession>XM_014732932</primaryAccession> <!-- Ornithorhynchus -->
+	  <!-- primaryAccession></primaryAccession> Ornithorhynchus -->
 
       <!-- Mammal A -->	  
 	  <primaryAccession>NM_001276254</primaryAccession> <!-- Human IFNLA -->
 
       <!-- Sauria -->	  
-	  <primaryAccession>XM_014607441</primaryAccession> <!-- Alligator -->
+	  <primaryAccession>XM_014607441</primaryAccession> <!-- Alligator mississippiensis -->
 	  <primaryAccession>XM_015820664</primaryAccession> <!-- Protobothrops -->
 	  <primaryAccession>XM_008173201</primaryAccession> <!-- Chrysemys -->
-	  <primaryAccession>XM_025202241</primaryAccession> <!-- Alligator -->
+	  <primaryAccession>XM_025202241</primaryAccession> <!-- Alligator sinensis -->
+	  <primaryAccession>XM_025186888</primaryAccession> <!-- Pelodiscus -->
 	  <primaryAccession>NM_001310792</primaryAccession> <!-- Mallard -->
 
       <!-- Amphibians -->	  
@@ -50,5 +47,6 @@
 	  
   </specificPrimaryAccessions>  
   <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
+  
 </ncbiImporter>
 
