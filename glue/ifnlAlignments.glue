@@ -5,11 +5,9 @@
     import AL_UNC_IFNL_ROOT_MASTER -f alignments/vertebrate/infl-root.fna
 
     #~# Mammalian IFNL alignments (mRNA)
-    import AL_UNC_IFNLA_mRNA -f alignments/mammal/ifnla/ifnla-mrna.aln.fna
+    #import AL_UNC_IFNLA_mRNA -f alignments/mammal/ifnla/ifnla-mrna.aln.fna
 
-    import AL_UNC_IFNLB_mRNA -f alignments/mammal/ifnlb/ifnlb-mrna.aln.fna
-    import AL_UNC_IFNLB1_mRNA -f alignments/mammal/ifnlb/ifnlb1-mrna.aln.fna
-    import AL_UNC_IFNLB2_mRNA -f alignments/mammal/ifnlb/ifnlb2-mrna.aln.fna
+    #import AL_UNC_IFNLB_mRNA -f alignments/mammal/ifnlb/ifnlb-mrna.aln.fna
 
     exit
 

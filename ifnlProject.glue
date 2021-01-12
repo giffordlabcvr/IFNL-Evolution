@@ -34,7 +34,7 @@ project ifnl
   run file glue/ifnlExplicitFeatureLocations.glue
 
   # Import root alignments 
-  #run file glue/ifnlAlignments.glue
+  run file glue/ifnlAlignments.glue
 
   # Define constrained alignment tree
   #run file glue/ifnlAlignmentTree.glue
