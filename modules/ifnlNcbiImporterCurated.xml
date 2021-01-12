@@ -6,9 +6,7 @@
   
   <specificPrimaryAccessions>
 
-      <!-- Curated -->	  
-	  <primaryAccession>NM_001171763</primaryAccession>
-	  <primaryAccession>NM_001276254</primaryAccession>
+      <!-- IFNL-A Curated -->	  
 	  <primaryAccession>XM_001086865</primaryAccession>
 	  <primaryAccession>XM_002711467</primaryAccession>
 	  <primaryAccession>XM_003207378</primaryAccession>
@@ -40,17 +38,17 @@
 	  <primaryAccession>XM_007180046</primaryAccession>
 	  <primaryAccession>XM_007180047</primaryAccession>
 	  <primaryAccession>XM_007524025</primaryAccession>
-	  <primaryAccession>XM_007524026</primaryAccession>
+
 	  <primaryAccession>XM_007660152</primaryAccession>
 	  <primaryAccession>XM_007945560</primaryAccession>
-	  <primaryAccession>XM_007958477</primaryAccession>
+
 	  <primaryAccession>XM_008057580</primaryAccession>
 	  <primaryAccession>XM_008057587</primaryAccession>
 	  <primaryAccession>XM_008257170</primaryAccession>
 	  <primaryAccession>XM_008854037</primaryAccession>
 	  <primaryAccession>XM_010600326</primaryAccession>
 	  <primaryAccession>XM_010985162</primaryAccession>
-	  <primaryAccession>XM_011225064</primaryAccession>
+
 	  <primaryAccession>XM_011234942</primaryAccession>
 	  <primaryAccession>XM_011234954</primaryAccession>
 	  <primaryAccession>XM_012533543</primaryAccession>
@@ -58,12 +56,11 @@
 	  <primaryAccession>XM_013077381</primaryAccession>
 	  <primaryAccession>XM_013522287</primaryAccession>
 	  <primaryAccession>XM_013990503</primaryAccession>
-	  <primaryAccession>XM_014587715</primaryAccession>
-	  <primaryAccession>XM_014607441</primaryAccession>
+
+
 	  <primaryAccession>XM_015123824</primaryAccession>
 	  <primaryAccession>XM_015123826</primaryAccession>
 	  <primaryAccession>XM_016165225</primaryAccession>
-	  <primaryAccession>XM_016165227</primaryAccession>
 	  <primaryAccession>XM_016166772</primaryAccession>
 	  <primaryAccession>XM_016209154</primaryAccession>
 	  <primaryAccession>XM_016209155</primaryAccession>
@@ -75,7 +72,6 @@
 	  <primaryAccession>XM_017803384</primaryAccession>
 	  <primaryAccession>XM_017967394</primaryAccession>
 	  <primaryAccession>XM_018063174</primaryAccession>
-	  <primaryAccession>XM_019014912</primaryAccession>
 	  <primaryAccession>XM_019431940</primaryAccession>
 	  <primaryAccession>XM_019431989</primaryAccession>
 	  <primaryAccession>XM_019666268</primaryAccession>
@@ -92,11 +88,11 @@
 	  <primaryAccession>XM_023760558</primaryAccession>
 	  <primaryAccession>XM_023760577</primaryAccession>
 	  <primaryAccession>XM_025186888</primaryAccession>
-	  <primaryAccession>XM_025202241</primaryAccession>
+	  
+	  
 	  <primaryAccession>XM_025268277</primaryAccession>
 	  <primaryAccession>XM_025268342</primaryAccession>
 	  <primaryAccession>XM_026646209</primaryAccession>
-	  <primaryAccession>XM_026688830</primaryAccession>
 	  <primaryAccession>XM_027765624</primaryAccession>
 	  <primaryAccession>XM_027855300</primaryAccession>
 	  <primaryAccession>XM_027855301</primaryAccession>
@@ -112,6 +108,7 @@
 	  <!-- <primaryAccession>XM_008964691</primaryAccession> -->
 	  <!-- <primaryAccession>XM_008987976</primaryAccession> -->
 	  <!-- <primaryAccession>XM_012496610</primaryAccession> -->
+	  <!-- <primaryAccession>XM_016165227</primaryAccession> -->
 
 
 	  
