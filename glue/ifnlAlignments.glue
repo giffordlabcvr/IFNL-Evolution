@@ -2,7 +2,7 @@
   module unconstrainedAlignmentImporter
 
     #~# Vertebrate IFNL alignments
-    import AL_UNC_IFNL_ROOT_MASTER -f alignments/vertebrate/infl-root.fna
+    import AL_UNC_IFNL_ROOT_MASTER -f alignments/vertebrate/ifnl-root.fna
 
     #~# Mammalian IFNL alignments (mRNA)
     import AL_UNC_IFNLA_mRNA -f alignments/mammal/ifnla/ifnla-mrna.aln.fna

@@ -35,11 +35,12 @@
 
       <!-- Sauria -->	  
 	  <primaryAccession>XM_014607441</primaryAccession> <!-- Alligator mississippiensis -->
-	  <primaryAccession>XM_015820664</primaryAccession> <!-- Protobothrops -->
+	  <primaryAccession>XM_026688830</primaryAccession> <!-- Notechis -->
 	  <primaryAccession>XM_008173201</primaryAccession> <!-- Chrysemys -->
 	  <primaryAccession>XM_025202241</primaryAccession> <!-- Alligator sinensis -->
 	  <primaryAccession>XM_025186888</primaryAccession> <!-- Pelodiscus -->
 	  <primaryAccession>NM_001310792</primaryAccession> <!-- Mallard -->
+	  
 
       <!-- Amphibians -->	  
 	  <primaryAccession>NM_001171763</primaryAccession> <!-- Xenopus -->
