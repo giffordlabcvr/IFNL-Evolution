@@ -1,6 +1,6 @@
 
   # Human IFNLA accession number: NM_001276254
-  reference REF_IFNLa_Mammal_MASTER
+  reference REF_IFNL_Mammal_a_MASTER
 
     add feature-location mRNA
     feature-location mRNA add segment 1 1636
@@ -53,7 +53,7 @@
 
 
   # Human IFNLb3 accession number: NM_001346937
-  reference REF_IFNL_Mammalb_MASTER
+  reference REF_IFNL_Mammal_b_MASTER
 
     add feature-location mRNA
     feature-location mRNA add segment 1 629
