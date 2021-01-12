@@ -16,10 +16,10 @@ project ifnl
   run file glue/ifnlModules.glue
 
   # Import sources 
-  import source sources/fasta-refseqs-mrna/
-  import source sources/fasta-refseqs-locus/
+  import source sources/fasta-refseqs/
   import source sources/ncbi-refseqs/
   import source sources/ncbi-curated/
+  import source sources/fasta-refseqs-locus/
 
   # Import sequence associated data
   run file glue/ifnlLoadRefseqSidedata.glue

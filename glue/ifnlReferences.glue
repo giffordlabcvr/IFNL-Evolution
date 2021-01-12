@@ -17,7 +17,7 @@
   create reference REF_IFNL_Mammal_b_Simiiformes_2_1     ncbi-refseqs NM_172138     # Human 2 (IFNLb2)
   create reference REF_IFNL_Mammal_b_Simiiformes_2_2     ncbi-refseqs NM_001346937  # Human 2 (IFNLb3)
   
-  #create reference REF_IFNL_Mammal_b_Lagomorphs_1        ncbi-refseqs   # Consensus
+  #create reference REF_IFNL_Mammal_b_Lagomorphs_1        fasta-refseqs   # Consensus
   create reference REF_IFNL_Mammal_b_Rodents_1_1         ncbi-refseqs NM_001024673  # Mus
   create reference REF_IFNL_Mammal_b_Rodents_1_2         ncbi-refseqs NM_177396     # Mus
   create reference REF_IFNL_Mammal_b_Scandentia_1        ncbi-refseqs XM_014587715  # Tupaia
@@ -43,5 +43,5 @@
   create reference REF_IFNL_Anura                        ncbi-refseqs NM_001171763  # Xenopus
 
   #~# Cartilaginous fish 
-  create reference REF_IFNL_Chondrichthyes               ncbi-refseqs IFNL_Chondrichthyes IFNL_Scyliorhinus  # Catshark
+  create reference REF_IFNL_Chondrichthyes               fasta-refseqs IFNL_Scyliorhinus  # Catshark
 
