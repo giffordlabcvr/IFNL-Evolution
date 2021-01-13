@@ -107,7 +107,20 @@
 	  <!-- <primaryAccession>XM_012496610</primaryAccession> -->
 	  <!-- <primaryAccession>XM_016165227</primaryAccession> -->
 
-
+	  <primaryAccession>XM_033226159</primaryAccession>
+	  <primaryAccession>XM_011973358</primaryAccession>
+	  <primaryAccession>XM_030796492</primaryAccession>
+	  <primaryAccession>XM_032273584</primaryAccession>
+	  <primaryAccession>XM_029924289</primaryAccession>
+	  <primaryAccession>XM_032850864</primaryAccession>
+	  <primaryAccession>XM_032326013</primaryAccession>
+	  <primaryAccession>XM_016947939</primaryAccession>
+	  
+	  
+	  
+	  
+	  
+	  
 	  
   </specificPrimaryAccessions>  
   <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
