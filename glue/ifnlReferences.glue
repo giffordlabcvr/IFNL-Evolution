@@ -33,11 +33,11 @@
 
   #~# Sauria
   create reference REF_IFNL_Crocodylia_1                 ncbi-refseqs XM_014607441  # Alligator  
-  create reference REF_IFNL_Lepidosauria_1               ncbi-refseqs XM_026688830  # Notechis  
-  create reference REF_IFNL_Testudines_1                 ncbi-refseqs XM_008173201  # Chrysemys
   create reference REF_IFNL_Crocodylia_2                 ncbi-refseqs XM_025202241  # Alligator  
+  create reference REF_IFNL_Testudines_1                 ncbi-refseqs XM_008173201  # Chrysemys
   create reference REF_IFNL_Testudines_2                 ncbi-refseqs XM_025186888  # Pelodiscus
   create reference REF_IFNL_Aves                         ncbi-refseqs NM_001310792  # Mallard  
+  create reference REF_IFNL_Lepidosauria_1               ncbi-refseqs XM_026688830  # Notechis  
 
   #~# Amphibians
   create reference REF_IFNL_Anura                        ncbi-refseqs NM_001171763  # Xenopus

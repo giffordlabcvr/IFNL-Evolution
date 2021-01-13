@@ -37,20 +37,20 @@ project ifnl
   run file glue/ifnlAlignments.glue
 
   # Define constrained alignment tree
-  #run file glue/ifnlAlignmentTree.glue
+  run file glue/ifnlAlignmentTree.glue
 
   # Inherit feature locations
-  #run file glue/inheritFeatureLocations.glue
+  run file glue/inheritFeatureLocations.glue
 
   # Define variations 
-  #run file glue/ifnlVariations.glue
+  run file glue/ifnlVariations.glue
 
   # Scan for variations 
   #run script glue/ifnlScanVariations.js
 
   # Build phylogenies
-  #run file glue/ifnlCreatePhylogeniesRoot.glue
-  #run file glue/ifnlCreatePhylogeniesClades.glue
+  run file glue/ifnlCreatePhylogeniesRoot.glue
+  run file glue/ifnlCreatePhylogeniesClades.glue
 
   # Validate
   validate
