@@ -1,5 +1,5 @@
 # REF_IFNLa_Mammal (IFNL4)
-reference REF_IFNLa_Mammal_MASTER
+reference REF_IFNL_Mammal_a_MASTER
 
   feature-location orf
   
@@ -15,7 +15,7 @@ reference REF_IFNLa_Mammal_MASTER
   exit
 
 
-reference REF_IFNLb_Mammal_2_MASTER
+reference REF_IFNL_Mammal_b_MASTER
 
 
   feature-location glycosylation-region-1

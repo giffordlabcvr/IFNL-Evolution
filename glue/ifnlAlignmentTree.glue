@@ -28,7 +28,7 @@
 	extract child AL_IFNLb_AVES --refName REF_IFNL_Aves
 	demote member AL_IFNLb_AVES --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Aves'" 
 	
-	extract child AL_IFNLb_LEPIDOSAURIA--refName REF_IFNL_Lepidosauria_1
+	extract child AL_IFNLb_LEPIDOSAURIA --refName REF_IFNL_Lepidosauria_1
 	demote member AL_IFNLb_LEPIDOSAURIA --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Lepidosauria'" 
 
 	extract child AL_IFNLb_MAMMAL --refName REF_IFNL_Mammal_b_MASTER
@@ -39,35 +39,13 @@
 			
     exit
     
-    
- 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
+  
   # Mammal B branch    
   alignment AL_IFNLb_MAMMAL
 
-	extract child AL_IFNLb_MARSUPIAL --refName REF_IFNLb_Marsupial	
-	demote member AL_IFNLb_MARSUPIAL --whereClause "sequence.clade = 'B' and sequence.major_subclade = 'Marsupial'" 	
+	#extract child AL_IFNLb_MARSUPIAL --refName REF_IFNLb_Marsupial	
+	#demote member AL_IFNLb_MARSUPIAL --whereClause "sequence.clade = 'B' and sequence.major_subclade = 'Marsupial'" 	
 
-	extract child AL_IFNLb_MAMMAL1 --refName REF_IFNLb_Mammal_1_MASTER	
-	demote member AL_IFNLb_MAMMAL1 --whereClause "sequence.clade = 'B' and sequence.major_subclade = '1'" 	
-	
-	extract child AL_IFNLb_MAMMAL2 --refName REF_IFNLb_Mammal_2_MASTER	
-	demote member AL_IFNLb_MAMMAL2 --whereClause "sequence.clade = 'B' and sequence.major_subclade = '2'"
 	
     exit
 
@@ -80,13 +58,5 @@
 
   alignment AL_IFNLb_MAMMAL
 	derive segments AL_UNC_IFNLB_mRNA -a --mergeStrategy OVERWRITE
-	exit
-
-  alignment AL_IFNLb_MAMMAL1
-	derive segments AL_UNC_IFNLB1_mRNA -a --mergeStrategy OVERWRITE
-	exit
-
-  alignment AL_IFNLb_MAMMAL2
-	derive segments AL_UNC_IFNLB2_mRNA -a --mergeStrategy OVERWRITE
 	exit
 

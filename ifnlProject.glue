@@ -40,7 +40,7 @@ project ifnl
   run file glue/ifnlAlignmentTree.glue
 
   # Inherit feature locations
-  run file glue/inheritFeatureLocations.glue
+  #run file glue/inheritFeatureLocations.glue
 
   # Define variations 
   run file glue/ifnlVariations.glue
