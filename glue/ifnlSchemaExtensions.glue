@@ -7,6 +7,7 @@
     create field name VARCHAR 100  
     create field gene_id VARCHAR 50
     create field vertebrate_lineage VARCHAR 50
+    create field clade VARCHAR 50
     create field major_subclade VARCHAR 50
     create field duplicate_type VARCHAR 50
     create field duplicate_numeric_id VARCHAR 50
@@ -19,7 +20,6 @@
     create field glycosylation_o3_coverage VARCHAR 50
     create field glycosylation_o3_present VARCHAR 50
 
-    create field clade VARCHAR 50
     create field length INTEGER
     create field pubmed_id VARCHAR 50
     create field gb_lab_construct BOOLEAN
