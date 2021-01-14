@@ -11,11 +11,7 @@
     exit
     
   module raxmlPhylogenyGenerator
-    generate nucleotide phylogeny AL_IFNLb_MAMMAL1 -a -o trees/ifnlb1.tre NEWICK_BOOTSTRAPS
-    exit
-
-  module raxmlPhylogenyGenerator
-    generate nucleotide phylogeny AL_IFNLb_MAMMAL2 -a -o trees/ifnlb2.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_IFNLb_MAMMAL -a -o trees/ifnlb1.tre NEWICK_BOOTSTRAPS
     exit
 
   module ifnlPhyloUtility 
@@ -25,18 +21,13 @@
       --outputFile trees/ifnlaMidpointRerooted.tree NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/ifnlb1.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/ifnlb.tre NEWICK_BOOTSTRAPS \
       --midpoint \
       --outputFile trees/ifnlb1MidpointRerooted.tree NEWICK_BOOTSTRAPS
 
-	reroot-phylogeny \
-      --inputFile trees/ifnlb2.tre NEWICK_BOOTSTRAPS \
-      --midpoint \
-      --outputFile trees/ifnlb2MidpointRerooted.tree NEWICK_BOOTSTRAPS
     exit
 
   module ifnlFigTreeAnnotationExporter 
     export figtree-annotation AL_IFNLa_MAMMAL -f trees/ifnlaFigtreeAnnotations.tsv
-    export figtree-annotation AL_IFNLb_MAMMAL1 -f trees/ifnlb1FigtreeAnnotations.tsv
-    export figtree-annotation AL_IFNLb_MAMMAL2 -f trees/ifnlb2FigtreeAnnotations.tsv
+    export figtree-annotation AL_IFNLb_MAMMAL1 -f trees/ifnlbFigtreeAnnotations.tsv
   exit
