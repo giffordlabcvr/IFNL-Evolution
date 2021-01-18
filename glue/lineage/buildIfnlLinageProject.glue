@@ -1,14 +1,12 @@
 
 project ifnl
 
-
   # Import lineage-level sources 
-  #import source sources/ncbi-curated/
-  #import source sources/fasta-refseqs-locus/
+  import source sources/ncbi-curated/
+  import source sources/fasta-curated/
 
   # Import lineage-level alignments 
   run file glue/core/ifnlAlignments.glue
-
 
   # Define constrained alignment tree
   run file glue/core/ifnlAlignmentTree.glue
@@ -29,4 +27,9 @@ project ifnl
   validate
 
   exit
+
+
+
+
+  #import source sources/fasta-refseqs-locus/
 

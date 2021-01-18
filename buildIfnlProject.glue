@@ -9,4 +9,5 @@ schema-project ifnl
 
 run file glue/core/buildIfnlCoreProject.glue
 
-#run file glue/lineage/buildIfnlLinageProject.glue
+run file glue/lineage/buildIfnlLinageProject.glue
+
