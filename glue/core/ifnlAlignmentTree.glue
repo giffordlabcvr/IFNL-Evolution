@@ -30,11 +30,11 @@
 	extract child AL_IFNLb_LEPIDOSAURIA --refName REF_IFNL_Lepidosauria_1
 	demote member AL_IFNLb_LEPIDOSAURIA --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Lepidosauria'" 
 
-	extract child AL_IFNLb_MAMMAL --refName REF_IFNL_Mammal_b_MASTER
-	demote member AL_IFNLb_MAMMAL --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Mammal'" 
+	extract child AL_IFNL_MAMMAL_B --refName REF_IFNL_Mammal_b_MASTER
+	demote member AL_IFNL_MAMMAL_B --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Mammal'" 
 
-	extract child AL_IFNLa_MAMMAL --refName REF_IFNL_Mammal_a_MASTER
-	demote member AL_IFNLa_MAMMAL --whereClause "sequence.clade = 'A' and sequence.vertebrate_lineage = 'Mammal'" 
+	extract child AL_IFNL_MAMMAL_A --refName REF_IFNL_Mammal_a_MASTER
+	demote member AL_IFNL_MAMMAL_A --whereClause "sequence.clade = 'A' and sequence.vertebrate_lineage = 'Mammal'" 
 			
     exit
     

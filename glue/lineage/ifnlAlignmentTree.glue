@@ -1,62 +1,21 @@
   #~#~# Define constrained alignment tree 
-  
-  # Root alignment
-  create alignment AL_IFNL_ROOT -r REF_IFNL_Mammal_b_MASTER 
-
-  # Major branches
-  alignment AL_IFNL_ROOT 
-
-    add member --whereClause "source.name = 'ncbi-refseqs'"
-    add member --whereClause "source.name = 'fasta-refseqs'"
-    add member --whereClause "source.name = 'ncbi-curated'"
     
-	extract child AL_IFNL_AMPH --refName REF_IFNL_Anura
-	demote member AL_IFNL_AMPH --whereClause "sequence.vertebrate_lineage = 'Anura' and sequence.clade = '1' " 
-
-	extract child AL_IFNL_Crocodylia_1 --refName REF_IFNL_Crocodylia_1
-	demote member AL_IFNL_Crocodylia_1 --whereClause  "sequence.vertebrate_lineage = 'Crocodylia' and sequence.clade = '1' " 
-
-	extract child AL_IFNL_Crocodylia_2 --refName REF_IFNL_Crocodylia_2
-	demote member AL_IFNL_Crocodylia_2 --whereClause  "sequence.vertebrate_lineage = 'Crocodylia' and sequence.clade = '2' " 
-
-	extract child AL_IFNL_Testudines_1 --refName REF_IFNL_Testudines_1
-	demote member AL_IFNL_Testudines_1 --whereClause "sequence.vertebrate_lineage = 'Testudines' and sequence.clade = '1' " 
-	
-	extract child AL_IFNL_Testudines_2 --refName REF_IFNL_Testudines_2
-	demote member AL_IFNL_Testudines_2 --whereClause "sequence.vertebrate_lineage = 'Testudines' and sequence.clade = '2' " 
-	
-	extract child AL_IFNLb_AVES --refName REF_IFNL_Aves
-	demote member AL_IFNLb_AVES --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Aves'" 
-	
-	extract child AL_IFNLb_LEPIDOSAURIA --refName REF_IFNL_Lepidosauria_1
-	demote member AL_IFNLb_LEPIDOSAURIA --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Lepidosauria'" 
-
-	extract child AL_IFNLb_MAMMAL --refName REF_IFNL_Mammal_b_MASTER
-	demote member AL_IFNLb_MAMMAL --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Mammal'" 
-
-	extract child AL_IFNLa_MAMMAL --refName REF_IFNL_Mammal_a_MASTER
-	demote member AL_IFNLa_MAMMAL --whereClause "sequence.clade = 'A' and sequence.vertebrate_lineage = 'Mammal'" 
-			
-    exit
-    
-  
   # Mammal B branch    
-  alignment AL_IFNLb_MAMMAL
+  alignment AL_IFNL_MAMMAL_B
 
 	#extract child AL_IFNLb_MARSUPIAL --refName REF_IFNLb_Marsupial	
 	#demote member AL_IFNLb_MARSUPIAL --whereClause "sequence.clade = 'B' and sequence.major_subclade = 'Marsupial'" 	
 
-	
     exit
 
 
   #~# Derive constrained alignment segments from unconstrained alignments
   
-  alignment AL_IFNLa_MAMMAL
+  alignment AL_IFNL_MAMMAL_A
 	derive segments AL_UNC_IFNLA_mRNA -a --mergeStrategy OVERWRITE
 	exit
 
-  alignment AL_IFNLb_MAMMAL
+  alignment AL_IFNL_MAMMAL_B
 	derive segments AL_UNC_IFNLB_mRNA -a --mergeStrategy OVERWRITE
 	exit
 
