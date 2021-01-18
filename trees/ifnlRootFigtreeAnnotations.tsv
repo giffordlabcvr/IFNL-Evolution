@@ -4,8 +4,8 @@ alignment/AL_IFNL_ROOT/member/ncbi-refseqs/NM_001142837	NM_001142837	Sus scrofa	
 alignment/AL_IFNL_ROOT/member/ncbi-refseqs/NM_001171763	NM_001171763	Xenopus tropicalis	Batrachia	Anura	Pipidae	Xenopus	IFNL	Anura	-	-	-	-	-	-	-
 alignment/AL_IFNL_ROOT/member/ncbi-refseqs/NM_001276254	NM_001276254	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	-	-	-	-	-	-	-
 alignment/AL_IFNL_ROOT/member/ncbi-refseqs/NM_001310792	NM_001310792	Anas platyrhynchos	Neognathae	Anseriformes	Anatidae	Anas	IFNL	Aves	-	-	-	-	-	-	-
-alignment/AL_IFNL_ROOT/member/ncbi-refseqs/NM_001346937	NM_001346937	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
-alignment/AL_IFNL_ROOT/member/ncbi-refseqs/XM_007945560	XM_007945560	Orycteropus afer	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	IFNL	Mammal	1	rtg	2	-	-	-	-
+alignment/AL_IFNL_ROOT/member/ncbi-refseqs/NM_001346937	NM_001346937	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	2	-	2	-	-	-	-
+alignment/AL_IFNL_ROOT/member/ncbi-refseqs/XM_007945560	XM_007945560	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 alignment/AL_IFNL_ROOT/member/ncbi-refseqs/XM_008173201	XM_008173201	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 alignment/AL_IFNL_ROOT/member/ncbi-refseqs/XM_014607441	XM_014607441	Alligator mississippiensis	Unclassified	Crocodylia	Alligatoridae	Alligator	IFNL	Crocodylia	-	-	-	-	-	-	-
 alignment/AL_IFNL_ROOT/member/ncbi-refseqs/XM_025186888	XM_025186888	Pelodiscus sinensis	Unclassified	Testudines	Trionychidae	Pelodiscus	IFNL	Testudines	-	-	-	-	-	-	-

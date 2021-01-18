@@ -6,30 +6,26 @@ project ifnl
   import source sources/fasta-curated/
 
   # Import lineage-level alignments 
-  run file glue/core/ifnlAlignments.glue
+  run file glue/lineage/ifnlAlignments.glue
 
   # Define constrained alignment tree
-  run file glue/core/ifnlAlignmentTree.glue
+  run file glue/lineage/ifnlAlignmentTree.glue
 
   # Inherit feature locations
-  #run file glue/core/inheritFeatureLocations.glue
+  #run file glue/lineage/inheritFeatureLocations.glue
 
   # Define variations 
-  run file glue/core/ifnlVariations.glue
+  run file glue/lineage/ifnlVariations.glue
 
   # Scan for variations 
   #run script glue/ifnlScanVariations.js
 
   # Build phylogenies
-  run file glue/core/ifnlCreatePhylogeniesClades.glue
+  run file glue/lineage/ifnlCreatePhylogeniesClades.glue
 
   # Validate
   validate
 
   exit
 
-
-
-
-  #import source sources/fasta-refseqs-locus/
 

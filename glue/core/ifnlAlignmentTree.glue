@@ -39,6 +39,8 @@
     exit
     
   
+
+  # Derive segments
   alignment AL_IFNL_ROOT
   
 	derive segments AL_UNC_IFNL_ROOT_MASTER -a --mergeStrategy OVERWRITE

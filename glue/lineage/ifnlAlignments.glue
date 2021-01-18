@@ -1,7 +1,6 @@
   # Import alignments
   module unconstrainedAlignmentImporter
 
-
     #~# Mammalian IFNL alignments (mRNA)
     import AL_UNC_IFNLA_mRNA -f alignments/mammal/ifnla/ifnla-mrna.aln.fna
 
