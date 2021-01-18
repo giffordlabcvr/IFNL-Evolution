@@ -8,7 +8,6 @@
 
     add member --whereClause "source.name = 'ncbi-refseqs'"
     add member --whereClause "source.name = 'fasta-refseqs'"
-    add member --whereClause "source.name = 'ncbi-curated'"
     
 	extract child AL_IFNL_AMPH --refName REF_IFNL_Anura
 	demote member AL_IFNL_AMPH --whereClause "sequence.vertebrate_lineage = 'Anura' and sequence.clade = '1' " 
@@ -40,3 +39,8 @@
     exit
     
   
+  alignment AL_IFNL_ROOT
+  
+	derive segments AL_UNC_IFNL_ROOT_MASTER -a --mergeStrategy OVERWRITE
+	
+	exit

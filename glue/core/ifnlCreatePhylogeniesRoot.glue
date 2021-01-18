@@ -6,28 +6,23 @@
   create module -f modules/ifnlPhyloUtility.xml
   create module -f modules/ifnlFigTreeAnnotationExporter.xml
 
+
   module raxmlPhylogenyGenerator
-    generate nucleotide phylogeny AL_IFNLa_MAMMAL -a -o trees/ifnla.tre NEWICK_BOOTSTRAPS 
+    generate nucleotide phylogeny AL_IFNL_ROOT -a -o trees/ifnlRoot.tre NEWICK_BOOTSTRAPS 
     exit
-    
-  module raxmlPhylogenyGenerator
-    generate nucleotide phylogeny AL_IFNLb_MAMMAL -a -o trees/ifnlb1.tre NEWICK_BOOTSTRAPS
-    exit
+
 
   module ifnlPhyloUtility 
 	reroot-phylogeny \
-      --inputFile trees/ifnla.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/ifnlRoot.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/ifnlaMidpointRerooted.tree NEWICK_BOOTSTRAPS
-
-	reroot-phylogeny \
-      --inputFile trees/ifnlb.tre NEWICK_BOOTSTRAPS \
-      --midpoint \
-      --outputFile trees/ifnlb1MidpointRerooted.tree NEWICK_BOOTSTRAPS
+      --outputFile trees/ifnlRootMidpointRerooted.tree NEWICK_BOOTSTRAPS
 
     exit
 
-  module ifnlFigTreeAnnotationExporter 
-    export figtree-annotation AL_IFNLa_MAMMAL -f trees/ifnlaFigtreeAnnotations.tsv
-    export figtree-annotation AL_IFNLb_MAMMAL1 -f trees/ifnlbFigtreeAnnotations.tsv
+  module ifnlFigTreeAnnotationExporter
+  
+    export figtree-annotation AL_IFNL_ROOT -f trees/ifnlRootFigtreeAnnotations.tsv
+    
   exit
+

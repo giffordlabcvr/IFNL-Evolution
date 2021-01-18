@@ -34,7 +34,10 @@ project ifnl
   # Import root alignments 
   run file glue/core/ifnlAlignments.glue
 
- # Build phylogenies
+  # Define constrained alignment tree
+  run file glue/core/ifnlAlignmentTree.glue
+
+  # Build phylogenies
   run file glue/core/ifnlCreatePhylogeniesRoot.glue
 
   # Validate

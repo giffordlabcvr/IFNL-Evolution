@@ -1,8 +1,0 @@
- delete module ifnlCompoundAligner
- 
- create module -f modules/ifnlCompoundAligner.xml
-
- compute alignment AL_IFNLa_MAMMAL  ifnlCompoundAligner
- #compute alignment AL_IFNLb_MAMMAL1 ifnlCompoundAligner
- #compute alignment AL_IFNLb_MAMMAL2 ifnlCompoundAligner
- 

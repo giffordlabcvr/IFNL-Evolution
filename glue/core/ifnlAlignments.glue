@@ -4,10 +4,6 @@
     #~# Vertebrate IFNL alignments
     import AL_UNC_IFNL_ROOT_MASTER -f alignments/vertebrate/ifnl-root.fna
 
-    #~# Mammalian IFNL alignments (mRNA)
-    import AL_UNC_IFNLA_mRNA -f alignments/mammal/ifnla/ifnla-mrna.aln.fna
-
-    import AL_UNC_IFNLB_mRNA -f alignments/mammal/ifnlb/ifnlb-mrna.aln.fna
 
     exit
 
