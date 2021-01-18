@@ -25,7 +25,7 @@
   create reference REF_IFNL_Mammal_b_Lemuriformes_1      ncbi-refseqs XM_012775211  # Microcebus
   create reference REF_IFNL_Mammal_b_Afrotheria_1        ncbi-refseqs XM_007958477  # Aardvark 
   create reference REF_IFNL_Mammal_b_Afrotheria_rtg      ncbi-refseqs XM_007945560  # Aardvark rtg
-  create reference REF_IFNL_Mammal_b_Marsupialia         ncbi-refseqs XM_027855300  # Vombatus   
+  #create reference REF_IFNL_Mammal_b_Marsupialia         ncbi-refseqs XM_027855300  # Vombatus   
   #create reference REF_IFNL_Monotreme                   ncbi-refseqs   # Ornithorhynchus    
 
   #~# Mammalia A

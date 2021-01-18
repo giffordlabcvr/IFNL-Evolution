@@ -132,3 +132,74 @@
     exit 
 
 
+
+
+  #~#~#  Non-mammal IFNLb
+
+  reference REF_IFNL_Testudines_1
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 477
+    
+    add feature-location orf
+    feature-location orf add segment 1 477
+    exit  
+  
+  reference REF_IFNL_Testudines_2
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 1736
+    
+    add feature-location orf
+    feature-location orf add segment 1 978
+    exit  
+
+
+  reference REF_IFNL_Crocodylia_1
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 989
+    
+    add feature-location orf
+    feature-location orf add segment 45 629
+    exit 
+
+  reference REF_IFNL_Crocodylia_2
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 1349
+    
+    add feature-location orf
+    feature-location orf add segment 292 861
+    exit 
+
+  reference REF_IFNLb_Aves
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 558
+    
+    add feature-location orf
+    feature-location orf add segment 1 558
+    exit 
+
+  
+  reference REF_IFNL_Lepidosauria_1
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 657
+    
+    add feature-location orf
+    feature-location orf add segment 1 657
+    exit 
+
+  
+  reference REF_IFNL_Anura
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 540
+    
+    add feature-location orf
+    feature-location orf add segment 1 540
+    exit 
+
+

@@ -1,0 +1,21 @@
+  delete module ifnlGenbankXmlPopulator
+  delete module ifnlSideDataImporter
+  delete module ifnlGlycosylationDataImporter
+
+  
+  create module -f modules/ifnlGenbankXmlPopulator.xml
+  create module -f modules/ifnlSideDataImporter.xml
+  create module -f modules/ifnlGlycosylationDataImporter.xml
+
+  # Import GenBank side data
+  module ifnlGenbankXmlPopulator populate
+
+  # Import metadata for IFNL reference sequences
+  module ifnlSideDataImporter 
+    populate -f tabular/ncbi-refseqs/ifnl-side-data.tsv
+    exit
+
+  # Import glycosylation data for IFNL reference sequences
+  module ifnlGlycosylationDataImporter 
+    populate -f tabular/ncbi-refseqs/ifnlb2-glycosylation.tsv
+    exit

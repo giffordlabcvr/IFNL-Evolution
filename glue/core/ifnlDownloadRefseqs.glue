@@ -1,0 +1,11 @@
+# Clean-up
+delete module ncbiImporterRefSeqs
+
+# Create modules
+create module -f modules/ifnlNcbiImporterReferences.xml ncbiImporterRefSeqs
+
+# Download NCBI sequences 
+module ncbiImporterRefSeqs import
+
+# Export sources
+export source ncbi-refseqs

@@ -1,0 +1,31 @@
+
+project ifnl
+
+
+  # Import lineage-level sources 
+  #import source sources/ncbi-curated/
+  #import source sources/fasta-refseqs-locus/
+
+  # Import lineage-level alignments 
+  run file glue/core/ifnlAlignments.glue
+
+  # Define constrained alignment tree
+  run file glue/core/ifnlAlignmentTree.glue
+
+  # Inherit feature locations
+  #run file glue/core/inheritFeatureLocations.glue
+
+  # Define variations 
+  run file glue/core/ifnlVariations.glue
+
+  # Scan for variations 
+  #run script glue/ifnlScanVariations.js
+
+  # Build phylogenies
+  run file glue/core/ifnlCreatePhylogeniesClades.glue
+
+  # Validate
+  validate
+
+  exit
+
