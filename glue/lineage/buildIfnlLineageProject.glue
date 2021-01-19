@@ -5,6 +5,12 @@ project ifnl
   import source sources/ncbi-curated/
   import source sources/fasta-curated/
 
+  # Import sequence associated data for curated set
+  run file glue/core/ifnlLoadRefseqSidedata.glue
+
+  # Create subclade references
+  run file glue/core/ifnlSubcladeReferences.glue
+
   # Import lineage-level alignments 
   run file glue/lineage/ifnlAlignments.glue
 

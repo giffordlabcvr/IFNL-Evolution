@@ -7,21 +7,21 @@
   create module -f modules/ifnlFigTreeAnnotationExporter.xml
 
   module raxmlPhylogenyGenerator
-    generate nucleotide phylogeny AL_IFNL_MAMMAL_A -a -o trees/ifnl-mammal-a-.tre NEWICK_BOOTSTRAPS 
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_A -a -o trees/ifnl-mammal-a.tre NEWICK_BOOTSTRAPS 
     exit
     
   module raxmlPhylogenyGenerator
-    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -a -o trees/ifnl-mammal-b-.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -a -o trees/ifnl-mammal-b.tre NEWICK_BOOTSTRAPS
     exit
 
   module ifnlPhyloUtility 
 	reroot-phylogeny \
-      --inputFile trees/ifnl-mammal-a-.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/ifnl-mammal-a.tre NEWICK_BOOTSTRAPS \
       --midpoint \
       --outputFile trees/ifnl-mammal-a-MidpointRerooted.tree NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/ifnl-mammal-b-.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/ifnl-mammal-b.tre NEWICK_BOOTSTRAPS \
       --midpoint \
       --outputFile trees/ifnl-mammal-b-MidpointRerooted.tree NEWICK_BOOTSTRAPS
 
