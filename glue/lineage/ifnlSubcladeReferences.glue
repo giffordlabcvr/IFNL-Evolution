@@ -1,8 +1,4 @@
 
-
-  #~# Mammalia B
-  create reference REF_IFNL_Mammal_b_MASTER              ncbi-refseqs NM_001346937  # Human (IFNLb3)
-
   #~# Mammalia B subclades
   create reference REF_IFNL_Mammal_b_Chiroptera_1        ncbi-refseqs XM_016209154  # Miniopterus
   create reference REF_IFNL_Mammal_b_Artiodactyla_1      ncbi-refseqs NM_001166490  # Sus
@@ -15,8 +11,7 @@
   create reference REF_IFNL_Mammal_b_Laurasiatheria_rtg  ncbi-refseqs NM_001142837  # Pig rtg  
   create reference REF_IFNL_Mammal_b_Simiiformes_1       ncbi-refseqs NM_172140     # Human 1 (IFNLb1)
   create reference REF_IFNL_Mammal_b_Simiiformes_2_1     ncbi-refseqs NM_172138     # Human 2 (IFNLb2)
-  create reference REF_IFNL_Mammal_b_Simiiformes_2_2     ncbi-refseqs NM_001346937  # Human 2 (IFNLb3)
-  
+  create reference REF_IFNL_Mammal_b_Simiiformes_2_2     ncbi-refseqs NM_001346937  # Human 2 (IFNLb3)  
   #create reference REF_IFNL_Mammal_b_Lagomorphs_1        fasta-refseqs   # Consensus
   create reference REF_IFNL_Mammal_b_Rodents_1_1         ncbi-refseqs NM_001024673  # Mus
   create reference REF_IFNL_Mammal_b_Rodents_1_2         ncbi-refseqs NM_177396     # Mus
@@ -28,20 +23,4 @@
   create reference REF_IFNL_Mammal_b_Marsupialia         ncbi-refseqs XM_027855300  # Vombatus   
   #create reference REF_IFNL_Monotreme                   ncbi-refseqs   # Ornithorhynchus    
 
-  #~# Mammalia A
-  create reference REF_IFNL_Mammal_a_MASTER              ncbi-refseqs NM_001276254  # Human IFNLA
-
-  #~# Sauria
-  create reference REF_IFNL_Crocodylia_1                 ncbi-refseqs XM_014607441  # Alligator  
-  create reference REF_IFNL_Crocodylia_2                 ncbi-refseqs XM_025202241  # Alligator  
-  create reference REF_IFNL_Testudines_1                 ncbi-refseqs XM_008173201  # Chrysemys
-  create reference REF_IFNL_Testudines_2                 ncbi-refseqs XM_025186888  # Pelodiscus
-  create reference REF_IFNL_Aves                         ncbi-refseqs NM_001310792  # Mallard  
-  create reference REF_IFNL_Lepidosauria_1               ncbi-refseqs XM_026688830  # Notechis  
-
-  #~# Amphibians
-  create reference REF_IFNL_Anura                        ncbi-refseqs NM_001171763  # Xenopus
-
-  #~# Cartilaginous fish 
-  create reference REF_IFNL_Chondrichthyes               fasta-refseqs IFNL_Scyliorhinus  # Catshark
-
+ 

@@ -10,5 +10,5 @@
 
   # Import metadata for IFNL reference sequences
   module ifnlSideDataImporter 
-    populate -f tabular/refseq-core/ifnl-side-data.tsv
+    populate -f tabular/refseq-core/ifnl-refseq-side-data.tsv
     exit

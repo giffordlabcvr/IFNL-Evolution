@@ -27,7 +27,6 @@ XM_021239678	IFNL-A-Mammal	Heterocephalus glaber	Heterocephalus glaber		IFNL	Mam
 XM_021239619	IFNL-A-Mammal	Heterocephalus glaber	Heterocephalus glaber		IFNL	Mammal	A					Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus		
 XM_019666268	IFNL-A-Mammal	Hipposideros armiger	Hipposideros armiger		IFNL	Mammal	A					Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros		
 XM_019666267	IFNL-A-Mammal	Hipposideros armiger	Hipposideros armiger	-	IFNL	Mammal	A					Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros		
-NM_001276254	IFNL-A-Mammal	Homo sapiens	Homo sapiens	REF_IFNLa_Mammal_MASTER	IFNL	Mammal	A					Euarchontoglires	Primates	Hominidae	Homo	NM_001276254.2	xE
 XM_005336481	IFNL-A-Mammal	Ictidomys tridecemlineatus	Ictidomys tridecemlineatus		IFNL	Mammal	A					Euarchontoglires	Rodentia	Sciuridae	Ictidomys		
 XM_010600326	IFNL-A-Mammal	Loxodonta africana	Loxodonta africana		IFNL	Mammal	A					Afrotheria	Proboscidea	Elephantidae	Loxodonta	XP_010598628.1 	xA
 XM_010600327	IFNL-A-Mammal	Loxodonta africana	Loxodonta africana		IFNL	Mammal	A					Afrotheria	Proboscidea	Elephantidae	Loxodonta		
@@ -65,12 +64,7 @@ XM_027765624	IFNL-A-Mammal	Tupaia chinensis	Tupaia chinensis		IFNL	Mammal	A					
 XM_026491561	IFNL-A-Mammal	Ursus arctos horribilis	Ursus arctos horribilis	-	IFNL	Mammal	A					Laurasiatheria	Carnivora	Ursidae	Ursus		
 XM_027855301	IFNL-A-Mammal	Vombatus ursinus	Vombatus ursinus		IFNL	Mammal	A					Unclassified	Diprotodontia	Vombatidae	Vombatus	XM_027855301	xMa
 IFNLA_Psi_Hsa	IFNL-A-Mammal-1-psi-1	Homo sapiens	Homo sapiens		IFNL	Mammal	A			psi	1	Euarchontoglires	Primates	Hominidae	Homo	NULL	
-XM_026688830	IFNL-A-Serpentes	Notechis scutatus	Notechis scutatus	REF_IFNLa_Serpentes_MASTER	IFNL	Serpentes	1					Lepidosauria	Squamata	Elapidae	Notechis		
 KF192925	IFNL-A-Squamata	Anolis carolinensis	Anolis carolinensis		IFNL	Squamata	1					Lepidosauria	Squamata	Iguanidae	Anolis		
-XM_014607441	IFNL-B-Alligator	Alligator mississippiensis	Alligator mississippiensis		IFNL	Crocodylia	1					Unclassified	Crocodylia	Alligatoridae	Alligator		
-XM_025202241	IFNL-B-Alligator	Alligator sinensis	Alligator sinensis	REF_IFNLb_Alligator_MASTER	IFNL	Crocodylia	2					Unclassified	Crocodylia	Alligatoridae	Alligator		
-NM_001171763	IFNL-B-Anura	Xenopus tropicalis	Xenopus tropicalis	REF_IFNLb_Anura_MASTER	IFNL	Anura	1					Batrachia	Anura	Pipidae	Xenopus		
-NM_001310792	IFNL-B-Aves	Anas platyrhynchos	Anas platyrhynchos	REF_IFNLb_Aves_MASTER	IFNL	Aves	1					Neognathae	Anseriformes	Anatidae	Anas		
 XM_005501688	IFNL-B-Aves	Columba livia	Columba livia		IFNL	Aves	1					Neognathae	Columbiformes	Columbidae	Columba		
 XM_003207378	IFNL-B-Aves	Meleagris gallopavo	Meleagris gallopavo		IFNL	Aves	1					Neognathae	Galliformes	Phasianidae	Meleagris		
 XM_011234942	IFNL-B-Mammal-1	Ailuropoda melanoleuca	Ailuropoda melanoleuca		IFNL	Mammal	B	1		canonical		Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233244.1 	xL
@@ -124,7 +118,6 @@ XM_017651898	IFNL-B-Mammal-1-rtg-1	Manis javanica	Manis javanica		IFNL	Mammal	B	
 XM_005886334	IFNL-B-Mammal-1-rtg-1	Myotis brandtii	Myotis brandtii		IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	XM_005886334.2	
 retroIFNL3	IFNL-B-Mammal-1-rtg-1	Myotis lucifugus	Myotis lucifugus		IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	NW_005871296.1	
 XM_007945560	IFNL-B-Mammal-1-rtg-2	Orycteropus afer	Orycteropus afer		IFNL	Mammal	B	1		rtg	2	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	XP_007943751.1	xA
-NM_001142837	IFNL-B-Mammal-1-rtg-1	Sus scrofa	Sus scrofa	REF_IFNLb_Mammal_rtg_laurasia	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Unclassified	Suidae	Sus	NP_001136309.1	
 XM_002927388	IFNL-B-Mammal-2	Ailuropoda melanoleuca	Ailuropoda melanoleuca		IFNL	Mammal	B	2			2	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_002927434.1	xL
 XM_007179988	IFNL-B-Mammal-2	Balaenoptera acutorostrata	Balaenoptera acutorostrata		IFNL	Mammal	B	2			2	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_007180050.1 	
 XM_007179990	IFNL-B-Mammal-2	Balaenoptera acutorostrata	Balaenoptera acutorostrata		IFNL	Mammal	B	2			2	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera		
@@ -151,7 +144,6 @@ XM_013077381	IFNL-B-Mammal-2	Heterocephalus glaber	Heterocephalus glaber		IFNL	M
 XM_019666252	IFNL-B-Mammal-2	Hipposideros armiger	Hipposideros armiger	-	IFNL	Mammal	B	2			1	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros		
 XM_019666264	IFNL-B-Mammal-2	Hipposideros armiger	Hipposideros armiger	-	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros		
 NM_172138	IFNL-B-Mammal-2	Homo sapiens	Homo sapiens	REF_IFNLb_Mammal_B2_1	IFNL	Mammal	B	2			1	Euarchontoglires	Primates	Hominidae	Homo	NC_000019.1	
-NM_001346937	IFNL-B-Mammal-2	Homo sapiens	Homo sapiens	REF_IFNLb_Mammal_B2_2_MASTER	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
 XM_003420833	IFNL-B-Mammal-2	Loxodonta africana	Loxodonta africana		IFNL	Mammal	B	2			2	Afrotheria	Proboscidea	Elephantidae	Loxodonta	XP_003420881.2	xA
 XM_001086865	IFNL-B-Mammal-2	Macaca mulatta	Macaca mulatta		IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Macaca	XP_001086865.3	
 XM_016209154	IFNL-B-Mammal-2	Miniopterus natalensis	Miniopterus natalensis		IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus		
@@ -196,5 +188,3 @@ XM_004617293	IFNL-B-Mammal-2	Sorex araneus	Sorex araneus		IFNL	Mammal	B	2			2	La
 XM_004617294	IFNL-B-Mammal-2	Sorex araneus	Sorex araneus		IFNL	Mammal	B	2			2	Laurasiatheria	Insectivora	Soricidae	Sorex		
 XM_021097830	IFNL-B-Mammal-2	Sus scrofa	Sus scrofa		IFNL	Mammal	B	2			2	Laurasiatheria	Unclassified	Suidae	Sus	XP_020953489.1	
 XM_006140390	IFNL-B-Mammal-2	Tupaia chinensis	Tupaia chinensis		IFNL	Mammal	B	2			2	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_006140452.1	
-XM_025186888	IFNL-B-Testudines	Pelodiscus sinensis	Pelodiscus sinensis	REF_IFNLb_Testudines_MASTER	IFNL	Testudines	B					Unclassified	Testudines	Trionychidae	Pelodiscus		
-XM_026646209	IFNL-B-Testudines	Terrapene carolina	Terrapene carolina		IFNL	Testudines	B					Unclassified	Testudines	Emydidae	Terrapene		

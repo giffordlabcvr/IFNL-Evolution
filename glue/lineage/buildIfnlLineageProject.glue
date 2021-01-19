@@ -6,10 +6,10 @@ project ifnl
   import source sources/fasta-curated/
 
   # Import sequence associated data for curated set
-  run file glue/core/ifnlLoadRefseqSidedata.glue
+  run file glue/lineage/ifnlLoadCuratedSideData.glue
 
   # Create subclade references
-  run file glue/core/ifnlSubcladeReferences.glue
+  run file glue/lineage/ifnlSubcladeReferences.glue
 
   # Import lineage-level alignments 
   run file glue/lineage/ifnlAlignments.glue

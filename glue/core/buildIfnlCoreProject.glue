@@ -20,7 +20,7 @@ project ifnl
   import source sources/ncbi-refseqs/
 
   # Import sequence associated data
-  run file glue/core/ifnlLoadRefseqSidedata.glue
+  run file glue/core/ifnlLoadRefseqSideData.glue
 
   # Define features
   run file glue/core/ifnlFeatures.glue

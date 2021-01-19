@@ -10,9 +10,9 @@
   # Import GenBank side data
   module ifnlGenbankXmlPopulator populate
 
-  # Import metadata for IFNL reference sequences
+  # Import metadata for IFNL curated sequences
   module ifnlSideDataImporter 
-    populate -f tabular/ncbi-refseqs/ifnl-side-data.tsv
+    populate -f tabular/refseq-lineage/ifnl-side-data.tsv
     exit
 
   # Import glycosylation data for IFNL reference sequences
