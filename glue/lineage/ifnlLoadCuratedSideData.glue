@@ -12,7 +12,7 @@
 
   # Import metadata for IFNL curated sequences
   module ifnlSideDataImporter 
-    populate -f tabular/refseq-lineage/ifnl-side-data.tsv
+    populate -f tabular/refseq-lineage/ifnl-curated-side-data.tsv
     exit
 
   # Import glycosylation data for IFNL reference sequences
