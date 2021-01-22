@@ -3,8 +3,8 @@
   delete module ifnlGlycosylationDataImporter
 
   
-  create module -f modules/lineage/ifnlGenbankXmlPopulator.xml
-  create module -f modules/lineage/ifnlSideDataImporter.xml
+  create module -f modules/core/ifnlGenbankXmlPopulator.xml
+  create module -f modules/core/ifnlSideDataImporter.xml
   create module -f modules/lineage/ifnlGlycosylationDataImporter.xml
 
   # Import GenBank side data
@@ -17,5 +17,5 @@
 
   # Import glycosylation data for IFNL reference sequences
   module ifnlGlycosylationDataImporter 
-    populate -f tabular/ncbi-refseqs/ifnlb2-glycosylation.tsv
+    populate -f tabular/refseq-lineage/ifnlb2-glycosylation.tsv
     exit
