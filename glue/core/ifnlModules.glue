@@ -1,3 +1,3 @@
-  create module -f modules/unconstrainedAlignmentImporter.xml
-  create module -f modules/ifnlTabularUtility.xml ifnlTabularUtility
+  create module -f modules/core/unconstrainedAlignmentImporter.xml
+  create module -f modules/core/ifnlTabularUtility.xml ifnlTabularUtility
 
