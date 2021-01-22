@@ -5,8 +5,8 @@
   create reference REF_IFNL_Mammal_a_MASTER              ncbi-refseqs NM_001276254  # Human IFNLA
 
   #~# Sauria
-  create reference REF_IFNL_Crocodylia_1                 ncbi-refseqs XM_014607441  # Alligator  
-  create reference REF_IFNL_Crocodylia_2                 ncbi-refseqs XM_025202241  # Alligator  
+  create reference REF_IFNL_Crocodylia_1                 ncbi-refseqs XM_014607441  # Alligator mississippiensis  
+  create reference REF_IFNL_Crocodylia_2                 ncbi-refseqs XM_025202241  # Alligator sinensis 
   create reference REF_IFNL_Testudines_1                 ncbi-refseqs XM_008173201  # Chrysemys
   create reference REF_IFNL_Testudines_2                 ncbi-refseqs XM_025186888  # Pelodiscus
   create reference REF_IFNL_Aves                         ncbi-refseqs NM_001310792  # Mallard  
