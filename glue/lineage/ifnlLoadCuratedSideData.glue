@@ -3,9 +3,9 @@
   delete module ifnlGlycosylationDataImporter
 
   
-  create module -f modules/ifnlGenbankXmlPopulator.xml
-  create module -f modules/ifnlSideDataImporter.xml
-  create module -f modules/ifnlGlycosylationDataImporter.xml
+  create module -f modules/lineage/ifnlGenbankXmlPopulator.xml
+  create module -f modules/lineage/ifnlSideDataImporter.xml
+  create module -f modules/lineage/ifnlGlycosylationDataImporter.xml
 
   # Import GenBank side data
   module ifnlGenbankXmlPopulator populate
