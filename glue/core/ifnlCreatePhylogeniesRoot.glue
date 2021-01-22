@@ -22,7 +22,7 @@
 
   module ifnlFigTreeAnnotationExporter
   
-    export figtree-annotation AL_IFNL_ROOT -f trees/ 
+    export figtree-annotation AL_IFNL_ROOT -f trees/ifnlRootFigtreeAnnotations.tsv
     
   exit
 
