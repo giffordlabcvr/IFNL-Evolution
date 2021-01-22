@@ -16,11 +16,9 @@
 
   <body>
     <section class="page-header">
-      <h1 class="project-name">IFNL-GLUE</h1>
-      <h2 class="project-tagline">A GLUE project for Filoviruses.</h2>
+      <h1 class="project-name">IFNL-Evolution</h1>
+      <h2 class="project-tagline">Comparative evolutionary analysis of IFNL genes</h2>
       <a href="../index.html" class="btn">Home</a>
-      <a href="./paleovirology.html" class="btn">Paleoviruses</a>
-      <a href="project.html" class="btn">Project</a>
 
       <a href="https://github.com/giffordlabcvr/IFNL-GLUE/zipball/master" class="btn">Download</a>
       <a href="https://github.com/giffordlabcvr/IFNL-GLUE/tree/master" class="btn">View on GitHub</a>
@@ -36,89 +34,75 @@
 	   <hr>
 
 
-        <p><img src="./images/virus-header.jpg" alt="Ebola" /></p>
-
- 
-<blockquote>
-		<p>
-		  Filovirus outbreaks have ravaged West and Central Africa in recent decades.
-		</p>
-         
-</blockquote>
-		 
+        <p><img src="./images/ifnl-footer-right.jpg" alt="catshark" /></p>
 
 
 
 	   <br>
+
+	   <h3>
+		 <a id="sequenceNomenclature" class="anchor" href="#sequenceNomenclature" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Nomenclature</strong>
+	   </h3>
+	   
+	   <p>
+		 IFNL is also referred to as <b>Interleukin-28</b> (IL-28).
+	   </p>
+
 	   <h3>
 		 <a id="sequenceData" class="anchor" href="#sequenceData" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Sequence data</strong>
 	   </h3>
-	   <hr>
-
+	   
 	   <p>
-		 The sequence data in this project derive from multiple distinct sources:<br>
+		 The sequence data in this project have been organised into the following
+		 <b>sources</b>:<br>
 	   </p>
-	   	  	   <p>	      
-		 <b>ncbi-refseqs</b>: Genome-length reference sequences of <a href="https://github.com/giffordlabcvr/IFNL-GLUE/blob/master/tabular/core/cress-refseqs-side-data.tsv">representative filovirus species</a>.		 
-		 These
-		 <a href="https://github.com/giffordlabcvr/IFNL-GLUE/tree/master/sources/ncbi-refseqs">XML-formatted files</a>
-		  are downloaded directly from <a href="https://www.ncbi.nlm.nih.gov/genbank/">NCBI</a>
+   	   
+	   <p>	      
+		 <b>ncbi-refseqs</b>: mRNA <a href="https://github.com/giffordlabcvr/IFNL-Evolution/blob/master/tabular/ifnl-side-data.tsv">reference sequences</a>
+		 of IFNL genes from distinct species.		 
+		 These <a href="https://github.com/giffordlabcvr/IFNL-Evolution/tree/master/sources/ncbi-refseqs">XML-formatted files</a>
+		 are downloaded directly from <a target="_blank" href="https://www.ncbi.nlm.nih.gov/genbank/">NCBI</a> using a GLUE module
+		 (see <a href="https://github.com/giffordlabcvr/IFNL-Evolution/blob/master/modules/ifnlNcbiImporterReferences.xml">here</a>)
 		 and are uniquely identified within this project by their <a target="_blank" href="https://www.ncbi.nlm.nih.gov/Sequin/acc.html">GenBank accession numbers</a>. 
+
+
 	   </p>
 	   
 	   <p>
-		 <b>fasta-curated</b>: A non-redundant set of 
-		 <a href="https://github.com/giffordlabcvr/IFNL-GLUE/blob/master/tabular/locus/ecv-locus-data.tsv">filovirus-derived EVE loci</a>.
-		 These
-		 <a href="https://github.com/giffordlabcvr/IFNL-GLUE/tree/master/sources/fasta-curated-ecv">FASTA sequences</a>
+		 <b>fasta-curated</b>: A non-redundant set of loci disclosing similarity to IFNL proteins.
+		 These <a href="https://github.com/giffordlabcvr/IFNL-Evolution/tree/master/sources/fasta-curated">FASTA sequences</a>
 		 have been curated via systematic screening of whole genome sequence (WGS) assemblies using the 
-		 <a target="_blank" href="https://giffordlabcvr.github.io/DIGS-tool/">DIGS tool</a>.
-		 Sequences in this source have unique IDs based on arbitrary numbering. 
+		 <a target="_blank" href="https://giffordlabcvr.github.io/DIGS-tool/"><b>DIGS tool</b></a>.
+		 Sequences in this source have been given unique IDs based on arbitrary numbering. 
 	   </p>
 	      	   
-	   <p>
-		 <b>fasta-refseqs</b>:
-		 
-		 <a href="https://github.com/giffordlabcvr/IFNL-GLUE/blob/master/tabular/eve/ecv-refseqs-side-data.tsv">EVE reference sequences</a>
-		 - i.e. best-guess estimates of the ancestral sequences of
-		 the filoviruses that gave rise to EVEs.
-		 Where possible these are consensus/ancestral sequences derived from alignments
-		 <a href="https://github.com/giffordlabcvr/IFNL-GLUE/tree/master/alignments/eve/tip/">included in this project</a>.
-		 Sequence IDs used in this source correspond to the names of the unique EVE loci they represent
-		 (see <a href="https://retrovirology.biomedcentral.com/articles/10.1186/s12977-018-0442-1" target="_blank">here</a> for details).
-	   </p>
- 
-	   <br>
+
 	   <h3>
-	   <a id="sequenceData" class="anchor" href="#sequenceData" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Sequence-associated data</strong>
+	   <a id="sequenceSideData" class="anchor" href="#sequenceSideData" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Sequence-associated data</strong>
 	   </h3>
-	   <hr>
 	   
 	   <p>
          Sequences included in this project are linked to auxiliary data in tabular format, this includes:
 		 
 		 <ol>
-		   <li><a href="https://github.com/giffordlabcvr/IFNL-GLUE/blob/master/tabular/eve/ecv-refseqs-side-data.tsv">Basic taxonomic data</a> for genome-length virus reference sequence in <b>ncbi-refseqs</b>.</li> 
-		   <li><a href="https://github.com/giffordlabcvr/IFNL-GLUE/blob/master/tabular/locus/ecv-locus-data.tsv">Locus data</a> for the EVE sequences in <b>fasta-curated</b>.</li> 
+		   <li><a href="https://github.com/giffordlabcvr/IFNL-Evolution/blob/master/tabular/ifnl-side-data.tsv">Sequence-associated metadata</a> for the reference mRNA sequences in <b>ncbi-refseqs</b>.</li> 
+		   <li>Locus data for the sequences in the <b>fasta-curated</b> source</li> 
 		 </ol>
 		 
 	   </p>
+
 		 
-	   <br>
 	   <h3>
 		 <a id="alignments" class="anchor" href="#alignments" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Multiple sequence alignments (MSAs)</strong>
 	   </h3>
-	   <hr>
 	   
 	   <p>
 		 Several distinct categories of MSA are included in this project, each representing a distinct taxonomic level.
 		
 		 <ol>
-		   <li><b>Tip (i)</b>: Virus species (genome-length alignment)</li> 
-		   <li><b>Tip (ii)</b>: <a href="https://github.com/giffordlabcvr/IFNL-GLUE/tree/master/alignments/eve/tip/">EVE lineages</a>.
-		   These alignments contain sets of EVE sequences derived from the same ancestral germline colonisation event (i.e. orthologs or duplicates)</li> 
-		   <li><b>Internal</b>: <a href="https://github.com/giffordlabcvr/IFNL-GLUE/tree/master/alignments/eve/internal">Virus genera</a></li> 
-		   <li><b>Root</b>: <a href="https://github.com/giffordlabcvr/IFNL-GLUE/tree/master/alignments/virus/root">Viruses and EVE reference sequences</a></li> 
+		   <li><b>Tip</b> MSAs: Alignments of IFNL alleles from a single species (mRNAs)</li> 
+		   <li><a href="https://github.com/giffordlabcvr/IFNL-Evolution/tree/master/alignments/internal"><b>Internal</b></a> MSAs: IFNL genes (mRNAs) and IFNL gene loci (genomic DNA)</li> 
+		   <li><a href="https://github.com/giffordlabcvr/IFNL-Evolution/tree/master/alignments/root"><b>Root</b></a> MSA capturing homology between distinct IFNL genes</li> 
 		 </ol>
 	   </p>
 
