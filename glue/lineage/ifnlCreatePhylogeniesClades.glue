@@ -3,8 +3,8 @@
   delete module ifnlFigTreeAnnotationExporter
   
   create module -t raxmlPhylogenyGenerator
-  create module -f modules/ifnlPhyloUtility.xml
-  create module -f modules/ifnlFigTreeAnnotationExporter.xml
+  create module -f modules/core/ifnlPhyloUtility.xml
+  create module -f modules/core/ifnlFigTreeAnnotationExporter.xml
 
   module raxmlPhylogenyGenerator
     generate nucleotide phylogeny AL_IFNL_MAMMAL_A -a -o trees/ifnl-mammal-a.tre NEWICK_BOOTSTRAPS 
