@@ -24,7 +24,7 @@ project ifnl
   run file glue/lineage/ifnlVariations.glue
 
   # Scan for variations 
-  #run script glue/ifnlScanVariations.js
+  run script glue/lineage/ifnlScanVariations.js
 
   # Build phylogenies
   run file glue/lineage/ifnlCreatePhylogeniesClades.glue

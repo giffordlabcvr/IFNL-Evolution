@@ -1,3 +1,4 @@
+//var refseqs_to_scan = [ "gag", "pro-pol", "vif", "tat", "rev", "vpu", "vpr", "env", "nef" ];
 
 // Get list of variations to scan for 
 var variationTable = {};
@@ -11,8 +12,8 @@ scan_for_variations(variationTable)
 scan_for_variations(variationTable)
 
 
-
 // Save table result to file
+
 
 
 
@@ -38,7 +39,7 @@ function get_variations(variationTable) {
 // Scan for variations
 function scan_for_variations(variationTable) {
 
-	for(var i = 0; i < refseqs_to_scan.length; i++) {
+	for(var i = 0; i < variationTable.length; i++) {
   
         var rowObj = rowObjs[i]
 		var variationName = rowObj.name;
