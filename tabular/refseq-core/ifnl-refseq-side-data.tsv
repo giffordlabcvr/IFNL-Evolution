@@ -1,11 +1,10 @@
 id	name	species	Species	reference_id	gene_id	vertebrate_lineage	clade	major_subclade	duplicate_id	duplicate_type	duplicate_numeric_id	Superorder	Species_order	Family	Genus	protein_accession	ref
-NM_001276254	IFNL-A-Mammal	Homo sapiens	Homo sapiens	REF_IFNLa_Mammal_MASTER	IFNL	Mammal	A					Euarchontoglires	Primates	Hominidae	Homo	NM_001276254.2	xE
-XM_026688830	IFNL-A-Serpentes	Notechis scutatus	Notechis scutatus	REF_IFNLa_Serpentes_MASTER	IFNL	Serpentes	1					Lepidosauria	Squamata	Elapidae	Notechis		
-XM_014607441	IFNL-B-Alligator	Alligator mississippiensis	Alligator mississippiensis		IFNL	Crocodylia	1					Unclassified	Crocodylia	Alligatoridae	Alligator		
-XM_025202241	IFNL-B-Alligator	Alligator sinensis	Alligator sinensis	REF_IFNLb_Alligator_MASTER	IFNL	Crocodylia	2					Unclassified	Crocodylia	Alligatoridae	Alligator		
-NM_001171763	IFNL-B-Anura	Xenopus tropicalis	Xenopus tropicalis	REF_IFNLb_Anura_MASTER	IFNL	Anura	1					Batrachia	Anura	Pipidae	Xenopus		
-NM_001310792	IFNL-B-Aves	Anas platyrhynchos	Anas platyrhynchos	REF_IFNLb_Aves_MASTER	IFNL	Aves	1					Neognathae	Anseriformes	Anatidae	Anas		
-NM_001142837	IFNL-B-Mammal-1-rtg-1	Sus scrofa	Sus scrofa	REF_IFNLb_Mammal_rtg_laurasia	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Unclassified	Suidae	Sus	NP_001136309.1	
-NM_001346937	IFNL-B-Mammal-2	Homo sapiens	Homo sapiens	REF_IFNLb_Mammal_B2_2_MASTER	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
-XM_025186888	IFNL-B-Testudines	Pelodiscus sinensis	Pelodiscus sinensis	REF_IFNLb_Testudines_MASTER	IFNL	Testudines	B					Unclassified	Testudines	Trionychidae	Pelodiscus		
-XM_026646209	IFNL-B-Testudines	Terrapene carolina	Terrapene carolina		IFNL	Testudines	B					Unclassified	Testudines	Emydidae	Terrapene		
+NM_001276254	IFNL-Mammal-A	Homo sapiens	Homo sapiens	REF_IFNLa_Mammal_MASTER	IFNL	Mammal	A					Euarchontoglires	Primates	Hominidae	Homo	NM_001276254.2	xE
+XM_026688830	IFNL-Lepidosauria_1	Notechis scutatus	Notechis scutatus	REF_IFNLa_Serpentes_MASTER	IFNL	Serpentes	1					Lepidosauria	Squamata	Elapidae	Notechis		
+XM_014607441	IFNL-Crocodylia-1	Alligator mississippiensis	Alligator mississippiensis		IFNL	Crocodylia	1					Unclassified	Crocodylia	Alligatoridae	Alligator		
+XM_025202241	IFNL-Crocodylia-2	Alligator sinensis	Alligator sinensis	REF_IFNLb_Alligator_MASTER	IFNL	Crocodylia	2					Unclassified	Crocodylia	Alligatoridae	Alligator		
+NM_001171763	IFNL-Anura	Xenopus tropicalis	Xenopus tropicalis	REF_IFNLb_Anura_MASTER	IFNL	Anura	1					Batrachia	Anura	Pipidae	Xenopus		
+NM_001310792	IFNL-Aves	Anas platyrhynchos	Anas platyrhynchos	REF_IFNLb_Aves_MASTER	IFNL	Aves	1					Neognathae	Anseriformes	Anatidae	Anas		
+NM_001346937	IFNL-Mammal-B	Homo sapiens	Homo sapiens	REF_IFNLb_Mammal_B2_2_MASTER	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
+XM_025186888	IFNL-Testudines-1 	Pelodiscus sinensis	Pelodiscus sinensis	REF_IFNLb_Testudines_MASTER	IFNL	Testudines	1					Unclassified	Testudines	Trionychidae	Pelodiscus		
+XM_026646209	IFNL-Testudines-2	Terrapene carolina	Terrapene carolina		IFNL	Testudines	2					Unclassified	Testudines	Emydidae	Terrapene		
