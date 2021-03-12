@@ -38,14 +38,14 @@
   # Create the phylogenies
   module raxmlPhylogenyGenerator
 
-    generate nucleotide phylogeny AL_TREE_Hepadnaviridae -s alignmentColumnsSelector-IfnlRoot1 \
-      -a -o trees/main-root/IfnlRoot1.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_IFNL_ROOT -s alignmentColumnsSelector-IfnlRoot1 \
+      -a -o trees/root/IfnlRoot1.tre NEWICK_BOOTSTRAPS
 
-    generate nucleotide phylogeny AL_TREE_Hepadnaviridae -s alignmentColumnsSelector-IfnlRoot2 \
-      -a -o trees/main-root/IfnlRoot2.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_IFNL_ROOT -s alignmentColumnsSelector-IfnlRoot2 \
+      -a -o trees/root/IfnlRoot2.tre NEWICK_BOOTSTRAPS
 
-    generate nucleotide phylogeny AL_TREE_Hepadnaviridae -s alignmentColumnsSelector-IfnlRoot3 \
-      -a -o trees/main-root/IfnlRoot3.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_IFNL_ROOT -s alignmentColumnsSelector-IfnlRoot3 \
+      -a -o trees/root/IfnlRoot3.tre NEWICK_BOOTSTRAPS
 
     exit
 
@@ -54,21 +54,21 @@
   module ifnlPhyloUtility 
 
 	reroot-phylogeny \
-      --inputFile trees/main-root/IfnlRoot1.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/root/IfnlRoot1.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/main-root/IfnlRoot1-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/root/IfnlRoot1-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 
 	reroot-phylogeny \
-      --inputFile trees/main-root/IfnlRoot2.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/root/IfnlRoot2.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/main-root/IfnlRoot2-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/root/IfnlRoot2-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 
 	reroot-phylogeny \
-      --inputFile trees/main-root/IfnlRoot3.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/root/IfnlRoot3.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/main-root/IfnlRoot3-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/root/IfnlRoot3-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
     exit
 
@@ -77,7 +77,7 @@
   module hepadnaFigTreeAnnotationExporter 
   
     export figtree-annotation AL_TREE_Hepadnaviridae -w "fLocNotes.featureLoc.feature.name = 'PreCore-Core'  \
-      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/main-root/Hepadna-root-core.figtree-annotations.tsv
+      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/root/Hepadna-root-core.figtree-annotations.tsv
       
       
       
