@@ -1,0 +1,10 @@
+  delete module ifnlFeaturePresenceRecorder
+  create module -f modules/core/ifnlFeaturePresenceRecorder.xml
+
+  module ifnlFeaturePresenceRecorder 
+
+    #~# Root alignment
+     record feature-presence AL_IFNL_ROOT --recursive --featureName mRNA --descendentFeatures
+    
+    exit
+

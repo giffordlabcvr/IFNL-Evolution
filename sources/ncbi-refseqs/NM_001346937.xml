@@ -7,7 +7,7 @@
     <GBSeq_moltype>mRNA</GBSeq_moltype>
     <GBSeq_topology>linear</GBSeq_topology>
     <GBSeq_division>PRI</GBSeq_division>
-    <GBSeq_update-date>13-DEC-2020</GBSeq_update-date>
+    <GBSeq_update-date>14-FEB-2021</GBSeq_update-date>
     <GBSeq_create-date>08-NOV-2016</GBSeq_create-date>
     <GBSeq_definition>Homo sapiens interferon lambda 3 (IFNL3), transcript variant 1, mRNA</GBSeq_definition>
     <GBSeq_primary-accession>NM_001346937</GBSeq_primary-accession>
@@ -108,6 +108,34 @@
         <GBReference_reference>4</GBReference_reference>
         <GBReference_position>1..629</GBReference_position>
         <GBReference_authors>
+          <GBAuthor>Juarez-Vicuna Y</GBAuthor>
+          <GBAuthor>Perez-Ramos J</GBAuthor>
+          <GBAuthor>Adalid-Peralta L</GBAuthor>
+          <GBAuthor>Sanchez F</GBAuthor>
+          <GBAuthor>Springall R</GBAuthor>
+          <GBAuthor>Villasenor-Jasso J</GBAuthor>
+          <GBAuthor>Sixtos-Alonso MS</GBAuthor>
+          <GBAuthor>Ballinas-Verdugo MA</GBAuthor>
+          <GBAuthor>Marquez-Velasco R</GBAuthor>
+          <GBAuthor>Bojalil R</GBAuthor>
+          <GBAuthor>Amezcua-Guerra LM</GBAuthor>
+          <GBAuthor>Sanchez-Munoz F</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The presence of IFL3/4 rs12979860 C allele influences the in vitro IP-10 production by mononuclear cells from patients with systemic lupus erythematosus</GBReference_title>
+        <GBReference_journal>Lupus 29 (5), 482-489 (2020)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1177/0961203320909429</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>32122227</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: The presence of IFL3/4 rs12979860 C allele influences the in vitro IP-10 production by mononuclear cells from patients with systemic lupus erythematosus.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>5</GBReference_reference>
+        <GBReference_position>1..629</GBReference_position>
+        <GBReference_authors>
           <GBAuthor>Farzanegan Gharabolagh A</GBAuthor>
           <GBAuthor>Bamdad T</GBAuthor>
           <GBAuthor>Hedayati M</GBAuthor>
@@ -123,36 +151,6 @@
         </GBReference_xref>
         <GBReference_pubmed>32245297</GBReference_pubmed>
         <GBReference_remark>GeneRIF: The effect of fluvastatin and IFN- in the expression of mediators involved in lipid metabolism and HCV proliferation in patients with IL-28B rs12979860 CC polymorphism.; Publication Status: Online-Only</GBReference_remark>
-      </GBReference>
-      <GBReference>
-        <GBReference_reference>5</GBReference_reference>
-        <GBReference_position>1..629</GBReference_position>
-        <GBReference_authors>
-          <GBAuthor>Jordovic J</GBAuthor>
-          <GBAuthor>Simonovic-Babic J</GBAuthor>
-          <GBAuthor>Gasic V</GBAuthor>
-          <GBAuthor>Kotur N</GBAuthor>
-          <GBAuthor>Zukic B</GBAuthor>
-          <GBAuthor>Pavlovic S</GBAuthor>
-          <GBAuthor>Lazarevic I</GBAuthor>
-          <GBAuthor>Karalic D</GBAuthor>
-          <GBAuthor>Katanic N</GBAuthor>
-          <GBAuthor>Nikolic N</GBAuthor>
-          <GBAuthor>Urosevic A</GBAuthor>
-          <GBAuthor>Nestorov J</GBAuthor>
-          <GBAuthor>Delic D</GBAuthor>
-          <GBAuthor>Bojovic K</GBAuthor>
-        </GBReference_authors>
-        <GBReference_title>IL-28B genotypes as predictors of long-term outcome in patients with hepatitis C-related severe liver injury</GBReference_title>
-        <GBReference_journal>J Infect Dev Ctries 13 (6), 526-535 (2019)</GBReference_journal>
-        <GBReference_xref>
-          <GBXref>
-            <GBXref_dbname>doi</GBXref_dbname>
-            <GBXref_id>10.3855/jidc.11351</GBXref_id>
-          </GBXref>
-        </GBReference_xref>
-        <GBReference_pubmed>32058988</GBReference_pubmed>
-        <GBReference_remark>GeneRIF: These are first published results demonstrating the significance of IL28B CCrs12979860 genotype as a negative predictor of late virological relapse in chronic hepatitis C.; Publication Status: Online-Only</GBReference_remark>
       </GBReference>
       <GBReference>
         <GBReference_reference>6</GBReference_reference>
@@ -278,7 +276,7 @@
         <GBReference_remark>GeneRIF: identified from the human genomic sequence a family of three cytokines, designated interleukin 28A (IL-28A), IL-28B and IL-29, that are distantly related to type I interferons (IFNs) and the IL-10 family</GBReference_remark>
       </GBReference>
     </GBSeq_references>
-    <GBSeq_comment>REVIEWED REFSEQ: This record has been curated by NCBI staff. The reference sequence was derived from AY129149.1 and BC130316.1.; On Nov 8, 2016 this sequence version replaced XM_005258765.4.; ~Summary: This gene encodes a cytokine distantly related to type I interferons and the IL-10 family. This gene, interleukin 28A (IL28A), and interleukin 29 (IL29) are three closely related cytokine genes that form a cytokine gene cluster on a chromosomal region mapped to 19q13. Expression of the cytokines encoded by the three genes can be induced by viral infection. All three cytokines have been shown to interact with a heterodimeric class II cytokine receptor that consists of interleukin 10 receptor, beta (IL10RB) and interleukin 28 receptor, alpha (IL28RA). [provided by RefSeq, Jul 2008].; ~Transcript Variant: This variant (1) encodes the longer isoform (1). This isoform does not contain a signal peptide, compared to isoform 2.; ~Publication Note: This RefSeq record includes a subset of the publications that are available for this gene. Please see the Gene record to access additional publications.; ; ##Evidence-Data-START## ; Transcript exon combination :: AY129149.1 [ECO:0000332] ; RNAseq introns :: mixed/partial sample support SAMEA1968968, SAMEA2148093 [ECO:0000350] ; ##Evidence-Data-END##</GBSeq_comment>
+    <GBSeq_comment>REVIEWED REFSEQ: This record has been curated by NCBI staff. The reference sequence was derived from AY129149.1 and BC130316.1.; [WARNING] On Mar 10, 2021 this sequence was replaced by NM_001346937.2.; On Nov 8, 2016 this sequence version replaced XM_005258765.4.; ~Summary: This gene encodes a cytokine distantly related to type I interferons and the IL-10 family. This gene, interleukin 28A (IL28A), and interleukin 29 (IL29) are three closely related cytokine genes that form a cytokine gene cluster on a chromosomal region mapped to 19q13. Expression of the cytokines encoded by the three genes can be induced by viral infection. All three cytokines have been shown to interact with a heterodimeric class II cytokine receptor that consists of interleukin 10 receptor, beta (IL10RB) and interleukin 28 receptor, alpha (IL28RA). [provided by RefSeq, Jul 2008].; ~Transcript Variant: This variant (1) encodes the longer isoform (1). This isoform does not contain a signal peptide, compared to isoform 2.; ~Publication Note: This RefSeq record includes a subset of the publications that are available for this gene. Please see the Gene record to access additional publications.; ; ##Evidence-Data-START## ; Transcript exon combination :: AY129149.1 [ECO:0000332] ; RNAseq introns :: mixed/partial sample support SAMEA1968968, SAMEA2148093 [ECO:0000350] ; ##Evidence-Data-END##</GBSeq_comment>
     <GBSeq_primary>REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP~1-603               AY129149.1         1-603~604-629             BC130316.1         631-656</GBSeq_primary>
     <GBSeq_feature-table>
       <GBFeature>
@@ -372,7 +370,7 @@
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>note</GBQualifier_name>
-            <GBQualifier_value>isoform 1 is encoded by transcript variant 1; interferon, lambda 4; interleukin-28C; cytokine Zcyto22; interleukin-28B</GBQualifier_value>
+            <GBQualifier_value>isoform 1 is encoded by transcript variant 1; interleukin-28B; interferon, lambda 4; interleukin-28C; cytokine Zcyto22</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>codon_start</GBQualifier_name>

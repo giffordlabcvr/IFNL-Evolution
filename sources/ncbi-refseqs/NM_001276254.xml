@@ -7,7 +7,7 @@
     <GBSeq_moltype>mRNA</GBSeq_moltype>
     <GBSeq_topology>linear</GBSeq_topology>
     <GBSeq_division>PRI</GBSeq_division>
-    <GBSeq_update-date>25-OCT-2020</GBSeq_update-date>
+    <GBSeq_update-date>14-FEB-2021</GBSeq_update-date>
     <GBSeq_create-date>17-JAN-2013</GBSeq_create-date>
     <GBSeq_definition>Homo sapiens interferon lambda 4 (gene/pseudogene) (IFNL4), transcript variant 1, mRNA</GBSeq_definition>
     <GBSeq_primary-accession>NM_001276254</GBSeq_primary-accession>
@@ -26,6 +26,53 @@
     <GBSeq_references>
       <GBReference>
         <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1636</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Grzegorzewska AE</GBAuthor>
+          <GBAuthor>Mostowska A</GBAuthor>
+          <GBAuthor>Swiderska MK</GBAuthor>
+          <GBAuthor>Marcinkowski W</GBAuthor>
+          <GBAuthor>Stolarek I</GBAuthor>
+          <GBAuthor>Figlerowicz M</GBAuthor>
+          <GBAuthor>Jagodzinski PP</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Polymorphism rs368234815 of interferon lambda 4 gene and spontaneous clearance of hepatitis C virus in haemodialysis patients: a case-control study</GBReference_title>
+        <GBReference_journal>BMC Infect Dis 21 (1), 102 (2021)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1186/s12879-021-05777-6</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>33482747</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: Polymorphism rs368234815 of interferon lambda 4 gene and spontaneous clearance of hepatitis C virus in haemodialysis patients: a case-control study.; Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1636</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Simmonds P</GBAuthor>
+          <GBAuthor>Cuypers L</GBAuthor>
+          <GBAuthor>Irving WL</GBAuthor>
+          <GBAuthor>McLauchlan J</GBAuthor>
+          <GBAuthor>Cooke GS</GBAuthor>
+          <GBAuthor>Barnes E</GBAuthor>
+          <GBAuthor>Ansari MA</GBAuthor>
+        </GBReference_authors>
+        <GBReference_consortium>STOP-HCV Consortium</GBReference_consortium>
+        <GBReference_title>Impact of virus subtype and host IFNL4 genotype on large-scale RNA structure formation in the genome of hepatitis C virus</GBReference_title>
+        <GBReference_journal>RNA 26 (11), 1541-1556 (2020)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1261/rna.075465.120</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>32747607</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: Impact of virus subtype and host IFNL4 genotype on large-scale RNA structure formation in the genome of hepatitis C virus.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
         <GBReference_position>1..1636</GBReference_position>
         <GBReference_authors>
           <GBAuthor>Gadalla SM</GBAuthor>
@@ -55,81 +102,32 @@
         <GBReference_remark>GeneRIF: Association of donor IFNL4 genotype and non-relapse mortality after unrelated donor myeloablative haematopoietic stem-cell transplantation for acute leukaemia: a retrospective cohort study.; Erratum:[Lancet Haematol. 2020 Nov;7(11):e785. PMID: 33091351]</GBReference_remark>
       </GBReference>
       <GBReference>
-        <GBReference_reference>2</GBReference_reference>
-        <GBReference_position>1..1636</GBReference_position>
-        <GBReference_authors>
-          <GBAuthor>Zhou H</GBAuthor>
-          <GBAuthor>Mohlenberg M</GBAuthor>
-          <GBAuthor>Terczynska-Dyla E</GBAuthor>
-          <GBAuthor>Winther KG</GBAuthor>
-          <GBAuthor>Hansen NH</GBAuthor>
-          <GBAuthor>Vad-Nielsen J</GBAuthor>
-          <GBAuthor>Laloli L</GBAuthor>
-          <GBAuthor>Dijkman R</GBAuthor>
-          <GBAuthor>Nielsen AL</GBAuthor>
-          <GBAuthor>Gad HH</GBAuthor>
-          <GBAuthor>Hartmann R</GBAuthor>
-        </GBReference_authors>
-        <GBReference_title>The IFNL4 Gene Is a Noncanonical Interferon Gene with a Unique but Evolutionarily Conserved Regulation</GBReference_title>
-        <GBReference_journal>J Virol 94 (5), e01535-19 (2020)</GBReference_journal>
-        <GBReference_xref>
-          <GBXref>
-            <GBXref_dbname>doi</GBXref_dbname>
-            <GBXref_id>10.1128/JVI.01535-19</GBXref_id>
-          </GBXref>
-        </GBReference_xref>
-        <GBReference_pubmed>31776283</GBReference_pubmed>
-        <GBReference_remark>GeneRIF: The IFNL4 Gene Is a Noncanonical Interferon Gene with a Unique but Evolutionarily Conserved Regulation.; Publication Status: Online-Only</GBReference_remark>
-      </GBReference>
-      <GBReference>
-        <GBReference_reference>3</GBReference_reference>
-        <GBReference_position>1..1636</GBReference_position>
-        <GBReference_authors>
-          <GBAuthor>Rugwizangoga B</GBAuthor>
-          <GBAuthor>Andersson ME</GBAuthor>
-          <GBAuthor>Kabayiza JC</GBAuthor>
-          <GBAuthor>Nilsson MS</GBAuthor>
-          <GBAuthor>Armannsdottir B</GBAuthor>
-          <GBAuthor>Aurelius J</GBAuthor>
-          <GBAuthor>Nilsson S</GBAuthor>
-          <GBAuthor>Hellstrand K</GBAuthor>
-          <GBAuthor>Lindh M</GBAuthor>
-          <GBAuthor>Martner A</GBAuthor>
-        </GBReference_authors>
-        <GBReference_title>IFNL4 Genotypes Predict Clearance of RNA Viruses in Rwandan Children With Upper Respiratory Tract Infections</GBReference_title>
-        <GBReference_journal>Front Cell Infect Microbiol 9, 340 (2019)</GBReference_journal>
-        <GBReference_xref>
-          <GBXref>
-            <GBXref_dbname>doi</GBXref_dbname>
-            <GBXref_id>10.3389/fcimb.2019.00340</GBXref_id>
-          </GBXref>
-        </GBReference_xref>
-        <GBReference_pubmed>31637221</GBReference_pubmed>
-        <GBReference_remark>GeneRIF: Our results suggest that IFNL4 genotypes that are common among subjects of African descent may determine inefficacious clearance of RNA viruses from the respiratory tract.; Publication Status: Online-Only</GBReference_remark>
-      </GBReference>
-      <GBReference>
         <GBReference_reference>4</GBReference_reference>
         <GBReference_position>1..1636</GBReference_position>
         <GBReference_authors>
-          <GBAuthor>Shridhar Gulati R</GBAuthor>
-          <GBAuthor>Wimalanathan T</GBAuthor>
-          <GBAuthor>Norheim Andersen S</GBAuthor>
-          <GBAuthor>Isaksen K</GBAuthor>
-          <GBAuthor>Lagging M</GBAuthor>
-          <GBAuthor>Midgard H</GBAuthor>
-          <GBAuthor>Moghaddam A</GBAuthor>
-          <GBAuthor>Dalgard O</GBAuthor>
+          <GBAuthor>Juarez-Vicuna Y</GBAuthor>
+          <GBAuthor>Perez-Ramos J</GBAuthor>
+          <GBAuthor>Adalid-Peralta L</GBAuthor>
+          <GBAuthor>Sanchez F</GBAuthor>
+          <GBAuthor>Springall R</GBAuthor>
+          <GBAuthor>Villasenor-Jasso J</GBAuthor>
+          <GBAuthor>Sixtos-Alonso MS</GBAuthor>
+          <GBAuthor>Ballinas-Verdugo MA</GBAuthor>
+          <GBAuthor>Marquez-Velasco R</GBAuthor>
+          <GBAuthor>Bojalil R</GBAuthor>
+          <GBAuthor>Amezcua-Guerra LM</GBAuthor>
+          <GBAuthor>Sanchez-Munoz F</GBAuthor>
         </GBReference_authors>
-        <GBReference_title>The relationship between IFNL4 genotype and the rate of fibrosis in hepatitis C patients</GBReference_title>
-        <GBReference_journal>Scand J Gastroenterol 54 (9), 1172-1175 (2019)</GBReference_journal>
+        <GBReference_title>The presence of IFL3/4 rs12979860 C allele influences the in vitro IP-10 production by mononuclear cells from patients with systemic lupus erythematosus</GBReference_title>
+        <GBReference_journal>Lupus 29 (5), 482-489 (2020)</GBReference_journal>
         <GBReference_xref>
           <GBXref>
             <GBXref_dbname>doi</GBXref_dbname>
-            <GBXref_id>10.1080/00365521.2019.1643403</GBXref_id>
+            <GBXref_id>10.1177/0961203320909429</GBXref_id>
           </GBXref>
         </GBReference_xref>
-        <GBReference_pubmed>31479286</GBReference_pubmed>
-        <GBReference_remark>GeneRIF: IFNL4 genotype was not a predictor of advanced liver fibrosis in G3 or G1 infected patients. IFNL4 CC predicted a higher mean value of ALT among both G1 and G3 infected patients.</GBReference_remark>
+        <GBReference_pubmed>32122227</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: The presence of IFL3/4 rs12979860 C allele influences the in vitro IP-10 production by mononuclear cells from patients with systemic lupus erythematosus.</GBReference_remark>
       </GBReference>
       <GBReference>
         <GBReference_reference>5</GBReference_reference>
@@ -474,7 +472,7 @@
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>note</GBQualifier_name>
-            <GBQualifier_value>interferon, lambda 4; IFN-lambda-4</GBQualifier_value>
+            <GBQualifier_value>IFN-lambda-4; interferon, lambda 4</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>codon_start</GBQualifier_name>

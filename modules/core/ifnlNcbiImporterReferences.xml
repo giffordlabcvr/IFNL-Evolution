@@ -13,11 +13,13 @@
 	  <primaryAccession>NM_001276254</primaryAccession> <!-- Human IFNLA -->
 
       <!-- Sauria -->	  
-	  <primaryAccession>XM_014607441</primaryAccession> <!-- Alligator mississippiensis -->
-	  <primaryAccession>XM_026688830</primaryAccession> <!-- Notechis -->
-	  <primaryAccession>XM_008173201</primaryAccession> <!-- Chrysemys -->
-	  <primaryAccession>XM_025202241</primaryAccession> <!-- Alligator sinensis -->
-	  <primaryAccession>XM_025186888</primaryAccession> <!-- Pelodiscus -->
+	  <primaryAccession>XM_014607441</primaryAccession> <!-- IFNL-Crocodylia-1 -->
+	  <primaryAccession>XM_025202241</primaryAccession> <!-- IFNL-Crocodylia-2 -->
+
+	  <primaryAccession>XM_026688830</primaryAccession> <!-- IFNL-Lepidosauria_1 -->
+
+	  <primaryAccession>XM_008173201</primaryAccession> <!-- IFNL-Testudines-1 (Pelodiscus) -->
+	  <primaryAccession>XM_025186888</primaryAccession> <!-- IFNL-Testudines-2  -->
 	  <primaryAccession>NM_001310792</primaryAccession> <!-- Mallard -->
 	  
 
@@ -29,4 +31,5 @@
   <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
   
 </ncbiImporter>
+
 

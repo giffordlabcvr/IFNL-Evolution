@@ -2,7 +2,7 @@
 delete module ncbiImporterRefSeqs
 
 # Create modules
-create module -f modules/ifnlNcbiImporterReferences.xml ncbiImporterRefSeqs
+create module -f modules/core/ifnlNcbiImporterReferences.xml ncbiImporterRefSeqs
 
 # Download NCBI sequences 
 module ncbiImporterRefSeqs import
