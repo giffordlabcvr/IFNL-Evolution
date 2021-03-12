@@ -9,13 +9,11 @@
   create module -f modules/core/ifnlFigTreeAnnotationExporter.xml
   create module -f modules/core/ifnlTreeAlignmentImporterNucs.xml
 
-  create module -t fastaAlignmentExporter 
+  create module -f modules/core/fastaAlignmentExporterTree.xml
 
   create module -f modules/core/alignmentColumnsSelector-IfnlRoot1.xml
   create module -f modules/core/alignmentColumnsSelector-IfnlRoot2.xml
   create module -f modules/core/alignmentColumnsSelector-IfnlRoot3.xml
-
-
 
   # Export the recursively populated root gene alignments 
   module fastaAlignmentExporter

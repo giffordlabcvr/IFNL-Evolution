@@ -6,6 +6,6 @@ XM_025202241	IFNL-Crocodylia-2	Alligator sinensis	REF_IFNL_Crocodylia_2	IFNL	Cro
 NM_001171763	IFNL-Anura	Xenopus tropicalis	REF_IFNLb_Anura_MASTER	IFNL	Anura	1					Amphibia	Batrachia	Anura	Pipidae	Xenopus		
 NM_001310792	IFNL-Aves	Anas platyrhynchos	REF_IFNLb_Aves_MASTER	IFNL	Aves	1					Squamata	Neognathae	Anseriformes	Anatidae	Anas		
 NM_001346937	IFNL-Mammal-B	Homo sapiens	REF_IFNL_Mammal_b_MASTER	IFNL	Mammal	B	2			2	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
-XM_025186888	IFNL-Testudines-1 	Pelodiscus sinensis	REF_IFNL_Testudines_1	IFNL	Testudines	1					Squamata	Unclassified	Testudines	Trionychidae	Pelodiscus		
-XM_026646209	IFNL-Testudines-2	Terrapene carolina	REF_IFNL_Testudines_2	IFNL	Testudines	2					Squamata	Unclassified	Testudines	Emydidae	Terrapene		
+XM_025186888	IFNL-Testudines-2	Pelodiscus sinensis	REF_IFNL_Testudines_2	IFNL	Testudines	2					Squamata	Unclassified	Testudines	Trionychidae	Pelodiscus		
+XM_026646209	IFNL-Testudines-1	Terrapene carolina	REF_IFNL_Testudines_1	IFNL	Testudines	1					Squamata	Unclassified	Testudines	Emydidae	Terrapene		
 IFNL_Scyliorhinus	IFNL-Chondrichthyes	Scyliorhinus torazame	REF_IFNL_Chondrichthyes	IFNL	Chondrichthyes	1					Chondrichthyes	Unclassified	Carcharhiniformes	Scyliorhinidae	Scyliorhinus		

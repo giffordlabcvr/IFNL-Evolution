@@ -38,7 +38,7 @@ project ifnl
   run file glue/core/ifnlAlignmentTree.glue
 
   # Record feature coverage in alignments
-  run file glue/ifnlRecordFeaturePresence.glue
+  run file glue/core/ifnlRecordFeaturePresence.glue
 
   # Build phylogenies
   run file glue/core/ifnlCreatePhylogeniesRoot.glue
