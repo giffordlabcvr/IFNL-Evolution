@@ -3,6 +3,7 @@
   delete module ifnlFigTreeAnnotationExporter
   delete module fastaAlignmentExporter
   delete module ifnlTreeAlignmentImporterNucs
+  delete module ifnlFeaturePresenceRecorder
 
   create module -t raxmlPhylogenyGenerator
   create module -f modules/core/ifnlPhyloUtility.xml
@@ -10,13 +11,14 @@
   create module -f modules/core/ifnlTreeAlignmentImporterNucs.xml
 
   create module -f modules/core/fastaAlignmentExporterTree.xml
+  create module -f modules/core/ifnlFeaturePresenceRecorder.xml
 
   create module -f modules/core/alignmentColumnsSelector-IfnlRoot1.xml
   create module -f modules/core/alignmentColumnsSelector-IfnlRoot2.xml
   create module -f modules/core/alignmentColumnsSelector-IfnlRoot3.xml
 
   # Export the recursively populated root gene alignments 
-  module fastaAlignmentExporter
+  module fastaAlignmentExporterTree
  	export AL_IFNL_ROOT -r REF_IFNL_Mammal_b_MASTER -f mRNA --recursive -a -e -o alignments/export/IFNL-recursive-root.aln.fna
 	exit
 
@@ -28,56 +30,45 @@
 	derive segments AL_UNC_TREE_IFNL_ROOT -a --mergeStrategy OVERWRITE
 	exit
 	
-  module hepadnaviridaeFeaturePresenceRecorder
-    record feature-presence AL_TREE_Hepadnaviridae --featureName whole_genome --descendentFeatures
-    exit
-
-
-
-
-  # Export the recursively populated root gene alignments 
-  module fastaAlignmentExporter
- 	export AL_Hepadnaviridae -r  REF_Ortho_MASTER_HBV -f whole_genome --recursive -a  -e -o alignments/export/Hepadnaviridae-all.aln.fna
-	exit
-
-  # Re-import the recursively populated root alignment into the project
-  module hepadnaTreeAlignmentImporterNucs import AL_UNC_TREE_Hepadnaviridae -f alignments/export/Hepadnaviridae-all.aln.fna
-  create alignment AL_TREE_Hepadnaviridae -r REF_Ortho_MASTER_HBV
-
-  alignment AL_TREE_Hepadnaviridae
-	derive segments AL_UNC_TREE_Hepadnaviridae -a --mergeStrategy OVERWRITE
-	exit
-	
-  module hepadnaviridaeFeaturePresenceRecorder
-    record feature-presence AL_TREE_Hepadnaviridae --featureName whole_genome --descendentFeatures
-    exit
+  module ifnlFeaturePresenceRecorder
+     record feature-presence AL_TREE_IFNL_ROOT --recursive --featureName mRNA --descendentFeatures
+     exit
 
   
   # Create the phylogenies
   module raxmlPhylogenyGenerator
 
-    generate nucleotide phylogeny AL_TREE_Hepadnaviridae -s alignmentColumnsSelectorHepadnaCore \
-      -w "fLocNotes.featureLoc.feature.name = 'PreCore-Core' and fLocNotes.ref_nt_coverage_pct >= 50" \
-      -o trees/main-root/Hepadna-core.export_nucs.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_Hepadnaviridae -s alignmentColumnsSelector-IfnlRoot1 \
+      -a -o trees/main-root/IfnlRoot1.tre NEWICK_BOOTSTRAPS
 
-    generate nucleotide phylogeny AL_TREE_Hepadnaviridae -s alignmentColumnsSelectorHepadnaPolymerase \
-      -w "fLocNotes.featureLoc.feature.name = 'Polymerase' and fLocNotes.ref_nt_coverage_pct >= 50" \
-      -o trees/main-root/Hepadna-pol.export_nucs.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_Hepadnaviridae -s alignmentColumnsSelector-IfnlRoot2 \
+      -a -o trees/main-root/IfnlRoot2.tre NEWICK_BOOTSTRAPS
 
-    generate nucleotide phylogeny AL_TREE_Hepadnaviridae -s alignmentColumnsSelectorHepadnaSurface \
-      -w "fLocNotes.featureLoc.feature.name = 'large-S' and fLocNotes.ref_nt_coverage_pct >= 50" \
-      -o trees/main-root/Hepadna-surface.export_nucs.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_Hepadnaviridae -s alignmentColumnsSelector-IfnlRoot3 \
+      -a -o trees/main-root/IfnlRoot3.tre NEWICK_BOOTSTRAPS
 
     exit
 
 
   # Re-root phylogeny 
-  module HepadnaPhyloUtility 
+  module ifnlPhyloUtility 
 
 	reroot-phylogeny \
-      --inputFile trees/main-root/Hepadna-core.export_nucs.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/main-root/IfnlRoot1.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/main-root/Hepadna-core.export_nucs-MidpointRerooted.tree NEWICK_BOOTSTRAPS
+      --outputFile trees/main-root/IfnlRoot1-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+
+	reroot-phylogeny \
+      --inputFile trees/main-root/IfnlRoot2.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/main-root/IfnlRoot2-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+
+	reroot-phylogeny \
+      --inputFile trees/main-root/IfnlRoot3.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/main-root/IfnlRoot3-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
     exit
 
@@ -88,11 +79,8 @@
     export figtree-annotation AL_TREE_Hepadnaviridae -w "fLocNotes.featureLoc.feature.name = 'PreCore-Core'  \
       and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/main-root/Hepadna-root-core.figtree-annotations.tsv
       
-    export figtree-annotation AL_TREE_Hepadnaviridae -w "fLocNotes.featureLoc.feature.name = 'Polymerase'  \
-      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/main-root/Hepadna-root-pol.figtree-annotations.tsv
       
-    export figtree-annotation AL_TREE_Hepadnaviridae -w "fLocNotes.featureLoc.feature.name = 'large-S'  \
-      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/main-root/Hepadna-root-surface.figtree-annotations.tsv
       
+            
   exit
 
