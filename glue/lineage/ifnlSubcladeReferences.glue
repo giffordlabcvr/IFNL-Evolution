@@ -1,7 +1,7 @@
 
   #~# Mammalia B subclades
   create reference REF_IFNL_Mammal_b_Simiiformes_1       ncbi-curated NM_172140     # Human 1 (IFNLb1)
-  create reference REF_IFNL_Mammal_b_Simiiformes_2_2     ncbi-curated NM_001346937  # Human 2 (IFNLb3)  
+  create reference REF_IFNL_Mammal_b_Simiiformes_2_2     ncbi-refseqs NM_001346937  # Human 2 (IFNLb3)  
 
   create reference REF_IFNL_Mammal_b_Chiroptera_1        ncbi-curated XM_016209154  # Miniopterus
   create reference REF_IFNL_Mammal_b_Artiodactyla_1      ncbi-curated NM_001166490  # Sus
@@ -11,15 +11,15 @@
   create reference REF_IFNL_Mammal_b_Perissodactyla_1    ncbi-curated XM_014732932  # Equus 
   create reference REF_IFNL_Mammal_b_Chiroptera_2        ncbi-curated XM_016209157  # Miniopterus  
   create reference REF_IFNL_Mammal_b_Carnivore_2         ncbi-curated XM_002927388  # Panda
-  create reference REF_IFNL_Mammal_b_Laurasiatheria_rtg  ncbi-refseqs NM_001142837  # Pig rtg  
+  create reference REF_IFNL_Mammal_b_Laurasiatheria_rtg  ncbi-curated NM_001142837  # Pig rtg  
   create reference REF_IFNL_Mammal_b_Rodents_1_1         ncbi-curated NM_001024673  # Mus
   create reference REF_IFNL_Mammal_b_Rodents_1_2         ncbi-curated NM_177396     # Mus
   create reference REF_IFNL_Mammal_b_Scandentia_1        ncbi-curated XM_014587715  # Tupaia
   create reference REF_IFNL_Mammal_b_Eulipotyphyla_2     ncbi-curated XM_007524026  # Hedgehog 
   create reference REF_IFNL_Mammal_b_Lemuriformes_1      ncbi-curated XM_012775211  # Microcebus
   create reference REF_IFNL_Mammal_b_Afrotheria_1        ncbi-curated XM_007958477  # Aardvark 
-  create reference REF_IFNL_Mammal_b_Marsupialia         ncbi-refseqs XM_027855300  # Vombatus   
+  create reference REF_IFNL_Mammal_b_Marsupialia         ncbi-curated XM_027855300  # Vombatus   
 
   #~# Mammalia B lineage-specific duplicates
   create reference REF_IFNL_Mammal_b_Simiiformes_2_1     ncbi-curated NM_172138     # Human 2 (IFNLb2)
-  create reference REF_IFNL_Mammal_b_Afrotheria_rtg      ncbi-refseqs XM_007945560  # Aardvark rtg
+  create reference REF_IFNL_Mammal_b_Afrotheria_rtg      ncbi-curated XM_007945560  # Aardvark rtg
