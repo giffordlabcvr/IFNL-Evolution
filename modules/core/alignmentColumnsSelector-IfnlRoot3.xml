@@ -6,13 +6,53 @@
     <aminoAcidRegionSelector>
         <featureName>orf</featureName>
         <startCodon>41</startCodon>
-        <endCodon>200</endCodon>
+        <endCodon>66</endCodon>
     </aminoAcidRegionSelector>
+
+    <aminoAcidRegionSelector>
+        <featureName>orf</featureName>
+        <startCodon>83</startCodon>
+        <endCodon>112</endCodon>
+    </aminoAcidRegionSelector>
+
+    <aminoAcidRegionSelector>
+        <featureName>orf</featureName>
+        <startCodon>115</startCodon>
+        <endCodon>140</endCodon>
+    </aminoAcidRegionSelector>
+
+    <aminoAcidRegionSelector>
+        <featureName>orf</featureName>
+        <startCodon>155</startCodon>
+        <endCodon>199</endCodon>
+    </aminoAcidRegionSelector>
+
+
     
     <nucleotideRegionSelector>
         <featureName>orf</featureName>
-        <startNt>121</startNt>
-        <endNt>516</endNt>
+        <startNt>294</startNt>
+        <endNt>371</endNt>
     </nucleotideRegionSelector>
+    
+    <nucleotideRegionSelector>
+        <featureName>orf</featureName>
+        <startNt>420</startNt>
+        <endNt>509</endNt>
+    </nucleotideRegionSelector>
+
+    <nucleotideRegionSelector>
+        <featureName>orf</featureName>
+        <startNt>516</startNt>
+        <endNt>593</endNt>
+    </nucleotideRegionSelector>
+    
+    <nucleotideRegionSelector>
+        <featureName>orf</featureName>
+        <startNt>636</startNt>
+        <endNt>770</endNt>
+    </nucleotideRegionSelector>
+
+
     
 </alignmentColumnsSelector>

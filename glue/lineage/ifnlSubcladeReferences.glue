@@ -1,7 +1,7 @@
 
   #~# Mammalia B subclades
   create reference REF_IFNL_Mammal_b_Simiiformes_1       ncbi-curated NM_172140     # Human 1 (IFNLb1)
-  create reference REF_IFNL_Mammal_b_Simiiformes_2_2     ncbi-refseqs NM_001346937  # Human 2 (IFNLb3)  
+  create reference REF_IFNL_Mammal_b_Simiiformes_2_2     ncbi-curated NM_001346937  # Human 2 (IFNLb3)  
 
   create reference REF_IFNL_Mammal_b_Chiroptera_1        ncbi-curated XM_016209154  # Miniopterus
   create reference REF_IFNL_Mammal_b_Artiodactyla_1      ncbi-curated NM_001166490  # Sus

@@ -74,13 +74,14 @@
 
 
   # Export annotations
-  module hepadnaFigTreeAnnotationExporter 
+  module ifnlFigTreeAnnotationExporter 
   
-    export figtree-annotation AL_TREE_Hepadnaviridae -w "fLocNotes.featureLoc.feature.name = 'PreCore-Core'  \
-      and fLocNotes.ref_nt_coverage_pct >= 50" -f trees/root/Hepadna-root-core.figtree-annotations.tsv
-      
-      
-      
-            
+    export figtree-annotation AL_TREE_IFNL_ROOT -f trees/root/IfnlRoot1.figtree-annotations.tsv        
+    export figtree-annotation AL_TREE_IFNL_ROOT -f trees/root/IfnlRoot1.figtree-annotations.tsv       
+    export figtree-annotation AL_TREE_IFNL_ROOT -f trees/root/IfnlRoot1.figtree-annotations.tsv
+          
   exit
+
+
+
 

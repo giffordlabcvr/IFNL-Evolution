@@ -6,6 +6,13 @@
   
   <specificPrimaryAccessions>
 
+
+	  
+	  <primaryAccession>NM_001142837</primaryAccession>  <!-- Laurasiatheria Retrogene (Sus) -->
+	  
+	  
+	  
+
       <!-- IFNL-A Curated -->	  
 	  <primaryAccession>XM_001086865</primaryAccession>
 	  <primaryAccession>XM_002711467</primaryAccession>
@@ -115,9 +122,7 @@
 	  <primaryAccession>XM_032850864</primaryAccession>
 	  <primaryAccession>XM_032326013</primaryAccession>
 	  <primaryAccession>XM_016947939</primaryAccession>
-	  
-	  
-	  
+
 	  
 	  
 	  
