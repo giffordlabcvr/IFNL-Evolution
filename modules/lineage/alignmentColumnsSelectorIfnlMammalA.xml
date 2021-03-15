@@ -5,14 +5,17 @@
     
     <aminoAcidRegionSelector>
         <featureName>orf</featureName>
-        <startCodon>119</startCodon>
-        <endCodon>177</endCodon>
+        <startCodon>27</startCodon>
+        <endCodon>179</endCodon>
     </aminoAcidRegionSelector>
     
     <nucleotideRegionSelector>
         <featureName>orf</featureName>
-        <startNt>355</startNt>
-        <endNt>529</endNt>
+        <startNt>356</startNt>
+        <endNt>815</endNt>
     </nucleotideRegionSelector>
     
 </alignmentColumnsSelector>
+
+
+     

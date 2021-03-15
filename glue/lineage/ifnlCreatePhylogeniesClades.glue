@@ -30,15 +30,15 @@
 
   # Re-import the recursively populated alignments into the project
   module ifnlTreeAlignmentImporterNucs import AL_UNC_TREE_IFNL_MAMMAL_A -f alignments/export/IFNL-mammal-A.aln.fna
-  create alignment AL_UNC_TREE_IFNL_MAMMAL_A -r REF_IFNL_Mammal_a
+  create alignment AL_TREE_IFNL_MAMMAL_A -r REF_IFNL_Mammal_a
   alignment AL_TREE_IFNL_MAMMAL_A
-	derive segments AL_UNC_TREE_IFNL_ROOT -a --mergeStrategy OVERWRITE
+	derive segments AL_UNC_TREE_IFNL_MAMMAL_A -a --mergeStrategy OVERWRITE
 	exit
   
   module ifnlTreeAlignmentImporterNucs import AL_UNC_TREE_IFNL_MAMMAL_B -f alignments/export/IFNL-mammal-B.aln.fna
-  create alignment AL_UNC_TREE_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER
+  create alignment AL_TREE_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER
   alignment AL_TREE_IFNL_MAMMAL_B
-	derive segments AL_UNC_TREE_IFNL_ROOT -a --mergeStrategy OVERWRITE
+	derive segments AL_UNC_TREE_IFNL_MAMMAL_B -a --mergeStrategy OVERWRITE
 	exit
 
 
