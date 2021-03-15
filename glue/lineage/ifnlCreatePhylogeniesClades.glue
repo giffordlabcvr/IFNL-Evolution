@@ -19,6 +19,7 @@
   create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_longest.xml
   create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_midrange.xml
   create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_strict.xml
+  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_strictest.xml
 
 
   # Export the recursively populated alignments for each major clade
@@ -53,17 +54,19 @@
   module raxmlPhylogenyGenerator
 
     generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_A -s alignmentColumnsSelectorIfnlMammalA \
-      -a -o trees/root/IfnlMammala.tre NEWICK_BOOTSTRAPS
+      -a -o trees/subclade/IfnlMammala.tre NEWICK_BOOTSTRAPS
 
     generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_longest \
-      -a -o trees/root/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS
+      -a -o trees/subclade/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS
 
     generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_midrange \
-      -a -o trees/root/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS
+      -a -o trees/subclade/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS
       
     generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_strict \
-      -a -o trees/root/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS
+      -a -o trees/subclade/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS
 
+    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_strictest \
+      -a -o trees/subclade/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS
 
     exit
 
@@ -72,24 +75,29 @@
   module ifnlPhyloUtility 
 
 	reroot-phylogeny \
-      --inputFile trees/root/IfnlMammala.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade/IfnlMammala.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/root/IfnlMammala.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade/IfnlMammalaMidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/root/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/root/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade/IfnlMammalb_longMidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/root/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/root/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade/IfnlMammalb_midrangeMidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/root/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/root/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade/IfnlMammalb_strictMidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/subclade/IfnlMammalb_strictest.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subclade/IfnlMammalb_strictestMidpointRerooted.tre NEWICK_BOOTSTRAPS
 
     exit
 
@@ -97,10 +105,11 @@
   # Export annotations
   module ifnlFigTreeAnnotationExporter 
   
-    export figtree-annotation AL_TREE_IFNL_MAMMAL_A -f trees/root/IfnlMammala.figtree-annotations.tsv        
-    export figtree-annotation AL_TREE_IFNL_MAMMAL_B -f trees/root/IfnlMammalb_long.figtree-annotations.tsv       
-    export figtree-annotation AL_TREE_IFNL_MAMMAL_B -f trees/root/IfnlMammalb_midrange.figtree-annotations.tsv
-    export figtree-annotation AL_TREE_IFNL_MAMMAL_B -f trees/root/IfnlMammalb_strict.figtree-annotations.tsv
+    export figtree-annotation AL_TREE_IFNL_MAMMAL_A -f trees/subclade/IfnlMammala.figtree-annotations.tsv        
+    export figtree-annotation AL_TREE_IFNL_MAMMAL_B -f trees/subclade/IfnlMammalb_long.figtree-annotations.tsv       
+    export figtree-annotation AL_TREE_IFNL_MAMMAL_B -f trees/subclade/IfnlMammalb_midrange.figtree-annotations.tsv
+    export figtree-annotation AL_TREE_IFNL_MAMMAL_B -f trees/subclade/IfnlMammalb_strict.figtree-annotations.tsv
+    export figtree-annotation AL_TREE_IFNL_MAMMAL_B -f trees/subclade/IfnlMammalb_strictest.figtree-annotations.tsv
           
   exit
 
