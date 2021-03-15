@@ -1,33 +1,109 @@
+  
+  
   delete module raxmlPhylogenyGenerator
   delete module ifnlPhyloUtility
   delete module ifnlFigTreeAnnotationExporter
-  
+  delete module fastaAlignmentExporter
+  delete module ifnlTreeAlignmentImporterNucs
+  delete module ifnlFeaturePresenceRecorder
+
   create module -t raxmlPhylogenyGenerator
   create module -f modules/core/ifnlPhyloUtility.xml
   create module -f modules/core/ifnlFigTreeAnnotationExporter.xml
+  create module -f modules/core/ifnlTreeAlignmentImporterNucs.xml
 
+  create module -f modules/core/fastaAlignmentExporterTree.xml
+  create module -f modules/core/ifnlFeaturePresenceRecorder.xml
+
+  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalA.xml
+  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_longest.xml
+  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_midrange.xml
+  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_strict.xml
+
+
+  # Export the recursively populated alignments for each major clade
+  module fastaAlignmentExporterTree
+ 	export AL_IFNL_MAMMAL_A -r REF_IFNL_Mammal_a -f mRNA --recursive -a -e -o alignments/export/IFNL-mammal-A.aln.fna
+ 	export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f mRNA --recursive -a -e -o alignments/export/IFNL-mammal-B.aln.fna
+	exit
+
+
+  # Re-import the recursively populated alignments into the project
+  module ifnlTreeAlignmentImporterNucs import AL_UNC_TREE_IFNL_MAMMAL_A -f alignments/export/IFNL-mammal-A.aln.fna
+  create alignment AL_UNC_TREE_IFNL_MAMMAL_A -r REF_IFNL_Mammal_a
+  alignment AL_TREE_IFNL_MAMMAL_A
+	derive segments AL_UNC_TREE_IFNL_ROOT -a --mergeStrategy OVERWRITE
+	exit
+  
+  module ifnlTreeAlignmentImporterNucs import AL_UNC_TREE_IFNL_MAMMAL_B -f alignments/export/IFNL-mammal-B.aln.fna
+  create alignment AL_UNC_TREE_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER
+  alignment AL_TREE_IFNL_MAMMAL_B
+	derive segments AL_UNC_TREE_IFNL_ROOT -a --mergeStrategy OVERWRITE
+	exit
+
+
+  # Record feature presence
+  module ifnlFeaturePresenceRecorder
+     record feature-presence AL_TREE_IFNL_MAMMAL_A --recursive --featureName mRNA --descendentFeatures
+     record feature-presence AL_TREE_IFNL_MAMMAL_B --recursive --featureName mRNA --descendentFeatures
+     exit
+
+  
+  # Create the phylogenies
   module raxmlPhylogenyGenerator
-    generate nucleotide phylogeny AL_IFNL_MAMMAL_A -a -o trees/ifnl-mammal-a.tre NEWICK_BOOTSTRAPS 
-    exit
-    
-  module raxmlPhylogenyGenerator
-    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -a -o trees/ifnl-mammal-b.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_A -s alignmentColumnsSelectorIfnlMammalA \
+      -a -o trees/root/IfnlMammala.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_longest \
+      -a -o trees/root/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_midrange \
+      -a -o trees/root/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS
+      
+    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_strict \
+      -a -o trees/root/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS
+
+
     exit
 
+
+  # Re-root phylogeny 
   module ifnlPhyloUtility 
-	reroot-phylogeny \
-      --inputFile trees/ifnl-mammal-a.tre NEWICK_BOOTSTRAPS \
-      --midpoint \
-      --outputFile trees/ifnl-mammal-a-MidpointRerooted.tree NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/ifnl-mammal-b.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/root/IfnlMammala.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/ifnl-mammal-b-MidpointRerooted.tree NEWICK_BOOTSTRAPS
+      --outputFile trees/root/IfnlMammala.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/root/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/root/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/root/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/root/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/root/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/root/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS
 
     exit
 
+
+  # Export annotations
   module ifnlFigTreeAnnotationExporter 
-    export figtree-annotation AL_IFNL_MAMMAL_A -f trees/ifnl-mammal-a-FigtreeAnnotations.tsv
-    export figtree-annotation AL_IFNL_MAMMAL_B -f trees/ifnl-mammal-b-FigtreeAnnotations.tsv
+  
+    export figtree-annotation AL_TREE_IFNL_MAMMAL_A -f trees/root/IfnlMammala.figtree-annotations.tsv        
+    export figtree-annotation AL_TREE_IFNL_MAMMAL_B -f trees/root/IfnlMammalb_long.figtree-annotations.tsv       
+    export figtree-annotation AL_TREE_IFNL_MAMMAL_B -f trees/root/IfnlMammalb_midrange.figtree-annotations.tsv
+    export figtree-annotation AL_TREE_IFNL_MAMMAL_B -f trees/root/IfnlMammalb_strict.figtree-annotations.tsv
+          
   exit
+
+
+
+

@@ -33,7 +33,7 @@
 	extract child AL_IFNL_MAMMAL_B --refName REF_IFNL_Mammal_b_MASTER
 	demote member AL_IFNL_MAMMAL_B --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Mammal'" 
 
-	extract child AL_IFNL_MAMMAL_A --refName REF_IFNL_Mammal_a_MASTER
+	extract child AL_IFNL_MAMMAL_A --refName REF_IFNL_Mammal_a
 	demote member AL_IFNL_MAMMAL_A --whereClause "sequence.clade = 'A' and sequence.vertebrate_lineage = 'Mammal'" 
 			
     exit

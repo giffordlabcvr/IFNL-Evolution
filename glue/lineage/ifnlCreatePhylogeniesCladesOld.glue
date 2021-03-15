@@ -1,0 +1,33 @@
+  delete module raxmlPhylogenyGenerator
+  delete module ifnlPhyloUtility
+  delete module ifnlFigTreeAnnotationExporter
+  
+  create module -t raxmlPhylogenyGenerator
+  create module -f modules/core/ifnlPhyloUtility.xml
+  create module -f modules/core/ifnlFigTreeAnnotationExporter.xml
+
+  module raxmlPhylogenyGenerator
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_A -a -o trees/ifnl-mammal-a.tre NEWICK_BOOTSTRAPS 
+    exit
+    
+  module raxmlPhylogenyGenerator
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -a -o trees/ifnl-mammal-b.tre NEWICK_BOOTSTRAPS
+    exit
+
+  module ifnlPhyloUtility 
+	reroot-phylogeny \
+      --inputFile trees/ifnl-mammal-a.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/ifnl-mammal-a-MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/ifnl-mammal-b.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/ifnl-mammal-b-MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+    exit
+
+  module ifnlFigTreeAnnotationExporter 
+    export figtree-annotation AL_IFNL_MAMMAL_A -f trees/ifnl-mammal-a-FigtreeAnnotations.tsv
+    export figtree-annotation AL_IFNL_MAMMAL_B -f trees/ifnl-mammal-b-FigtreeAnnotations.tsv
+  exit
