@@ -1,5 +1,5 @@
 taxon	sequenceID	species	species_superorder	species_order	species_family	species_genus	gene_id	vertebrate_lineage	major_subclade	duplicate_type	duplicate_numeric_id	glycosylation_o1_present	glycosylation_o1_coverage	glycosylation_o2_present	glycosylation_o2_coverage
-alignment/AL_TREE_IFNL_MAMMAL_A/member/fasta-curated/IFNLa_Mammal_Hsa.Psi	IFNLa_Mammal_Hsa.Psi	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_TREE_IFNL_MAMMAL_A/member/fasta-curated/IFNL_Mammal_APsi-Hsa	IFNL_Mammal_APsi-Hsa	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	-	psi	1	-	-	-	-
 alignment/AL_TREE_IFNL_MAMMAL_A/member/ncbi-refseqs/NM_001276254	NM_001276254	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	-	-	-	-	-	-	-
 alignment/AL_TREE_IFNL_MAMMAL_A/member/ncbi-curated/NM_001276259	NM_001276259	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan	IFNL	Mammal	-	-	-	-	-	-	-
 alignment/AL_TREE_IFNL_MAMMAL_A/member/ncbi-curated/XM_004396490	XM_004396490	Odobenus rosmarus divergens	Laurasiatheria	Carnivora	Odobenidae	Odobenus	IFNL	Mammal	-	-	-	-	-	-	-

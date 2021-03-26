@@ -63,7 +63,7 @@ XM_027765624	IFNL-A-Mammal	Tree shrew	Tree shrew		IFNL	Mammal	A					Euarchontogl
 XM_027765624	IFNL-A-Mammal	Tupaia chinensis	Tupaia chinensis		IFNL	Mammal	A					Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_027621425.1	
 XM_026491561	IFNL-A-Mammal	Ursus arctos horribilis	Ursus arctos horribilis	-	IFNL	Mammal	A					Laurasiatheria	Carnivora	Ursidae	Ursus		
 XM_027855301	IFNL-A-Mammal	Vombatus ursinus	Vombatus ursinus		IFNL	Mammal	A					Unclassified	Diprotodontia	Vombatidae	Vombatus	XM_027855301	xMa
-IFNLA_Psi_Hsa	IFNL-A-Mammal-1-psi-1	Homo sapiens	Homo sapiens		IFNL	Mammal	A			psi	1	Euarchontoglires	Primates	Hominidae	Homo	NULL	
+IFNL_Mammal_APsi-Hsa	IFNL-A-Mammal-1-psi-1	Homo sapiens	Homo sapiens		IFNL	Mammal	A			psi	1	Euarchontoglires	Primates	Hominidae	Homo	NULL	
 KF192925	IFNL-A-Squamata	Anolis carolinensis	Anolis carolinensis		IFNL	Squamata	1					Lepidosauria	Squamata	Iguanidae	Anolis		
 XM_005501688	IFNL-B-Aves	Columba livia	Columba livia		IFNL	Aves	1					Neognathae	Columbiformes	Columbidae	Columba		
 XM_003207378	IFNL-B-Aves	Meleagris gallopavo	Meleagris gallopavo		IFNL	Aves	1					Neognathae	Galliformes	Phasianidae	Meleagris		
@@ -109,7 +109,7 @@ XM_016166772	IFNL-B-Mammal-1	Rousettus aegyptiacus	Rousettus aegyptiacus		IFNL	M
 NM_001166490	IFNL-B-Mammal-1	Sus scrofa	Sus scrofa		IFNL	Mammal	B	1		canonical		Laurasiatheria	Unclassified	Suidae	Sus		
 XM_004388217	IFNL-B-Mammal-1	Trichechus manatus	Trichechus manatus		IFNL	Mammal	B	1		canonical		Afrotheria	Sirenia	Trichechidae	Trichechus	XP_004388274.1	
 XM_014587715	IFNL-B-Mammal-1	Tupaia chinensis	Tupaia chinensis		IFNL	Mammal	B	1		canonical		Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_014443201.2	
-IFNLB1_Psi_Hsa	IFNL-B-Mammal-1-psi-1	Homo sapiens	Homo sapiens		IFNL	Mammal	B	1		psi		Euarchontoglires	Primates	Hominidae	Homo	NULL	
+IFNL_Mammal_BPsi-Hsa	IFNL-B-Mammal-1-psi-1	Homo sapiens	Homo sapiens		IFNL	Mammal	B	1		psi		Euarchontoglires	Primates	Hominidae	Homo	NULL	
 XM_011225064	IFNL-B-Mammal-1-rtg-1	Ailuropoda melanoleuca	Ailuropoda melanoleuca		IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011223366.1 	xL
 retroIFNL1a	IFNL-B-Mammal-1-rtg-1	Ceratotherium	Ceratotherium		IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Perissodactyla	Rhinocerotidae	Ceratotherium	NULL	
 XM_004687048	IFNL-B-Mammal-1-rtg-1	Condylura cristata	Condylura cristata		IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Insectivora	Talpidae	Condylura	XP_004687105.1 	
