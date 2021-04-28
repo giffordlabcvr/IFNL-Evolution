@@ -12,9 +12,38 @@
 	  <primaryAccession>XM_027855300</primaryAccession>  <!-- Wombat IFNLB -->
 	  <primaryAccession>XM_007945560</primaryAccession>  <!-- Laurasiatheria Retrogene (Orycteropus)-->
 	  
-	  
-	  
-	  
+
+      <!-- IFNL-B Curated -->	 	  
+
+	  <primaryAccession>XM_010330964</primaryAccession>
+	  <primaryAccession>XM_017503064</primaryAccession>
+	  <primaryAccession>XM_012438872</primaryAccession>
+	  <primaryAccession>XM_011973415</primaryAccession>
+	  <primaryAccession>XM_003270381</primaryAccession>
+	  <primaryAccession>XM_019014911</primaryAccession>
+	  <primaryAccession>XM_002829197</primaryAccession>
+	  <primaryAccession>XM_024237432</primaryAccession>
+	  <primaryAccession>XM_008964649</primaryAccession>
+	  <primaryAccession>XM_011952423</primaryAccession>
+	  <primaryAccession>XM_010380920</primaryAccession>
+	  <primaryAccession>XM_017887367</primaryAccession>
+	  <primaryAccession>XM_005589169</primaryAccession>
+	  <primaryAccession>XM_005589166</primaryAccession>
+	  <primaryAccession>XM_011764820</primaryAccession>
+	  <primaryAccession>XM_012077999</primaryAccession>
+	  <primaryAccession>XM_012078033</primaryAccession>
+	  <primaryAccession>XM_025368308</primaryAccession>
+	  <primaryAccession>XM_025367960</primaryAccession>
+	  <primaryAccession>XM_012438845</primaryAccession>
+
+
+
+   
+	  <!-- <primaryAccession>XM_021930467</primaryAccession> -->	   
+	  <!-- <primaryAccession>XM_010380921</primaryAccession> -->	  
+	  <!-- <primaryAccession>XM_007996756</primaryAccession> -->
+	  <!-- <primaryAccession>XM_007996758</primaryAccession> -->
+	  <!-- <primaryAccession>XM_012496748</primaryAccession> -->
 
       <!-- IFNL-A Curated -->	  
 	  <primaryAccession>XM_001086865</primaryAccession>
