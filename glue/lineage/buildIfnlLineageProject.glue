@@ -29,6 +29,9 @@ project ifnl
   # Build phylogenies
   run file glue/lineage/ifnlCreatePhylogeniesClades.glue
 
+  # Build phylogenies
+  run file glue/lineage/ifnlCreatePhylogeniesPrimateExons.glue
+
   # Validate
   validate
 
