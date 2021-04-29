@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>XM_023229397</GBSeq_locus>
+    <GBSeq_length>863</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PRI</GBSeq_division>
+    <GBSeq_update-date>30-DEC-2019</GBSeq_update-date>
+    <GBSeq_create-date>07-DEC-2017</GBSeq_create-date>
+    <GBSeq_definition>PREDICTED: Piliocolobus tephrosceles interferon lambda 1 (IFNL1), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>XM_023229397</GBSeq_primary-accession>
+    <GBSeq_accession-version>XM_023229397.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|XM_023229397.2|</GBSeqid>
+      <GBSeqid>gi|1788689304</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA419387</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Piliocolobus tephrosceles (Ugandan red Colobus)</GBSeq_source>
+    <GBSeq_organism>Piliocolobus tephrosceles</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Cercopithecidae; Colobinae; Piliocolobus</GBSeq_taxonomy>
+    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NC_045454.1) annotated using gene prediction method: Gnomon, supported by mRNA evidence.~Also see:~ Documentation of NCBI's Annotation Process~; On Dec 30, 2019 this sequence version replaced XM_023229397.1.; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Name :: Piliocolobus tephrosceles Annotation Release 102 ; Annotation Version :: 102 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 8.3 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..863</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>863</GBInterval_to>
+            <GBInterval_accession>XM_023229397.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Piliocolobus tephrosceles</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>RC106</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>whole blood</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:591936</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>21</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>sex</GBQualifier_name>
+            <GBQualifier_value>male</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Uganda: Kibale National Park</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lat_lon</GBQualifier_name>
+            <GBQualifier_value>0.4862 N 30.3897 E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>27-Jul-2014</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..863</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>863</GBInterval_to>
+            <GBInterval_accession>XM_023229397.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 8 mRNAs, 5 Proteins</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:111554094</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>98..706</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>98</GBInterval_from>
+            <GBInterval_to>706</GBInterval_to>
+            <GBInterval_accession>XM_023229397.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>interferon lambda-1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>XP_023085165.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:111554094</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAAAWIVVLVPLVLGLAVAGPVPTSKPTTTGKGCDIDRFKSLSPQELASFKKARDALEESLKLKNWSCSSPVFPGNWDLRLLQVRERPVALEAELALTLKVLEAAADTDSALGVALDQPLHTLHHILSQLQACIQAQPTAGPRPRGRLQHWLHRLQEAPKKESPGCLEASVTFNLFRLLIRDLICVANGDLCLRTSTHPEST</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aattaccttttcactttacacacatcatcgtggattgctcattttgcccggctaaaaagcagagccatgccgctggggaagctgttgcgatttagccatggctgcagcttggatcgtggtgctggtgcctttggtgctaggcttggccgtggcaggccctgtccccacttccaagcccaccacaactgggaagggctgcgacattgacaggttcaaatctctgtcaccgcaggagttggcaagcttcaagaaggccagggacgccttggaagaatcactcaagttgaaaaactggagttgcagctcccctgtcttccccgggaactgggacctaaggcttctccaggtgagggagcgccccgtggccttggaggctgagctggccctgacgctgaaagtcttggaggctgccgctgacactgactcagccctgggggtcgccctagatcagccccttcacaccctgcaccacatcctttcccagctccaggcctgtatccaggctcaacccacagcagggcccaggccccggggccgcctccaacactggctacaccggctccaggaggcccccaaaaaggagtcccctggctgccttgaggcgtctgtcaccttcaacctcttccgcctactcatacgagacctgatatgtgtcgccaatggggacctgtgtctgagaacgtcaacccaccccgaatccacctgacaccccacaccttatttatgcactgagccctactccttccttaaattatttcctctcaccctttatttatgaagctgcagccctgactgagacataggactgagtttattgttttacttttgtacattatgcacaaataaacaacaaggaattggaa</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA419387</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>
