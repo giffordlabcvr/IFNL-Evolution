@@ -20,6 +20,9 @@ project ifnl
   # Inherit feature locations
   #run file glue/lineage/inheritFeatureLocations.glue
 
+  # Record feature coverage in alignments
+  run file glue/lineage/ifnlLinegesRecordFeaturePresence.glue
+
   # Define variations 
   run file glue/lineage/ifnlVariations.glue
 
@@ -27,7 +30,7 @@ project ifnl
   run script glue/lineage/ifnlScanVariations.js
 
   # Build phylogenies
-  run file glue/lineage/ifnlCreatePhylogeniesClades.glue
+  #run file glue/lineage/ifnlCreatePhylogeniesClades.glue
 
   # Build phylogenies
   run file glue/lineage/ifnlCreatePhylogeniesPrimateExons.glue

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alignmentColumnsSelector>
+
+    <relRefName>REF_IFNL_Mammal_b_MASTER</relRefName>
+        
+    <nucleotideRegionSelector>
+        <featureName>mRNA</featureName>
+        <startNt>1</startNt>
+        <endNt>10</endNt>
+    </nucleotideRegionSelector>
+    
+</alignmentColumnsSelector>
+
