@@ -1,0 +1,140 @@
+taxon	sequenceID	species	species_superorder	species_order	species_family	species_genus	gene_id	vertebrate_lineage	major_subclade	duplicate_type	duplicate_numeric_id	glycosylation_o1_present	glycosylation_o1_coverage	glycosylation_o2_present	glycosylation_o2_coverage
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/HQ201955	HQ201955	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/NM_001024673	NM_001024673	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus	IFNL	Mammal	2	-	2	TRUE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/NM_001040680	NM_001040680	Felis catus	Laurasiatheria	Carnivora	Felidae	Felis	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/NM_001114853	NM_001114853	Canis lupus familiaris	Laurasiatheria	Carnivora	Canidae	Canis	IFNL	Mammal	1	rtg	1	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/NM_001142837	NM_001142837	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/NM_001166490	NM_001166490	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/NM_001290171	NM_001290171	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-refseqs/NM_001346937	NM_001346937	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/NM_172138	NM_172138	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	2	-	1	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/NM_172140	NM_172140	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/NM_177396	NM_177396	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus	IFNL	Mammal	2	-	2	TRUE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_002829197	XM_002829197	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_002829198	XM_002829198	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_002927388	XM_002927388	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_003270380	XM_003270380	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_003270381	XM_003270381	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_003420833	XM_003420833	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_003735566	XM_003735566	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_003802138	XM_003802138	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	Otolemur	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_003802158	XM_003802158	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	Otolemur	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_003915503	XM_003915503	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_003943132	XM_003943132	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004060705	XM_004060705	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004388217	XM_004388217	Trichechus manatus	Afrotheria	Sirenia	Trichechidae	Trichechus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004396492	XM_004396492	Odobenus rosmarus	Laurasiatheria	Carnivora	Odobenidae	Odobenus	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004430284	XM_004430284	Ceratotherium simum	Laurasiatheria	Perissodactyla	Rhinocerotidae	Ceratotherium	IFNL	Mammal	1	rtg	1	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004481462	XM_004481462	Dasypus novemcinctus	Xenarthra	Cingulata	Dasypodidae	Dasypus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004617293	XM_004617293	Sorex araneus	Laurasiatheria	Insectivora	Soricidae	Sorex	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004617294	XM_004617294	Sorex araneus	Laurasiatheria	Insectivora	Soricidae	Sorex	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004636880	XM_004636880	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004636881	XM_004636881	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004636884	XM_004636884	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	IFNL	Mammal	2	-	2	TRUE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004687048	XM_004687048	Condylura cristata	Laurasiatheria	Insectivora	Talpidae	Condylura	IFNL	Mammal	1	rtg	1	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004710310	XM_004710310	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004710311	XM_004710311	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_004710488	XM_004710488	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_005589166	XM_005589166	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_005589169	XM_005589169	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_005589170	XM_005589170	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_005596230	XM_005596230	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	IFNL	Mammal	2	-	2	FALSE	FALSE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_006096748	XM_006096748	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL	Mammal	2	-	1	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_006140390	XM_006140390	Tupaia chinensis	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_006540130	XM_006540130	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus	IFNL	Mammal	2	-	2	TRUE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_006761471	XM_006761471	Myotis davidii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL	Mammal	2	-	1	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_006871441	XM_006871441	Chrysochloris asiatica	Afrotheria	Unclassified	Chrysochloridae	Chrysochloris	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_006941288	XM_006941288	Felis catus	Laurasiatheria	Carnivora	Felidae	Felis	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_006986319	XM_006986319	Peromyscus maniculatus 	Euarchontoglires	Rodentia	Cricetidae	Peromyscus	IFNL	Mammal	2	-	2	TRUE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_007179988	XM_007179988	Balaenoptera acutorostrata	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_007179990	XM_007179990	Balaenoptera acutorostrata	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_007523978	XM_007523978	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_007524026	XM_007524026	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_007945560	XM_007945560	Orycteropus afer	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	IFNL	Mammal	1	rtg	2	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_007958477	XM_007958477	Orycteropus afer	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_007996760	XM_007996760	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_008057580	XM_008057580	Carlito syrichta	Euarchontoglires	Primates	Tarsiidae	Tarsius	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_008057587	XM_008057587	Carlito syrichta	Euarchontoglires	Primates	Tarsiidae	Tarsius	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_008161658	XM_008161658	Eptesicus fuscus	Laurasiatheria	Chiroptera	Vespertilionidae	Eptesicus	IFNL	Mammal	2	-	1	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_008854037	XM_008854037	Nannospalax galili	Euarchontoglires	Rodentia	Spalacidae	Nannospalax	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_008964649	XM_008964649	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_010330964	XM_010330964	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_010380919	XM_010380919	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_010380920	XM_010380920	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_010972051	XM_010972051	Camelus bactrianus	Laurasiatheria	Unclassified	Camelidae	Camelus	IFNL	Mammal	2	-	1	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_010985162	XM_010985162	Camelus dromedarius	Laurasiatheria	Unclassified	Camelidae	Camelus	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011225064	XM_011225064	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	IFNL	Mammal	1	rtg	1	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011234942	XM_011234942	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011386751	XM_011386751	Pteropus vampyrus	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus	IFNL	Mammal	2	-	1	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011764819	XM_011764819	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011764820	XM_011764820	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011952423	XM_011952423	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011952424	XM_011952424	Colobus angolensis palliatus	Euarchontoglires	Primates	Cercopithecidae	Colobus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011973358	XM_011973358	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011973361	XM_011973361	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011973415	XM_011973415	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_012077988	XM_012077988	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_012077999	XM_012077999	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_012078033	XM_012078033	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_012438845	XM_012438845	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_012438872	XM_012438872	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_012657015	XM_012657015	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_012730587	XM_012730587	Condylura cristata	Laurasiatheria	Insectivora	Talpidae	Condylura	IFNL	Mammal	2	-	1	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_012775211	XM_012775211	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_012775213	XM_012775213	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_013077381	XM_013077381	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	IFNL	Mammal	1	canonical	2	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_014117025	XM_014117025	Canis lupus	Laurasiatheria	Carnivora	Canidae	Canis	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_014541703	XM_014541703	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_014587715	XM_014587715	Tupaia chinensis	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_014732932	XM_014732932	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	IFNL	Mammal	1	rtg	1	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_014832969	XM_014832969	Equus asinus	Laurasiatheria	Perissodactyla	Equidae	Equus	IFNL	Mammal	1	rtg	1	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_015557658	XM_015557658	Myotis davidii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_015589198	XM_015589198	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_015589199	XM_015589199	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus	IFNL	Mammal	2	-	1	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016165226	XM_016165226	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	IFNL	Mammal	2	-	1	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016166771	XM_016166771	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016166772	XM_016166772	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016209154	XM_016209154	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016209155	XM_016209155	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016209156	XM_016209156	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016209157	XM_016209157	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016934446	XM_016934446	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016947939	XM_016947939	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_017503063	XM_017503063	Cebus capucinus	Euarchontoglires	Primates	Cebidae	Cebus	IFNL	Mammal	1	canonical	2	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_017503064	XM_017503064	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_017651898	XM_017651898	Manis javanica	Laurasiatheria	Pholidota	Manidae	Manis	IFNL	Mammal	1	rtg	1	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_017656413	XM_017656413	Manis javanica	Laurasiatheria	Pholidota	Manidae	Manis	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_017803384	XM_017803384	Nannospalax galili	Euarchontoglires	Rodentia	Spalacidae	Nannospalax	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_017887367	XM_017887367	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_017967394	XM_017967394	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	IFNL	Mammal	2	-	2	TRUE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_018063174	XM_018063174	Capra hircus	Laurasiatheria	Unclassified	Bovidae	Capra	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_018063271	XM_018063271	Capra hircus	Laurasiatheria	Unclassified	Bovidae	Capra	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_019014911	XM_019014911	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_019818982	XM_019818982	Felis catus	Laurasiatheria	Carnivora	Felidae	Felis	IFNL	Mammal	2	-	2	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_020156959	XM_020156959	Castor canadensis	Euarchontoglires	Rodentia	Castoridae	Castor	IFNL	Mammal	2	-	2	TRUE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_021168771	XM_021168771	Mus caroli	Euarchontoglires	Rodentia	Muridae	Mus	IFNL	Mammal	2	-	2	TRUE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_021210483	XM_021210483	Mus pahari	Euarchontoglires	Rodentia	Muridae	Mus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_023229397	XM_023229397	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_023626728	XM_023626728	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	IFNL	Mammal	1	rtg	1	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_023651251	XM_023651251	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	IFNL	Mammal	2	-	2	FALSE	FALSE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_023760578	XM_023760578	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL	Mammal	2	-	3	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_024237432	XM_024237432	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_024351462	XM_024351462	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan	IFNL	Mammal	2	-	1	FALSE	TRUE	FALSE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_024577416	XM_024577416	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_024577417	XM_024577417	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus	IFNL	Mammal	2	-	1	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_024577418	XM_024577418	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_025268342	XM_025268342	Bubalus bubalis	Laurasiatheria	Unclassified	Bovidae	Bubalus	IFNL	Mammal	2	-	2	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_025367960	XM_025367960	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_025368308	XM_025368308	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_025368404	XM_025368404	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_028165960	XM_028165960	Balaenoptera acutorostrata	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_028529967	XM_028529967	Phyllostomus discolor	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus	IFNL	Mammal	2	-	1	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_028529971	XM_028529971	Phyllostomus discolor	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus	IFNL	Mammal	2	-	2	FALSE	FALSE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_028529976	XM_028529976	Phyllostomus discolor	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus	IFNL	Mammal	2	-	3	FALSE	FALSE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_028529978	XM_028529978	Phyllostomus discolor	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus	IFNL	Mammal	2	-	4	FALSE	TRUE	TRUE	TRUE
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_028529999	XM_028529999	Phyllostomus discolor	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_028530311	XM_028530311	Phyllostomus discolor	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_028859190	XM_028859190	Peromyscus leucopus	Euarchontoglires	Rodentia	Cricetidae	Peromyscus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_029924289	XM_029924289	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_032326013	XM_032326013	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_032850864	XM_032850864	-	-	-	-	-	-	-	-	-	-	-	-	-	-
