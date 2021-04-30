@@ -52,6 +52,10 @@
        -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon5' and fLocNotes.ref_nt_coverage_pct >= 90" \
        -o trees/subclade/IfnlMammalb_exon5.tre NEWICK_BOOTSTRAPS
 
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon1+2 \
+       -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon1+2' and fLocNotes.ref_nt_coverage_pct >= 90" \
+       -o trees/subclade/IfnlMammalb_exon1+2.tre NEWICK_BOOTSTRAPS
+
     generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon1+2+3 \
       -a -o trees/subclade/IfnlMammalb_exon1+2+3.tre NEWICK_BOOTSTRAPS
 
@@ -94,6 +98,11 @@
       --outputFile trees/subclade/IfnlMammalb_exon5-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
+      --inputFile trees/subclade/IfnlMammalb_exon1+2.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subclade/IfnlMammalb_exon1+2-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
       --inputFile trees/subclade/IfnlMammalb_exon1+2+3.tre NEWICK_BOOTSTRAPS \
       --midpoint \
       --outputFile trees/subclade/IfnlMammalb_exon1+2+3-MidpointRerooted.tre NEWICK_BOOTSTRAPS
@@ -118,33 +127,5 @@
     export figtree-annotation AL_IFNL_MAMMAL_B -f trees/subclade/IfnlMammalb_exon1.figtree-annotations.tsv        
           
   exit
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

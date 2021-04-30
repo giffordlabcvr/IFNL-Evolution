@@ -26,6 +26,10 @@
   create feature mRNA_exon4 -p mRNA "Exon 4 (mRNA)"
   create feature mRNA_exon5 -p mRNA "Exon 5 (mRNA)"
   create feature mRNA_exon6 -p mRNA "Exon 6 (mRNA)"
+  create feature mRNA_exon1+2 -p mRNA "Exon 1+2 (mRNA)"
+  create feature mRNA_exon1+2+3 -p mRNA "Exon 1+2+3 (mRNA)"
+  create feature mRNA_exon3+4+5+6 -p mRNA "Exon 3+4+5+6 (mRNA)"
+
 
   # Subdomains in ORF
 
@@ -74,6 +78,22 @@
   create feature c-term  -p orf "C-term extension"  
   feature c-term set metatag CODES_AMINO_ACIDS true
 
+  create feature ifnlr1  -p orf "A, B and F"  
+  feature ifnlr1 set metatag CODES_AMINO_ACIDS true
+
+  create feature il10r2  -p orf "A, C and D"  
+  feature il10r2 set metatag CODES_AMINO_ACIDS true
+
+  create feature il10r2_binding_surface -p orf "IL10R2 receptor binding face"  
+  feature il10r2_binding_surface set metatag CODES_AMINO_ACIDS true
+
+  create feature ifnlr1_binding_surface -p orf "IFNLR1 receptor binding face"  
+  feature ifnlr1_binding_surface set metatag CODES_AMINO_ACIDS true
+
+  create feature buried_residues -p orf "Buried residues"  
+  feature buried_residues set metatag CODES_AMINO_ACIDS true
+
+
 
   # Glycosylation regions
   
@@ -85,18 +105,6 @@
 
   create feature glycosylation-region-3 -p orf "Glycosylation region 3"
   feature glycosylation-region-3  set metatag CODES_AMINO_ACIDS true
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
