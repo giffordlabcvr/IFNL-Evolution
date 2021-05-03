@@ -33,7 +33,7 @@ project ifnl
   #run file glue/lineage/ifnlCreatePhylogeniesClades.glue
 
   # Build phylogenies
-  run file glue/lineage/ifnlCreatePhylogeniesPrimateExons.glue
+  #run file glue/lineage/ifnlCreatePhylogeniesPrimateExons.glue
 
   # Validate
   validate

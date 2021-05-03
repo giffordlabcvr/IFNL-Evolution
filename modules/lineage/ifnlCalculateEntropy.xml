@@ -1,6 +1,6 @@
 <ecmaFunctionInvoker>
 
-	<scriptFileName>hivCalculateEntropy.js</scriptFileName>
+	<scriptFileName>calculateEntropy.js</scriptFileName>
 	
 	<function>
 		<name>calculateEntropy</name>

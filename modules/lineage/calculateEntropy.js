@@ -8,7 +8,8 @@ function calculateEntropy(refsequence, alignment, feature) {
 
 
 	// export alignment from GLUE
-	glue.inMode("module/hivFastaAlignmentExporter", function(){
+	glue.inMode("module/fastaAlignmentExporter", function(){
+	
 		glue.logInfo(alignment);
 	
 		var sequences = glue.command(["export",alignment,"-r",refsequence,"-f",feature,"-a","-p"]);
