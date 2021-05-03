@@ -29,7 +29,39 @@
     add feature-location mRNA_exon1+2
     feature-location mRNA_exon1+2 add segment 1 192  
 
-
+    add feature-location buried_residues
+    feature-location buried_residues add segment 136 138 --spliceIndex 1
+    feature-location buried_residues add segment 172 174 --spliceIndex 2 
+    feature-location buried_residues add segment 193 195 --spliceIndex 3  
+    feature-location buried_residues add segment 202 204 --spliceIndex 4  
+    feature-location buried_residues add segment 235 237 --spliceIndex 5  
+    feature-location buried_residues add segment 244 246 --spliceIndex 6    
+    feature-location buried_residues add segment 250 252 --spliceIndex 7    
+    feature-location buried_residues add segment 256 258 --spliceIndex 8
+    feature-location buried_residues add segment 265 267 --spliceIndex 9
+    feature-location buried_residues add segment 280 285 --spliceIndex 10
+    feature-location buried_residues add segment 289 294 --spliceIndex 11
+    feature-location buried_residues add segment 301 306 --spliceIndex 12
+    feature-location buried_residues add segment 322 327 --spliceIndex 13   
+    feature-location buried_residues add segment 334 336 --spliceIndex 14
+    feature-location buried_residues add segment 355 360 --spliceIndex 15
+    feature-location buried_residues add segment 364 369 --spliceIndex 16
+    feature-location buried_residues add segment 376 381 --spliceIndex 17
+    feature-location buried_residues add segment 397 402 --spliceIndex 18
+    feature-location buried_residues add segment 409 411 --spliceIndex 19
+    feature-location buried_residues add segment 421 423 --spliceIndex 21   
+    feature-location buried_residues add segment 472 474 --spliceIndex 22    
+    feature-location buried_residues add segment 484 486 --spliceIndex 22
+    feature-location buried_residues add segment 493 495 --spliceIndex 23
+    feature-location buried_residues add segment 505 507 --spliceIndex 24
+    feature-location buried_residues add segment 520 537 --spliceIndex 25
+    feature-location buried_residues add segment 541 546 --spliceIndex 26  
+    feature-location buried_residues add segment 553 558 --spliceIndex 27
+    feature-location buried_residues add segment 571 573 --spliceIndex 28  
+    feature-location buried_residues add segment 577 585 --spliceIndex 29   
+    feature-location buried_residues add segment 589 591 --spliceIndex 30
+    feature-location buried_residues add segment 598 600 --spliceIndex 31
+   
     add feature-location SP
     feature-location SP add segment 1 57  
 
