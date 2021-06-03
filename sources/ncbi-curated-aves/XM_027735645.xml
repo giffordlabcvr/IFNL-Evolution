@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>XM_027735645</GBSeq_locus>
+    <GBSeq_length>567</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRT</GBSeq_division>
+    <GBSeq_update-date>10-FEB-2021</GBSeq_update-date>
+    <GBSeq_create-date>15-JAN-2019</GBSeq_create-date>
+    <GBSeq_definition>PREDICTED: Pipra filicauda interferon lambda-3-like (LOC113995502), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>XM_027735645</GBSeq_primary-accession>
+    <GBSeq_accession-version>XM_027735645.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|XM_027735645.1|</GBSeqid>
+      <GBSeqid>gi|1558389084</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA513059</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+      <GBKeyword>includes ab initio</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Pipra filicauda (Wire-tailed manakin)</GBSeq_source>
+    <GBSeq_organism>Pipra filicauda</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda; Coelurosauria; Aves; Neognathae; Passeriformes; Pipridae; Pipra</GBSeq_taxonomy>
+    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NW_024104332.1) annotated using gene prediction method: Gnomon.~Also see:~ Documentation of NCBI's Annotation Process~; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Name :: Pipra filicauda Annotation Release 101 ; Annotation Version :: 101 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 8.5 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##; ; ##RefSeq-Attributes-START## ; ab initio :: 100% of CDS bases ; ##RefSeq-Attributes-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..567</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>567</GBInterval_to>
+            <GBInterval_accession>XM_027735645.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Pipra filicauda</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>LSUMZ 115617</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>specimen_voucher</GBQualifier_name>
+            <GBQualifier_value>LSUMZ:B-4331</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:649802</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>Unknown</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>sex</GBQualifier_name>
+            <GBQualifier_value>male</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>tissue_type</GBQualifier_name>
+            <GBQualifier_value>muscle</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>dev_stage</GBQualifier_name>
+            <GBQualifier_value>adult</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Peru: Loreto Department, Lower Rio Napo region, E Bank Rio Yanayacu, ca 90 km N Iquitos</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>Steven W. Cardiff</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..567</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>567</GBInterval_to>
+            <GBInterval_accession>XM_027735645.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC113995502</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 1 Protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:113995502</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..567</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>567</GBInterval_to>
+            <GBInterval_accession>XM_027735645.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC113995502</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>interferon lambda-3-like</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>XP_027591446.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:113995502</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MLCLHLTSLLVLVLGVSLGAAFPHNTLRKGCSLFKYKQVTFDEKKAVKKMQKEFRSIRQPGRNCDTGLLDRKWMSAHLSVPDRVVLVEAELNFTITMLQLSTHPGFTKMRQRPLAFLAQAREDLRGCVAPSHQPSGELSRWLQNLQVAMNMALSPPHENTGCLQDYAVRHVFEVLEDLNCAALQEQCS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgctgtgtctccacctcacctcactgcttgtgctggtgctgggggtcagcctgggggctgcctttccccacaacaccctgaggaagggctgcagcctgttcaagtacaagcaagtcacgttcgatgagaagaaggctgtgaagaagatgcagaaggagtttcgcagcatcaggcagccgggccgcaactgcgacaccgggctcttggatcggaagtggatgtcggcacacctgtcggtgcccgaccgagtggtgctggtggaagccgagctgaacttcaccatcacgatgctgcagctctccacccaccccggcttcaccaagatgcgccagcggcccctggccttcctcgcccaagcccgtgaggatctgcggggctgtgtggccccctcgcatcagccctctggggaactgagccggtggctgcagaacctgcaggtggccatgaatatggcgctgtccccgccgcacgagaacaccggctgcctgcaggactacgccgtccgccacgtctttgaagtgctggaggacctgaactgcgctgccctccaggagcaatgctcttag</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA513059</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>

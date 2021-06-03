@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>XM_027890346</GBSeq_locus>
+    <GBSeq_length>801</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRT</GBSeq_division>
+    <GBSeq_update-date>24-JAN-2019</GBSeq_update-date>
+    <GBSeq_create-date>24-JAN-2019</GBSeq_create-date>
+    <GBSeq_definition>PREDICTED: Empidonax traillii interferon lambda-3-like (LOC114060662), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>XM_027890346</GBSeq_primary-accession>
+    <GBSeq_accession-version>XM_027890346.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|XM_027890346.1|</GBSeqid>
+      <GBSeqid>gi|1561804897</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA516471</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+      <GBKeyword>includes ab initio</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Empidonax traillii (willow flycatcher)</GBSeq_source>
+    <GBSeq_organism>Empidonax traillii</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda; Coelurosauria; Aves; Neognathae; Passeriformes; Tyrannidae; Empidonax</GBSeq_taxonomy>
+    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NW_020955477.1) annotated using gene prediction method: Gnomon.~Also see:~ Documentation of NCBI's Annotation Process~; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Name :: Empidonax traillii Annotation Release 100 ; Annotation Version :: 100 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 8.1 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##; ; ##RefSeq-Attributes-START## ; ab initio :: 40% of CDS bases ; ##RefSeq-Attributes-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..801</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>801</GBInterval_to>
+            <GBInterval_accession>XM_027890346.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Empidonax traillii</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>1590-97213</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:164674</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>Unknown</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>ecotype</GBQualifier_name>
+            <GBQualifier_value>Southwest subspecies</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>USA: Roosevelt Lake, AZ</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lat_lon</GBQualifier_name>
+            <GBQualifier_value>33.767 N 111.2417 W</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>31-May-1997</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..801</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>801</GBInterval_to>
+            <GBInterval_accession>XM_027890346.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC114060662</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 4 Proteins, and 37% coverage of the annotated genomic feature by RNAseq alignments</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:114060662</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..558</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>558</GBInterval_to>
+            <GBInterval_accession>XM_027890346.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC114060662</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>interferon lambda-3-like</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>XP_027746147.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:114060662</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MLCLRLATLLVLVLEVSLGAAFPHDPLRKGCSLFRYRQIERDEKEAVKKMQKEFRKIRQPGRNCNIWLFDREWMLAQLSVPDRVVLVEAELDFTIMMLQLSTHPGFTKTRQRPLDFLTHAREHLRGCVSAPAPSHQPSGKVSQWLQNLQEAMGRENIGCLQDYAVRHVLEVLEDLKCAALQEQCS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgctgtgtctccgccttgccacactgcttgtgctggtgctggaggtcagcctgggggctgcctttccccacgaccccctgaggaagggctgcagcctgttcaggtacaggcaaatcgagagggatgagaaggaggctgtgaagaagatgcagaaggagtttcgcaagatcaggcagccgggccgcaactgcaacatctggctcttcgatcgggagtggatgctggcacagctgtcggtgcccgaccgagtggtgctggtagaagccgagctggacttcaccatcatgatgctgcagctctccacccaccccggcttcaccaagacgcgccagcggcccctggacttcctcacccacgcccgggagcatctgcggggctgtgtgagtgcccctgctccctcgcatcagccctcggggaaagtgagccagtggctgcagaacctgcaggaggccatgggaagggagaacatcggctgcctgcaggactacgccgtccgccacgtcctcgaggtgctggaagacctgaaatgcgctgccctgcaggagcaatgctcttagcccccatcagtggccccaaaggacaccctgaggactgggaaaaacaactgctattgcatcgctggactgtacttcctatttaagccttttttcttactcatgtgagctcagagaacaattctttttcacaatattttaaattattggggtttattgtgcacttataaatgtctcaggaggagatgaagaaatgctcctcctgaaagaacgtatttattggatatctttattttgacggttttc</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA516471</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>XM_040604362</GBSeq_locus>
+    <GBSeq_length>6709</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRT</GBSeq_division>
+    <GBSeq_update-date>08-APR-2021</GBSeq_update-date>
+    <GBSeq_create-date>08-APR-2021</GBSeq_create-date>
+    <GBSeq_definition>PREDICTED: Falco naumanni interferon lambda-3-like (LOC121092799), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>XM_040604362</GBSeq_primary-accession>
+    <GBSeq_accession-version>XM_040604362.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|XM_040604362.1|</GBSeqid>
+      <GBSeqid>gi|2023154817</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA719130</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Falco naumanni (lesser kestrel)</GBSeq_source>
+    <GBSeq_organism>Falco naumanni</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda; Coelurosauria; Aves; Neognathae; Falconiformes; Falconidae; Falco</GBSeq_taxonomy>
+    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NC_054061.1) annotated using gene prediction method: Gnomon.~Also see:~ Documentation of NCBI's Annotation Process~; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Name :: Falco naumanni Annotation Release 100 ; Annotation Version :: 100 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 8.6 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..6709</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>6709</GBInterval_to>
+            <GBInterval_accession>XM_040604362.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Falco naumanni</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>bFalNau1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>specimen_voucher</GBQualifier_name>
+            <GBQualifier_value>P51P2 - H187058 (nest 2016-P51)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:148594</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>sex</GBQualifier_name>
+            <GBQualifier_value>female</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>tissue_type</GBQualifier_name>
+            <GBQualifier_value>blood</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>dev_stage</GBQualifier_name>
+            <GBQualifier_value>juvenile</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Italy: Matera</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lat_lon</GBQualifier_name>
+            <GBQualifier_value>40.67 N 16.60 E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2016-06-25</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>Diego Rubolini</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..6709</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>6709</GBInterval_to>
+            <GBInterval_accession>XM_040604362.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC121092799</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 5 Proteins, and 100% coverage of the annotated genomic feature by RNAseq alignments, including 10 samples with support for all annotated introns</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:121092799</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>5767..6327</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>5767</GBInterval_from>
+            <GBInterval_to>6327</GBInterval_to>
+            <GBInterval_accession>XM_040604362.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC121092799</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>interferon lambda-3-like</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>XP_040460296.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:121092799</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MLCLGFTPLLALVLGASLGVTFPQDALKKSCSLSKYQFPVPHELKAVQKMKVHFEAIMHKSNRRCNTRLFHRKWNPAELSVHDRMMLVEAELDLATTMLGLSAAPKFAETRQQPLAFLTQAREDLRGCLAMEAPSHQPSGKLRHWLQKLQVAKDTETTSCLEASTILHLFQVLNDLRCTALREQCT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>acttcacggacgttgcttacttaggccctgagtctgaggtcttctgtttcatggagtaagatgggttttaggtagaaaggaccattcgcccctttccctgcccaggcatagtagaagccatgtgctgcctttgaaaggtgagctggaaaggggctgttctcacccagtatgagaccccatccctggtgctttgctggctggtgcaggtggatcagcaggtgacctgccccaggattgcccatcactgtgccagcactcctgctttggctctcaggaagttaactcgccctcagcacagctcaggagtctttctgggattgttgccgcagcagagcacgtttgtggtcccctctgtcccagcccgctatcgcttgctcgcccacgctgcaaagattagaggctgcgtttcagggaggagcaggtggacgcaacagggttcaaagctgggcacagcccagcacaggtcccctcctgtttgctttctagatattttaagtccaggtgcagcctctgtggggagctttccctttcctgtaattcctgcccttggcaagaaggataccctgatgccatttggcctcacctggttgtaccttggtgcgtcattaagaaaggcagaagtgatatctcttctccctgccccagacacagcacctggagggagacttcagctgtggaggggagggcttggaggtgcttcaactgtggtcctggggctcttgggtatggtcttgctgtgggtacagagactgagcctctgtgacctggtgaaggtgctggaccctgggtgtatctccactgagtgctggctcagcttgctcagggtggggagcaaaggttttgaccctgcttggtggtttccaggagggttctgggatcccaggaagatggcagcagggaggaaagcccatcactgatgcgaggctggtctctgtgtccgtggatgcgtgttggagaagacctcattgatgctggattcagccctgctgccagtcactgaggaagaggctgcactgggtgcgggttgtgtttggttgagcagtggccgtaaaacctcccttgctgggtgaggatggagctggtggcttgtcatctcctgcgggagcactagaggtctctccccagctgggactgcaccggatgacatggctactggggtgtcggtggcctgtagggctgtcttggctggggaagctccagctcagctggcaggacttgtcctagtgaggtgtgtccccgcagcagtgcctgggcagggagatgttcctgtgggaggggaaaccccatgtccctacagtgccagcacaaaggctttggggaaaaagtgcttgtttgggctttttcttcaaaacaagtctgtttaaatttgctcgctaattaacttcgtgattaacagccctggcatcagctggatgctcagcacatcccccagaatgaggcagagggtgactggtgtgatgtaacgtgagggattgcatcaccgacacacttgggcatgatgtcaacagcgtgagacacgtggagtggcacaaaccagcctgacatcatggtggcagctacagctcacgcatgccaagaggtggtgaagggttctggggtatgtagcagggccagcagcacctcagtggcactgacaccctgggctggcagagacaggtctggtgatggctgccgagcaaaggtcacctgatgtcccctgtcccagcaccaccaggccataggcagggctcccacacatcacccagcattttatttttatagctggcttctttggggcacttctttggttcttgccatctcctttccaagaccagtgacttgagcaggagccagtttctagcagatgagcccaccagctccagaagggtcacaaaagagtgacctgggctcgtccttacccactgcaatggcatggcttgtggccaaggcttttccacacatgccacgtggcagctgatgactcaggggtgattgcctcacccagcactcatgtcagctctgcccgaagccctgccaggtttcgctttccttctcacacccgggatctcccacgcactcgggatttcttcctctgagcaagttcaagtggctctagcctgctggactgtgtgaatctgaggagggagctccatcactgccatcatgctgccctcccggcatgataccatctgcagtcaaaactggagcaatgactgtggtaggtccccagtgccctgtagaccccaccaggcacgatgtggtgtccctggcttgtgccggctttggaggaccttccactctcgtggcaggagctggtactagcgtggtttggaggagccatgccaaatgcagccaggctttgctggccaagctggggaccaaggtatggtggagcgtggcattgctgtgcaagacactagcaggtgtgccgatgcccaggaaggcaagactgcgccccatcagagaaaagccctcattgctgctcagccaggcactcgcaggcttggctatgctatggctggtggaaaatgaggcacaaacatctgagcaaggtgcccaggagatcttcagcccttcgtcacggctgccctaagtgccaggtagctgcactgatggccccggcttcaccactcagctttcgcttttcctttggtgcgtctggatttctttttgcctgcacgaagtgatgaggttttgctttgcttctctaaccacaaatgacaggcagtagataaaagccacagcaatggggaagaggaaccaaagaagcaaggttccacagggataggatgctgctccataacccgatgggtgaaccaagagtgtcctcagcaggggcttatggcatggggcagcggttcatggtggatctacgtgtgtgccagggcaatcttccagccatgctctgggtccgtgggcctgcagatgagactatgccagcacagcaggtactggacatcaccacctgggtgctgggaaccttgctctagccccgccagcagccattggagatcccaacccgggtgccaaaacaccctagcctggctcatgccttggtcgggaggaagaaacaccccacagtgcccgtcctgtgagccagccaagctccaccatgtgggaccttgagccactatttgccctccagctgctccactgtgacccagagttccaggcagtgctgggacccccactccctctcctctctcactggggggcacatttatttttacattcattagaattttctactaaggtgccatcttccagctgagctgagcatcgcttgggtgatgtacgtgaatttagttatgctggtttgggcttttatttcacagttatattgatcgtgagcttattgcattgaattaaaataattcctctatagctgtgcatttctttaatggcagagaggaaagacagtgctgttgtcttgttcatcaagaaggcaaagaacttgagccctagccagggctcaggcttttaattgcagacctcacatagcctgctgcagtggggatggctggcatgggagcctggtccagcagcaatgaagtgaaaccctgtacccactgtgctatcaggctttagcaccatattttgctgtcctagctcttctccaagctgtatctgcatgcagtctggcgaaggtggaaatagccgctgtagaagccatgctgctccctgcctgctgtctccactcctcttcatctccactgtgcttttccaggaaatacctgagcttttggagatgctgctggagcaggggaagggctcaggaaaggctggatggaccctgtgggtcaacagccagtcctgcttaacctcttcatctagaccatgaggcagagtgtaccaagttcaccgatgacaccagactgggaggagcaagtgacacaccagagggtcctgctgccatccatggggacctcaacaggctggagaaatgggctgatgggaacctcatgccgttcaacaaggggaagtgcaaagttctgcacctgggtgggaacaactgcaggcactgggacatgctgggggccatccagctggaaagcggcttggtggaaaatgacctgttggacactaggttgaacatgagccagaaatgtgcccttgcagcaaagaaggtgaacagcatccggggctgcatggggaagagtgtttccacaagctaagggaggtgattcttcccctctgctcagcactggtgaggccacccctggagtgctggatccagttctgggctctccagtgcgagaaagacatggacatactagagagagtccaatgaagtaccacgaagatgatgaggggactggagcatctctcctatgaggaaaggctgagagctggggctgtttagcctgaaggctcaggggctcttggtgatgtctactggcaggacagcaggcagtgggcacaccctgaaacatgtgaaagttcatctgaacacgagaaaacatacccgtaagtgtatcctaccacaacctggtgcaataacttctcctgtttgtttggactccttgaagtcagcagtttatttccagatgtgaacattaaaaattgggtccttttggaacagtgttcttctgtggccaccacgtgaggcaatgcaaagtgcattttgcctactcctgccttactgtgtatttgctttttagatacaggtattgccctaatttcctatatttactacttgatgaatgcatgaaacaaaacgtgcagcactgatagcttcgcatcgcagggggttaccggagggaaggacagattttgctgaatggagtcgctcttccagctgtcagcggagaggtgtcaatacatgatatttgcgtttccaggctaaacagggaggaaactcctgccagctccagtggctggtggggctggtggtcccgctcatctccagcagagcccctgcacaggtctatgtcccacctgcaaaacgcaaggtggaagtgctgctgctttcaccctctttcctgcttttgcagcgagcctggtccctcaggataatacacaggtgaagctcatgcctgcagcctgcattatgcagtgcccattcctggctgctgcttctgcctgctccctgccatggctgttgtgctgtgcttcctgtggggaaaccgaggcatgaactcctgctgccacttgtggggcaccagaagcctcctggctgccctgagcccgctgtccctggggggctgcatgcctgggagtctcctgcagctttcagtgtggtgccgagcagggttgtgtgcaggtttctccacacttgccagcacctctgcaccactcaacatggcagcatcatcccccccgttcagctccctcggaggggtgcgatgaaggcagcccgagcatatccctgcacctccagggcacagggcgcgcccgtggacaggtggtgaggcaggcagcagggcaggcaggcagctggaggcgggattcgcgtcgatgctttcactttcccgttttcagagccgccaggccgcggattttcctaccaacctgaaagcgcaatcacgtcgggcaggcggcataaaaagccagggcgatggggagcaaggcagccacagccaagaagacaaagcagccctcagaccagccagcagcccagcagccctgcagccaagtgagccacccacagcaacatcgtcaggcatcgctacatcagggatttaggggatccagcctggagcactccagttcatcctctctggcttcgtgtactgcagcacccttgcttcattgtaacccgctcaccatcaggctctcgtcagcaaaatgctgtgccttggcttcaccccgctgcttgcactggtgctgggggccagccttggggtcaccttcccccaggatgccctgaagaagagctgcagcctgtccaagtaccagttccctgtgccccatgagctgaaggctgtgcagaagatgaaggtgcattttgaggccatcatgcataagtcgaaccgcagatgcaacaccaggctcttccataggaaatggaacccagcagagctgtcggtgcatgatcgaatgatgctggtagaagctgaactggaccttgccaccaccatgttggggctctctgctgcccccaagttcgctgagacacgccagcagcccctggccttcctcactcaagcccgggaggacctgcgaggctgtctggccatggaggctccttcacatcagccctctgggaaactgaggcactggctgcagaagctgcaggtggccaaggacacagagaccaccagttgcctggaagcctccaccatcctccacctcttccaagtgctgaatgacctgcggtgcacagccctccgggagcaatgcacttagcccccaccggcagcacagccggcatgacacggtgctcaccagccccaaaggatgccccgaggactgggaagaattatttttattacatcactggactgtatttcctatttaagcatttttcttatttatgtgagctcagggagcaatattttttttagggtcttttaaattattggggggggttgtgtatttataaatgtttcagggggaggtaaagaaatgctgttcctgaaagatgctgttcaatagggatgaatgtatttatttgatatctttgttttgctggttttcaaaacactgacagtttttgaggaaatctatttttttacctactatttattacagagagtattatgtatatttacctgtataaattattttt</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA719130</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>

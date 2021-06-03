@@ -1,0 +1,225 @@
+id	name	species	Species	gene_id	vertebrate_lineage	clade	major_subclade	duplicate_id	duplicate_type	duplicate_numeric_id	Superorder	Species_order	Family	Genus	protein_accession	ref	reference_id
+XM_011234954	IFNL-A-Mammal	Ailuropoda melanoleuca	Ailuropoda melanoleuca	IFNL	Mammal	A					Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233256.1	xL	
+XM_028165945	IFNL-A-Mammal	Balaenoptera acutorostrata scammoni	Balaenoptera acutorostrata scammoni	IFNL	Mammal	A					Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			
+XM_007180047	IFNL-A-Mammal	Balaenoptera acutorostrata scammoni	Balaenoptera acutorostrata scammoni	IFNL	Mammal	A					Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			
+XM_007180046	IFNL-A-Mammal	Balaenoptera acutorostrata scammoni	Balaenoptera acutorostrata scammoni	IFNL	Mammal	A					Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			
+XM_005219127	IFNL-A-Mammal	Bos taurus	Bos taurus	IFNL	Mammal	A					Laurasiatheria	Unclassified	Bovidae	Bos			
+XM_005219126	IFNL-A-Mammal	Bos taurus	Bos taurus	IFNL	Mammal	A					Laurasiatheria	Unclassified	Bovidae	Bos			
+XM_025268277	IFNL-A-Mammal	Bubalus bubalis	Bubalus bubalis	IFNL	Mammal	A					Laurasiatheria	Unclassified	Bovidae	Bubalus	XP_025124062.1		
+XM_008987976	IFNL-A-Mammal	Callithrix jacchus	Callithrix jacchus	IFNL	Mammal	A					Euarchontoglires	Primates	Cebidae	Callithrix	XP_008986224.1		
+XM_020156960	IFNL-A-Mammal	Castor canadensis	Castor canadensis	IFNL	Mammal	A					Euarchontoglires	Rodentia	Castoridae	Castor	XP_020012549.1		
+XM_020156960 	IFNL-A-Mammal	Castor canadensis	Castor canadensis	IFNL	Mammal	A					Euarchontoglires	Rodentia	Castoridae	Castor			
+XM_017503065	IFNL-A-Mammal	Cebus capucinus	Cebus capucinus	IFNL	Mammal	A					Euarchontoglires	Primates	Cebidae	Cebus			
+XM_017503067	IFNL-A-Mammal	Cebus capucinus imitator	Cebus capucinus imitator	IFNL	Mammal	A					Euarchontoglires	Primates	Cebidae	Cebus			-
+XM_013522287	IFNL-A-Mammal	Chinchilla lanigera	Chinchilla lanigera	IFNL	Mammal	A					Euarchontoglires	Rodentia	Chinchillidae	Chinchilla			
+XM_007996757	IFNL-A-Mammal	Chlorocebus sabaeus	Chlorocebus sabaeus	IFNL	Mammal	A					Euarchontoglires	Primates	Cercopithecidae	Chlorocebus			-
+XM_006878034	IFNL-A-Mammal	Chrysochloris asiatica	Chrysochloris asiatica	IFNL	Mammal	A					Afrotheria	Unclassified	Chrysochloridae	Chrysochloris			-
+XM_024577451	IFNL-A-Mammal	Desmodus rotundus	Desmodus rotundus	IFNL	Mammal	A					Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus			-
+XM_004710487	IFNL-A-Mammal	Echinops telfairi	Echinops telfairi	IFNL	Mammal	A					Afrotheria	Unclassified	Tenrecidae	Echinops			
+XM_022525015	IFNL-A-Mammal	Enhydra lutris kenyoni	Enhydra lutris kenyoni	IFNL	Mammal	A					Laurasiatheria	Carnivora	Mustelidae	Enhydra			-
+XM_008140039	IFNL-A-Mammal	Eptesicus fuscus	Eptesicus fuscus	IFNL	Mammal	A					Laurasiatheria	Chiroptera	Vespertilionidae	Eptesicus			-
+XM_007524025	IFNL-A-Mammal	Erinaceus europaeus	Erinaceus europaeus	IFNL	Mammal	A					Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524087.1 		
+XM_007524024	IFNL-A-Mammal	Erinaceus europaeus	Erinaceus europaeus	IFNL	Mammal	A					Laurasiatheria	Insectivora	Erinaceidae	Erinaceus			-
+XM_019014912	IFNL-A-Mammal	Gorilla gorilla	Gorilla gorilla	IFNL	Mammal	A					Euarchontoglires	Primates	Hominidae	Gorilla			
+XM_019015012	IFNL-A-Mammal	Gorilla gorilla	Gorilla gorilla	IFNL	Mammal	A					Euarchontoglires	Primates	Hominidae	Gorilla			-
+XM_021239619	IFNL-A-Mammal	Heterocephalus glaber	Heterocephalus glaber	IFNL	Mammal	A					Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	XP_021095278.1		
+XM_021239678	IFNL-A-Mammal	Heterocephalus glaber	Heterocephalus glaber	IFNL	Mammal	A					Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus			
+XM_021239619	IFNL-A-Mammal	Heterocephalus glaber	Heterocephalus glaber	IFNL	Mammal	A					Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus			
+XM_019666268	IFNL-A-Mammal	Hipposideros armiger	Hipposideros armiger	IFNL	Mammal	A					Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros			
+XM_019666267	IFNL-A-Mammal	Hipposideros armiger	Hipposideros armiger	IFNL	Mammal	A					Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros			-
+XM_005336481	IFNL-A-Mammal	Ictidomys tridecemlineatus	Ictidomys tridecemlineatus	IFNL	Mammal	A					Euarchontoglires	Rodentia	Sciuridae	Ictidomys			
+XM_010600326	IFNL-A-Mammal	Loxodonta africana	Loxodonta africana	IFNL	Mammal	A					Afrotheria	Proboscidea	Elephantidae	Loxodonta	XP_010598628.1 	xA	
+XM_010600327	IFNL-A-Mammal	Loxodonta africana	Loxodonta africana	IFNL	Mammal	A					Afrotheria	Proboscidea	Elephantidae	Loxodonta			
+XM_010600391	IFNL-A-Mammal	Loxodonta africana	Loxodonta africana	IFNL	Mammal	A					Afrotheria	Proboscidea	Elephantidae	Loxodonta			-
+XM_015123824	IFNL-A-Mammal	Macaca mulatta	Macaca mulatta	IFNL	Mammal	A					Euarchontoglires	Primates	Cercopithecidae	Macaca	XP_014979310.2		
+XM_028839087	IFNL-A-Mammal	Macaca mulatta	Macaca mulatta	IFNL	Mammal	A					Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_016209132	IFNL-A-Mammal	Miniopterus natalensis	Miniopterus natalensis	IFNL	Mammal	A					Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			-
+XM_014541702	IFNL-A-Mammal	Myotis brandtii	Myotis brandtii	IFNL	Mammal	A					Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
+XM_023760558	IFNL-A-Mammal	Myotis lucifugus	Myotis lucifugus	IFNL	Mammal	A					Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	XP_023616326.1		
+XM_021700959	IFNL-A-Mammal	Neomonachus schauinslandi	Neomonachus schauinslandi	IFNL	Mammal	A					Laurasiatheria	Carnivora	Phocidae	Monachus			
+XM_021700961	IFNL-A-Mammal	Neomonachus schauinslandi	Neomonachus schauinslandi	IFNL	Mammal	A					Laurasiatheria	Carnivora	Phocidae	Monachus			-
+XM_012496610	IFNL-A-Mammal	Nomascus leucogenys	Nomascus leucogenys	IFNL	Mammal	A					Euarchontoglires	Primates	Hylobatidae	Nomascus			
+XM_004595181	IFNL-A-Mammal	Ochotona princeps	Ochotona princeps	IFNL	Mammal	A					Euarchontoglires	Lagomorpha	Ochotonidae	Ochotona			
+XM_004636883	IFNL-A-Mammal	Octodon degus	Octodon degus	IFNL	Mammal	A					Euarchontoglires	Rodentia	Octodontidae	Octodon	XP_004636940.1		
+XM_004636883 	IFNL-A-Mammal	Octodon degus	Octodon degus	IFNL	Mammal	A					Euarchontoglires	Rodentia	Octodontidae	Octodon			
+XM_004396491	IFNL-A-Mammal	Odobenus rosmarus	Odobenus rosmarus	IFNL	Mammal	A					Laurasiatheria	Carnivora	Odobenidae	Odobenus			
+XM_004396490	IFNL-A-Mammal	Odobenus rosmarus divergens	Odobenus rosmarus divergens	IFNL	Mammal	A					Laurasiatheria	Carnivora	Odobenidae	Odobenus			
+XM_012533543	IFNL-A-Mammal	Orcinus orca	Orcinus orca	IFNL	Mammal	A					Laurasiatheria	Cetacea	Delphinidae	Orcinus	XP_012388997.1		
+XM_007660152	IFNL-A-Mammal	Ornithorhynchus anatinus	Ornithorhynchus anatinus	IFNL	Mammal	A					Unclassified	Monotremata	Ornithorhynchidae	Ornithorhynchus	XP_007658342.2	xMo	
+XM_007955548	IFNL-A-Mammal	Orycteropus afer afer	Orycteropus afer afer	IFNL	Mammal	A					Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus			-
+XM_008257170	IFNL-A-Mammal	Oryctolagus cuniculus	Oryctolagus cuniculus	IFNL	Mammal	A					Euarchontoglires	Lagomorpha	Leporidae	Oryctolagus	XP_008255392.1 		
+XM_008964691	IFNL-A-Mammal	Pan paniscus	Pan paniscus	IFNL	Mammal	A					Euarchontoglires	Primates	Hominidae	Pan			
+XM_008964650	IFNL-A-Mammal	Pan paniscus	Pan paniscus	IFNL	Mammal	A					Euarchontoglires	Primates	Hominidae	Pan			
+NM_001276259	IFNL-A-Mammal	Pan troglodytes	Pan troglodytes	IFNL	Mammal	A					Euarchontoglires	Primates	Hominidae	Pan			-
+XM_019431989	IFNL-A-Mammal	Panthera pardus	Panthera pardus	IFNL	Mammal	A					Laurasiatheria	Carnivora	Felidae	Panthera			
+XM_019431940	IFNL-A-Mammal	Panthera pardus	Panthera pardus	IFNL	Mammal	A					Laurasiatheria	Carnivora	Felidae	Panthera			
+XM_019431990	IFNL-A-Mammal	Panthera pardus	Panthera pardus	IFNL	Mammal	A					Laurasiatheria	Carnivora	Felidae	Panthera			-
+XM_021931090	IFNL-A-Mammal	Papio anubis	Papio anubis	IFNL	Mammal	A					Euarchontoglires	Primates	Cercopithecidae	Papio			-
+XM_006911731	IFNL-A-Mammal	Pteropus alecto	Pteropus alecto	IFNL	Mammal	A					Laurasiatheria	Chiroptera	Pteropodidae	Pteropus			-
+XM_016165225	IFNL-A-Mammal	Rousettus aegyptiacus	Rousettus aegyptiacus	IFNL	Mammal	A					Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	XP_016020711.1 		
+XM_004617296	IFNL-A-Mammal	Sorex araneus	Sorex araneus	IFNL	Mammal	A					Laurasiatheria	Insectivora	Soricidae	Sorex			
+XM_013990503	IFNL-A-Mammal	Sus scrofa	Sus scrofa	IFNL	Mammal	A					Laurasiatheria	Unclassified	Suidae	Sus	XP_013845957.1 		
+XM_027765624	IFNL-A-Mammal	Tree shrew	Tree shrew	IFNL	Mammal	A					Euarchontoglires	Scandentia	Tupaiidae	Tupaia			
+XM_027765624	IFNL-A-Mammal	Tupaia chinensis	Tupaia chinensis	IFNL	Mammal	A					Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_027621425.1		
+XM_026491561	IFNL-A-Mammal	Ursus arctos horribilis	Ursus arctos horribilis	IFNL	Mammal	A					Laurasiatheria	Carnivora	Ursidae	Ursus			-
+XM_027855301	IFNL-A-Mammal	Vombatus ursinus	Vombatus ursinus	IFNL	Mammal	A					Unclassified	Diprotodontia	Vombatidae	Vombatus	XM_027855301	xMa	
+IFNL_Mammal_APsi-Hsa	IFNL-A-Mammal-1-psi-1	Homo sapiens	Homo sapiens	IFNL	Mammal	A			psi	1	Euarchontoglires	Primates	Hominidae	Homo	NULL		
+KF192925	IFNL-A-Squamata	Anolis carolinensis	Anolis carolinensis	IFNL	Squamata	1					Lepidosauria	Squamata	Iguanidae	Anolis			
+XM_005501688	IFNL-B-Aves	Columba livia	Columba livia	IFNL	Aves	1					Neognathae	Columbiformes	Columbidae	Columba			
+XM_003207378	IFNL-B-Aves	Meleagris gallopavo	Meleagris gallopavo	IFNL	Aves	1					Neognathae	Galliformes	Phasianidae	Meleagris			
+XM_011234942	IFNL-B-Mammal-1	Ailuropoda melanoleuca	Ailuropoda melanoleuca	IFNL	Mammal	B	1		canonical		Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233244.1 	xL	
+XM_028165960	IFNL-B-Mammal-1	Balaenoptera acutorostrata	Balaenoptera acutorostrata	IFNL	Mammal	B	1		canonical		Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_028021761.1		
+XM_003735566	IFNL-B-Mammal-1	Callithrix jacchus	Callithrix jacchus	IFNL	Mammal	B	1		canonical		Euarchontoglires	Primates	Cebidae	Callithrix	XP_003735614.2		
+XM_014117025	IFNL-B-Mammal-1	Canis lupus	Canis lupus	IFNL	Mammal	B	1		canonical		Laurasiatheria	Carnivora	Canidae	Canis			
+NM_001114853	IFNL-B-Mammal-1	Canis lupus familiaris	Canis lupus familiaris	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Carnivora	Canidae	Canis			-
+XM_008057587	IFNL-B-Mammal-1	Carlito syrichta	Tarsius syrichta	IFNL	Mammal	B	1		canonical		Euarchontoglires	Primates	Tarsiidae	Tarsius	XP_008055778.1		
+XM_017503063	IFNL-B-Mammal-1	Cebus capucinus	Cebus capucinus	IFNL	Mammal	B	1		canonical		Euarchontoglires	Primates	Cebidae	Cebus	XM_017503063		
+XM_004430284	IFNL-B-Mammal-1	Ceratotherium simum	Ceratotherium simum	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Perissodactyla	Rhinocerotidae	Ceratotherium			
+XM_006871441	IFNL-B-Mammal-1	Chrysochloris asiatica	Chrysochloris asiatica	IFNL	Mammal	B	1		canonical		Afrotheria	Unclassified	Chrysochloridae	Chrysochloris			
+XM_011952424	IFNL-B-Mammal-1	Colobus angolensis palliatus	Colobus angolensis palliatus	IFNL	Mammal	B	1		canonical		Euarchontoglires	Primates	Cercopithecidae	Colobus			-
+XM_023585477	IFNL-B-Mammal-1	Dasypus novemcinctus	Dasypus novemcinctus	IFNL	Mammal	B	1		canonical		Xenarthra	Cingulata	Dasypodidae	Dasypus	XP_023441245.1 	xX	
+XM_004481462	IFNL-B-Mammal-1	Dasypus novemcinctus	Dasypus novemcinctus	IFNL	Mammal	B	1		canonical		Xenarthra	Cingulata	Dasypodidae	Dasypus	XP_004481519.1	xX	
+XM_024577416	IFNL-B-Mammal-1	Desmodus rotundus	Desmodus rotundus	IFNL	Mammal	B	1		canonical		Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus			
+XM_004710310	IFNL-B-Mammal-1	Echinops telfairi	Echinops telfairi	IFNL	Mammal	B	1		canonical		Afrotheria	Unclassified	Tenrecidae	Echinops			
+XM_004710488	IFNL-B-Mammal-1	Echinops telfairi	Echinops telfairi	IFNL	Mammal	B	1		canonical		Afrotheria	Unclassified	Tenrecidae	Echinops			
+XM_014832969	IFNL-B-Mammal-1	Equus asinus	Equus asinus	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Perissodactyla	Equidae	Equus			
+XM_014732932	IFNL-B-Mammal-1	Equus caballus	Equus caballus	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_014588418.2 		
+XM_007524026	IFNL-B-Mammal-1	Erinaceus europaeus	Erinaceus europaeus	IFNL	Mammal	B	1		canonical		Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524088.1		
+XM_006941288	IFNL-B-Mammal-1	Felis catus	Felis catus	IFNL	Mammal	B	1		canonical		Laurasiatheria	Carnivora	Felidae	Felis	XM_006941288		
+NM_001040680	IFNL-B-Mammal-1	Felis catus	Felis catus	IFNL	Mammal	B	1		canonical		Laurasiatheria	Carnivora	Felidae	Felis			-
+XM_013077381	IFNL-B-Mammal-1	Heterocephalus glaber	Heterocephalus glaber	IFNL	Mammal	B	1		canonical		Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	XM_013077381		
+NM_172140	IFNL-B-Mammal-1	Homo sapiens	Homo sapiens	IFNL	Mammal	B	1		canonical		Euarchontoglires	Primates	Hominidae	Homo	NM_172140.1	xE	REF_IFNLb_Mammal_1_MASTER
+XM_015123826	IFNL-B-Mammal-1	Macaca mulatta	Macaca mulatta	IFNL	Mammal	B	1		canonical		Euarchontoglires	Primates	Cercopithecidae	Macaca	XP_014979312.1		
+XM_017656413	IFNL-B-Mammal-1	Manis javanica	Manis javanica	IFNL	Mammal	B	1		canonical		Laurasiatheria	Pholidota	Manidae	Manis	XP_017511902.1 		
+XM_016209157	IFNL-B-Mammal-1	Miniopterus natalensis	Miniopterus natalensis	IFNL	Mammal	B	1		canonical		Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			-
+XM_021210483	IFNL-B-Mammal-1	Mus pahari	Mus pahari	IFNL	Mammal	B	1		canonical		Euarchontoglires	Rodentia	Muridae	Mus			-
+XM_014541703	IFNL-B-Mammal-1	Myotis brandtii	Myotis brandtii	IFNL	Mammal	B	1		canonical		Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
+XM_008854037	IFNL-B-Mammal-1	Nannospalax galili	Nannospalax galili	IFNL	Mammal	B	1		canonical		Euarchontoglires	Rodentia	Spalacidae	Nannospalax	XP_008852259.1		REF_IFNLb_Mammal_1_rodent
+XM_004595092	IFNL-B-Mammal-1	Ochotona princeps	Ochotona princeps	IFNL	Mammal	B	1		canonical		Euarchontoglires	Lagomorpha	Ochotonidae	Ochotona			
+XM_007958477	IFNL-B-Mammal-1	Orycteropus afer	Orycteropus afer	IFNL	Mammal	B	1		canonical		Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	XP_007956668.1	xA	
+XM_002711467	IFNL-B-Mammal-1	Oryctolagus cuniculus	Oryctolagus cuniculus	IFNL	Mammal	B	1		canonical		Euarchontoglires	Lagomorpha	Leporidae	Oryctolagus	XP_002711513.1		
+XM_003802138	IFNL-B-Mammal-1	Otolemur garnettii	Otolemur garnettii	IFNL	Mammal	B	1		canonical		Euarchontoglires	Primates	Galagidae	Otolemur	XP_003802186.1		
+XM_016934446	IFNL-B-Mammal-1	Pan troglodytes	Pan troglodytes	IFNL	Mammal	B	1		canonical		Euarchontoglires	Primates	Hominidae	Pan			-
+XM_028859190	IFNL-B-Mammal-1	Peromyscus leucopus	Peromyscus leucopus	IFNL	Mammal	B	1		canonical		Euarchontoglires	Rodentia	Cricetidae	Peromyscus	XP_028715023.1 		
+XM_028529999	IFNL-B-Mammal-1	Phyllostomus discolor	Phyllostomus discolor	IFNL	Mammal	B	1		canonical		Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus	XP_028385800.1 		
+XM_028530311	IFNL-B-Mammal-1	Phyllostomus discolor	Phyllostomus discolor	IFNL	Mammal	B	1		canonical		Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus			-
+XM_012657018	IFNL-B-Mammal-1	Propithecus coquereli	Propithecus coquereli	IFNL	Mammal	B	1		canonical		Euarchontoglires	Primates	Indriidae	Propithecus	XM_012657018		
+NM_001290171	IFNL-B-Mammal-1	Pteropus alecto	Pteropus alecto	IFNL	Mammal	B	1		canonical		Laurasiatheria	Chiroptera	Pteropodidae	Pteropus			21278349
+XM_016166772	IFNL-B-Mammal-1	Rousettus aegyptiacus	Rousettus aegyptiacus	IFNL	Mammal	B	1		canonical		Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	XP_016022258.1 		
+NM_001166490	IFNL-B-Mammal-1	Sus scrofa	Sus scrofa	IFNL	Mammal	B	1		canonical		Laurasiatheria	Unclassified	Suidae	Sus			
+XM_004388217	IFNL-B-Mammal-1	Trichechus manatus	Trichechus manatus	IFNL	Mammal	B	1		canonical		Afrotheria	Sirenia	Trichechidae	Trichechus	XP_004388274.1		
+XM_014587715	IFNL-B-Mammal-1	Tupaia chinensis	Tupaia chinensis	IFNL	Mammal	B	1		canonical		Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_014443201.2		
+IFNL_Mammal_BPsi-Hsa	IFNL-B-Mammal-1-psi-1	Homo sapiens	Homo sapiens	IFNL	Mammal	B	1		psi		Euarchontoglires	Primates	Hominidae	Homo	NULL		
+XM_011225064	IFNL-B-Mammal-1-rtg-1	Ailuropoda melanoleuca	Ailuropoda melanoleuca	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011223366.1 	xL	
+retroIFNL1a	IFNL-B-Mammal-1-rtg-1	Ceratotherium	Ceratotherium	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Perissodactyla	Rhinocerotidae	Ceratotherium	NULL		
+XM_004687048	IFNL-B-Mammal-1-rtg-1	Condylura cristata	Condylura cristata	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Insectivora	Talpidae	Condylura	XP_004687105.1 		
+XM_023626728	IFNL-B-Mammal-1-rtg-1	Equus caballus	Equus caballus	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_023482496.1		
+XM_017651898	IFNL-B-Mammal-1-rtg-1	Manis javanica	Manis javanica	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Pholidota	Manidae	Manis	XP_017507387.1		
+XM_005886334	IFNL-B-Mammal-1-rtg-1	Myotis brandtii	Myotis brandtii	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	XM_005886334.2		
+retroIFNL3	IFNL-B-Mammal-1-rtg-1	Myotis lucifugus	Myotis lucifugus	IFNL	Mammal	B	1		rtg	1	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	NW_005871296.1		
+XM_007945560	IFNL-B-Mammal-1-rtg-2	Orycteropus afer	Orycteropus afer	IFNL	Mammal	B	1		rtg	2	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	XP_007943751.1	xA	
+XM_002927388	IFNL-B-Mammal-2	Ailuropoda melanoleuca	Ailuropoda melanoleuca	IFNL	Mammal	B	2			2	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_002927434.1	xL	
+XM_007179988	IFNL-B-Mammal-2	Balaenoptera acutorostrata	Balaenoptera acutorostrata	IFNL	Mammal	B	2			2	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_007180050.1 		
+XM_007179990	IFNL-B-Mammal-2	Balaenoptera acutorostrata	Balaenoptera acutorostrata	IFNL	Mammal	B	2			2	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			
+XM_025268342	IFNL-B-Mammal-2	Bubalus bubalis	Bubalus bubalis	IFNL	Mammal	B	2			2	Laurasiatheria	Unclassified	Bovidae	Bubalus	XP_025124127.1 		
+XM_017967394	IFNL-B-Mammal-2	Callithrix jacchus	Callithrix jacchus	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cebidae	Callithrix	XP_017822883.1		
+XM_010972051	IFNL-B-Mammal-2	Camelus bactrianus	Camelus bactrianus	IFNL	Mammal	B	2			1	Laurasiatheria	Unclassified	Camelidae	Camelus			-
+XM_010985162	IFNL-B-Mammal-2	Camelus dromedarius	Camelus dromedarius	IFNL	Mammal	B	2			2	Laurasiatheria	Unclassified	Camelidae	Camelus	XP_010983464.1 		
+XM_018063271	IFNL-B-Mammal-2	Capra hircus	Capra hircus	IFNL	Mammal	B	2			2	Laurasiatheria	Unclassified	Bovidae	Capra			-
+XM_018063174	IFNL-B-Mammal-2	Capra hircus	Capra hircus	IFNL	Mammal	B	2			2	Laurasiatheria	Unclassified	Bovidae	Capra			
+XM_008057580	IFNL-B-Mammal-2	Carlito syrichta	Tarsius syrichta	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Tarsiidae	Tarsius	XP_008055771.1		
+XM_020156959	IFNL-B-Mammal-2	Castor canadensis	Castor canadensis	IFNL	Mammal	B	2			2	Euarchontoglires	Rodentia	Castoridae	Castor	XP_020012548.1		
+XM_017503063	IFNL-B-Mammal-2	Cebus capucinus	Cebus capucinus	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cebidae	Cebus	XM_017503063		
+XM_012730587	IFNL-B-Mammal-2	Condylura cristata	Condylura cristata	IFNL	Mammal	B	2			1	Laurasiatheria	Insectivora	Talpidae	Condylura			-
+XM_024577417	IFNL-B-Mammal-2	Desmodus rotundus	Desmodus rotundus	IFNL	Mammal	B	2			1	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus			-
+XM_024577418	IFNL-B-Mammal-2	Desmodus rotundus	Desmodus rotundus	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus			-
+XM_004710311	IFNL-B-Mammal-2	Echinops telfairi	Echinops telfairi	IFNL	Mammal	B	2			2	Afrotheria	Unclassified	Tenrecidae	Echinops			
+XM_006901124	IFNL-B-Mammal-2	Elephantulus edwardii	Elephantulus edwardii	IFNL	Mammal	B	2			1	Afrotheria	Macroscelidea	Macroscelididae	Elephantulus			-
+XM_008161658	IFNL-B-Mammal-2	Eptesicus fuscus	Eptesicus fuscus	IFNL	Mammal	B	2			1	Laurasiatheria	Chiroptera	Vespertilionidae	Eptesicus			-
+XM_005596230	IFNL-B-Mammal-2	Equus caballus	Equus caballus	IFNL	Mammal	B	2			2	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_005596287.2		
+XM_023651251	IFNL-B-Mammal-2	Equus caballus	Equus caballus	IFNL	Mammal	B	2			2	Laurasiatheria	Perissodactyla	Equidae	Equus			
+XM_007523978	IFNL-B-Mammal-2	Erinaceus europaeus	Erinaceus europaeus	IFNL	Mammal	B	2			2	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524040.1		
+XM_019818982	IFNL-B-Mammal-2	Felis catus	Felis catus	IFNL	Mammal	B	2			2	Laurasiatheria	Carnivora	Felidae	Felis			
+XM_013077381	IFNL-B-Mammal-2	Heterocephalus glaber	Heterocephalus glaber	IFNL	Mammal	B	2			2	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	XP_012932835.1		
+XM_019666252	IFNL-B-Mammal-2	Hipposideros armiger	Hipposideros armiger	IFNL	Mammal	B	2			1	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros			-
+XM_019666264	IFNL-B-Mammal-2	Hipposideros armiger	Hipposideros armiger	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros			-
+NM_172138	IFNL-B-Mammal-2	Homo sapiens	Homo sapiens	IFNL	Mammal	B	2			1	Euarchontoglires	Primates	Hominidae	Homo	NC_000019.1		REF_IFNLb_Mammal_B2_1
+XM_003420833	IFNL-B-Mammal-2	Loxodonta africana	Loxodonta africana	IFNL	Mammal	B	2			2	Afrotheria	Proboscidea	Elephantidae	Loxodonta	XP_003420881.2	xA	
+XM_001086865	IFNL-B-Mammal-2	Macaca mulatta	Macaca mulatta	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Macaca	XP_001086865.3		
+XM_016209154	IFNL-B-Mammal-2	Miniopterus natalensis	Miniopterus natalensis	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			
+XM_016209155	IFNL-B-Mammal-2	Miniopterus natalensis	Miniopterus natalensis	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			
+XM_016209156	IFNL-B-Mammal-2	Miniopterus natalensis	Miniopterus natalensis	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			
+XM_007491889	IFNL-B-Mammal-2	Monodelphis domestica	Monodelphis domestica	IFNL	Mammal	B	2			1	Unclassified	Didelphimorphia	Didelphidae	Monodelphis			-
+XM_021168771	IFNL-B-Mammal-2	Mus caroli	Mus caroli	IFNL	Mammal	B	2			2	Euarchontoglires	Rodentia	Muridae	Mus			
+NM_001024673	IFNL-B-Mammal-2	Mus musculus	Mus musculus	IFNL	Mammal	B	2			2	Euarchontoglires	Rodentia	Muridae	Mus			
+NM_177396	IFNL-B-Mammal-2	Mus musculus	Mus musculus	IFNL	Mammal	B	2			2	Euarchontoglires	Rodentia	Muridae	Mus			
+XM_006540121	IFNL-B-Mammal-2	Mus musculus	Mus musculus	IFNL	Mammal	B	2			1	Euarchontoglires	Rodentia	Muridae	Mus			-
+XM_006540130	IFNL-B-Mammal-2	Mus musculus	Mus musculus	IFNL	Mammal	B	2			2	Euarchontoglires	Rodentia	Muridae	Mus			-
+XM_005886332	IFNL-B-Mammal-2	Myotis brandtii	Myotis brandtii	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
+XM_005886333	IFNL-B-Mammal-2	Myotis brandtii	Myotis brandtii	IFNL	Mammal	B	2			1	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
+XM_015557658	IFNL-B-Mammal-2	Myotis davidii	Myotis davidii	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
+XM_006761471	IFNL-B-Mammal-2	Myotis davidii	Myotis davidii	IFNL	Mammal	B	2			1	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
+XM_023760577	IFNL-B-Mammal-2	Myotis lucifugus	Myotis lucifugus	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	XP_023616345.1		
+XM_006096748	IFNL-B-Mammal-2	Myotis lucifugus	Myotis lucifugus	IFNL	Mammal	B	2			1	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
+XM_023760554	IFNL-B-Mammal-2	Myotis lucifugus	Myotis lucifugus	IFNL	Mammal	B	2			1	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
+XM_023760555	IFNL-B-Mammal-2	Myotis lucifugus	Myotis lucifugus	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
+XM_023760578	IFNL-B-Mammal-2	Myotis lucifugus	Myotis lucifugus	IFNL	Mammal	B	2			3	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
+XM_017803384	IFNL-B-Mammal-2	Nannospalax galili	Nannospalax galili	IFNL	Mammal	B	2			2	Euarchontoglires	Rodentia	Spalacidae	Nannospalax	XP_017658873.1 		
+XM_004636884	IFNL-B-Mammal-2	Octodon degus	Octodon degus	IFNL	Mammal	B	2			2	Euarchontoglires	Rodentia	Octodontidae	Octodon	XP_004636941.1		
+XM_004636880	IFNL-B-Mammal-2	Octodon degus	Octodon degus	IFNL	Mammal	B	2			2	Euarchontoglires	Rodentia	Octodontidae	Octodon			
+XM_004636881	IFNL-B-Mammal-2	Octodon degus	Octodon degus	IFNL	Mammal	B	2			2	Euarchontoglires	Rodentia	Octodontidae	Octodon			
+XM_004396492	IFNL-B-Mammal-2	Odobenus rosmarus	Odobenus rosmarus	IFNL	Mammal	B	2			2	Laurasiatheria	Carnivora	Odobenidae	Odobenus			
+XM_003802158	IFNL-B-Mammal-2	Otolemur garnettii	Otolemur garnettii	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Galagidae	Otolemur	XP_003802206.1		
+XM_016947939	IFNL-B-Mammal-2	Pan troglodytes	Pan troglodytes	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hominidae	Pan			-
+XM_024351462	IFNL-B-Mammal-2	Pan troglodytes	Pan troglodytes	IFNL	Mammal	B	2			1	Euarchontoglires	Primates	Hominidae	Pan			-
+XM_006986319	IFNL-B-Mammal-2	Peromyscus maniculatus 	Peromyscus maniculatus 	IFNL	Mammal	B	2			2	Euarchontoglires	Rodentia	Cricetidae	Peromyscus	XP_006986381.1 		
+XM_028529967	IFNL-B-Mammal-2	Phyllostomus discolor	Phyllostomus discolor	IFNL	Mammal	B	2			1	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus			-
+XM_028529971	IFNL-B-Mammal-2	Phyllostomus discolor	Phyllostomus discolor	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus			-
+XM_028529976	IFNL-B-Mammal-2	Phyllostomus discolor	Phyllostomus discolor	IFNL	Mammal	B	2			3	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus			-
+XM_028529978	IFNL-B-Mammal-2	Phyllostomus discolor	Phyllostomus discolor	IFNL	Mammal	B	2			4	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus			-
+XM_015589198	IFNL-B-Mammal-2	Pteropus alecto	Pteropus alecto	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus			
+HQ201955	IFNL-B-Mammal-2	Pteropus alecto	Pteropus alecto	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus			
+XM_015589199	IFNL-B-Mammal-2	Pteropus alecto	Pteropus alecto	IFNL	Mammal	B	2			1	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus			-
+XM_011386751	IFNL-B-Mammal-2	Pteropus vampyrus	Pteropus vampyrus	IFNL	Mammal	B	2			1	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus			-
+XM_016165227	IFNL-B-Mammal-2	Rousettus aegyptiacus	Rousettus aegyptiacus	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	XP_016020713.1		
+XM_016165226	IFNL-B-Mammal-2	Rousettus aegyptiacus	Rousettus aegyptiacus	IFNL	Mammal	B	2			1	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus			-
+XM_016166771	IFNL-B-Mammal-2	Rousettus aegyptiacus	Rousettus aegyptiacus	IFNL	Mammal	B	2			2	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus			-
+XM_004617293	IFNL-B-Mammal-2	Sorex araneus	Sorex araneus	IFNL	Mammal	B	2			2	Laurasiatheria	Insectivora	Soricidae	Sorex			
+XM_004617294	IFNL-B-Mammal-2	Sorex araneus	Sorex araneus	IFNL	Mammal	B	2			2	Laurasiatheria	Insectivora	Soricidae	Sorex			
+XM_021097830	IFNL-B-Mammal-2	Sus scrofa	Sus scrofa	IFNL	Mammal	B	2			2	Laurasiatheria	Unclassified	Suidae	Sus	XP_020953489.1		
+XM_006140390	IFNL-B-Mammal-2	Tupaia chinensis	Tupaia chinensis	IFNL	Mammal	B	2			2	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_006140452.1		
+XM_010330964	IFNL-B-Mammal-2	Saimiri boliviensis	Saimiri boliviensis	IFNL	Mammal	B	3			2							
+XM_017503064	IFNL-B-Mammal-2	Cebus imitator	Cebus imitator	IFNL	Mammal	B	4			2							
+XM_012438872	IFNL-B-Mammal-2	Aotus nancymaae	Aotus nancymaae	IFNL	Mammal	B	5			2							
+XM_011973415	IFNL-B-Mammal-2	Mandrillus leucophaeus	Mandrillus leucophaeus	IFNL	Mammal	B	6			2							
+XM_003270381	IFNL-B-Mammal-2	Nomascus leucogenys	Nomascus leucogenys	IFNL	Mammal	B	7			2							
+XM_019014911	IFNL-B-Mammal-2	Gorilla gorilla	Gorilla gorilla	IFNL	Mammal	B	8			2							
+XM_002829197	IFNL-B-Mammal-2	Pongo abelii	Pongo abelii	IFNL	Mammal	B	9			2							
+XM_024237432	IFNL-B-Mammal-2	Pongo abelii	Pongo abelii	IFNL	Mammal	B	10			2							
+XM_008964649	IFNL-B-Mammal-2	Pan paniscus	Pan paniscus	IFNL	Mammal	B	11			2							
+XM_011952423	IFNL-B-Mammal-2	Colobus angolensis	Colobus angolensis	IFNL	Mammal	B	12			2							
+XM_010380920	IFNL-B-Mammal-2	Rhinopithecus roxellana	Rhinopithecus roxellana	IFNL	Mammal	B	13			2							
+XM_017887367	IFNL-B-Mammal-2	Rhinopithecus bieti	Rhinopithecus bieti	IFNL	Mammal	B	14			2							
+XM_005589169	IFNL-B-Mammal-2	Macaca fascicularis	Macaca fascicularis	IFNL	Mammal	B	15			2							
+XM_005589166	IFNL-B-Mammal-2	Macaca fascicularis	Macaca fascicularis	IFNL	Mammal	B	16			2							
+XM_011764820	IFNL-B-Mammal-2	Macaca nemestrina	Macaca nemestrina	IFNL	Mammal	B	17			2							
+XM_012077999	IFNL-B-Mammal-2	Cercocebus atys	Cercocebus atys	IFNL	Mammal	B	18			2							
+XM_012078033	IFNL-B-Mammal-2	Cercocebus atys	Cercocebus atys	IFNL	Mammal	B	19			2							
+XM_025368308	IFNL-B-Mammal-2	Theropithecus gelada	Theropithecus gelada	IFNL	Mammal	B	20			2							
+XM_025367960	IFNL-B-Mammal-2	Theropithecus gelada	Theropithecus gelada	IFNL	Mammal	B	21			2							
+XM_012438845	IFNL-B-Mammal-2	Aotus nancymaae	Aotus nancymaae	IFNL	Mammal	B	22			2							
+XM_003943132	IFNL-B-Mammal-2	Saimiri boliviensis	Saimiri boliviensis	IFNL	Mammal	B	23			2							
+XM_003270380	IFNL-B-Mammal-2	Nomascus leucogenys	Nomascus leucogenys	IFNL	Mammal	B	24			2							
+XM_002829198	IFNL-B-Mammal-2	Pongo abelii	Pongo abelii	IFNL	Mammal	B	25			2							
+XM_004060705	IFNL-B-Mammal-2	Gorilla gorilla	Gorilla gorilla	IFNL	Mammal	B	26			2							
+XM_007996760	IFNL-B-Mammal-2	Chlorocebus sabaeus	Chlorocebus sabaeus	IFNL	Mammal	B	27			2							
+XM_012077988	IFNL-B-Mammal-2	Cercocebus atys	Cercocebus atys	IFNL	Mammal	B	28			2							
+XM_003915503	IFNL-B-Mammal-2	Papio anubis	Papio anubis	IFNL	Mammal	B	29			2							
+XM_011973361	IFNL-B-Mammal-2	Mandrillus leucophaeus	Mandrillus leucophaeus	IFNL	Mammal	B	30			2							
+XM_005589170	IFNL-B-Mammal-2	Macaca fascicularis	Macaca fascicularis	IFNL	Mammal	B	31			2							
+XM_011764819	IFNL-B-Mammal-2	Macaca nemestrina	Macaca nemestrina	IFNL	Mammal	B	32			2							
+XM_025368404	IFNL-B-Mammal-2	Theropithecus gelada	Theropithecus gelada	IFNL	Mammal	B	33			2							
+XM_010380919	IFNL-B-Mammal-2	Rhinopithecus roxellana	Rhinopithecus roxellana	IFNL	Mammal	B	34			2							
+XM_023229397	IFNL-B-Mammal-2	Piliocolobus tephrosceles	Piliocolobus tephrosceles	IFNL	Mammal	B	35			2							
+XM_012657015	IFNL-B-Mammal-2	Propithecus coquereli	Propithecus coquereli	IFNL	Mammal	B	36			2							
+XM_012775213	IFNL-B-Mammal-2	Microcebus murinus	Microcebus murinus	IFNL	Mammal	B	37			2							

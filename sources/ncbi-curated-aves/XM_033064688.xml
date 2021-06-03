@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>XM_033064688</GBSeq_locus>
+    <GBSeq_length>621</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRT</GBSeq_division>
+    <GBSeq_update-date>22-MAR-2020</GBSeq_update-date>
+    <GBSeq_create-date>22-MAR-2020</GBSeq_create-date>
+    <GBSeq_definition>PREDICTED: Catharus ustulatus interferon lambda-3-like (LOC116998684), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>XM_033064688</GBSeq_primary-accession>
+    <GBSeq_accession-version>XM_033064688.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|XM_033064688.1|</GBSeqid>
+      <GBSeqid>gi|1823404330</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA613294</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+      <GBKeyword>corrected model</GBKeyword>
+      <GBKeyword>includes ab initio</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Catharus ustulatus (Swainson's thrush)</GBSeq_source>
+    <GBSeq_organism>Catharus ustulatus</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda; Coelurosauria; Aves; Neognathae; Passeriformes; Turdidae; Catharus</GBSeq_taxonomy>
+    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NC_046227.1) annotated using gene prediction method: Gnomon.~Also see:~ Documentation of NCBI's Annotation Process~; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Name :: Catharus ustulatus Annotation Release 100 ; Annotation Version :: 100 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 8.4 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##; ; ##RefSeq-Attributes-START## ; ab initio :: 1% of CDS bases ; frameshifts :: corrected 1 indel ; internal stop codons :: corrected 1 genomic stop codon ; ##RefSeq-Attributes-END##</GBSeq_comment>
+    <GBSeq_primary>REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP~1-168               WNMQ01000150.1     2721930-2722097     c~169-231             WNMQ01000150.1     2721607-2721669     c~232-375             WNMQ01000150.1     2721332-2721475     c~376-459             WNMQ01000150.1     2721163-2721246     c~460-621             WNMQ01000150.1     2721000-2721161     c</GBSeq_primary>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..621</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>621</GBInterval_to>
+            <GBInterval_accession>XM_033064688.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Catharus ustulatus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>bCatUst1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:91951</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>7</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>sex</GBQualifier_name>
+            <GBQualifier_value>female</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>tissue_type</GBQualifier_name>
+            <GBQualifier_value>blood</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>dev_stage</GBQualifier_name>
+            <GBQualifier_value>adult</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Canada: Kamloops</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lat_lon</GBQualifier_name>
+            <GBQualifier_value>50.67613 N 120.33787 W</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>15-Jul-2018</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>Kira Delmore</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..621</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>621</GBInterval_to>
+            <GBInterval_accession>XM_033064688.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC116998684</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>The sequence of the model RefSeq transcript was modified relative to its source genomic sequence to represent the inferred CDS: deleted 1 base in 1 codon; Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 1 Protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:116998684</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..621</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>621</GBInterval_to>
+            <GBInterval_accession>XM_033064688.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC116998684</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>The sequence of the model RefSeq protein was modified relative to its source genomic sequence to represent the inferred CDS: deleted 1 base in 1 codon; substituted 1 base at 1 genomic stop codon</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_except</GBQualifier_name>
+            <GBQualifier_value>(pos:502..504,aa:OTHER)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>LOW QUALITY PROTEIN: interferon lambda-3-like</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>XP_032920579.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:116998684</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSCLSLTPLLVLVLVLGVSLGAAFPHHTLRKDCSLSKYQTIASEEKEAMDKMRQEFGNDHKCNTRLFHRKWNAVNLPMSDRVLLVVAELNLTTAMLELPADPSFAELRRQPLKFFDQARADVLGCVDPAHQPSGRLRHRLNKLQEAMRTVSRGSGVTGFGVPAPPRSXPSPCVSPQESTECLRASTIVNVMHVLENLHCAALRHKC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgtcgtgcctgagcctcaccccactgctggtgctggtgctggtgctgggggtcagcctgggggctgcctttccccatcacaccctgaggaaggactgcagtctgtccaagtaccagacgattgcatcagaggagaaggaggctatggacaagatgagacaagagtttgggaatgaccacaaatgcaacaccaggctcttccatcggaaatggaacgcagtaaacttgccgatgtccgaccgagtgctgctggtggtggccgagctgaacctcaccacggccatgctggagctccccgctgatcccagctttgccgagctgcgccggcagcccctgaagttcttcgaccaagcccgtgcggatgtgctgggctgtgtggatcccgctcaccagccctcgggcaggctgcggcacaggctcaacaagctgcaggaggccatgcgaacagtaagtcggggcagcggggtgacgggctttggggtgccggccccacctcggagctgacccagcccttgtgtgtccccgcaggagagcacggagtgcctgagagccagcaccatcgtgaacgtcatgcacgtgctggagaacctgcactgcgctgccctgcgccacaagtgctga</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA613294</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>

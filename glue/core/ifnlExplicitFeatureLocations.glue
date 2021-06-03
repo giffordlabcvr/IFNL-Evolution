@@ -76,8 +76,8 @@
     feature-location ifnlr1_binding_surface add segment 253 255 --spliceIndex 10
     feature-location ifnlr1_binding_surface add segment 259 264 --spliceIndex 11
     feature-location ifnlr1_binding_surface add segment 538 540 --spliceIndex 12
-    feature-location ifnlr1_binding_surface add segment 547 549 --spliceIndex 13
-    feature-location ifnlr1_binding_surface add segment 559 561 --spliceIndex 14
+    feature-location ifnlr1_binding_surface add segment 547 552 --spliceIndex 13
+    feature-location ifnlr1_binding_surface add segment 559 564 --spliceIndex 14
     feature-location ifnlr1_binding_surface add segment 571 573 --spliceIndex 15
     feature-location ifnlr1_binding_surface add segment 583 585 --spliceIndex 16
     feature-location ifnlr1_binding_surface add segment 592 594 --spliceIndex 17
@@ -85,13 +85,13 @@
 
     add feature-location il10r2_binding_surface
     feature-location il10r2_binding_surface add segment 124 126 --spliceIndex 1
-    feature-location il10r2_binding_surface add segment 130 135 --spliceIndex 2
+    feature-location il10r2_binding_surface add segment 133 138 --spliceIndex 2
     feature-location il10r2_binding_surface add segment 142 156 --spliceIndex 3  
     feature-location il10r2_binding_surface add segment 175 177 --spliceIndex 4   
     feature-location il10r2_binding_surface add segment 316 318 --spliceIndex 5  
     feature-location il10r2_binding_surface add segment 328 330 --spliceIndex 6    
     feature-location il10r2_binding_surface add segment 340 342 --spliceIndex 7    
-    feature-location il10r2_binding_surface add segment 358 360 --spliceIndex 8 
+    feature-location il10r2_binding_surface add segment 358 363 --spliceIndex 8 
     feature-location il10r2_binding_surface add segment 370 375 --spliceIndex 9
     feature-location il10r2_binding_surface add segment 379 387 --spliceIndex 10
     feature-location il10r2_binding_surface add segment 391 396 --spliceIndex 11   

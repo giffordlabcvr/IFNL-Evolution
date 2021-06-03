@@ -1,0 +1,36 @@
+<!-- IFNL mRNA curated sequences from NCBI -->
+<ncbiImporter>
+
+  <sequenceFormat>GENBANK_XML</sequenceFormat>
+  <sourceName>ncbi-curated-testudines</sourceName>
+  
+  <specificPrimaryAccessions>
+
+	<primaryAccession>XM_039494269</primaryAccession>
+	<primaryAccession>XM_038420981</primaryAccession>
+	<primaryAccession>XM_037912773</primaryAccession>
+	<primaryAccession>XM_039495216</primaryAccession>
+	<primaryAccession>XM_026646209</primaryAccession>
+	<primaryAccession>XM_038422346</primaryAccession>
+	<primaryAccession>XM_025186888</primaryAccession>
+	<primaryAccession>XM_039495235</primaryAccession>
+	<primaryAccession>XM_039495233</primaryAccession>
+	<primaryAccession>XM_039495229</primaryAccession>
+	<primaryAccession>XM_039495230</primaryAccession>
+	<primaryAccession>XM_039495232</primaryAccession>
+	<primaryAccession>XM_039495231</primaryAccession>
+	<primaryAccession>XM_039495222</primaryAccession>
+	<primaryAccession>XM_039495234</primaryAccession>
+	<primaryAccession>XM_039495221</primaryAccession>
+	<primaryAccession>XM_039495223</primaryAccession>
+	<primaryAccession>XM_039495218</primaryAccession>
+	<primaryAccession>XM_039495220</primaryAccession>
+	<primaryAccession>XM_039495219</primaryAccession>
+	<primaryAccession>XM_039495226</primaryAccession>
+	<primaryAccession>XM_039495225</primaryAccession>	  
+	
+  </specificPrimaryAccessions>  
+  <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
+  
+</ncbiImporter>
+

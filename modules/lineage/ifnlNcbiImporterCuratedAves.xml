@@ -1,0 +1,90 @@
+<!-- IFNL mRNA curated sequences from NCBI -->
+<ncbiImporter>
+
+  <sequenceFormat>GENBANK_XML</sequenceFormat>
+  <sourceName>ncbi-curated-aves</sourceName>
+  
+  <specificPrimaryAccessions>
+
+	<primaryAccession>NM_001310792</primaryAccession>
+	<primaryAccession>XM_032189584</primaryAccession>
+	<primaryAccession>XM_035536768</primaryAccession>
+	<primaryAccession>XM_013178817</primaryAccession>
+	<primaryAccession>XM_040560797</primaryAccession>
+	<primaryAccession>XM_035332332</primaryAccession>
+	<primaryAccession>XM_009285125</primaryAccession>
+	<primaryAccession>NM_001128496</primaryAccession>
+	<primaryAccession>XM_009329638</primaryAccession>
+	<primaryAccession>XM_010284067</primaryAccession>
+	<primaryAccession>XM_010185572</primaryAccession>
+	<primaryAccession>XM_009887591</primaryAccession>
+	<primaryAccession>XM_010577876</primaryAccession>
+	<primaryAccession>XM_040676329</primaryAccession>
+	<primaryAccession>XM_040703743</primaryAccession>
+	<primaryAccession>XM_009635480</primaryAccession>
+	<primaryAccession>XM_030487381</primaryAccession>
+	<primaryAccession>XM_010123054</primaryAccession>
+	<primaryAccession>XM_009959982</primaryAccession>
+	<primaryAccession>XM_030487382</primaryAccession>
+	<primaryAccession>XM_003207378</primaryAccession>
+	<primaryAccession>XM_030017691</primaryAccession>
+	<primaryAccession>XM_009570129</primaryAccession>
+	<primaryAccession>XM_026093800</primaryAccession>
+	<primaryAccession>XM_034065776</primaryAccession>
+	<primaryAccession>XM_015868018</primaryAccession>
+	<primaryAccession>XM_021399538</primaryAccession>
+	<primaryAccession>XM_040604362</primaryAccession>
+	<primaryAccession>XM_037398060</primaryAccession>
+	<primaryAccession>XM_005435995</primaryAccession>
+	<primaryAccession>XM_005244420</primaryAccession>
+	<primaryAccession>XM_010206140</primaryAccession>
+	<primaryAccession>XM_010078127</primaryAccession>
+	<primaryAccession>XM_005501688</primaryAccession>
+	<primaryAccession>XM_026087926</primaryAccession>
+	<primaryAccession>XM_038181725</primaryAccession>
+	<primaryAccession>XM_031604571</primaryAccession>
+	<primaryAccession>XM_009074191</primaryAccession>
+	<primaryAccession>XM_033010731</primaryAccession>
+	<primaryAccession>XM_010133349</primaryAccession>
+	<primaryAccession>XM_009871021</primaryAccession>
+	<primaryAccession>XM_009900846</primaryAccession>
+	<primaryAccession>XM_026048488</primaryAccession>
+	<primaryAccession>XM_008504894</primaryAccession>
+	<primaryAccession>XM_014951962</primaryAccession>
+	<primaryAccession>XM_038141770</primaryAccession>
+	<primaryAccession>XM_009462244</primaryAccession>
+	<primaryAccession>XM_005528932</primaryAccession>
+	<primaryAccession>XM_029085701</primaryAccession>
+	<primaryAccession>XM_040070420</primaryAccession>
+	<primaryAccession>XM_013952637</primaryAccession>
+	<primaryAccession>XM_010407863</primaryAccession>
+	<primaryAccession>XM_032114909</primaryAccession>
+	<primaryAccession>XM_014881972</primaryAccession>
+	<primaryAccession>XM_009704658</primaryAccession>
+	<primaryAccession>XM_021536075</primaryAccession>
+	<primaryAccession>XM_032693205</primaryAccession>
+	<primaryAccession>XM_027636457</primaryAccession>
+	<primaryAccession>XM_027735645</primaryAccession>
+	<primaryAccession>XM_027890346</primaryAccession>
+	<primaryAccession>XM_031063497</primaryAccession>
+	<primaryAccession>XM_005049042</primaryAccession>
+	<primaryAccession>XM_036386986</primaryAccession>
+	<primaryAccession>XM_030230187</primaryAccession>
+	<primaryAccession>XM_026852415</primaryAccession>
+	<primaryAccession>XM_026793323</primaryAccession>
+	<primaryAccession>XM_017828483</primaryAccession>
+	<primaryAccession>XM_008937521</primaryAccession>
+	<primaryAccession>XM_027677891</primaryAccession>
+	<primaryAccession>XM_014951964</primaryAccession>
+	<primaryAccession>XM_033064688</primaryAccession>
+	<primaryAccession>XM_030580530</primaryAccession>
+	<primaryAccession>XM_030277089</primaryAccession>
+	<primaryAccession>XM_030951953</primaryAccession>
+	<primaryAccession>XM_032114908</primaryAccession>
+	  
+	  
+  </specificPrimaryAccessions>  
+  <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
+  
+</ncbiImporter>
+

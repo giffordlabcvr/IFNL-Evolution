@@ -1,0 +1,3 @@
+  
+  import source sources/ncbi-curated-mammalia/
+  import source sources/fasta-curated/

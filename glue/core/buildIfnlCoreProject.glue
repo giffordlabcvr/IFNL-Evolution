@@ -41,7 +41,7 @@ project ifnl
   run file glue/core/ifnlRecordFeaturePresence.glue
 
   # Build phylogenies
-  run file glue/core/ifnlCreatePhylogeniesRoot.glue
+  #run file glue/core/ifnlCreatePhylogeniesRoot.glue
 
   # Validate
   validate
