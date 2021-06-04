@@ -1,5 +1,5 @@
   
-  import source sources/ncbi-curated-mammalia/ 
-  import source sources/ncbi-curated-mammalia/
+  import source sources/ncbi-curated-aves/ 
+  import source sources/ncbi-curated-testudines/
   import source sources/ncbi-curated-mammalia/
   import source sources/fasta-curated/
