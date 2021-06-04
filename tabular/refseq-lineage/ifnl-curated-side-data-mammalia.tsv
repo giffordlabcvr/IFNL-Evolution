@@ -64,9 +64,6 @@ XM_027765624	IFNL-A-Mammal	Tupaia chinensis	Tupaia chinensis	IFNL	Mammal	A					E
 XM_026491561	IFNL-A-Mammal	Ursus arctos horribilis	Ursus arctos horribilis	IFNL	Mammal	A					Laurasiatheria	Carnivora	Ursidae	Ursus			-
 XM_027855301	IFNL-A-Mammal	Vombatus ursinus	Vombatus ursinus	IFNL	Mammal	A					Unclassified	Diprotodontia	Vombatidae	Vombatus	XM_027855301	xMa	
 IFNL_Mammal_APsi-Hsa	IFNL-A-Mammal-1-psi-1	Homo sapiens	Homo sapiens	IFNL	Mammal	A			psi	1	Euarchontoglires	Primates	Hominidae	Homo	NULL		
-KF192925	IFNL-A-Squamata	Anolis carolinensis	Anolis carolinensis	IFNL	Squamata	1					Lepidosauria	Squamata	Iguanidae	Anolis			
-XM_005501688	IFNL-B-Aves	Columba livia	Columba livia	IFNL	Aves	1					Neognathae	Columbiformes	Columbidae	Columba			
-XM_003207378	IFNL-B-Aves	Meleagris gallopavo	Meleagris gallopavo	IFNL	Aves	1					Neognathae	Galliformes	Phasianidae	Meleagris			
 XM_011234942	IFNL-B-Mammal-1	Ailuropoda melanoleuca	Ailuropoda melanoleuca	IFNL	Mammal	B	1		canonical		Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233244.1 	xL	
 XM_028165960	IFNL-B-Mammal-1	Balaenoptera acutorostrata	Balaenoptera acutorostrata	IFNL	Mammal	B	1		canonical		Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_028021761.1		
 XM_003735566	IFNL-B-Mammal-1	Callithrix jacchus	Callithrix jacchus	IFNL	Mammal	B	1		canonical		Euarchontoglires	Primates	Cebidae	Callithrix	XP_003735614.2		
