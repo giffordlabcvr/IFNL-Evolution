@@ -6,13 +6,17 @@
   
   <specificPrimaryAccessions>
 
+	<!-- Exclude master reference --> 
+	<!-- <primaryAccession>XM_025186888</primaryAccession> --> 
+	
+	<!-- Curated sequences --> 
+	
 	<primaryAccession>XM_039494269</primaryAccession>
 	<primaryAccession>XM_038420981</primaryAccession>
 	<primaryAccession>XM_037912773</primaryAccession>
 	<primaryAccession>XM_039495216</primaryAccession>
 	<primaryAccession>XM_026646209</primaryAccession>
 	<primaryAccession>XM_038422346</primaryAccession>
-	<primaryAccession>XM_025186888</primaryAccession>
 	<primaryAccession>XM_039495235</primaryAccession>
 	<primaryAccession>XM_039495233</primaryAccession>
 	<primaryAccession>XM_039495229</primaryAccession>

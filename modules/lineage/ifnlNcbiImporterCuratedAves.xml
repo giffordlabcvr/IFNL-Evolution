@@ -6,7 +6,9 @@
   
   <specificPrimaryAccessions>
 
-	<primaryAccession>NM_001310792</primaryAccession>
+	<!-- Exclude references -->
+	<!-- <primaryAccession>NM_001310792</primaryAccession> -->
+	
 	<primaryAccession>XM_032189584</primaryAccession>
 	<primaryAccession>XM_035536768</primaryAccession>
 	<primaryAccession>XM_013178817</primaryAccession>

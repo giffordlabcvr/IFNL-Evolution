@@ -1,0 +1,76 @@
+id	name	species	Species	gene_id	vertebrate_lineage	clade	major_subclade	duplicate_id	duplicate_type	duplicate_numeric_id	Superorder	Species_order	Family	Genus	protein_accession	ref	reference_id
+NM_001128496	IFNL-B-Aves	Gallus gallus	Gallus gallus	IFNL	Aves	1											
+NM_001310792	IFNL-B-Aves	Anas platyrhynchos	Anas platyrhynchos	IFNL	Aves	1											
+XM_003207378	IFNL-B-Aves	Meleagris gallopavo	Meleagris gallopavo	IFNL	Aves	1					Neognathae	Galliformes	Phasianidae	Meleagris			
+XM_005049042	IFNL-B-Aves	Ficedula albicollis	Ficedula albicollis	IFNL	Aves	1											
+XM_005244420	IFNL-B-Aves	Falco peregrinus	Falco peregrinus	IFNL	Aves	1											
+XM_005435995	IFNL-B-Aves	Falco cherrug	Falco cherrug	IFNL	Aves	1											
+XM_005501688	IFNL-B-Aves	Columba livia	Columba livia	IFNL	Aves	1					Neognathae	Columbiformes	Columbidae	Columba			
+XM_005528932	IFNL-B-Aves	Pseudopodoces humilis	Pseudopodoces humilis	IFNL	Aves	1											
+XM_008504894	IFNL-B-Aves	Calypte anna	Calypte anna	IFNL	Aves	1											
+XM_008937521	IFNL-B-Aves	Merops nubicus	Merops nubicus	IFNL	Aves	1											
+XM_009074191	IFNL-B-Aves	Acanthisitta chloris	Acanthisitta chloris	IFNL	Aves	1											
+XM_009285125	IFNL-B-Aves	Aptenodytes forsteri	Aptenodytes forsteri	IFNL	Aves	1											
+XM_009329638	IFNL-B-Aves	Pygoscelis adeliae	Pygoscelis adeliae	IFNL	Aves	1											
+XM_009462244	IFNL-B-Aves	Nipponia nippon	Nipponia nippon	IFNL	Aves	1											
+XM_009570129	IFNL-B-Aves	Cuculus canorus	Cuculus canorus	IFNL	Aves	1											
+XM_009635480	IFNL-B-Aves	Egretta garzetta	Egretta garzetta	IFNL	Aves	1											
+XM_009704658	IFNL-B-Aves	Cariama cristata	Cariama cristata	IFNL	Aves	1											
+XM_009871021	IFNL-B-Aves	Apaloderma vittatum	Apaloderma vittatum	IFNL	Aves	1											
+XM_009887591	IFNL-B-Aves	Charadrius vociferus	Charadrius vociferus	IFNL	Aves	1											
+XM_009900846	IFNL-B-Aves	Dryobates pubescens	Dryobates pubescens	IFNL	Aves	1											
+XM_009959982	IFNL-B-Aves	Leptosomus discolor	Leptosomus discolor	IFNL	Aves	1											
+XM_010078127	IFNL-B-Aves	Pterocles gutturalis	Pterocles gutturalis	IFNL	Aves	1											
+XM_010123054	IFNL-B-Aves	Chlamydotis macqueenii	Chlamydotis macqueenii	IFNL	Aves	1											
+XM_010133349	IFNL-B-Aves	Buceros rhinoceros silvestris	Buceros rhinoceros silvestris	IFNL	Aves	1											
+XM_010185572	IFNL-B-Aves	Mesitornis unicolor	Mesitornis unicolor	IFNL	Aves	1											
+XM_010206140	IFNL-B-Aves	Colius striatus	Colius striatus	IFNL	Aves	1											
+XM_010284067	IFNL-B-Aves	Phaethon lepturus	Phaethon lepturus	IFNL	Aves	1											
+XM_010407863	IFNL-B-Aves	Corvus cornix cornix	Corvus cornix cornix	IFNL	Aves	1											
+XM_010577876	IFNL-B-Aves	Haliaeetus leucocephalus	Haliaeetus leucocephalus	IFNL	Aves	1											
+XM_013178817	IFNL-B-Aves	Anser cygnoides domesticus	Anser cygnoides domesticus	IFNL	Aves	1											
+XM_013952637	IFNL-B-Aves	Apteryx mantelli mantelli	Apteryx mantelli mantelli	IFNL	Aves	1											
+XM_014881972	IFNL-B-Aves	Sturnus vulgaris	Sturnus vulgaris	IFNL	Aves	1											
+XM_014951962	IFNL-B-Aves	Calidris pugnax	Calidris pugnax	IFNL	Aves	1											
+XM_014951964	IFNL-B-Aves	Calidris pugnax	Calidris pugnax	IFNL	Aves	1											
+XM_015868018	IFNL-B-Aves	Coturnix japonica	Coturnix japonica	IFNL	Aves	1											
+XM_017828483	IFNL-B-Aves	Lepidothrix coronata	Lepidothrix coronata	IFNL	Aves	1											
+XM_021399538	IFNL-B-Aves	Numida meleagris	Numida meleagris	IFNL	Aves	1											
+XM_021536075	IFNL-B-Aves	Lonchura striata domestica	Lonchura striata domestica	IFNL	Aves	1											
+XM_026048488	IFNL-B-Aves	Nothoprocta perdicaria	Nothoprocta perdicaria	IFNL	Aves	1											
+XM_026087926	IFNL-B-Aves	Apteryx rowi	Apteryx rowi	IFNL	Aves	1											
+XM_026093800	IFNL-B-Aves	Dromaius novaehollandiae	Dromaius novaehollandiae	IFNL	Aves	1											
+XM_026793323	IFNL-B-Aves	Zonotrichia albicollis	Zonotrichia albicollis	IFNL	Aves	1											
+XM_026852415	IFNL-B-Aves	Athene cunicularia	Athene cunicularia	IFNL	Aves	1											
+XM_027636457	IFNL-B-Aves	Corapipo altera	Corapipo altera	IFNL	Aves	1											
+XM_027677891	IFNL-B-Aves	Neopelma chrysocephalum	Neopelma chrysocephalum	IFNL	Aves	1											
+XM_027735645	IFNL-B-Aves	Pipra filicauda	Pipra filicauda	IFNL	Aves	1											
+XM_027890346	IFNL-B-Aves	Empidonax traillii	Empidonax traillii	IFNL	Aves	1											
+XM_029085701	IFNL-B-Aves	Antrostomus carolinensis	Antrostomus carolinensis	IFNL	Aves	1											
+XM_030017691	IFNL-B-Aves	Aquila chrysaetos chrysaetos	Aquila chrysaetos chrysaetos	IFNL	Aves	1											
+XM_030230187	IFNL-B-Aves	Serinus canaria	Serinus canaria	IFNL	Aves	1											
+XM_030277089	IFNL-B-Aves	Taeniopygia guttata	Taeniopygia guttata	IFNL	Aves	1											
+XM_030487381	IFNL-B-Aves	Strigops habroptila	Strigops habroptila	IFNL	Aves	1											
+XM_030487382	IFNL-B-Aves	Strigops habroptila	Strigops habroptila	IFNL	Aves	1											
+XM_030580530	IFNL-B-Aves	Gopherus evgoodei	Gopherus evgoodei	IFNL	Aves	1											
+XM_030951953	IFNL-B-Aves	Camarhynchus parvulus	Camarhynchus parvulus	IFNL	Aves	1											
+XM_031063497	IFNL-B-Aves	Geospiza fortis	Geospiza fortis	IFNL	Aves	1											
+XM_031604571	IFNL-B-Aves	Phasianus colchicus	Phasianus colchicus	IFNL	Aves	1											
+XM_032114908	IFNL-B-Aves	Corvus moneduloides	Corvus moneduloides	IFNL	Aves	1											
+XM_032114909	IFNL-B-Aves	Corvus moneduloides	Corvus moneduloides	IFNL	Aves	1											
+XM_032189584	IFNL-B-Aves	Aythya fuligula	Aythya fuligula	IFNL	Aves	1											
+XM_032693205	IFNL-B-Aves	Chiroxiphia lanceolata	Chiroxiphia lanceolata	IFNL	Aves	1											
+XM_033010731	IFNL-B-Aves	Tyto alba alba	Tyto alba alba	IFNL	Aves	1											
+XM_033064688	IFNL-B-Aves	Catharus ustulatus	Catharus ustulatus	IFNL	Aves	1											
+XM_034065776	IFNL-B-Aves	Melopsittacus undulatus	Melopsittacus undulatus	IFNL	Aves	1											
+XM_035332332	IFNL-B-Aves	Oxyura jamaicensis	Oxyura jamaicensis	IFNL	Aves	1											
+XM_035536768	IFNL-B-Aves	Cygnus atratus	Cygnus atratus	IFNL	Aves	1											
+XM_036386986	IFNL-B-Aves	Molothrus ater	Molothrus ater	IFNL	Aves	1											
+XM_037398060	IFNL-B-Aves	Falco rusticolus	Falco rusticolus	IFNL	Aves	1											
+XM_038141770	IFNL-B-Aves	Motacilla alba alba	Motacilla alba alba	IFNL	Aves	1											
+XM_038181725	IFNL-B-Aves	Anas platyrhynchos	Anas platyrhynchos	IFNL	Aves	1											
+XM_040070420	IFNL-B-Aves	Hirundo rustica	Hirundo rustica	IFNL	Aves	1											
+XM_040560797	IFNL-B-Aves	Cygnus olor	Cygnus olor	IFNL	Aves	1											
+XM_040604362	IFNL-B-Aves	Falco naumanni	Falco naumanni	IFNL	Aves	1											
+XM_040676329	IFNL-B-Aves	Gallus gallus	Gallus gallus	IFNL	Aves	1											
+XM_040703743	IFNL-B-Aves	Gallus gallus	Gallus gallus	IFNL	Aves	1											

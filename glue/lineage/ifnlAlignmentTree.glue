@@ -3,10 +3,10 @@
   # Mammal B branch    
   alignment AL_IFNL_MAMMAL_B
 
-	#extract child AL_IFNLb_MARSUPIAL --refName REF_IFNLb_Marsupial	
-	#demote member AL_IFNLb_MARSUPIAL --whereClause "sequence.clade = 'B' and sequence.major_subclade = 'Marsupial'" 	
 
     exit
+
+
 
 
   #~# Derive constrained alignment segments from unconstrained alignments
