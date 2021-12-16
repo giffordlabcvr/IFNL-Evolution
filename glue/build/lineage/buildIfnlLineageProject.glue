@@ -25,15 +25,6 @@ project ifnl
   # Define variations 
   run file glue/build/lineage/ifnlVariations.glue
 
-  # Scan for variations 
-  run script glue/build/lineage/ifnlScanVariations.js
-
-  # Build phylogenies
-  #run file glue/build/lineage/ifnlCreatePhylogeniesClades.glue
-
-  # Build phylogenies
-  #run file glue/build/lineage/ifnlCreatePhylogeniesPrimateExons.glue
-
   # Validate
   validate
 
