@@ -4,44 +4,41 @@ create project ifnl "GLUE project for interferon Lambda" --minVersion 0.1.50
 
 schema-project ifnl
 
-  run file glue/core/ifnlSchemaExtensions.glue
+  run file glue/build/core/ifnlSchemaExtensions.glue
   exit
 
 project ifnl
 
   # load project settings
-  run file glue/core/projectSettings.glue
+  run file glue/build/core/projectSettings.glue
 
   # create modules
-  run file glue/core/ifnlModules.glue
+  run file glue/build/core/ifnlModules.glue
 
   # Import sources 
   import source sources/fasta-refseqs/
   import source sources/ncbi-refseqs/
 
   # Import sequence associated data
-  run file glue/core/ifnlLoadRefseqSideData.glue
+  run file glue/build/core/ifnlLoadRefseqSideData.glue
 
   # Define features
-  run file glue/core/ifnlFeatures.glue
+  run file glue/build/core/ifnlFeatures.glue
 
   # Create references
-  run file glue/core/ifnlReferences.glue
+  run file glue/build/core/ifnlReferences.glue
 
   # Define feature locations
-  run file glue/core/ifnlExplicitFeatureLocations.glue
+  run file glue/build/core/ifnlExplicitFeatureLocations.glue
 
   # Import root alignments 
-  run file glue/core/ifnlAlignments.glue
+  run file glue/build/core/ifnlAlignments.glue
 
   # Define constrained alignment tree
-  run file glue/core/ifnlAlignmentTree.glue
+  run file glue/build/core/ifnlAlignmentTree.glue
 
   # Record feature coverage in alignments
-  run file glue/core/ifnlRecordFeaturePresence.glue
-
-  # Build phylogenies
-  #run file glue/core/ifnlCreatePhylogeniesRoot.glue
+  run file glue/build/core/ifnlRecordFeaturePresence.glue
 
   # Validate
   validate

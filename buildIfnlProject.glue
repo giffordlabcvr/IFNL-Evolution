@@ -4,10 +4,10 @@ create project ifnl "GLUE project for interferon Lambda" --minVersion 0.1.50
 
 schema-project ifnl
 
-  run file glue/core/ifnlSchemaExtensions.glue
+  run file glue/build/core/ifnlSchemaExtensions.glue
   exit
 
-run file glue/core/buildIfnlCoreProject.glue
+run file glue/build/core/buildIfnlCoreProject.glue
 
-run file glue/lineage/buildIfnlLineageProject.glue
+run file glue/build/lineage/buildIfnlLineageProject.glue
 
