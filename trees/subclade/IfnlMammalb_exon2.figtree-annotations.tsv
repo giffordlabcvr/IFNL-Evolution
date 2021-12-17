@@ -2,6 +2,8 @@ taxon	sequenceID	species	species_superorder	species_order	species_family	species
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/NM_001024673	NM_001024673	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus	IFNL	Mammal	2	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/NM_001040680	NM_001040680	Felis catus	Laurasiatheria	Carnivora	Felidae	Felis	IFNL	Mammal	1	canonical	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/NM_001114853	NM_001114853	Canis lupus familiaris	Laurasiatheria	Carnivora	Canidae	Canis	IFNL	Mammal	1	rtg	1	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/NM_001142837	NM_001142837	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/NM_001166490	NM_001166490	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus	IFNL	Mammal	1	canonical	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-refseqs/NM_001346937	NM_001346937	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	2	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/NM_172138	NM_172138	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	2	-	1	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/NM_172140	NM_172140	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL	Mammal	1	canonical	-	-	-	-	-
@@ -13,11 +15,16 @@ alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003270381	XM_00327038
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003420833	XM_003420833	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	IFNL	Mammal	2	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003802138	XM_003802138	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	Otolemur	IFNL	Mammal	1	canonical	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003802158	XM_003802158	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	Otolemur	IFNL	Mammal	2	-	2	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003915503	XM_003915503	Papio anubis	-	-	-	-	IFNL	Mammal	29	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003943132	XM_003943132	Saimiri boliviensis	-	-	-	-	IFNL	Mammal	23	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004060705	XM_004060705	Gorilla gorilla	-	-	-	-	IFNL	Mammal	26	-	2	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004396492	XM_004396492	Odobenus rosmarus	Laurasiatheria	Carnivora	Odobenidae	Odobenus	IFNL	Mammal	2	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004430284	XM_004430284	Ceratotherium simum	Laurasiatheria	Perissodactyla	Rhinocerotidae	Ceratotherium	IFNL	Mammal	1	rtg	1	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004481462	XM_004481462	Dasypus novemcinctus	Xenarthra	Cingulata	Dasypodidae	Dasypus	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004617294	XM_004617294	Sorex araneus	Laurasiatheria	Insectivora	Soricidae	Sorex	IFNL	Mammal	2	-	2	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004636880	XM_004636880	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	IFNL	Mammal	2	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004636881	XM_004636881	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	IFNL	Mammal	2	-	2	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004636884	XM_004636884	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	IFNL	Mammal	2	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004710310	XM_004710310	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops	IFNL	Mammal	1	canonical	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004710311	XM_004710311	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops	IFNL	Mammal	2	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004710488	XM_004710488	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops	IFNL	Mammal	1	canonical	-	-	-	-	-
@@ -27,7 +34,10 @@ alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005589170	XM_00558917
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005596230	XM_005596230	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	IFNL	Mammal	2	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_006096748	XM_006096748	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL	Mammal	2	-	1	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_006540130	XM_006540130	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus	IFNL	Mammal	2	-	2	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_006761471	XM_006761471	Myotis davidii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL	Mammal	2	-	1	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_006871441	XM_006871441	Chrysochloris asiatica	Afrotheria	Unclassified	Chrysochloridae	Chrysochloris	IFNL	Mammal	1	canonical	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_007179988	XM_007179988	Balaenoptera acutorostrata	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	IFNL	Mammal	2	-	2	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_007179990	XM_007179990	Balaenoptera acutorostrata	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	IFNL	Mammal	2	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_007523978	XM_007523978	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	IFNL	Mammal	2	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_007958477	XM_007958477	Orycteropus afer	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	IFNL	Mammal	1	canonical	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_007996760	XM_007996760	Chlorocebus sabaeus	-	-	-	-	IFNL	Mammal	27	-	2	-	-	-	-
@@ -71,6 +81,8 @@ alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_017503064	XM_01750306
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_017656413	XM_017656413	Manis javanica	Laurasiatheria	Pholidota	Manidae	Manis	IFNL	Mammal	1	canonical	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_017887367	XM_017887367	Rhinopithecus bieti	-	-	-	-	IFNL	Mammal	14	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_017967394	XM_017967394	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	IFNL	Mammal	2	-	2	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_018063174	XM_018063174	Capra hircus	Laurasiatheria	Unclassified	Bovidae	Capra	IFNL	Mammal	2	-	2	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_018063271	XM_018063271	Capra hircus	Laurasiatheria	Unclassified	Bovidae	Capra	IFNL	Mammal	2	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_019014911	XM_019014911	Gorilla gorilla	-	-	-	-	IFNL	Mammal	8	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_019818982	XM_019818982	Felis catus	Laurasiatheria	Carnivora	Felidae	Felis	IFNL	Mammal	2	-	2	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_020156959	XM_020156959	Castor canadensis	Euarchontoglires	Rodentia	Castoridae	Castor	IFNL	Mammal	2	-	2	-	-	-	-

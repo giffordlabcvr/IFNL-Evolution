@@ -1,1 +1,140 @@
-((alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_024577417:0.45029528862426015934,(alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_029924289:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_020156959:0.00000100000050002909)89:0.00000100000050002909)56:0.227877608796873013845,(alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_017967394:0.10778263002686094829,((alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_010330964:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_017503064:0.00000100000050002909)89:0.00000100000050002909,((alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_019818982:0.00000100000050002909,((alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_024577418:0.06331870542064936547,((((alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016209155:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_023760578:0.00000100000050002909)22:0.00000100000050002909,(alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_032326013:0.00000100000050002909,((alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_005596230:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_032850864:0.00000100000050002909)20:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_006096748:0.00000100000050002909)0:0.00000100000050002909)9:0.00000100000050002909)3:0.00000100000050002909,(alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016209156:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016209154:0.00000100000050002909)18:0.00000100000050002909)3:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_025268342:0.00000100000050002909)58:0.08357681857481406851)13:0.05145718255627171334,(alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016166771:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016165226:0.00000100000050002909)81:0.00000100000050002909)22:0.10399188925823593665)68:0.28651981547539429052,((alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_024351462:0.00000100000050002909,((alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_012078033:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011764820:0.00000100000050002909)1:0.00000100000050002909,(alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_012077999:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011973358:0.00000100000050002909)0:0.00000100000050002909)0:0.00000100000050002909)0:0.00000100000050002909,((((((alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/NM_172138:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_002829197:0.00000100000050002909)0:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_003270381:0.00000100000050002909)0:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_005589169:0.00000100000050002909)0:0.00000100000050002909,((alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_010380920:0.00000100000050002909,(alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_011952423:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_017887367:0.00000100000050002909)9:0.00000100000050002909)3:0.00000100000050002909,(alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_025368308:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_025367960:0.00000100000050002909)3:0.00000100000050002909)0:0.00000100000050002909)0:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_019014911:0.00000100000050002909)0:0.00000100000050002909,(alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_024237432:0.00000100000050002909,(alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_016947939:0.00000100000050002909,(alignment/AL_IFNL_MAMMAL_B/member/ncbi-refseqs/NM_001346937:0.00000100000050002909,alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated/XM_005589166:0.00000100000050002909)1:0.00000100000050002909)0:0.00000100000050002909)0:0.00000100000050002909)0:0.00000100000050002909)50:0.00000100000050002909)28:0.12379839198270986556)29:0.02029932765445728593)56:0.008523471916249838135);
+#NEXUS
+begin taxa;
+	dimensions ntax=38;
+	taxlabels
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/NM_172138'[&duplicate_numeric_id="1",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="NM_172138",species="Homo sapiens",species_family="Hominidae",species_genus="Homo",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_002829197'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="9",sequenceID="XM_002829197",species="Pongo abelii",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003270381'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="7",sequenceID="XM_003270381",species="Nomascus leucogenys",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005589166'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="16",sequenceID="XM_005589166",species="Macaca fascicularis",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005589169'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="15",sequenceID="XM_005589169",species="Macaca fascicularis",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005596230'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_005596230",species="Equus caballus",species_family="Equidae",species_genus="Equus",species_order="Perissodactyla",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_006096748'[&duplicate_numeric_id="1",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_006096748",species="Myotis lucifugus",species_family="Vespertilionidae",species_genus="Myotis",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_010330964'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="3",sequenceID="XM_010330964",species="Saimiri boliviensis",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_010380920'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="13",sequenceID="XM_010380920",species="Rhinopithecus roxellana",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011764820'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="17",sequenceID="XM_011764820",species="Macaca nemestrina",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011952423'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="12",sequenceID="XM_011952423",species="Colobus angolensis",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011973358'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="-",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="-",sequenceID="XM_011973358",species="-",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="-"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012077999'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="18",sequenceID="XM_012077999",species="Cercocebus atys",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012078033'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="19",sequenceID="XM_012078033",species="Cercocebus atys",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016165226'[&duplicate_numeric_id="1",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_016165226",species="Rousettus aegyptiacus",species_family="Pteropodidae",species_genus="Rousettus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016166771'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_016166771",species="Rousettus aegyptiacus",species_family="Pteropodidae",species_genus="Rousettus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016209154'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_016209154",species="Miniopterus natalensis",species_family="Vespertilionidae",species_genus="Miniopterus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016209155'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_016209155",species="Miniopterus natalensis",species_family="Vespertilionidae",species_genus="Miniopterus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016209156'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_016209156",species="Miniopterus natalensis",species_family="Vespertilionidae",species_genus="Miniopterus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016947939'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_016947939",species="Pan troglodytes",species_family="Hominidae",species_genus="Pan",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_017503064'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="4",sequenceID="XM_017503064",species="Cebus imitator",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_017887367'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="14",sequenceID="XM_017887367",species="Rhinopithecus bieti",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_017967394'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_017967394",species="Callithrix jacchus",species_family="Cebidae",species_genus="Callithrix",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_019014911'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="8",sequenceID="XM_019014911",species="Gorilla gorilla",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_019818982'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_019818982",species="Felis catus",species_family="Felidae",species_genus="Felis",species_order="Carnivora",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_020156959'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_020156959",species="Castor canadensis",species_family="Castoridae",species_genus="Castor",species_order="Rodentia",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_023760578'[&duplicate_numeric_id="3",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_023760578",species="Myotis lucifugus",species_family="Vespertilionidae",species_genus="Myotis",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_024237432'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="10",sequenceID="XM_024237432",species="Pongo abelii",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_024351462'[&duplicate_numeric_id="1",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_024351462",species="Pan troglodytes",species_family="Hominidae",species_genus="Pan",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_024577417'[&duplicate_numeric_id="1",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_024577417",species="Desmodus rotundus",species_family="Phyllostomidae",species_genus="Desmodus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_024577418'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_024577418",species="Desmodus rotundus",species_family="Phyllostomidae",species_genus="Desmodus",species_order="Chiroptera",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_025268342'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="XM_025268342",species="Bubalus bubalis",species_family="Bovidae",species_genus="Bubalus",species_order="Unclassified",species_superorder="Laurasiatheria",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_025367960'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="21",sequenceID="XM_025367960",species="Theropithecus gelada",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_025368308'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="20",sequenceID="XM_025368308",species="Theropithecus gelada",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="Mammal"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_029924289'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="-",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="-",sequenceID="XM_029924289",species="-",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="-"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_032326013'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="-",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="-",sequenceID="XM_032326013",species="-",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="-"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_032850864'[&duplicate_numeric_id="-",duplicate_type="-",gene_id="-",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="-",sequenceID="XM_032850864",species="-",species_family="-",species_genus="-",species_order="-",species_superorder="-",vertebrate_lineage="-"]
+	'alignment/AL_IFNL_MAMMAL_B/member/ncbi-refseqs/NM_001346937'[&duplicate_numeric_id="2",duplicate_type="-",gene_id="IFNL",glycosylation_o1_coverage="-",glycosylation_o1_present="-",glycosylation_o2_coverage="-",glycosylation_o2_present="-",major_subclade="2",sequenceID="NM_001346937",species="Homo sapiens",species_family="Hominidae",species_genus="Homo",species_order="Primates",species_superorder="Euarchontoglires",vertebrate_lineage="Mammal"]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_024577417':0.450295,('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_029924289':1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_020156959':1.0E-6)[&label=89]:1.0E-6)[&label=56]:0.227878,('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_017967394':0.107783,(('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_010330964':1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_017503064':1.0E-6)[&label=89]:1.0E-6,(('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_019818982':1.0E-6,(('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_024577418':0.063319,(((('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016209155':1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_023760578':1.0E-6)[&label=22]:1.0E-6,('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_032326013':1.0E-6,(('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005596230':1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_032850864':1.0E-6)[&label=20]:1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_006096748':1.0E-6)[&label=0]:1.0E-6)[&label=9]:1.0E-6)[&label=3]:1.0E-6,('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016209156':1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016209154':1.0E-6)[&label=18]:1.0E-6)[&label=3]:1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_025268342':1.0E-6)[&label=58]:0.083577)[&label=13]:0.051457,('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016166771':1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016165226':1.0E-6)[&label=81]:1.0E-6)[&label=22]:0.103992)[&label=68]:0.28652,(('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_024351462':1.0E-6,(('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012078033':1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011764820':1.0E-6)[&label=1]:1.0E-6,('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012077999':1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011973358':1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,(((((('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/NM_172138':1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_002829197':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003270381':1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005589169':1.0E-6)[&label=0]:1.0E-6,(('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_010380920':1.0E-6,('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011952423':1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_017887367':1.0E-6)[&label=9]:1.0E-6)[&label=3]:1.0E-6,('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_025368308':1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_025367960':1.0E-6)[&label=3]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_019014911':1.0E-6)[&label=0]:1.0E-6,('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_024237432':1.0E-6,('alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016947939':1.0E-6,('alignment/AL_IFNL_MAMMAL_B/member/ncbi-refseqs/NM_001346937':1.0E-6,'alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005589166':1.0E-6)[&label=1]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=0]:1.0E-6)[&label=50]:1.0E-6)[&label=28]:0.123798)[&label=29]:0.020299)[&label=56]:0.008523);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="species";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
