@@ -1,0 +1,5 @@
+# Run phylogenetic analysis
+run file glue/analysis/phylogeny/ifnlCreatePhylogeniesRoot.glue
+run file glue/analysis/phylogeny/ifnlCreatePhylogeniesPrimateExons.glue
+run file glue/analysis/phylogeny/ifnlCreatePhylogeniesClades.glue
+
