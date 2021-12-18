@@ -1,0 +1,7 @@
+
+  # Scan for variations 
+  run script glue/analysis/lineage/ifnlScanVariations.js
+
+  # Do entropy analysis
+  #run file glue/analysis/lineage/ifnlCreatePhylogeniesClades.glue
+
