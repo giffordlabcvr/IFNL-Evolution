@@ -2,11 +2,10 @@
   
   delete module raxmlPhylogenyGenerator
   delete module ifnlPhyloUtility
-  delete module ifnlFigTreeAnnotationExporter
- 
+
   create module -t raxmlPhylogenyGenerator
   create module -f modules/core/ifnlPhyloUtility.xml
-  create module -f modules/core/ifnlFigTreeAnnotationExporter.xml
+ 
   create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon1.xml
   create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon1+2.xml
   create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon1+2+3.xml
@@ -34,36 +33,36 @@
 
     generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon1 \
        -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon1' and fLocNotes.ref_nt_coverage_pct >= 90" \
-       -o trees/subclade/IfnlMammalb_exon1.tre NEWICK_BOOTSTRAPS
+       -o trees/subclade-exons/IfnlMammalb_exon1.tre NEWICK_BOOTSTRAPS
 
     generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon2 \
        -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon2' and fLocNotes.ref_nt_coverage_pct >= 90" \
-       -o trees/subclade/IfnlMammalb_exon2.tre NEWICK_BOOTSTRAPS
+       -o trees/subclade-exons/IfnlMammalb_exon2.tre NEWICK_BOOTSTRAPS
 
     generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon3 \
        -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon3' and fLocNotes.ref_nt_coverage_pct >= 90" \
-       -o trees/subclade/IfnlMammalb_exon3.tre NEWICK_BOOTSTRAPS
+       -o trees/subclade-exons/IfnlMammalb_exon3.tre NEWICK_BOOTSTRAPS
 
     generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon4 \
        -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon4' and fLocNotes.ref_nt_coverage_pct >= 90" \
-       -o trees/subclade/IfnlMammalb_exon4.tre NEWICK_BOOTSTRAPS
+       -o trees/subclade-exons/IfnlMammalb_exon4.tre NEWICK_BOOTSTRAPS
 
     generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon5 \
        -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon5' and fLocNotes.ref_nt_coverage_pct >= 90" \
-       -o trees/subclade/IfnlMammalb_exon5.tre NEWICK_BOOTSTRAPS
+       -o trees/subclade-exons/IfnlMammalb_exon5.tre NEWICK_BOOTSTRAPS
 
     generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon1+2 \
        -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon1+2' and fLocNotes.ref_nt_coverage_pct >=89" \
-       -o trees/subclade/IfnlMammalb_exon1+2.tre NEWICK_BOOTSTRAPS
+       -o trees/subclade-exons/IfnlMammalb_exon1+2.tre NEWICK_BOOTSTRAPS
 
     generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon1+2+3 \
-      -a -o trees/subclade/IfnlMammalb_exon1+2+3.tre NEWICK_BOOTSTRAPS
+      -a -o trees/subclade-exons/IfnlMammalb_exon1+2+3.tre NEWICK_BOOTSTRAPS
 
     generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon3+4+5 \
-      -a -o trees/subclade/IfnlMammalb_exon3+4+5.tre NEWICK_BOOTSTRAPS
+      -a -o trees/subclade-exons/IfnlMammalb_exon3+4+5.tre NEWICK_BOOTSTRAPS
 
     generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon3+4+5+6 \
-      -a -o trees/subclade/IfnlMammalb_exon3+4+5+6.tre NEWICK_BOOTSTRAPS
+      -a -o trees/subclade-exons/IfnlMammalb_exon3+4+5+6.tre NEWICK_BOOTSTRAPS
 
 
     exit
@@ -73,49 +72,49 @@
   module ifnlPhyloUtility 
 
 	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_exon1.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade-exons/IfnlMammalb_exon1.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_exon1-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade-exons/IfnlMammalb_exon1-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_exon2.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade-exons/IfnlMammalb_exon2.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_exon2-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade-exons/IfnlMammalb_exon2-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_exon3.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade-exons/IfnlMammalb_exon3.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_exon3-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade-exons/IfnlMammalb_exon3-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_exon4.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade-exons/IfnlMammalb_exon4.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_exon4-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade-exons/IfnlMammalb_exon4-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_exon5.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade-exons/IfnlMammalb_exon5.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_exon5-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade-exons/IfnlMammalb_exon5-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_exon1+2.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade-exons/IfnlMammalb_exon1+2.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_exon1+2-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade-exons/IfnlMammalb_exon1+2-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_exon1+2+3.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade-exons/IfnlMammalb_exon1+2+3.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_exon1+2+3-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade-exons/IfnlMammalb_exon1+2+3-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_exon3+4+5.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade-exons/IfnlMammalb_exon3+4+5.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_exon3+4+5-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade-exons/IfnlMammalb_exon3+4+5-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
 	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_exon3+4+5+6.tre NEWICK_BOOTSTRAPS \
+      --inputFile trees/subclade-exons/IfnlMammalb_exon3+4+5+6.tre NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_exon3+4+5+6-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+      --outputFile trees/subclade-exons/IfnlMammalb_exon3+4+5+6-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
     exit
 

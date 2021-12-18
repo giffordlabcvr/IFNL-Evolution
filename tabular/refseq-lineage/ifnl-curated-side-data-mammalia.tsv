@@ -185,38 +185,57 @@ XM_004617293	IFNL-B-Mammal-2	Sorex araneus	Sorex araneus	IFNL	Mammal	B	2			2	Lau
 XM_004617294	IFNL-B-Mammal-2	Sorex araneus	Sorex araneus	IFNL	Mammal	B	2			2	Laurasiatheria	Insectivora	Soricidae	Sorex			
 XM_021097830	IFNL-B-Mammal-2	Sus scrofa	Sus scrofa	IFNL	Mammal	B	2			2	Laurasiatheria	Unclassified	Suidae	Sus	XP_020953489.1		
 XM_006140390	IFNL-B-Mammal-2	Tupaia chinensis	Tupaia chinensis	IFNL	Mammal	B	2			2	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_006140452.1		
-XM_010330964	IFNL-B-Mammal-2	Saimiri boliviensis	Saimiri boliviensis	IFNL	Mammal	B	3			2							
-XM_017503064	IFNL-B-Mammal-2	Cebus imitator	Cebus imitator	IFNL	Mammal	B	4			2							
-XM_012438872	IFNL-B-Mammal-2	Aotus nancymaae	Aotus nancymaae	IFNL	Mammal	B	5			2							
-XM_011973415	IFNL-B-Mammal-2	Mandrillus leucophaeus	Mandrillus leucophaeus	IFNL	Mammal	B	6			2							
-XM_003270381	IFNL-B-Mammal-2	Nomascus leucogenys	Nomascus leucogenys	IFNL	Mammal	B	7			2							
-XM_019014911	IFNL-B-Mammal-2	Gorilla gorilla	Gorilla gorilla	IFNL	Mammal	B	8			2							
-XM_002829197	IFNL-B-Mammal-2	Pongo abelii	Pongo abelii	IFNL	Mammal	B	9			2							
-XM_024237432	IFNL-B-Mammal-2	Pongo abelii	Pongo abelii	IFNL	Mammal	B	10			2							
-XM_008964649	IFNL-B-Mammal-2	Pan paniscus	Pan paniscus	IFNL	Mammal	B	11			2							
-XM_011952423	IFNL-B-Mammal-2	Colobus angolensis	Colobus angolensis	IFNL	Mammal	B	12			2							
-XM_010380920	IFNL-B-Mammal-2	Rhinopithecus roxellana	Rhinopithecus roxellana	IFNL	Mammal	B	13			2							
-XM_017887367	IFNL-B-Mammal-2	Rhinopithecus bieti	Rhinopithecus bieti	IFNL	Mammal	B	14			2							
-XM_005589169	IFNL-B-Mammal-2	Macaca fascicularis	Macaca fascicularis	IFNL	Mammal	B	15			2							
-XM_005589166	IFNL-B-Mammal-2	Macaca fascicularis	Macaca fascicularis	IFNL	Mammal	B	16			2							
-XM_011764820	IFNL-B-Mammal-2	Macaca nemestrina	Macaca nemestrina	IFNL	Mammal	B	17			2							
-XM_012077999	IFNL-B-Mammal-2	Cercocebus atys	Cercocebus atys	IFNL	Mammal	B	18			2							
-XM_012078033	IFNL-B-Mammal-2	Cercocebus atys	Cercocebus atys	IFNL	Mammal	B	19			2							
-XM_025368308	IFNL-B-Mammal-2	Theropithecus gelada	Theropithecus gelada	IFNL	Mammal	B	20			2							
-XM_025367960	IFNL-B-Mammal-2	Theropithecus gelada	Theropithecus gelada	IFNL	Mammal	B	21			2							
-XM_012438845	IFNL-B-Mammal-2	Aotus nancymaae	Aotus nancymaae	IFNL	Mammal	B	22			2							
-XM_003943132	IFNL-B-Mammal-2	Saimiri boliviensis	Saimiri boliviensis	IFNL	Mammal	B	23			2							
-XM_003270380	IFNL-B-Mammal-2	Nomascus leucogenys	Nomascus leucogenys	IFNL	Mammal	B	24			2							
-XM_002829198	IFNL-B-Mammal-2	Pongo abelii	Pongo abelii	IFNL	Mammal	B	25			2							
-XM_004060705	IFNL-B-Mammal-2	Gorilla gorilla	Gorilla gorilla	IFNL	Mammal	B	26			2							
-XM_007996760	IFNL-B-Mammal-2	Chlorocebus sabaeus	Chlorocebus sabaeus	IFNL	Mammal	B	27			2							
-XM_012077988	IFNL-B-Mammal-2	Cercocebus atys	Cercocebus atys	IFNL	Mammal	B	28			2							
-XM_003915503	IFNL-B-Mammal-2	Papio anubis	Papio anubis	IFNL	Mammal	B	29			2							
-XM_011973361	IFNL-B-Mammal-2	Mandrillus leucophaeus	Mandrillus leucophaeus	IFNL	Mammal	B	30			2							
-XM_005589170	IFNL-B-Mammal-2	Macaca fascicularis	Macaca fascicularis	IFNL	Mammal	B	31			2							
-XM_011764819	IFNL-B-Mammal-2	Macaca nemestrina	Macaca nemestrina	IFNL	Mammal	B	32			2							
-XM_025368404	IFNL-B-Mammal-2	Theropithecus gelada	Theropithecus gelada	IFNL	Mammal	B	33			2							
-XM_010380919	IFNL-B-Mammal-2	Rhinopithecus roxellana	Rhinopithecus roxellana	IFNL	Mammal	B	34			2							
-XM_023229397	IFNL-B-Mammal-2	Piliocolobus tephrosceles	Piliocolobus tephrosceles	IFNL	Mammal	B	35			2							
-XM_012657015	IFNL-B-Mammal-2	Propithecus coquereli	Propithecus coquereli	IFNL	Mammal	B	36			2							
-XM_012775213	IFNL-B-Mammal-2	Microcebus murinus	Microcebus murinus	IFNL	Mammal	B	37			2							
+XM_010330964	IFNL-B-Mammal-2	Saimiri boliviensis	Saimiri boliviensis	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cebidae	Saimiri			
+XM_017503064	IFNL-B-Mammal-2	Cebus imitator	Cebus imitator	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cebidae	Cebus			
+XM_012438872	IFNL-B-Mammal-2	Aotus nancymaae	Aotus nancymaae	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Aotidae	Aotus			
+XM_011973415	IFNL-B-Mammal-2	Mandrillus leucophaeus	Mandrillus leucophaeus	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Mandrillus			
+XM_003270381	IFNL-B-Mammal-2	Nomascus leucogenys	Nomascus leucogenys	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hylobatidae	Nomascus			
+XM_019014911	IFNL-B-Mammal-2	Gorilla gorilla	Gorilla gorilla	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hominidae	Gorilla			
+XM_002829197	IFNL-B-Mammal-2	Pongo abelii	Pongo abelii	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hominidae	Pongo			
+XM_024237432	IFNL-B-Mammal-2	Pongo abelii	Pongo abelii	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hominidae	Pongo			
+XM_008964649	IFNL-B-Mammal-2	Pan paniscus	Pan paniscus	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hominidae	Pan			
+XM_011952423	IFNL-B-Mammal-2	Colobus angolensis	Colobus angolensis	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Colobus			
+XM_010380920	IFNL-B-Mammal-2	Rhinopithecus roxellana	Rhinopithecus roxellana	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
+XM_017887367	IFNL-B-Mammal-2	Rhinopithecus bieti	Rhinopithecus bieti	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
+XM_005589169	IFNL-B-Mammal-2	Macaca fascicularis	Macaca fascicularis	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_005589166	IFNL-B-Mammal-2	Macaca fascicularis	Macaca fascicularis	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_011764820	IFNL-B-Mammal-2	Macaca nemestrina	Macaca nemestrina	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_012077999	IFNL-B-Mammal-2	Cercocebus atys	Cercocebus atys	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
+XM_012078033	IFNL-B-Mammal-2	Cercocebus atys	Cercocebus atys	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
+XM_025368308	IFNL-B-Mammal-2	Theropithecus gelada	Theropithecus gelada	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Theropithecus			
+XM_025367960	IFNL-B-Mammal-2	Theropithecus gelada	Theropithecus gelada	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Theropithecus			
+XM_012438845	IFNL-B-Mammal-2	Aotus nancymaae	Aotus nancymaae	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Aotidae	Aotus			
+XM_003943132	IFNL-B-Mammal-2	Saimiri boliviensis	Saimiri boliviensis	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cebidae	Saimiri			
+XM_003270380	IFNL-B-Mammal-2	Nomascus leucogenys	Nomascus leucogenys	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hylobatidae	Nomascus			
+XM_002829198	IFNL-B-Mammal-2	Pongo abelii	Pongo abelii	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hominidae	Pongo			
+XM_004060705	IFNL-B-Mammal-2	Gorilla gorilla	Gorilla gorilla	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hominidae	Gorilla			
+XM_007996760	IFNL-B-Mammal-2	Chlorocebus sabaeus	Chlorocebus sabaeus	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Chlorocebus			
+XM_012077988	IFNL-B-Mammal-2	Cercocebus atys	Cercocebus atys	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
+XM_003915503	IFNL-B-Mammal-2	Papio anubis	Papio anubis	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Papio			
+XM_011973361	IFNL-B-Mammal-2	Mandrillus leucophaeus	Mandrillus leucophaeus	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Mandrillus			
+XM_005589170	IFNL-B-Mammal-2	Macaca fascicularis	Macaca fascicularis	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_011764819	IFNL-B-Mammal-2	Macaca nemestrina	Macaca nemestrina	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_025368404	IFNL-B-Mammal-2	Theropithecus gelada	Theropithecus gelada	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Theropithecus			
+XM_010380919	IFNL-B-Mammal-2	Rhinopithecus roxellana	Rhinopithecus roxellana	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
+XM_023229397	IFNL-B-Mammal-2	Piliocolobus tephrosceles	Piliocolobus tephrosceles	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Piliocolobus			
+XM_012657015	IFNL-B-Mammal-2	Propithecus coquereli	Propithecus coquereli	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Indriidae	Propithecus			
+XM_012775213	IFNL-B-Mammal-2	Microcebus murinus	Microcebus murinus	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cheirogaleidae	Microcebus			
+NM_001142837	IFNL-B-Mammal-3	Sus scrofa	Sus scrofa	IFNL	Mammal	B	2			2	Laurasiatheria	Unclassified	Suidae	Sus			
+NW_016529666	IFNL-B-Mammal-4	Manis javanica	Manis javanica	IFNL	Mammal	B	2			2	Laurasiatheria	Pholidota	Manidae	Manis			
+XM_011973358	IFNL-B-Mammal-5	Mandrillus leucophaeus	Mandrillus leucophaeus	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Mandrillus			
+XM_012775211	IFNL-B-Mammal-6	Microcebus murinus	Microcebus murinus	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cheirogaleidae	Microcebus			
+XM_015820664	IFNL-B-Mammal-7	Protobothrops mucrosquamatus	Protobothrops mucrosquamatus	IFNL	Mammal	B	2			2	Lepidosauria	Squamata	Viperidae	Protobothrops			
+XM_017503064	IFNL-B-Mammal-8	Cebus imitator	Cebus imitator	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cebidae	Cebus			
+XM_017887367	IFNL-B-Mammal-9	Rhinopithecus bieti	Rhinopithecus bieti	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
+XM_019014911	IFNL-B-Mammal-10	Gorilla gorilla gorilla	Gorilla gorilla gorilla	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hominidae	Gorilla			
+XM_023229397	IFNL-B-Mammal-11	Piliocolobus tephrosceles	Piliocolobus tephrosceles	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Piliocolobus			
+XM_024237432	IFNL-B-Mammal-12	Pongo abelii	Pongo abelii	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hominidae	Pongo			
+XM_027855300	IFNL-B-Mammal-13	Vombatus ursinus	Vombatus ursinus	IFNL	Mammal	B	2			2	Unclassified	Diprotodontia	Vombatidae	Vombatus			
+XM_025367960	IFNL-B-Mammal-14	Theropithecus gelada	Theropithecus gelada	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Theropithecus			
+XM_027855300	IFNL-B-Mammal-15	Vombatus ursinus	Vombatus ursinus	IFNL	Mammal	B	2			2	Unclassified	Diprotodontia	Vombatidae	Vombatus			
+XM_029924289	IFNL-B-Mammal-16	Suricata suricatta	Suricata suricatta	IFNL	Mammal	B	2			2	Laurasiatheria	Carnivora	Herpestidae	Suricata			
+XM_030796492	IFNL-B-Mammal-17	Nomascus leucogenys	Nomascus leucogenys	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Hylobatidae	Nomascus			
+XM_032273584	IFNL-B-Mammal-18	Sapajus apella	Sapajus apella	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cebidae	Sapajus			
+XM_032326013	IFNL-B-Mammal-19	Mustela erminea	Mustela erminea	IFNL	Mammal	B	2			2	Laurasiatheria	Carnivora	Mustelidae	Mustela			
+XM_032850864	IFNL-B-Mammal-20	Lontra canadensis	Lontra canadensis	IFNL	Mammal	B	2			2	Laurasiatheria	Carnivora	Mustelidae	Lontra			
+XM_033226159	IFNL-B-Mammal-21	Trachypithecus francoisi	Trachypithecus francoisi	IFNL	Mammal	B	2			2	Euarchontoglires	Primates	Cercopithecidae	Trachypithecus			
