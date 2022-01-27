@@ -1,5 +1,5 @@
   delete module ifnlFeaturePresenceRecorder
-  create module -f modules/core/ifnlFeaturePresenceRecorder.xml
+  create module -f modules/build/core/ifnlFeaturePresenceRecorder.xml
 
   module ifnlFeaturePresenceRecorder 
 

@@ -1,8 +1,8 @@
   delete module ifnlGenbankXmlPopulator
   delete module ifnlSideDataImporter
   
-  create module -f modules/core/ifnlGenbankXmlPopulator.xml
-  create module -f modules/core/ifnlSideDataImporter.xml
+  create module -f modules/build/core/ifnlGenbankXmlPopulator.xml
+  create module -f modules/build/core/ifnlSideDataImporter.xml
 
   # Import GenBank side data
   module ifnlGenbankXmlPopulator populate
