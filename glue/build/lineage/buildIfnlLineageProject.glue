@@ -25,6 +25,10 @@ project ifnl
   # Define variations 
   run file glue/build/lineage/ifnlVariations.glue
 
+  # Scan variations 
+  run file glue/build/lineage/ifnlScanVariations.js
+
+
   # Validate
   validate
 

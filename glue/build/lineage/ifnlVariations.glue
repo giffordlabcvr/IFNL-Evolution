@@ -1,18 +1,3 @@
-# REF_IFNLa_Mammal (IFNL4)
-reference REF_IFNL_Mammal_a
-
-  feature-location orf
-  
-    # Glycosylation site
-    create variation n-linked-glycosylation -t aminoAcidRegexPolymorphism --labeledCodon 50 100
-    variation n-linked-glycosylation    
-      set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
-      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
-      exit
-                                    
-    exit
-  
-  exit
 
 
 reference REF_IFNL_Mammal_b_MASTER
@@ -32,8 +17,8 @@ reference REF_IFNL_Mammal_b_MASTER
   feature-location glycosylation-region-2
 
     # Glycosylation site 2
-    create variation n-linked-glycosylation-o1 -t aminoAcidRegexPolymorphism --labeledCodon 113 117
-    variation n-linked-glycosylation-o1   
+    create variation n-linked-glycosylation-o2 -t aminoAcidRegexPolymorphism --labeledCodon 113 117
+    variation n-linked-glycosylation-o2   
       set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
       set metatag ALLOW_PARTIAL_COVERAGE TRUE 
       exit
@@ -43,13 +28,16 @@ reference REF_IFNL_Mammal_b_MASTER
   feature-location glycosylation-region-3
 
     # Glycosylation site 3
-    create variation n-linked-glycosylation-o2 -t aminoAcidRegexPolymorphism --labeledCodon 116 118 
-    variation n-linked-glycosylation-o2   
+    create variation n-linked-glycosylation-o3 -t aminoAcidRegexPolymorphism --labeledCodon 116 118 
+    variation n-linked-glycosylation-o3
       set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
       set metatag ALLOW_PARTIAL_COVERAGE TRUE 
       exit
                                     
     exit
+
+
+
 
   feature-location orf
 
@@ -63,7 +51,23 @@ reference REF_IFNL_Mammal_b_MASTER
     exit
 
   
+exit
+
+
+
+# REF_IFNLa_Mammal (IFNL4)
+reference REF_IFNL_Mammal_a
+
+  feature-location orf
+  
+    # Glycosylation site
+    create variation n-linked-glycosylation -t aminoAcidRegexPolymorphism --labeledCodon 50 100
+    variation n-linked-glycosylation    
+      set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
+      exit
+                                    
+    exit
+  
   exit
-
-
-
+s
