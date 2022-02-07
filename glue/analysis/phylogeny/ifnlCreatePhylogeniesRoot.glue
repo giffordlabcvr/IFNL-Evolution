@@ -6,8 +6,10 @@
   delete module ifnlFeaturePresenceRecorder
 
 
-  create module -f modules/core/ifnlTreeAlignmentImporterNucs.xml
-  create module -f modules/core/ifnlFeaturePresenceRecorder.xml
+
+  create module -f modules/build/core/ifnlFeaturePresenceRecorder.xml
+
+  create module -f modules/analysis/phylogeny/ifnlTreeAlignmentImporterNucs.xml
   create module -f modules/analysis/phylogeny/ifnlPhyloUtility.xml
   create module -f modules/analysis/phylogeny/ifnlFigTreeAnnotationExporter.xml
   create module -f modules/analysis/phylogeny/fastaAlignmentExporterTree.xml
