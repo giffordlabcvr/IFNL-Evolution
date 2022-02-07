@@ -1,4 +1,7 @@
-  
+  delete alignment AL_UNC_TREE_IFNL_MAMMAL_A
+  delete alignment AL_UNC_TREE_IFNL_MAMMAL_B
+  delete alignment AL_TREE_IFNL_MAMMAL_A
+  delete alignment AL_TREE_IFNL_MAMMAL_B
   
   delete module raxmlPhylogenyGenerator
   delete module ifnlPhyloUtility
@@ -7,19 +10,18 @@
   delete module ifnlTreeAlignmentImporterNucs
   delete module ifnlFeaturePresenceRecorder
 
+  create module -f modules/build/core/ifnlFeaturePresenceRecorder.xml
+
   create module -t raxmlPhylogenyGenerator
-  create module -f modules/core/ifnlPhyloUtility.xml
-  create module -f modules/core/ifnlFigTreeAnnotationExporter.xml
-  create module -f modules/core/ifnlTreeAlignmentImporterNucs.xml
-
-  create module -f modules/core/fastaAlignmentExporterTree.xml
-  create module -f modules/core/ifnlFeaturePresenceRecorder.xml
-
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalA.xml
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_longest.xml
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_midrange.xml
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_strict.xml
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_strictest.xml
+  create module -f modules/analysis/phylogeny/ifnlPhyloUtility.xml
+  create module -f modules/analysis/phylogeny/ifnlFigTreeAnnotationExporter.xml
+  create module -f modules/analysis/phylogeny/ifnlTreeAlignmentImporterNucs.xml
+  create module -f modules/analysis/phylogeny/fastaAlignmentExporterTree.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_longest.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_midrange.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_strict.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_strictest.xml
 
 
   # Export the recursively populated alignments for each major clade
@@ -53,20 +55,20 @@
   # Create the phylogenies
   module raxmlPhylogenyGenerator
 
-    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_A -s alignmentColumnsSelectorIfnlMammalA \
-      -a -o trees/subclade/IfnlMammala.tre NEWICK_BOOTSTRAPS
+    #generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_A -s alignmentColumnsSelectorIfnlMammalA \
+    #  -a -o trees/subclade/IfnlMammala.tre NEWICK_BOOTSTRAPS
 
-    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_longest \
-      -a -o trees/subclade/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS
+    #generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_longest \
+    #  -a -o trees/subclade/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS
 
-    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_midrange \
-      -a -o trees/subclade/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS
+    #generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_midrange \
+    #  -a -o trees/subclade/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS
       
-    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_strict \
-      -a -o trees/subclade/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS
+    #generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_strict \
+    #  -a -o trees/subclade/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS
 
-    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_strictest \
-      -a -o trees/subclade/IfnlMammalb_strictest.tre NEWICK_BOOTSTRAPS
+    #generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_strictest \
+    #  -a -o trees/subclade/IfnlMammalb_strictest.tre NEWICK_BOOTSTRAPS
 
     exit
 

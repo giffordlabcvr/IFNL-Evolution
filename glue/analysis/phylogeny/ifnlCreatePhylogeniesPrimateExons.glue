@@ -4,27 +4,22 @@
   delete module ifnlPhyloUtility
 
   create module -t raxmlPhylogenyGenerator
-  create module -f modules/core/ifnlPhyloUtility.xml
- 
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon1.xml
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon1+2.xml
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon1+2+3.xml
   
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon2.xml
-  
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon3.xml
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon3+4.xml
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon3+4+5.xml
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon3+4+5+6.xml
-  
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon4.xml
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon4+5.xml
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon4+5+6.xml
-  
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon5.xml
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon5+6.xml
-
-  create module -f modules/lineage/alignmentColumnsSelectorIfnlMammalB_exon6.xml
+  create module -f modules/analysis/phylogeny/ifnlPhyloUtility.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon1.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon1+2.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon1+2+3.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon2.xml 
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon3.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon3+4.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon3+4+5.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon3+4+5+6.xml 
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon4.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon4+5.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon4+5+6.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon5.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon5+6.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalB_exon6.xml
 
 
     
