@@ -13,15 +13,10 @@
     create field duplicate_numeric_id VARCHAR 50
     create field subclade VARCHAR 50
     
-    create field glycosylation_o1_coverage VARCHAR 50
     create field glycosylation_o1_present VARCHAR 50
-    create field glycosylation_o2_coverage VARCHAR 50
     create field glycosylation_o2_present VARCHAR 50
-    create field glycosylation_o3_coverage VARCHAR 50
     create field glycosylation_o3_present VARCHAR 50
-    create field glycosylation_o4_coverage VARCHAR 50
     create field glycosylation_o4_present VARCHAR 50
-    create field glycosylation_o5_coverage VARCHAR 50
     create field glycosylation_o5_present VARCHAR 50
 
     create field length INTEGER

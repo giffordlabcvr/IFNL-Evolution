@@ -36,9 +36,6 @@ reference REF_IFNL_Mammal_b_MASTER
                                     
     exit
 
-
-
-
   feature-location orf
 
     # Glycosylation site anywhere in orf
@@ -70,4 +67,3 @@ reference REF_IFNL_Mammal_a
     exit
   
   exit
-s

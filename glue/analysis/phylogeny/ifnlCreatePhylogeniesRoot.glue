@@ -5,17 +5,17 @@
   delete module ifnlTreeAlignmentImporterNucs
   delete module ifnlFeaturePresenceRecorder
 
-  create module -t raxmlPhylogenyGenerator
-  create module -f modules/core/ifnlPhyloUtility.xml
-  create module -f modules/core/ifnlFigTreeAnnotationExporter.xml
+
   create module -f modules/core/ifnlTreeAlignmentImporterNucs.xml
-
-  create module -f modules/core/fastaAlignmentExporterTree.xml
   create module -f modules/core/ifnlFeaturePresenceRecorder.xml
-
-  create module -f modules/core/alignmentColumnsSelectorIfnlRoot1.xml
-  create module -f modules/core/alignmentColumnsSelectorIfnlRoot2.xml
-  create module -f modules/core/alignmentColumnsSelectorIfnlRoot3.xml
+  create module -f modules/analysis/phylogeny/ifnlPhyloUtility.xml
+  create module -f modules/analysis/phylogeny/ifnlFigTreeAnnotationExporter.xml
+  create module -f modules/analysis/phylogeny/fastaAlignmentExporterTree.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlRoot1.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlRoot2.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlRoot3.xml
+  create module -t raxmlPhylogenyGenerator
+  
 
   # Export the recursively populated root gene alignments 
   module fastaAlignmentExporterTree

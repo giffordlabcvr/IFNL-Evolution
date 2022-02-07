@@ -26,8 +26,9 @@ project ifnl
   run file glue/build/lineage/ifnlVariations.glue
 
   # Scan variations 
-  run file glue/build/lineage/ifnlScanVariations.js
-
+  run script glue/build/lineage/ifnlScanVariationsGlycos1.js
+  run script glue/build/lineage/ifnlScanVariationsGlycos2.js
+  run script glue/build/lineage/ifnlScanVariationsGlycos3.js
 
   # Validate
   validate

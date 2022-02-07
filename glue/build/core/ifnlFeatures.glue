@@ -109,5 +109,10 @@
   create feature glycosylation-region-3 -p orf "Glycosylation region 3"
   feature glycosylation-region-3  set metatag CODES_AMINO_ACIDS true
 
+  create feature glycosylation-region-4 -p orf "Glycosylation region 4"
+  feature glycosylation-region-4  set metatag CODES_AMINO_ACIDS true
+
+  create feature glycosylation-region-5 -p orf "Glycosylation region 5"
+  feature glycosylation-region-5  set metatag CODES_AMINO_ACIDS true
 
 

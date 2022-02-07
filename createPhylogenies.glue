@@ -1,0 +1,9 @@
+# Run phylogenetic analysis
+project ifnl
+
+  run file glue/analysis/phylogeny/ifnlCreatePhylogeniesRoot.glue
+  run file glue/analysis/phylogeny/ifnlCreatePhylogeniesPrimateExons.glue
+  run file glue/analysis/phylogeny/ifnlCreatePhylogeniesClades.glue
+
+  exit
+
