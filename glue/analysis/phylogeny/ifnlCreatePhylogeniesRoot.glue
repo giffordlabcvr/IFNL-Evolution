@@ -42,14 +42,14 @@
   # Create the phylogenies
   module raxmlPhylogenyGenerator
 
-    #generate nucleotide phylogeny AL_TREE_IFNL_ROOT -s alignmentColumnsSelectorIfnlRoot1 \
-    #  -a -o trees/root/IfnlRoot1.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_IFNL_ROOT -s alignmentColumnsSelectorIfnlRoot1 \
+      -a -o trees/root/IfnlRoot1.tre NEWICK_BOOTSTRAPS
 
-    #generate nucleotide phylogeny AL_TREE_IFNL_ROOT -s alignmentColumnsSelectorIfnlRoot2 \
-    #  -a -o trees/root/IfnlRoot2.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_IFNL_ROOT -s alignmentColumnsSelectorIfnlRoot2 \
+      -a -o trees/root/IfnlRoot2.tre NEWICK_BOOTSTRAPS
 
-    #generate nucleotide phylogeny AL_TREE_IFNL_ROOT -s alignmentColumnsSelectorIfnlRoot3 \
-    #  -a -o trees/root/IfnlRoot3.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_IFNL_ROOT -s alignmentColumnsSelectorIfnlRoot3 \
+      -a -o trees/root/IfnlRoot3.tre NEWICK_BOOTSTRAPS
 
     exit
 

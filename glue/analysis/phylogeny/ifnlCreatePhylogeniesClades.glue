@@ -55,20 +55,20 @@
   # Create the phylogenies
   module raxmlPhylogenyGenerator
 
-    #generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_A -s alignmentColumnsSelectorIfnlMammalA \
-    #  -a -o trees/subclade/IfnlMammala.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_A -s alignmentColumnsSelectorIfnlMammalA \
+      -a -o trees/subclade/IfnlMammala.tre NEWICK_BOOTSTRAPS
 
-    #generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_longest \
-    #  -a -o trees/subclade/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_longest \
+      -a -o trees/subclade/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS
 
-    #generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_midrange \
-    #  -a -o trees/subclade/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_midrange \
+      -a -o trees/subclade/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS
       
-    #generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_strict \
-    #  -a -o trees/subclade/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_strict \
+      -a -o trees/subclade/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS
 
-    #generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_strictest \
-    #  -a -o trees/subclade/IfnlMammalb_strictest.tre NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_TREE_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_strictest \
+      -a -o trees/subclade/IfnlMammalb_strictest.tre NEWICK_BOOTSTRAPS
 
     exit
 
