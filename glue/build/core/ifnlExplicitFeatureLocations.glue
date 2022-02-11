@@ -122,14 +122,23 @@
     add feature-location loop4
     feature-location loop4 add segment 349 354  
 
-    add feature-location glycosylation-region-1
-    feature-location glycosylation-region-1 add segment 214 222
+    add feature-location glycosylation-region-a
+    feature-location glycosylation-region-a add segment 88 117
 
-    add feature-location glycosylation-region-2
-    feature-location glycosylation-region-2 add segment 337 354
+    add feature-location glycosylation-region-b
+    feature-location glycosylation-region-b add segment 118 150
 
-    add feature-location glycosylation-region-3
-    feature-location glycosylation-region-3 add segment 343 354
+    add feature-location glycosylation-region-c
+    feature-location glycosylation-region-c add segment 163 195
+
+    add feature-location glycosylation-region-d
+    feature-location glycosylation-region-d add segment 208 240
+
+    add feature-location glycosylation-region-e
+    feature-location glycosylation-region-e add segment 298 327
+
+    add feature-location glycosylation-region-f
+    feature-location glycosylation-region-f add segment 328 360
 
     add feature-location helix-d
     feature-location helix-d add segment 355 417   

@@ -66,9 +66,23 @@
 	
 	<figTreeAnnotation>
 		<annotationName>glycosylation_o3_present</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o2_present')}</valueFreemarkerTemplate>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o3_present')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+		
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o4_present</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o4_present')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 	
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o5_present</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o5_present')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o6_present</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o6_present')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
 	
 	
 </figTreeAnnotationExporter>

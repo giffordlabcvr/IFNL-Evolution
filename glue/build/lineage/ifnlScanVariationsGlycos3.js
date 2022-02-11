@@ -2,7 +2,7 @@
 // Load EVE reference data from tab file 
 var scanResult;
 glue.inMode("alignment/AL_IFNL_MAMMAL_B", function() {
-	scanResult = glue.tableToObjects(glue.command(["variation", "member", "scan", "-r", "REF_IFNL_Mammal_b_MASTER", "-f", "glycosylation-region-3", "-v", "n-linked-glycosylation-o3", "-t"]));
+	scanResult = glue.tableToObjects(glue.command(["variation", "member", "scan", "-r", "REF_IFNL_Mammal_b_MASTER", "-f", "glycosylation-region-c", "-v", "n-linked-glycosylation-o3", "-t"]));
 	//glue.log("INFO", "load result was:", scanResult);
 });
 

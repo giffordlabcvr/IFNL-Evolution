@@ -18,7 +18,8 @@
     create field glycosylation_o3_present VARCHAR 50
     create field glycosylation_o4_present VARCHAR 50
     create field glycosylation_o5_present VARCHAR 50
-
+    create field glycosylation_o6_present VARCHAR 50
+    
     create field length INTEGER
     create field pubmed_id VARCHAR 50
     create field gb_lab_construct BOOLEAN
