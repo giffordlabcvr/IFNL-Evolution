@@ -1,0 +1,119 @@
+   
+  
+  delete module raxmlPhylogenyGenerator
+  delete module ifnlPhyloUtility
+
+  create module -t raxmlPhylogenyGenerator
+  
+  create module -f modules/analysis/phylogeny/ifnlPhyloUtility.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon1.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon1+2.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon1+2+3.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon2.xml 
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon3.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon3+4.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon3+4+5.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon3+4+5+6.xml 
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon4.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon4+5.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon4+5+6.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon5.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon5+6.xml
+  create module -f modules/analysis/phylogeny/alignmentColumnsSelectorIfnlMammalA_exon6.xml
+
+
+    
+  # Create the phylogenies
+  module raxmlPhylogenyGenerator
+
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalA_exon1 \
+       -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon1' and fLocNotes.ref_nt_coverage_pct >= 90" \
+       -o trees/subclade-exons/IfnlMammalA_exon1.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalA_exon2 \
+       -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon2' and fLocNotes.ref_nt_coverage_pct >= 90" \
+       -o trees/subclade-exons/IfnlMammalA_exon2.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalA_exon3 \
+       -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon3' and fLocNotes.ref_nt_coverage_pct >= 90" \
+       -o trees/subclade-exons/IfnlMammalA_exon3.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalA_exon4 \
+       -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon4' and fLocNotes.ref_nt_coverage_pct >= 90" \
+       -o trees/subclade-exons/IfnlMammalA_exon4.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalA_exon5 \
+       -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon5' and fLocNotes.ref_nt_coverage_pct >= 90" \
+       -o trees/subclade-exons/IfnlMammalA_exon5.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalA_exon1+2 \
+       -w "fLocNotes.featureLoc.feature.name = 'mRNA_exon1+2' and fLocNotes.ref_nt_coverage_pct >=89" \
+       -o trees/subclade-exons/IfnlMammalA_exon1+2.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalA_exon1+2+3 \
+      -a -o trees/subclade-exons/IfnlMammalA_exon1+2+3.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalA_exon3+4+5 \
+      -a -o trees/subclade-exons/IfnlMammalA_exon3+4+5.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalA_exon3+4+5+6 \
+      -a -o trees/subclade-exons/IfnlMammalA_exon3+4+5+6.tre NEWICK_BOOTSTRAPS
+
+
+    exit
+
+ 
+  # Re-root phylogeny 
+  module ifnlPhyloUtility 
+
+	reroot-phylogeny \
+      --inputFile trees/subclade-exons/IfnlMammalA_exon1.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subclade-exons/IfnlMammalA_exon1-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/subclade-exons/IfnlMammalA_exon2.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subclade-exons/IfnlMammalA_exon2-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/subclade-exons/IfnlMammalA_exon3.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subclade-exons/IfnlMammalA_exon3-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/subclade-exons/IfnlMammalA_exon4.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subclade-exons/IfnlMammalA_exon4-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/subclade-exons/IfnlMammalA_exon5.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subclade-exons/IfnlMammalA_exon5-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/subclade-exons/IfnlMammalA_exon1+2.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subclade-exons/IfnlMammalA_exon1+2-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/subclade-exons/IfnlMammalA_exon1+2+3.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subclade-exons/IfnlMammalA_exon1+2+3-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/subclade-exons/IfnlMammalA_exon3+4+5.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subclade-exons/IfnlMammalA_exon3+4+5-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/subclade-exons/IfnlMammalA_exon3+4+5+6.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subclade-exons/IfnlMammalA_exon3+4+5+6-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+    exit
+
+
+
+
+

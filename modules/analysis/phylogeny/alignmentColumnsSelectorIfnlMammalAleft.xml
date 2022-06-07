@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alignmentColumnsSelector>
+
+    <relRefName>REF_IFNL_Mammal_a</relRefName>
+    
+    <aminoAcidRegionSelector>
+        <featureName>orf</featureName>
+        <startCodon>27</startCodon>
+        <endCodon>179</endCodon>
+    </aminoAcidRegionSelector>
+    
+    <nucleotideRegionSelector>
+        <featureName>orf</featureName>
+        <startNt>356</startNt>
+        <endNt>815</endNt>
+    </nucleotideRegionSelector>
+    
+</alignmentColumnsSelector>
+
+
+     
