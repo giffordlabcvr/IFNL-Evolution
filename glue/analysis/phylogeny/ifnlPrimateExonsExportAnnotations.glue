@@ -15,5 +15,8 @@
     export figtree-annotation AL_IFNL_MAMMAL_B -f trees/subclade-exons/IfnlMammalb_exon3+4+5.figtree-annotations.tsv        
     export figtree-annotation AL_IFNL_MAMMAL_B -f trees/subclade-exons/IfnlMammalb_exon3+4+5+6.figtree-annotations.tsv        
 
+    export figtree-annotation AL_IFNL_MAMMAL_A -f trees/subclade-exons/IfnlMammala_exon1+2.figtree-annotations.tsv        
+    export figtree-annotation AL_IFNL_MAMMAL_A -f trees/subclade-exons/IfnlMammala_exon3+4+5+6.figtree-annotations.tsv        
+
   exit
 
