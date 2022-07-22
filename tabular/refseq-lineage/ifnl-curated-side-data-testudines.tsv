@@ -1,24 +1,25 @@
-id	name	species	Species	gene_id	vertebrate_lineage	clade	major_subclade	duplicate_id	duplicate_type	duplicate_numeric_id	Superorder	Species_order	Family	Genus	protein_accession	ref	reference_id
-XM_039495235		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495234		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495233		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495232		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495231		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495230		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495229		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495226		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495225		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495223		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495222		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495221		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495220		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495219		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495218		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039495216		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_039494269		Mauremys reevesii	Mauremys reevesii	IFNL	Testudines						Testudines						
-XM_038422346		Dermochelys coriacea	Dermochelys coriacea	IFNL	Testudines						Testudines						
-XM_038420981		Dermochelys coriacea	Dermochelys coriacea	IFNL	Testudines						Testudines						
-XM_037912773		Chelonia mydas	Chelonia mydas	IFNL	Testudines						Testudines						
-XM_026646209		Terrapene carolina	Terrapene carolina	IFNL	Testudines						Testudines						
-XM_025186888		Pelodiscus sinensis	Pelodiscus sinensis	IFNL	Testudines						Testudines						 
-XM_008173201		Chrysemys picta bellii	Chrysemys picta bellii	IFNL	Testudines						Testudines						 
+id	gene_id	clade	species	Class	Superorder	Order	Family	Genus	protein_accession	ref	reference_id
+XM_039495235	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495234	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495233	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495232	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495231	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495230	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495229	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495226	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495225	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495223	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495222	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495221	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495220	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495219	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495218	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039495216	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_039494269	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
+XM_038422346	IFNL-Testudines	1	Dermochelys coriacea	Unclassified	Unclassified	Testudines	Dermochelyidae	Dermochelys			
+XM_038420981	IFNL-Testudines	1	Dermochelys coriacea	Unclassified	Unclassified	Testudines	Dermochelyidae	Dermochelys			
+XM_037912773	IFNL-Testudines	1	Chelonia mydas	Unclassified	Unclassified	Testudines	Cheloniidae	Chelonia			
+XM_026646209	IFNL-Testudines	1	Terrapene carolina	Unclassified	Unclassified	Testudines	Emydidae	Terrapene			
+XM_025186888	IFNL-Testudines	1	Pelodiscus sinensis	Unclassified	Unclassified	Testudines	Trionychidae	Pelodiscus			 
+XM_008173201	IFNL-Testudines	1	Chrysemys picta bellii	Unclassified	Unclassified	Testudines	Emydidae	Chrysemys			 
+XM_030580530	IFNL-Testudines	1	Gopherus evgoodei	Unclassified	Unclassified	Testudines	Testudinidae	Gopherus			

@@ -48,27 +48,7 @@
         <header>clade</header>
         <property>clade</property>
     </textFileColumn>
-        
-   <textFileColumn>
-        <header>vertebrate_lineage</header>
-        <property>vertebrate_lineage</property>
-    </textFileColumn>
-    
-   <textFileColumn>
-        <header>major_subclade</header>
-        <property>major_subclade</property>
-    </textFileColumn>
-
-   <textFileColumn>
-        <header>duplicate_type</header>
-        <property>duplicate_type</property>
-    </textFileColumn>
-    
-    <textFileColumn>
-        <header>duplicate_numeric_id</header>
-        <property>duplicate_numeric_id</property>
-    </textFileColumn>
-
+            
     <skipMissing>true</skipMissing>
 
 </textFilePopulator>

@@ -9,7 +9,8 @@
 
   # Import metadata for IFNL curated sequences
   module ifnlSideDataImporter 
-    populate -f tabular/refseq-lineage/ifnl-curated-side-data-mammalia.tsv
+    populate -f tabular/refseq-lineage/ifnl-curated-side-data-mammalia-a.tsv
+    populate -f tabular/refseq-lineage/ifnl-curated-side-data-mammalia-b.tsv
     populate -f tabular/refseq-lineage/ifnl-curated-side-data-aves.tsv
     populate -f tabular/refseq-lineage/ifnl-curated-side-data-testudines.tsv
     exit
