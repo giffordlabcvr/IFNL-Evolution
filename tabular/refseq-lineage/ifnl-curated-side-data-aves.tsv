@@ -1,4 +1,4 @@
-id	gene_id	clade	species	Class	Superorder	Order	Family	Genus	reference_id
+id	name	gene_id	species	Class	Superorder	Species_order	Family	Genus	reference_id
 XM_009074191	IFNL-B-Aves	Neognathae	Acanthisitta chloris	Aves	Neognathae	Passeriformes	Acanthisittidae	Acanthisitta	
 NM_001310792	IFNL-B-Aves	Neognathae	Anas platyrhynchos	Aves	Neognathae	Anseriformes	Anatidae	Anas	
 XM_038181725	IFNL-B-Aves	Neognathae	Anas platyrhynchos	Aves	Neognathae	Anseriformes	Anatidae	Anas	

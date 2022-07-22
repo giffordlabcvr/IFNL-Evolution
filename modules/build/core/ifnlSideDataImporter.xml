@@ -44,11 +44,7 @@
         <property>gene_id</property>
     </textFileColumn>
 
-   <textFileColumn>
-        <header>clade</header>
-        <property>clade</property>
-    </textFileColumn>
-            
+
     <skipMissing>true</skipMissing>
 
 </textFilePopulator>

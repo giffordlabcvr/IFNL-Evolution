@@ -1,4 +1,4 @@
-id	gene_id	clade	species	Class	Superorder	Order	Family	Genus	protein_accession	ref	reference_id
+id	name	gene_id	species	Class	Superorder	Species_order	Family	Genus	protein_accession	ref	reference_id
 XM_039495235	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
 XM_039495234	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
 XM_039495233	IFNL-Testudines	1	Mauremys reevesii	Unclassified	Unclassified	Testudines	Geoemydidae	Mauremys			
