@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>XM_008582050</GBSeq_locus>
+    <GBSeq_length>576</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>MAM</GBSeq_division>
+    <GBSeq_update-date>22-JUL-2014</GBSeq_update-date>
+    <GBSeq_create-date>22-JUL-2014</GBSeq_create-date>
+    <GBSeq_definition>PREDICTED: Galeopterus variegatus interferon, lambda 1 (IFNL1), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>XM_008582050</GBSeq_primary-accession>
+    <GBSeq_accession-version>XM_008582050.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|XM_008582050.1|</GBSeqid>
+      <GBSeqid>gi|667245318</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA253111</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Galeopterus variegatus (Sunda flying lemur)</GBSeq_source>
+    <GBSeq_organism>Galeopterus variegatus</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Dermoptera; Cynocephalidae; Galeopterus</GBSeq_taxonomy>
+    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NW_007726204.1) annotated using gene prediction method: Gnomon.~Also see:~ Documentation of NCBI's Annotation Process~; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Version :: Galeopterus variegatus Annotation Release 100 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 6.0 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..576</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>576</GBInterval_to>
+            <GBInterval_accession>XM_008582050.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Galeopterus variegatus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:482537</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>Unknown</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>sex</GBQualifier_name>
+            <GBQualifier_value>male</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Indonesia: West Java</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>Minoru Baba</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..576</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>576</GBInterval_to>
+            <GBInterval_accession>XM_008582050.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 5 Proteins, and 54% coverage of the annotated genomic feature by RNAseq alignments</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:103598107</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..576</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>576</GBInterval_to>
+            <GBInterval_accession>XM_008582050.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>IFNL1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>interferon lambda-1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>XP_008580272.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:103598107</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAAAWILVLMPVVLGLARAGPLPTSKATTTGTGCNIGRFKSLSPRELEAFKKAKNALEESLLLKNWSCSSRLFPRTWDLRQLQVQERSIALEAELALTLKVLVTVTDPALGDILDQPLHTLHYIHSQLQACVPAQPTAGPRPRGRLHHWLHRLQEAPNKESPGCLEASVTFNLFRLLTRDLKCVASGDLCV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggctgcagcatggatcctggtgctgatgcctgtggtgctgggtttggccagagcaggtcctctccccacttccaaggccaccaccactgggacgggctgcaacatcggcaggttcaagtctctgtcgccacgggagctggaggccttcaagaaggctaagaatgccttggaagagtccctcctgctgaaaaactggagctgcagctcccgcctcttccccaggacctgggacctgaggcagcttcaggtgcaggagcgctccatagctctggaggctgagctggccctgacgctgaaggtcctggtgaccgtgactgacccggccctgggggacatcctggaccagccccttcacacactgcactacatccactcccagctccaggcctgtgtccctgctcagcccacagcaggccccaggccccgaggtcgcctccaccactggctgcaccggctccaggaggccccaaacaaggagtcccctggatgcctggaggcctctgtcaccttcaacctcttccgcctcctcacacgggacctgaaatgtgtcgccagtggagacctgtgtgtctga</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA253111</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>

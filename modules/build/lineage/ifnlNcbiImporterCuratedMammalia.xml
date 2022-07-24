@@ -51,7 +51,18 @@
 	  <primaryAccession>XM_012657015</primaryAccession>
 	  <primaryAccession>XM_012775213</primaryAccession>
 
-   
+
+ 	  <primaryAccession>XM_036345646</primaryAccession>
+	  <primaryAccession>XM_036346847</primaryAccession>
+	  <primaryAccession>XM_036346724</primaryAccession>
+	  <primaryAccession>XM_036346877</primaryAccession>
+	  <primaryAccession>XM_036346728</primaryAccession>
+	  <primaryAccession>XM_036324441</primaryAccession>
+ 	  <primaryAccession>XM_036323965</primaryAccession>
+ 	  <primaryAccession>XM_008582050</primaryAccession>
+ 	  
+ 	  
+ 	  <!-- <primaryAccession>XM_16934446</primaryAccession> -->	   
 	  <!-- <primaryAccession>XM_003812246</primaryAccession> -->	   
 	  <!-- <primaryAccession>XM_021930467</primaryAccession> -->	   
 	  <!-- <primaryAccession>XM_010380921</primaryAccession> -->	  
@@ -84,7 +95,7 @@
 	  <primaryAccession>XM_006140390</primaryAccession>
 	  <primaryAccession>XM_006871441</primaryAccession>
 	  <primaryAccession>XM_006941288</primaryAccession>
-	  <primaryAccession>XM_006986319</primaryAccession>
+
 	  <primaryAccession>XM_007179988</primaryAccession>
 	  <primaryAccession>XM_007179990</primaryAccession>
 	  <primaryAccession>XM_007180046</primaryAccession>
@@ -125,7 +136,6 @@
 	  <primaryAccession>XM_019431940</primaryAccession>
 	  <primaryAccession>XM_019431989</primaryAccession>
 	  <primaryAccession>XM_019666268</primaryAccession>
-	  <primaryAccession>XM_019818982</primaryAccession>
 	  <primaryAccession>XM_020156959</primaryAccession>
 	  <primaryAccession>XM_020156960</primaryAccession>
 	  <primaryAccession>XM_021097830</primaryAccession>
@@ -138,8 +148,6 @@
 	  <primaryAccession>XM_023760558</primaryAccession>
 	  <primaryAccession>XM_023760577</primaryAccession>
 	  
-	  
-	  <primaryAccession>XM_025268277</primaryAccession>
 	  <primaryAccession>XM_025268342</primaryAccession>
 	  <primaryAccession>XM_027765624</primaryAccession>
 
@@ -151,13 +159,18 @@
 	  <primaryAccession>XM_028859190</primaryAccession>
 
 
-	  <!-- <primaryAccession>XM_001517881</primaryAccession>  -->
+	  <!-- <primaryAccession>XM_001517881</primaryAccession> -->
 	  <!-- <primaryAccession>XM_008964650</primaryAccession> -->
 	  <!-- <primaryAccession>XM_008964691</primaryAccession> -->
 	  <!-- <primaryAccession>XM_008987976</primaryAccession> -->
 	  <!-- <primaryAccession>XM_012496610</primaryAccession> -->
 	  <!-- <primaryAccession>XM_016165227</primaryAccession> -->
-
+	  <!-- <primaryAccession>XM_006986319</primaryAccession> -->
+	  <!-- <primaryAccession>XM_019818982</primaryAccession> -->
+	  
+	  <!--  <primaryAccession>XM_025268277</primaryAccession> -->
+	  
+	  
 	  <primaryAccession>XM_033226159</primaryAccession>
 	  <primaryAccession>XM_011973358</primaryAccession>
 	  <primaryAccession>XM_030796492</primaryAccession>

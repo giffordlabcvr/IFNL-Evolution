@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>XM_036324441</GBSeq_locus>
+    <GBSeq_length>1677</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>MAM</GBSeq_division>
+    <GBSeq_update-date>30-SEP-2020</GBSeq_update-date>
+    <GBSeq_create-date>30-SEP-2020</GBSeq_create-date>
+    <GBSeq_definition>PREDICTED: Myotis myotis interferon lambda-3-like (LOC118664391), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>XM_036324441</GBSeq_primary-accession>
+    <GBSeq_accession-version>XM_036324441.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|XM_036324441.1|</GBSeqid>
+      <GBSeqid>gi|1911123974</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA665501</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Myotis myotis</GBSeq_source>
+    <GBSeq_organism>Myotis myotis</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Laurasiatheria; Chiroptera; Microchiroptera; Vespertilionidae; Myotis</GBSeq_taxonomy>
+    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NW_023416314.1) annotated using gene prediction method: Gnomon.~Also see:~ Documentation of NCBI's Annotation Process~; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Name :: Myotis myotis Annotation Release 100 ; Annotation Version :: 100 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 8.5 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1677</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1677</GBInterval_to>
+            <GBInterval_accession>XM_036324441.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Myotis myotis</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>mMyoMyo1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:51298</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>Unknown</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>sex</GBQualifier_name>
+            <GBQualifier_value>female</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>tissue_type</GBQualifier_name>
+            <GBQualifier_value>flight muscle</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>dev_stage</GBQualifier_name>
+            <GBQualifier_value>adult</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>France: Limerzel</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lat_lon</GBQualifier_name>
+            <GBQualifier_value>47.6333 N 2.3500 W</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2015</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>Emma Teeling, Sebastien Puechmaille</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1677</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1677</GBInterval_to>
+            <GBInterval_accession>XM_036324441.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC118664391</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 13 Proteins, and 100% coverage of the annotated genomic feature by RNAseq alignments</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:118664391</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1002..1604</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1002</GBInterval_from>
+            <GBInterval_to>1604</GBInterval_to>
+            <GBInterval_accession>XM_036324441.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC118664391</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>interferon lambda-3-like</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>XP_036180334.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:118664391</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKRDLAVCCTLVLVLMLMASVLTRTGAAPAPTPARTHLGARGCHMGQFKSLSPQEMKAFKRVKDALEESLLLKNWSCGSRPLPRTRDLRQLQVWERPVALEAELALTLKVLGTLKNSTLGDILDQPLHTLHHIHSKLQACVPAQATAGPRPRGPLRQWLHRLREAGKKESQGCLEASVTLNLFRLLTRDLRCVAAGDLCA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tcatattgatatttccttctgaccctctcccttcctctctgaaatcaatttttaaaaaaagaaaagaaaaagctccaacaagatttgtttaatgggatttattttcaatgccattccgggcaccttgagcagtgcctaatgcaaagtcggggctgagttatacttgatgaatgaatgaaagcatttgtcgcacactgagcaggatcctttgaagtccttggccacacctcacttcccagcagagcttcctatccctgggtcctgctgcatctggacatttaaagatgtttgtcaagttgccctcctccccttcttttactctcagtactgagtggggaagggaggaaggacatggtctcctcttaattccaggctgctttgtctttctgactctctcccaggccccagcagccttctcccttcctcttctcccctctcctgacagcctctctcttggaagttccaggttctttgtggcaacacccctataggtgcctctctcctcctctccctgctctggggtatctgcagaaaggcacatctctatgtcccctacccagcagaacactgtgacccctctttgtggggctgaggctgcccttattctgagatttctcttatgacctcaccttctgtaagtgaatcagagtctgtttcactttcccttttgcttcagctgctcaactggttcaaggtccacccctgcatgggctgggcttccccagcctggagctcccctagtggcaggtgagttttcacttttcctacatcagctgggattgcccctctgtccaggctaaaagctgcaccatggagctctgcagaattacacctcagcagtgctgcaagtgcaaagatacagacagagcagcaggctgagacccagaagaggagactgagaccagagacaccaaacaagactgggtgagacccaggtgacagcctctgagtggacacttggatccccatttgctgacagagacaagagaccagaggccaggatgaagcgggacttggctgtgtgttgcacgctggtgctggtgctgatgctgatggcctcggtgctgaccaggacaggagcagctcctgcccctacgcccgccaggacccacctgggtgcaaggggctgccacatgggccagttcaagtctctgtcgccacaagagatgaaggccttcaagagggtcaaggacgccctggaagagtcgctcctgcttaagaactggagctgcggctcccgccccctccccaggacccgggacctgaggcagctgcaggtgtgggagcgccctgtggccttggaggctgagctggccctgacactgaaggtcctggggaccttgaagaactcgaccctgggggacatcctggaccagcccctgcacacgctgcaccacatccactccaagcttcaggcctgtgtcccagctcaggccacagcaggccccagaccccggggccccctccgccagtggctgcatcgcctccgggaggccgggaagaaggaatcccagggctgccttgaagcctctgtcacattgaacctcttccgcctcctcacccgtgacctgagatgtgtggccgctggagacctgtgtgcctgaccctgacacccaccggcaacctgtcccagcctcttggattttatttatgcatgcccccccttttttaatttat</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA665501</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>

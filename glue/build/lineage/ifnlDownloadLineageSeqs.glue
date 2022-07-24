@@ -4,9 +4,9 @@ delete module ncbiImporterCuratedAves
 delete module ncbiImporterCuratedTestudines
 
 # Create modules
-create module -f modules/lineage/ifnlNcbiImporterCuratedMammalia.xml ncbiImporterCuratedMammalia
-create module -f modules/lineage/ifnlNcbiImporterCuratedAves.xml ncbiImporterCuratedAves
-create module -f modules/lineage/ifnlNcbiImporterCuratedTestudines.xml ncbiImporterCuratedTestudines
+create module -f modules/build/lineage/ifnlNcbiImporterCuratedMammalia.xml ncbiImporterCuratedMammalia
+create module -f modules/build/lineage/ifnlNcbiImporterCuratedAves.xml ncbiImporterCuratedAves
+create module -f modules/build/lineage/ifnlNcbiImporterCuratedTestudines.xml ncbiImporterCuratedTestudines
 
 # Download NCBI sequences 
 module ncbiImporterCuratedMammalia import

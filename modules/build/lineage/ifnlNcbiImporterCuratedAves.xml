@@ -8,10 +8,10 @@
 
 	<!-- Exclude references -->
 	<!-- <primaryAccession>NM_001310792</primaryAccession> -->
+	<!-- <primaryAccession>XM_013178817</primaryAccession> -->
 	
 	<primaryAccession>XM_032189584</primaryAccession>
 	<primaryAccession>XM_035536768</primaryAccession>
-	<primaryAccession>XM_013178817</primaryAccession>
 	<primaryAccession>XM_040560797</primaryAccession>
 	<primaryAccession>XM_035332332</primaryAccession>
 	<primaryAccession>XM_009285125</primaryAccession>
@@ -78,7 +78,7 @@
 	<primaryAccession>XM_008937521</primaryAccession>
 	<primaryAccession>XM_027677891</primaryAccession>
 	<primaryAccession>XM_014951964</primaryAccession>
-	<primaryAccession>XM_033064688</primaryAccession>
+	<!-- <primaryAccession>XM_033064688</primaryAccession> -->
 	<primaryAccession>XM_030580530</primaryAccession>
 	<primaryAccession>XM_030277089</primaryAccession>
 	<primaryAccession>XM_030951953</primaryAccession>
