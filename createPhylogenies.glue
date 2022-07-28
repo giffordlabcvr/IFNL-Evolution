@@ -2,11 +2,11 @@
 
 project ifnl
 
-  run file glue/analysis/phylogeny/ifnlCreatePhylogeniesRoot.glue
-  #run file glue/analysis/phylogeny/ifnlCreatePhylogeniesIfnlMammalB_exons.glue
-  run file glue/analysis/phylogeny/ifnlCreatePhylogeniesIfnlMammalA_exons.glue
+  #run file glue/analysis/phylogeny/ifnlCreatePhylogeniesRoot.glue
+  run file glue/analysis/phylogeny/ifnlCreatePhylogeniesIfnlMammalB_exons.glue
+  #run file glue/analysis/phylogeny/ifnlCreatePhylogeniesIfnlMammalA_exons.glue
 
-  run file glue/analysis/phylogeny/ifnlCreatePhylogeniesClades.glue
+  #run file glue/analysis/phylogeny/ifnlCreatePhylogeniesClades.glue
 
   exit
 
