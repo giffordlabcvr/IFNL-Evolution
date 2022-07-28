@@ -1,11 +1,16 @@
-  #~#~# Define constrained alignment tree 
+  #~#~# Add sequences to constrained alignment tree 
+
+
+
+  # Major branches
+  alignment AL_IFNL_ROOT 
+
+    add member --whereClause "source.name = 'ncbi-curated-mammalia'"
     
-  # Mammal B branch    
-  alignment AL_IFNL_MAMMAL_B
-
-
+	demote member AL_IFNL_MAMMAL_B --whereClause "sequence.name = 'IFNL-Mammal-B'" 
+	demote member AL_IFNL_MAMMAL_B --whereClause "sequence.name = 'IFNL-Mammal-A'" 
+			
     exit
-
 
 
 
