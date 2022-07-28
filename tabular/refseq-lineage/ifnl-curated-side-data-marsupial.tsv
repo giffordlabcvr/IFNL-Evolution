@@ -1,0 +1,4 @@
+id	name	gene_id	exon12	exon3456	species	Superorder	Species_order	Family	Genus	protein_accession	ref	reference_id
+XM_007491889	IFNL-Mammal-B	Marsupial	Marsupial		Monodelphis domestica	Unclassified	Didelphimorphia	Didelphidae	Monodelphis			-
+XM_027855300	IFNL-Mammal-B	Marsupial	Marsupial		Vombatus ursinus	Unclassified	Diprotodontia	Vombatidae	Vombatus			
+XM_027855300	IFNL-Mammal-B	Marsupial	Marsupial		Vombatus ursinus	Unclassified	Diprotodontia	Vombatidae	Vombatus			

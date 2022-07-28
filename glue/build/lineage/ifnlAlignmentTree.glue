@@ -7,8 +7,8 @@
 
     add member --whereClause "source.name = 'ncbi-curated-mammalia'"
     
-	demote member AL_IFNL_MAMMAL_B --whereClause "sequence.name = 'IFNL-Mammal-B'" 
-	demote member AL_IFNL_MAMMAL_B --whereClause "sequence.name = 'IFNL-Mammal-A'" 
+	demote member AL_IFNL_MAMMAL_B --whereClause "sequence.name = 'IFNL-Mammal-B' and sequence.source.name = 'ncbi-curated-mammalia'" 
+	demote member AL_IFNL_MAMMAL_A --whereClause "sequence.name = 'IFNL-Mammal-A' and sequence.source.name = 'ncbi-curated-mammalia'" 
 			
     exit
 
