@@ -5,7 +5,7 @@ XM_014607441	IFNL-Crocodylia-1	Crocodylia	Alligator mississippiensis	REF_IFNL_Cr
 XM_025202241	IFNL-Crocodylia-2	Crocodylia	Alligator sinensis	REF_IFNL_Crocodylia_2	Squamata	Unclassified	Crocodylia	Alligatoridae	Alligator		
 NM_001171763	IFNL-Anura	Anura	Xenopus tropicalis	REF_IFNLb_Anura_MASTER	Amphibia	Batrachia	Anura	Pipidae	Xenopus		
 NM_001310792	IFNL-Aves	Aves	Anas platyrhynchos	REF_IFNLb_Aves_MASTER	Squamata	Neognathae	Anseriformes	Anatidae	Anas		
-NM_001346937	IFNL-Mammal-B	Mammal	Homo sapiens	REF_IFNL_Mammal_b_MASTER	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
+NM_001346937	IFNL-Mammal-B	Placental2_Haplorhine1	Homo sapiens	REF_IFNL_Mammal_b_MASTER	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
 XM_025186888	IFNL-Testudines-2	Testudines	Pelodiscus sinensis	REF_IFNL_Testudines_2	Squamata	Unclassified	Testudines	Trionychidae	Pelodiscus		
 XM_026646209	IFNL-Testudines-1	Testudines	Terrapene carolina	REF_IFNL_Testudines_1	Squamata	Unclassified	Testudines	Emydidae	Terrapene		
 IFNL_Scyliorhinus	IFNL-Chondrichthyes	Chondrichthyes	Scyliorhinus torazame	REF_IFNL_Chondrichthyes	Chondrichthyes	Unclassified	Carcharhiniformes	Scyliorhinidae	Scyliorhinus		

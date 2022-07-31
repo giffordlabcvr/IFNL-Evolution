@@ -1,6 +1,6 @@
 taxon	sequenceID	species	species_superorder	species_order	species_family	species_genus	name	gene_id	glycosylation_o1_present	glycosylation_o2_present	glycosylation_o3_present	glycosylation_o4_present	glycosylation_o5_present	glycosylation_o6_present
 alignment/AL_IFNL_MAMMAL_A/member/fasta-curated/IFNL_Mammal_APsi-Hsa	IFNL_Mammal_APsi-Hsa	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL-A-Mammal	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-refseqs/NM_001276254	NM_001276254	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL-Mammal-A	Placental1_Haplorhine1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-refseqs/NM_001276254	NM_001276254	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL-Mammal-A	Placental1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia/NM_001276259	NM_001276259	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan	IFNL-A-Mammal	Placental1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia/XM_004396490	XM_004396490	Odobenus rosmarus divergens	Laurasiatheria	Carnivora	Odobenidae	Odobenus	IFNL-A-Mammal	Placental1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia/XM_004396491	XM_004396491	Odobenus rosmarus	Laurasiatheria	Carnivora	Odobenidae	Odobenus	IFNL-A-Mammal	Placental1	-	-	-	-	-	-
