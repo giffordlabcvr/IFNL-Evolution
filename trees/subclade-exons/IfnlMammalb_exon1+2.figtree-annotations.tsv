@@ -16,7 +16,7 @@ alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004636881	XM_00463688
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005589166	XM_005589166	Macaca fascicularis	Euarchontoglires	Primates	Cercopithecidae	Macaca	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005589169	XM_005589169	Macaca fascicularis	Euarchontoglires	Primates	Cercopithecidae	Macaca	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005596230	XM_005596230	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	IFNL-Mammal-B	Placental2_Perissodatyl1	-	-	NAT	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005886334	XM_005886334	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL-Mammal-B	Placental1_RTG	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005886334	XM_005886334	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL-Mammal-B	Placental2_Chiroptera1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_006096748	XM_006096748	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL-Mammal-B	Placental2_Chiroptera1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_006540130	XM_006540130	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus	IFNL-Mammal-B	Placental2_Rodent1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_007179988	XM_007179988	Balaenoptera acutorostrata	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	IFNL-Mammal-B	Placental2_Cetartiodactyla1	-	-	-	-	-	-
@@ -34,10 +34,10 @@ alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011973358	XM_01197335
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012077999	XM_012077999	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012078033	XM_012078033	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012438872	XM_012438872	Aotus nancymaae	Euarchontoglires	Primates	Aotidae	Aotus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012657015	XM_012657015	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012657015	XM_012657015	Propithecus coquereli	Euarchontoglires	Primates	Indriidae	Propithecus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012730587	XM_012730587	Condylura cristata	Laurasiatheria	Insectivora	Talpidae	Condylura	IFNL-Mammal-B	NK_Eulipotyphyla1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012775211	XM_012775211	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	Microcebus	IFNL-Mammal-B	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012775213	XM_012775213	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	Microcebus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012775211	XM_012775211	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	Microcebus	IFNL-Mammal-B	Placental1_Strepsirhine1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012775213	XM_012775213	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	Microcebus	IFNL-Mammal-B	Placental2_Strepsirhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_013077381	XM_013077381	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	IFNL-Mammal-B	NK_Rodent1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_015557658	XM_015557658	Myotis davidii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL-Mammal-B	NK_Chiroptera1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016165226	XM_016165226	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	IFNL-Mammal-B	Placental2_Chiroptera1	-	-	-	-	-	-

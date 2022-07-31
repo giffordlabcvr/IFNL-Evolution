@@ -19,7 +19,7 @@ alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003270381	XM_00327038
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003420833	XM_003420833	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	IFNL-Mammal-B	Placental2_Afrotheria1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003735566	XM_003735566	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	IFNL-Mammal-B	Placental1_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003802138	XM_003802138	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	Otolemur	IFNL-Mammal-B	NK	NTT	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003802158	XM_003802158	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003802158	XM_003802158	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	Otolemur	IFNL-Mammal-B	NK	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003915503	XM_003915503	Papio anubis	Euarchontoglires	Primates	Cercopithecidae	Papio	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_003943132	XM_003943132	Saimiri boliviensis	Euarchontoglires	Primates	Cebidae	Saimiri	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_004060705	XM_004060705	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
@@ -39,7 +39,7 @@ alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005589166	XM_00558916
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005589169	XM_005589169	Macaca fascicularis	Euarchontoglires	Primates	Cercopithecidae	Macaca	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005589170	XM_005589170	Macaca fascicularis	Euarchontoglires	Primates	Cercopithecidae	Macaca	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005596230	XM_005596230	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	IFNL-Mammal-B	Placental2_Perissodatyl1	-	-	NAT	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005886334	XM_005886334	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL-Mammal-B	Placental1_RTG	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_005886334	XM_005886334	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL-Mammal-B	Placental2_Chiroptera1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_006096748	XM_006096748	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL-Mammal-B	Placental2_Chiroptera1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_006140390	XM_006140390	Tupaia chinensis	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	IFNL-Mammal-B	NK_Scandentia1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_006540130	XM_006540130	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus	IFNL-Mammal-B	Placental2_Rodent1	-	-	-	-	-	-
@@ -54,7 +54,7 @@ alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_007958477	XM_00795847
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_007996760	XM_007996760	Chlorocebus sabaeus	Euarchontoglires	Primates	Cercopithecidae	Chlorocebus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_008057580	XM_008057580	Carlito syrichta	Euarchontoglires	Primates	Tarsiidae	Tarsius	IFNL-Mammal-B	NK_Carlito1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_008057587	XM_008057587	Carlito syrichta	Euarchontoglires	Primates	Tarsiidae	Tarsius	IFNL-Mammal-B	Placental1_Carlito1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_008582050	XM_008582050	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_008582050	XM_008582050	Galeopterus variegatus	Euarchontoglires	Dermoptera	Cynocephalidae	Galeopterus	IFNL-Mammal-B	NK	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_008854037	XM_008854037	Nannospalax galili	Euarchontoglires	Rodentia	Spalacidae	Nannospalax	IFNL-Mammal-B	Placental1_Rodent1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_008964649	XM_008964649	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_010330964	XM_010330964	Saimiri boliviensis	Euarchontoglires	Primates	Cebidae	Saimiri	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
@@ -70,15 +70,15 @@ alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011952423	XM_01195242
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011952424	XM_011952424	Colobus angolensis palliatus	Euarchontoglires	Primates	Cercopithecidae	Colobus	IFNL-Mammal-B	Placental1_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011973358	XM_011973358	Mandrillus leucophaeus	Euarchontoglires	Primates	Cercopithecidae	Mandrillus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011973361	XM_011973361	Mandrillus leucophaeus	Euarchontoglires	Primates	Cercopithecidae	Mandrillus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012077988	XM_012077988	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012077988	XM_012077988	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012077999	XM_012077999	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012078033	XM_012078033	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012438845	XM_012438845	-	-	-	-	-	-	-	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012438872	XM_012438872	Aotus nancymaae	Euarchontoglires	Primates	Aotidae	Aotus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012657015	XM_012657015	-	-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012657015	XM_012657015	Propithecus coquereli	Euarchontoglires	Primates	Indriidae	Propithecus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012730587	XM_012730587	Condylura cristata	Laurasiatheria	Insectivora	Talpidae	Condylura	IFNL-Mammal-B	NK_Eulipotyphyla1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012775211	XM_012775211	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	Microcebus	IFNL-Mammal-B	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012775213	XM_012775213	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	Microcebus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012775211	XM_012775211	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	Microcebus	IFNL-Mammal-B	Placental1_Strepsirhine1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012775213	XM_012775213	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	Microcebus	IFNL-Mammal-B	Placental2_Strepsirhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_013077381	XM_013077381	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	IFNL-Mammal-B	NK_Rodent1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_014117025	XM_014117025	Canis lupus	Laurasiatheria	Carnivora	Canidae	Canis	IFNL-Mammal-B	Placental1_Carnivore2	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_014732932	XM_014732932	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	IFNL-Mammal-B	Placental1_Perissodatyl1	-	-	-	-	-	-
@@ -121,7 +121,7 @@ alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_028530311	XM_02853031
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_028859190	XM_028859190	Peromyscus leucopus	Euarchontoglires	Rodentia	Cricetidae	Peromyscus	IFNL-Mammal-B	NK	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_029924289	XM_029924289	Suricata suricatta	Laurasiatheria	Carnivora	Herpestidae	Suricata	IFNL-Mammal-B	Placental2_Carnivore1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_030796492	XM_030796492	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_032273584	XM_032273584	Sapajus apella	Euarchontoglires	Primates	Cebidae	Sapajus	IFNL-Mammal-B	NK_Haplorhine1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_032273584	XM_032273584	Sapajus apella	Euarchontoglires	Primates	Cebidae	Sapajus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_032326013	XM_032326013	Mustela erminea	Laurasiatheria	Carnivora	Mustelidae	Mustela	IFNL-Mammal-B	Placental2_Carnivore1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_032850864	XM_032850864	Lontra canadensis	Laurasiatheria	Carnivora	Mustelidae	Lontra	IFNL-Mammal-B	Placental2_Carnivore1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_033226159	XM_033226159	Trachypithecus francoisi	Euarchontoglires	Primates	Cercopithecidae	Trachypithecus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
