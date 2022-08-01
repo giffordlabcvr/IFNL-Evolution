@@ -46,7 +46,6 @@ retroIFNL3	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Myotis lucifugus	Laurasia
 NM_001142837	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus			
 XM_004481462	IFNL-Mammal-B	Placental1_Xenarthra1	Placental1	Xenarthra1	Dasypus novemcinctus	Xenarthra	Cingulata	Dasypodidae	Dasypus	XP_004481519.1	xX	
 XM_004710310	IFNL-Mammal-B	Placental2_Afrotheria1	Placental2	Afrotheria1	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops			
-XM_004710311	IFNL-Mammal-B	Placental2_Afrotheria1	Placental2	Afrotheria1	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops			
 XM_003420833	IFNL-Mammal-B	Placental2_Afrotheria1	Placental2	Afrotheria1	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	XP_003420881.2	xA	
 XM_002927388	IFNL-Mammal-B	Placental2_Carnivore1	Placental2	Carnivore1	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_002927434.1	xL	
 XM_004396492	IFNL-Mammal-B	Placental2_Carnivore1	Placental2	Carnivore1	Odobenus rosmarus	Laurasiatheria	Carnivora	Odobenidae	Odobenus			
@@ -136,7 +135,7 @@ XM_008057587	IFNL-Mammal-B	Placental1_Carlito1	Placental1	Carlito1	Carlito syric
 XM_012775211	IFNL-Mammal-B	Placental1_Strepsirhine1	Placental1	Strepsirhine1	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	Microcebus			
 XM_003802138	IFNL-Mammal-B	Placental1_Strepsirhine1	Placental1	Strepsirhine1	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	Otolemur	XP_003802186.1		
 XM_028859190	IFNL-Mammal-B	Placental1_Rodent1	Placental1	Rodent1	Peromyscus leucopus	Euarchontoglires	Rodentia	Cricetidae	Peromyscus	XP_028715023.1 		
-XM_012657015	IFNL-Mammal-B	Placental1_Strepsirhine1	Placental1	Strepsirhine1	Propithecus coquereli	Euarchontoglires	Primates	Indriidae	Propithecus			
+XM_012657015	IFNL-Mammal-B	Placental2_Strepsirhine1	Placental2	Strepsirhine1	Propithecus coquereli	Euarchontoglires	Primates	Indriidae	Propithecus			
 XM_003802158	IFNL-Mammal-B	Placental2_Strepsirhine1	Placental2	Strepsirhine1	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	Otolemur			
 XM_008582050	IFNL-Mammal-B	Placental1_Dermoptera1	Placental1	Dermoptera1	Galeopterus variegatus	Euarchontoglires	Dermoptera	Cynocephalidae	Galeopterus			
-XM_012077988	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
+XM_012077988	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
