@@ -1,5 +1,5 @@
 taxon	sequenceID	species	species_superorder	species_order	species_family	species_genus	name	gene_id	glycosylation_o1_present	glycosylation_o2_present	glycosylation_o3_present	glycosylation_o4_present	glycosylation_o5_present	glycosylation_o6_present
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/HQ201955	HQ201955	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus	IFNL-Mammal-B	NK_Chiroptera1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/HQ201955	HQ201955	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus	IFNL-Mammal-B	Placental2_Chiroptera1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-refseqs/NM_001346937	NM_001346937	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/NM_172138	NM_172138	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_001086865	XM_001086865	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
@@ -20,9 +20,9 @@ alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011952423	XM_01195242
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_011973358	XM_011973358	Mandrillus leucophaeus	Euarchontoglires	Primates	Cercopithecidae	Mandrillus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012077999	XM_012077999	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012078033	XM_012078033	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus	IFNL-Mammal-B	Placental2_Haplorhine1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012730587	XM_012730587	Condylura cristata	Laurasiatheria	Insectivora	Talpidae	Condylura	IFNL-Mammal-B	NK_Eulipotyphyla1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_013077381	XM_013077381	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	IFNL-Mammal-B	NK_Rodent1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_015557658	XM_015557658	Myotis davidii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL-Mammal-B	NK_Chiroptera1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_012730587	XM_012730587	Condylura cristata	Laurasiatheria	Insectivora	Talpidae	Condylura	IFNL-Mammal-B	Placental2_Eulipotyphyla1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_013077381	XM_013077381	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	IFNL-Mammal-B	Placental2_Rodent1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_015557658	XM_015557658	Myotis davidii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	IFNL-Mammal-B	Placental2_Chiroptera1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016165226	XM_016165226	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	IFNL-Mammal-B	Placental2_Chiroptera1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016166771	XM_016166771	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	IFNL-Mammal-B	Placental2_Chiroptera1	-	-	-	-	-	-
 alignment/AL_IFNL_MAMMAL_B/member/ncbi-curated-mammalia/XM_016209154	XM_016209154	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus	IFNL-Mammal-B	Placental2_Chiroptera1	-	-	-	-	-	-
