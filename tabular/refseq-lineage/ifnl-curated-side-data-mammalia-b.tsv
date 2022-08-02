@@ -30,7 +30,7 @@ XM_017503063	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Cebus c
 XM_011952424	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Colobus angolensis palliatus	Euarchontoglires	Primates	Cercopithecidae	Colobus			-
 NM_172140	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	NM_172140.1	xE	REF_IFNLb_Mammal_1_MASTER
 XM_017656413	IFNL-Mammal-B	Placental1_Manis1	Placental1	Manis1	Manis javanica	Laurasiatheria	Pholidota	Manidae	Manis	XP_017511902.1 		
-XM_014732932	IFNL-Mammal-B	Placental1_Perissodatyl1	Placental1	Perissodatyl1	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_014588418.2 		
+XM_014732932	IFNL-Mammal-B	Placental1_Perissodactyl1	Placental1	Perissodactyl1	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_014588418.2 		
 XM_021210483	IFNL-Mammal-B	Placental1_Rodent1	Placental1	Rodent1	Mus pahari	Euarchontoglires	Rodentia	Muridae	Mus			-
 XM_008854037	IFNL-Mammal-B	Placental1_Rodent1	Placental1	Rodent1	Nannospalax galili	Euarchontoglires	Rodentia	Spalacidae	Nannospalax	XP_008852259.1		REF_IFNLb_Mammal_1_rodent
 XM_004430284	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Ceratotherium simum	Laurasiatheria	Perissodactyla	Rhinocerotidae	Ceratotherium			
@@ -107,8 +107,8 @@ XM_024351462	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Pan tro
 XM_024237432	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Pongo abelii	Euarchontoglires	Primates	Hominidae	Pongo			
 XM_033226159	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Trachypithecus francoisi	Euarchontoglires	Primates	Cercopithecidae	Trachypithecus			
 XM_030796492	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus			
-XM_005596230	IFNL-Mammal-B	Placental2_Perissodatyl1	Placental2	Perissodatyl1	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_005596287.2		
-XM_023651251	IFNL-Mammal-B	Placental2_Perissodatyl1	Placental2	Perissodatyl1	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus			
+XM_005596230	IFNL-Mammal-B	Placental2_Perissodactyl1	Placental2	Perissodactyl1	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_005596287.2		
+XM_023651251	IFNL-Mammal-B	Placental2_Perissodactyl1	Placental2	Perissodactyl1	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus			
 XM_020156959	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Castor canadensis	Euarchontoglires	Rodentia	Castoridae	Castor	XP_020012548.1		
 XM_021168771	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Mus caroli	Euarchontoglires	Rodentia	Muridae	Mus			
 NM_001024673	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus			
@@ -139,3 +139,4 @@ XM_012657015	IFNL-Mammal-B	Placental2_Strepsirhine1	Placental2	Strepsirhine1	Pro
 XM_003802158	IFNL-Mammal-B	Placental2_Strepsirhine1	Placental2	Strepsirhine1	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	Otolemur			
 XM_008582050	IFNL-Mammal-B	Placental1_Dermoptera1	Placental1	Dermoptera1	Galeopterus variegatus	Euarchontoglires	Dermoptera	Cynocephalidae	Galeopterus			
 XM_012077988	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
+XM_012438845	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Aotus nancymaae	Euarchontoglires	Primates	Aotidae	Aotus			

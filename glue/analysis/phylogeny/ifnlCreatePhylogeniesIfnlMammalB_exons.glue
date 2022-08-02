@@ -59,8 +59,11 @@
     generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon3+4+5+6 \
       -a -o trees/subclade-exons/IfnlMammalb_exon3+4+5+6.tre NEWICK_BOOTSTRAPS
 
+    generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_exon4+5+6 \
+      -a -o trees/subclade-exons/IfnlMammalb_exon4+5+6.tre NEWICK_BOOTSTRAPS
 
     exit
+
 
  
   # Re-root phylogeny 
@@ -110,6 +113,11 @@
       --inputFile trees/subclade-exons/IfnlMammalb_exon3+4+5+6.tre NEWICK_BOOTSTRAPS \
       --midpoint \
       --outputFile trees/subclade-exons/IfnlMammalb_exon3+4+5+6-MidpointRerooted.tre NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/subclade-exons/IfnlMammalb_exon4+5+6.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subclade-exons/IfnlMammalb_exon4+5+6-MidpointRerooted.tre NEWICK_BOOTSTRAPS
 
     exit
 
