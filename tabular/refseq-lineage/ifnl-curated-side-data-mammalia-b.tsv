@@ -1,82 +1,38 @@
 id	name	gene_id	exon12	exon3456	species	Superorder	Species_order	Family	Genus	protein_accession	ref	reference_id
-XM_004388217	IFNL-Mammal-B	Placental1_Afrotheria1	Placental1	Afrotheria1	Trichechus manatus	Afrotheria	Sirenia	Trichechidae	Trichechus	XP_004388274.1		
-XM_008057580	IFNL-Mammal-B	Placental2_Carlito1	Placental2	Carlito1	Carlito syrichta	Euarchontoglires	Primates	Tarsiidae	Tarsius	XP_008055771.1		
-XM_011234942	IFNL-Mammal-B	Placental1_Carnivore2	Placental1	Carnivore2	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233244.1 	xL	
-XM_006941288	IFNL-Mammal-B	Placental1_Carnivore2	Placental1	Carnivore2	Felis catus	Laurasiatheria	Carnivora	Felidae	Felis	XM_006941288		
-NM_001166490	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus			
-XM_028165960	IFNL-Mammal-B	Placental1_Cetartiodactyla2	Placental1	Cetartiodactyla2	Balaenoptera acutorostrata	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_028021761.1		
-XM_015557658	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Myotis davidii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
-HQ201955	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus			
-XM_028529999	IFNL-Mammal-B	Placental1_Chiroptera2	Placental1	Chiroptera2	Phyllostomus discolor	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus	XP_028385800.1 		
-XM_028530311	IFNL-Mammal-B	Placental1_Chiroptera2	Placental1	Chiroptera2	Phyllostomus discolor	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus			-
-NM_001290171	IFNL-Mammal-B	Placental1_Chiroptera2	Placental1	Chiroptera2	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus			21278349
-XM_012730587	IFNL-Mammal-B	Placental2_Eulipotyphyla1	Placental2	Eulipotyphyla1	Condylura cristata	Laurasiatheria	Insectivora	Talpidae	Condylura			-
-XM_007524026	IFNL-Mammal-B	Placental1_Eulipotyphyla2	Placental1	Eulipotyphyla2	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524088.1		
+XM_006871441	IFNL-Mammal-B	Placental1_Afroinsectivoria1	Placental1	Afroinsectivoria1	Chrysochloris asiatica	Afrotheria	Unclassified	Chrysochloridae	Chrysochloris			
+XM_004710488	IFNL-Mammal-B	Placental1_Afroinsectivoria1	Placental1	Afroinsectivoria1	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops			
+XM_004388217	IFNL-Mammal-B	Placental1_Tethytheria1	Placental1	Tethytheria1	Trichechus manatus	Afrotheria	Sirenia	Trichechidae	Trichechus	XP_004388274.1		
+XM_007958477	IFNL-Mammal-B	Placental1_Tubulidentata1	Placental1	Tubulidentata1	Orycteropus afer	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	XP_007956668.1	xA	
+XM_007945560	IFNL-Mammal-B	Placental1_Tubulidentata1	Placental1	Tubulidentata1	Orycteropus afer	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	XP_007943751.1	xA	
+XM_004710310	IFNL-Mammal-B	Placental2_Afroinsectivoria1	Placental2	Afroinsectivoria1	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops			
+XM_003420833	IFNL-Mammal-B	Placental2_Tethytheria1	Placental2	Tethytheria1	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	XP_003420881.2	xA	
 IFNL_Mammal_BPsi-Hsa	IFNL-Mammal-B	NK_Haplorhine1	NK	Haplorhine1	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	NULL		
-XM_032273584	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Sapajus apella	Euarchontoglires	Primates	Cebidae	Sapajus			
-XM_013077381	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	XM_013077381		
 XM_006540121	IFNL-Mammal-B	NK_Rodent1	NK	Rodent1	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus			-
-XM_004636884	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	XP_004636941.1		
-XM_004636880	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon			
-XM_006140390	IFNL-Mammal-B	Placental2_Scandentia1	Placental2	Scandentia1	Tupaia chinensis	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_006140452.1		
-XM_006871441	IFNL-Mammal-B	Placental1_Afrotheria1	Placental1	Afrotheria1	Chrysochloris asiatica	Afrotheria	Unclassified	Chrysochloridae	Chrysochloris			
-XM_004710488	IFNL-Mammal-B	Placental1_Afrotheria1	Placental1	Afrotheria1	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops			
-XM_007958477	IFNL-Mammal-B	Placental1_Afrotheria1	Placental1	Afrotheria1	Orycteropus afer	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	XP_007956668.1	xA	
-XM_007945560	IFNL-Mammal-B	Placental1_Afrotheria1	Placental1	Afrotheria1	Orycteropus afer	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus	XP_007943751.1	xA	
-XM_014117025	IFNL-Mammal-B	Placental1_Carnivore2	Placental1	Carnivore2	Canis lupus	Laurasiatheria	Carnivora	Canidae	Canis			
-XM_019818982	IFNL-Mammal-B	Placental1_Carnivore2	Placental1	Carnivore2	Felis catus	Laurasiatheria	Carnivora	Felidae	Felis			
+XM_008057587	IFNL-Mammal-B	Placental1_Carlito1	Placental1	Carlito1	Carlito syrichta	Euarchontoglires	Primates	Tarsiidae	Tarsius	XP_008055778.1		
+XM_008582050	IFNL-Mammal-B	Placental1_Dermoptera1	Placental1	Dermoptera1	Galeopterus variegatus	Euarchontoglires	Dermoptera	Cynocephalidae	Galeopterus			
 XM_003735566	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	XP_003735614.2		
 XM_017503063	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Cebus capucinus	Euarchontoglires	Primates	Cebidae	Cebus	XM_017503063		
 XM_011952424	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Colobus angolensis palliatus	Euarchontoglires	Primates	Cercopithecidae	Colobus			-
 NM_172140	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	NM_172140.1	xE	REF_IFNLb_Mammal_1_MASTER
-XM_017656413	IFNL-Mammal-B	Placental1_Manis1	Placental1	Manis1	Manis javanica	Laurasiatheria	Pholidota	Manidae	Manis	XP_017511902.1 		
-XM_014732932	IFNL-Mammal-B	Placental1_Perissodactyl1	Placental1	Perissodactyl1	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_014588418.2 		
+XM_002829198	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Pongo abelii	Euarchontoglires	Primates	Hominidae	Pongo			
+XM_003270380	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus			
+XM_003915503	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Papio anubis	Euarchontoglires	Primates	Cercopithecidae	Papio			
+XM_003943132	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Saimiri boliviensis	Euarchontoglires	Primates	Cebidae	Saimiri			
+XM_004060705	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla			
+XM_005589170	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Macaca fascicularis	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_007996760	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Chlorocebus sabaeus	Euarchontoglires	Primates	Cercopithecidae	Chlorocebus			
+XM_010380919	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Rhinopithecus roxellana	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
+XM_011764819	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Macaca nemestrina	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_011973361	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Mandrillus leucophaeus	Euarchontoglires	Primates	Cercopithecidae	Mandrillus			
+XM_012077988	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
+XM_012438845	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Aotus nancymaae	Euarchontoglires	Primates	Aotidae	Aotus			
 XM_021210483	IFNL-Mammal-B	Placental1_Rodent1	Placental1	Rodent1	Mus pahari	Euarchontoglires	Rodentia	Muridae	Mus			-
 XM_008854037	IFNL-Mammal-B	Placental1_Rodent1	Placental1	Rodent1	Nannospalax galili	Euarchontoglires	Rodentia	Spalacidae	Nannospalax	XP_008852259.1		REF_IFNLb_Mammal_1_rodent
-XM_004430284	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Ceratotherium simum	Laurasiatheria	Perissodactyla	Rhinocerotidae	Ceratotherium			
-XM_014832969	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Equus asinus	Laurasiatheria	Perissodactyla	Equidae	Equus			
-NM_001114853	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Canis lupus familiaris	Laurasiatheria	Carnivora	Canidae	Canis			-
-NM_001040680	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Felis catus	Laurasiatheria	Carnivora	Felidae	Felis			-
-XM_023626728	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_023482496.1		
-XM_011225064	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011223366.1 	xL	
-retroIFNL1a	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Ceratotherium	Laurasiatheria	Perissodactyla	Rhinocerotidae	Ceratotherium	NULL		
-XM_004687048	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Condylura cristata	Laurasiatheria	Insectivora	Talpidae	Condylura	XP_004687105.1 		
-XM_017651898	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Manis javanica	Laurasiatheria	Pholidota	Manidae	Manis	XP_017507387.1		
-retroIFNL3	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	NW_005871296.1		
-NM_001142837	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus			
-XM_004481462	IFNL-Mammal-B	Placental1_Xenarthra1	Placental1	Xenarthra1	Dasypus novemcinctus	Xenarthra	Cingulata	Dasypodidae	Dasypus	XP_004481519.1	xX	
-XM_004710310	IFNL-Mammal-B	Placental2_Afrotheria1	Placental2	Afrotheria1	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops			
-XM_003420833	IFNL-Mammal-B	Placental2_Afrotheria1	Placental2	Afrotheria1	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	XP_003420881.2	xA	
-XM_002927388	IFNL-Mammal-B	Placental2_Carnivore1	Placental2	Carnivore1	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_002927434.1	xL	
-XM_004396492	IFNL-Mammal-B	Placental2_Carnivore1	Placental2	Carnivore1	Odobenus rosmarus	Laurasiatheria	Carnivora	Odobenidae	Odobenus			
-XM_032326013	IFNL-Mammal-B	Placental2_Carnivore1	Placental2	Carnivore1	Mustela erminea	Laurasiatheria	Carnivora	Mustelidae	Mustela			
-XM_029924289	IFNL-Mammal-B	Placental2_Carnivore1	Placental2	Carnivore1	Suricata suricatta	Laurasiatheria	Carnivora	Herpestidae	Suricata			
-XM_032850864	IFNL-Mammal-B	Placental2_Carnivore1	Placental2	Carnivore1	Lontra canadensis	Laurasiatheria	Carnivora	Mustelidae	Lontra			
-XM_025268342	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Bubalus bubalis	Laurasiatheria	Unclassified	Bovidae	Bubalus	XP_025124127.1 		
-XM_010972051	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Camelus bactrianus	Laurasiatheria	Unclassified	Camelidae	Camelus			-
-XM_010985162	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Camelus dromedarius	Laurasiatheria	Unclassified	Camelidae	Camelus	XP_010983464.1 		
-XM_007179988	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Balaenoptera acutorostrata	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_007180050.1 		
-XM_007179990	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Balaenoptera acutorostrata	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			
-XM_018063271	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Capra hircus	Laurasiatheria	Unclassified	Bovidae	Capra			-
-XM_018063174	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Capra hircus	Laurasiatheria	Unclassified	Bovidae	Capra			
-XM_024577417	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus			-
-XM_024577418	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus			-
-XM_016209154	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			
-XM_016209155	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			
-XM_016209156	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			
-XM_006096748	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
-XM_023760578	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
-XM_016165226	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus			-
-XM_016166771	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus			-
-XM_036323965	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
-XM_036324441	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
-XM_036345646	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
-XM_036346724	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
-XM_036346728	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
-XM_036346847	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
-XM_036346877	IFNL-Mammal-B	Placental2_Chiroptera1	Placental2	Chiroptera1	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
-XM_007523978	IFNL-Mammal-B	Placental2_Eulipotyphyla1	Placental2	Eulipotyphyla1	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524040.1		
-XM_004617294	IFNL-Mammal-B	Placental2_Eulipotyphyla1	Placental2	Eulipotyphyla1	Sorex araneus	Laurasiatheria	Insectivora	Soricidae	Sorex			
+XM_028859190	IFNL-Mammal-B	Placental1_Rodent1	Placental1	Rodent1	Peromyscus leucopus	Euarchontoglires	Rodentia	Cricetidae	Peromyscus	XP_028715023.1 		
+XM_012775211	IFNL-Mammal-B	Placental1_Strepsirhine1	Placental1	Strepsirhine1	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	Microcebus			
+XM_003802138	IFNL-Mammal-B	Placental1_Strepsirhine1	Placental1	Strepsirhine1	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	Otolemur	XP_003802186.1		
+XM_008057580	IFNL-Mammal-B	Placental2_Carlito1	Placental2	Carlito1	Carlito syrichta	Euarchontoglires	Primates	Tarsiidae	Tarsius	XP_008055771.1		
+XM_032273584	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Sapajus apella	Euarchontoglires	Primates	Cebidae	Sapajus			
 XM_017967394	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	XP_017822883.1		
 XM_017503064	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Cebus imitator	Euarchontoglires	Primates	Cebidae	Cebus			
 XM_019014911	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Gorilla gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla			
@@ -107,8 +63,11 @@ XM_024351462	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Pan tro
 XM_024237432	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Pongo abelii	Euarchontoglires	Primates	Hominidae	Pongo			
 XM_033226159	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Trachypithecus francoisi	Euarchontoglires	Primates	Cercopithecidae	Trachypithecus			
 XM_030796492	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus			
-XM_005596230	IFNL-Mammal-B	Placental2_Perissodactyl1	Placental2	Perissodactyl1	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_005596287.2		
-XM_023651251	IFNL-Mammal-B	Placental2_Perissodactyl1	Placental2	Perissodactyl1	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus			
+XM_008964649	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan			
+XM_011764820	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Macaca nemestrina	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_013077381	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	XM_013077381		
+XM_004636884	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	XP_004636941.1		
+XM_004636880	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon			
 XM_020156959	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Castor canadensis	Euarchontoglires	Rodentia	Castoridae	Castor	XP_020012548.1		
 XM_021168771	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Mus caroli	Euarchontoglires	Rodentia	Muridae	Mus			
 NM_001024673	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus			
@@ -116,27 +75,68 @@ NM_177396	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Mus musculus	Euarc
 XM_004636881	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon			
 XM_017803384	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Nannospalax galili	Euarchontoglires	Rodentia	Spalacidae	Nannospalax	XP_017658873.1 		
 XM_006540130	IFNL-Mammal-B	Placental2_Rodent1	Placental2	Rodent1	Mus musculus	Euarchontoglires	Rodentia	Muridae	Mus			-
-XM_002829198	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Pongo abelii	Euarchontoglires	Primates	Hominidae	Pongo			
-XM_003270380	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus			
-XM_003915503	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Papio anubis	Euarchontoglires	Primates	Cercopithecidae	Papio			
-XM_003943132	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Saimiri boliviensis	Euarchontoglires	Primates	Cebidae	Saimiri			
-XM_004060705	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla			
-XM_005589170	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Macaca fascicularis	Euarchontoglires	Primates	Cercopithecidae	Macaca			
-XM_007996760	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Chlorocebus sabaeus	Euarchontoglires	Primates	Cercopithecidae	Chlorocebus			
-XM_008964649	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan			
-XM_010380919	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Rhinopithecus roxellana	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
-XM_011764819	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Macaca nemestrina	Euarchontoglires	Primates	Cercopithecidae	Macaca			
-XM_011764820	IFNL-Mammal-B	Placental2_Haplorhine1	Placental2	Haplorhine1	Macaca nemestrina	Euarchontoglires	Primates	Cercopithecidae	Macaca			
-XM_011973361	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Mandrillus leucophaeus	Euarchontoglires	Primates	Cercopithecidae	Mandrillus			
+XM_006140390	IFNL-Mammal-B	Placental2_Scandentia1	Placental2	Scandentia1	Tupaia chinensis	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_006140452.1		
 XM_012775213	IFNL-Mammal-B	Placental2_Strepsirhine1	Placental2	Strepsirhine1	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	Microcebus			
-XM_005886334	IFNL-Mammal-B	Placental2_Chiroptera1	Placental1	Chiroptera1	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	XM_005886334.2		
-XM_016166772	IFNL-Mammal-B	Placental1_Chiroptera2	Placental1	Chiroptera2	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	XP_016022258.1 		
-XM_008057587	IFNL-Mammal-B	Placental1_Carlito1	Placental1	Carlito1	Carlito syrichta	Euarchontoglires	Primates	Tarsiidae	Tarsius	XP_008055778.1		
-XM_012775211	IFNL-Mammal-B	Placental1_Strepsirhine1	Placental1	Strepsirhine1	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	Microcebus			
-XM_003802138	IFNL-Mammal-B	Placental1_Strepsirhine1	Placental1	Strepsirhine1	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	Otolemur	XP_003802186.1		
-XM_028859190	IFNL-Mammal-B	Placental1_Rodent1	Placental1	Rodent1	Peromyscus leucopus	Euarchontoglires	Rodentia	Cricetidae	Peromyscus	XP_028715023.1 		
 XM_012657015	IFNL-Mammal-B	Placental2_Strepsirhine1	Placental2	Strepsirhine1	Propithecus coquereli	Euarchontoglires	Primates	Indriidae	Propithecus			
 XM_003802158	IFNL-Mammal-B	Placental2_Strepsirhine1	Placental2	Strepsirhine1	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	Otolemur			
-XM_008582050	IFNL-Mammal-B	Placental1_Dermoptera1	Placental1	Dermoptera1	Galeopterus variegatus	Euarchontoglires	Dermoptera	Cynocephalidae	Galeopterus			
-XM_012077988	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
-XM_012438845	IFNL-Mammal-B	Placental1_Haplorhine1	Placental1	Haplorhine1	Aotus nancymaae	Euarchontoglires	Primates	Aotidae	Aotus			
+XM_011234942	IFNL-Mammal-B	Placental1_Carnivore1	Placental1	Carnivore1	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233244.1 	xL	
+XM_006941288	IFNL-Mammal-B	Placental1_Carnivore1	Placental1	Carnivore1	Felis catus	Laurasiatheria	Carnivora	Felidae	Felis	XM_006941288		
+XM_014117025	IFNL-Mammal-B	Placental1_Carnivore1	Placental1	Carnivore1	Canis lupus	Laurasiatheria	Carnivora	Canidae	Canis			
+XM_019818982	IFNL-Mammal-B	Placental1_Carnivore1	Placental1	Carnivore1	Felis catus	Laurasiatheria	Carnivora	Felidae	Felis			
+XM_028165960	IFNL-Mammal-B	Placental1_Cetartiodactyla1	Placental1	Cetartiodactyla1	Balaenoptera acutorostrata	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_028021761.1		
+XM_028529999	IFNL-Mammal-B	Placental1_Chiroptera1	Placental1	Chiroptera1	Phyllostomus discolor	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus	XP_028385800.1 		
+XM_028530311	IFNL-Mammal-B	Placental1_Chiroptera1	Placental1	Chiroptera1	Phyllostomus discolor	Laurasiatheria	Chiroptera	Phyllostomidae	Phyllostomus			-
+NM_001290171	IFNL-Mammal-B	Placental1_Chiroptera1	Placental1	Chiroptera1	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus			21278349
+XM_016166772	IFNL-Mammal-B	Placental1_Chiroptera1	Placental1	Chiroptera1	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	XP_016022258.1 		
+XM_007524026	IFNL-Mammal-B	Placental1_Eulipotyphyla1	Placental1	Eulipotyphyla1	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524088.1		
+XM_017656413	IFNL-Mammal-B	Placental1_Manis1	Placental1	Manis1	Manis javanica	Laurasiatheria	Pholidota	Manidae	Manis	XP_017511902.1 		
+XM_014732932	IFNL-Mammal-B	Placental1_Perissodactyl1	Placental1	Perissodactyl1	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_014588418.2 		
+XM_004430284	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Ceratotherium simum	Laurasiatheria	Perissodactyla	Rhinocerotidae	Ceratotherium			
+XM_014832969	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Equus asinus	Laurasiatheria	Perissodactyla	Equidae	Equus			
+NM_001114853	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Canis lupus familiaris	Laurasiatheria	Carnivora	Canidae	Canis			-
+NM_001040680	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Felis catus	Laurasiatheria	Carnivora	Felidae	Felis			-
+XM_023626728	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_023482496.1		
+XM_011225064	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011223366.1 	xL	
+retroIFNL1a	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Ceratotherium	Laurasiatheria	Perissodactyla	Rhinocerotidae	Ceratotherium	NULL		
+XM_004687048	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Condylura cristata	Laurasiatheria	Insectivora	Talpidae	Condylura	XP_004687105.1 		
+XM_017651898	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Manis javanica	Laurasiatheria	Pholidota	Manidae	Manis	XP_017507387.1		
+retroIFNL3	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	NW_005871296.1		
+NM_001142837	IFNL-Mammal-B	Placental1_RTG	Placental1	RTG	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus			
+XM_002927388	IFNL-Mammal-B	Placental2_Carnivore2	Placental2	Carnivore2	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_002927434.1	xL	
+XM_004396492	IFNL-Mammal-B	Placental2_Carnivore2	Placental2	Carnivore2	Odobenus rosmarus	Laurasiatheria	Carnivora	Odobenidae	Odobenus			
+XM_032326013	IFNL-Mammal-B	Placental2_Carnivore2	Placental2	Carnivore2	Mustela erminea	Laurasiatheria	Carnivora	Mustelidae	Mustela			
+XM_029924289	IFNL-Mammal-B	Placental2_Carnivore2	Placental2	Carnivore2	Suricata suricatta	Laurasiatheria	Carnivora	Herpestidae	Suricata			
+XM_032850864	IFNL-Mammal-B	Placental2_Carnivore2	Placental2	Carnivore2	Lontra canadensis	Laurasiatheria	Carnivora	Mustelidae	Lontra			
+NM_001166490	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus			
+XM_025268342	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Bubalus bubalis	Laurasiatheria	Unclassified	Bovidae	Bubalus	XP_025124127.1 		
+XM_010972051	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Camelus bactrianus	Laurasiatheria	Unclassified	Camelidae	Camelus			-
+XM_010985162	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Camelus dromedarius	Laurasiatheria	Unclassified	Camelidae	Camelus	XP_010983464.1 		
+XM_007179988	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Balaenoptera acutorostrata	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	XP_007180050.1 		
+XM_007179990	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Balaenoptera acutorostrata	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			
+XM_018063271	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Capra hircus	Laurasiatheria	Unclassified	Bovidae	Capra			-
+XM_018063174	IFNL-Mammal-B	Placental2_Cetartiodactyla1	Placental2	Cetartiodactyla1	Capra hircus	Laurasiatheria	Unclassified	Bovidae	Capra			
+XM_015557658	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Myotis davidii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
+HQ201955	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus			
+XM_024577417	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus			-
+XM_024577418	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus			-
+XM_016209154	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			
+XM_016209155	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			
+XM_016209156	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			
+XM_006096748	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
+XM_023760578	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
+XM_016165226	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus			-
+XM_016166771	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus			-
+XM_036323965	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
+XM_036324441	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
+XM_036345646	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
+XM_036346724	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
+XM_036346728	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
+XM_036346847	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
+XM_036346877	IFNL-Mammal-B	Placental2_Chiroptera2	Placental2	Chiroptera2	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			
+XM_005886334	IFNL-Mammal-B	Placental2_Chiroptera2	Placental1	Chiroptera2	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	XM_005886334.2		
+XM_012730587	IFNL-Mammal-B	Placental2_Eulipotyphyla2	Placental2	Eulipotyphyla2	Condylura cristata	Laurasiatheria	Insectivora	Talpidae	Condylura			-
+XM_007523978	IFNL-Mammal-B	Placental2_Eulipotyphyla2	Placental2	Eulipotyphyla2	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524040.1		
+XM_004617294	IFNL-Mammal-B	Placental2_Eulipotyphyla2	Placental2	Eulipotyphyla2	Sorex araneus	Laurasiatheria	Insectivora	Soricidae	Sorex			
+XM_005596230	IFNL-Mammal-B	Placental2_Perissodactyl2	Placental2	Perissodactyl2	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus	XP_005596287.2		
+XM_023651251	IFNL-Mammal-B	Placental2_Perissodactyl2	Placental2	Perissodactyl2	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	Equus			
+XM_004481462	IFNL-Mammal-B	Placental1_Xenarthra1	Placental1	Xenarthra1	Dasypus novemcinctus	Xenarthra	Cingulata	Dasypodidae	Dasypus	XP_004481519.1	xX	
