@@ -16,10 +16,10 @@ project ifnl
     exit
 
   # Extend constrained alignment tree
-  run file glue/build/lineage/ifnl-mammalia-a/ifnlAlignmentTreeMammalianA.glue
+  run file glue/build/lineage/ifnl-mammalia-a/extendAlignmentTreeIfnlMammalianA.glue
 
   # Record feature coverage in alignments
-  run file glue/build/lineage/ifnl-mammalia-a/ifnlLinegesRecordFeaturePresence.glue
+  run file glue/build/lineage/ifnl-mammalia-a/recordFeaturePresenceifnlMammalianA.glue
 
   # Define variations 
   run file glue/build/lineage/ifnl-mammalia-a/variationsIfnlMammalianA.glue
