@@ -8,37 +8,9 @@
 
     add member --whereClause "source.name = 'ncbi-refseqs'"
     add member --whereClause "source.name = 'fasta-refseqs'"
-    
-	extract child AL_IFNL_AMPH --refName REF_IFNL_Anura
-	demote member AL_IFNL_AMPH --whereClause "sequence.vertebrate_lineage = 'Anura' and sequence.clade = '1' " 
 
-	extract child AL_IFNL_Crocodylia_1 --refName REF_IFNL_Crocodylia_1
-	demote member AL_IFNL_Crocodylia_1 --whereClause  "sequence.vertebrate_lineage = 'Crocodylia' and sequence.clade = '1' " 
-
-	extract child AL_IFNL_Crocodylia_2 --refName REF_IFNL_Crocodylia_2
-	demote member AL_IFNL_Crocodylia_2 --whereClause  "sequence.vertebrate_lineage = 'Crocodylia' and sequence.clade = '2' " 
-
-	extract child AL_IFNL_Testudines_1 --refName REF_IFNL_Testudines_1
-	demote member AL_IFNL_Testudines_1 --whereClause "sequence.vertebrate_lineage = 'Testudines' and sequence.clade = '1' " 
-	
-	extract child AL_IFNL_Testudines_2 --refName REF_IFNL_Testudines_2
-	demote member AL_IFNL_Testudines_2 --whereClause "sequence.vertebrate_lineage = 'Testudines' and sequence.clade = '2' " 
-	
-	extract child AL_IFNLb_AVES --refName REF_IFNL_Aves
-	demote member AL_IFNLb_AVES --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Aves'" 
-	
-	extract child AL_IFNLb_LEPIDOSAURIA --refName REF_IFNL_Lepidosauria_1
-	demote member AL_IFNLb_LEPIDOSAURIA --whereClause "sequence.clade = 'B' and sequence.vertebrate_lineage = 'Lepidosauria'" 
-
-	extract child AL_IFNL_MAMMAL_B --refName REF_IFNL_Mammal_b_MASTER
-	demote member AL_IFNL_MAMMAL_B --whereClause "sequence.name = 'IFNL-Mammal-B'" 
-
-	extract child AL_IFNL_MAMMAL_A --refName REF_IFNL_Mammal_a
-	demote member AL_IFNL_MAMMAL_A --whereClause "sequence.name = 'IFNL-Mammal-A'" 
-			
     exit
     
-  
 
   # Derive segments
   alignment AL_IFNL_ROOT
@@ -46,3 +18,4 @@
 	derive segments AL_UNC_IFNL_ROOT_MASTER -a --mergeStrategy OVERWRITE
 	
 	exit
+

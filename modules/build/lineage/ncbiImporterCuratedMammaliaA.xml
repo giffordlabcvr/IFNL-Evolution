@@ -1,0 +1,72 @@
+<!-- IFNL mRNA curated sequences from NCBI -->
+<ncbiImporter>
+
+  <sequenceFormat>GENBANK_XML</sequenceFormat>
+  <sourceName>ncbi-curated-mammalia-a</sourceName>
+  
+  <specificPrimaryAccessions>
+  
+	<!-- IFNL-A Curated -->	  
+	<primaryAccession>XM_028165945</primaryAccession>
+	<primaryAccession>XM_007180047</primaryAccession>
+	<primaryAccession>XM_007180046</primaryAccession>
+	<primaryAccession>XM_005219127</primaryAccession>
+	<primaryAccession>XM_005219126</primaryAccession>
+	<primaryAccession>XM_020156960</primaryAccession>
+	<primaryAccession>XM_020156960</primaryAccession>
+	<primaryAccession>XM_017503065</primaryAccession>
+	<primaryAccession>XM_017503067</primaryAccession>
+	<primaryAccession>XM_013522287</primaryAccession>
+	<primaryAccession>XM_007996757</primaryAccession>
+	<primaryAccession>XM_006878034</primaryAccession>
+	<primaryAccession>XM_024577451</primaryAccession>
+	<primaryAccession>XM_004710487</primaryAccession>
+	<primaryAccession>XM_022525015</primaryAccession>
+	<primaryAccession>XM_008140039</primaryAccession>
+	<primaryAccession>XM_007524025</primaryAccession>
+	<primaryAccession>XM_007524024</primaryAccession>
+	<primaryAccession>XM_021239619</primaryAccession>
+	<primaryAccession>XM_021239678</primaryAccession>
+	<primaryAccession>XM_021239619</primaryAccession>
+	<primaryAccession>XM_019666268</primaryAccession>
+	<primaryAccession>XM_019666267</primaryAccession>
+	<primaryAccession>XM_005336481</primaryAccession>
+	<primaryAccession>XM_010600326</primaryAccession>
+	<primaryAccession>XM_010600327</primaryAccession>
+	<primaryAccession>XM_010600391</primaryAccession>
+	<primaryAccession>XM_015123824</primaryAccession>
+	<primaryAccession>XM_028839087</primaryAccession>
+	<primaryAccession>XM_016209132</primaryAccession>
+	<primaryAccession>XM_014541702</primaryAccession>
+	<primaryAccession>XM_023760558</primaryAccession>
+	<primaryAccession>XM_021700959</primaryAccession>
+	<primaryAccession>XM_004595181</primaryAccession>
+	<primaryAccession>XM_004636883</primaryAccession>
+	<primaryAccession>XM_004636883 </primaryAccession>
+	<primaryAccession>XM_004396491</primaryAccession>
+	<primaryAccession>XM_004396490</primaryAccession>
+	<primaryAccession>XM_007660152</primaryAccession>
+	<primaryAccession>XM_008257170</primaryAccession>
+	<primaryAccession>XM_016165225</primaryAccession>
+	<primaryAccession>XM_004617296</primaryAccession>
+	<primaryAccession>XM_013990503</primaryAccession>
+	<primaryAccession>XM_027765624</primaryAccession>
+	<primaryAccession>XM_027765624</primaryAccession>
+	<primaryAccession>XM_027855301</primaryAccession>	  	  
+	<primaryAccession>NM_001276259</primaryAccession>
+	<primaryAccession>XM_019431989</primaryAccession>
+	<primaryAccession>XM_019431940</primaryAccession>
+	<primaryAccession>XM_019431990</primaryAccession>
+	<primaryAccession>XM_021931090</primaryAccession>
+	<primaryAccession>XM_006911731</primaryAccession>
+
+	<!-- <primaryAccession>XM_025268277</primaryAccession> -->
+	<!-- <primaryAccession>XM_008987976</primaryAccession> -->
+	<!-- <primaryAccession>XM_019014912</primaryAccession> -->
+	<!-- <primaryAccession>XM_019015012</primaryAccession> -->
+		
+  </specificPrimaryAccessions>  
+  <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
+  
+</ncbiImporter>
+

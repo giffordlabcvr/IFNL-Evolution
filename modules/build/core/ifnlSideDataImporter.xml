@@ -8,6 +8,17 @@
         <property>sequenceID</property>
     </textFileColumn>
 
+   <textFileColumn>
+        <header>gene_name</header>
+        <property>gene_name</property>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull>
+    </textFileColumn>
+
+   <textFileColumn>
+        <header>gene_id</header>
+        <property>gene_id</property>
+    </textFileColumn>
+
     <textFileColumn>
         <header>species</header>
         <property>species</property>
@@ -31,17 +42,6 @@
     <textFileColumn>
         <header>Genus</header>
         <property>species_genus</property>
-    </textFileColumn>
-
-   <textFileColumn>
-        <header>name</header>
-        <property>name</property>
-		<overwriteExistingNonNull>true</overwriteExistingNonNull>
-    </textFileColumn>
-
-   <textFileColumn>
-        <header>gene_id</header>
-        <property>gene_id</property>
     </textFileColumn>
 
 

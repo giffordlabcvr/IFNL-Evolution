@@ -1,75 +1,75 @@
-id	name	gene_id	species	Class	Superorder	Species_order	Family	Genus	reference_id
-XM_009074191	IFNL-B-Aves	Neognathae	Acanthisitta chloris	Aves	Neognathae	Passeriformes	Acanthisittidae	Acanthisitta	
-NM_001310792	IFNL-B-Aves	Neognathae	Anas platyrhynchos	Aves	Neognathae	Anseriformes	Anatidae	Anas	
-XM_038181725	IFNL-B-Aves	Neognathae	Anas platyrhynchos	Aves	Neognathae	Anseriformes	Anatidae	Anas	
-XM_013178817	IFNL-B-Aves	Neognathae	Anser cygnoides domesticus	Aves	Neognathae	Anseriformes	Anatidae	Anser	
-XM_029085701	IFNL-B-Aves	Neognathae	Antrostomus carolinensis	Aves	Neognathae	Caprimulgiformes	Caprimulgidae	Caprimulgus	
-XM_009871021	IFNL-B-Aves	Neognathae	Apaloderma vittatum	Aves	Neognathae	Trogoniformes	Trogonidae	Apaloderma	
-XM_009285125	IFNL-B-Aves	Neognathae	Aptenodytes forsteri	Aves	Neognathae	Sphenisciformes	Spheniscidae	Aptenodytes	
-XM_030017691	IFNL-B-Aves	Neognathae	Aquila chrysaetos chrysaetos	Aves	Neognathae	Falconiformes	Accipitridae	Aquila	
-XM_026852415	IFNL-B-Aves	Neognathae	Athene cunicularia	Aves	Neognathae	Strigiformes	Strigidae	Athene	
-XM_032189584	IFNL-B-Aves	Neognathae	Aythya fuligula	Aves	Neognathae	Anseriformes	Anatidae	Aythya	
-XM_010133349	IFNL-B-Aves	Neognathae	Buceros rhinoceros silvestris	Aves	Neognathae	Bucerotiformes	Bucerotidae	Buceros	
-XM_014951962	IFNL-B-Aves	Neognathae	Calidris pugnax	Aves	Neognathae	Charadriiformes	Scolopacidae	Calidris	
-XM_014951964	IFNL-B-Aves	Neognathae	Calidris pugnax	Aves	Neognathae	Charadriiformes	Scolopacidae	Calidris	
-XM_008504894	IFNL-B-Aves	Neognathae	Calypte anna	Aves	Neognathae	Trochiliformes	Trochilidae	Calypte	
-XM_030951953	IFNL-B-Aves	Neognathae	Camarhynchus parvulus	Aves	Neognathae	Passeriformes	Thraupidae	Camarhynchus	
-XM_009704658	IFNL-B-Aves	Neognathae	Cariama cristata	Aves	Neognathae	Gruiformes	Cariamidae	Cariama	
-XM_033064688	IFNL-B-Aves	Neognathae	Catharus ustulatus	Aves	Neognathae	Passeriformes	Turdidae	Catharus	
-XM_009887591	IFNL-B-Aves	Neognathae	Charadrius vociferus	Aves	Neognathae	Charadriiformes	Charadriidae	Charadrius	
-XM_032693205	IFNL-B-Aves	Neognathae	Chiroxiphia lanceolata	Aves	Neognathae	Passeriformes	Pipridae	Chiroxiphia	
-XM_010123054	IFNL-B-Aves	Neognathae	Chlamydotis macqueenii	Aves	Neognathae	Gruiformes	Otididae	Chlamydotis	
-XM_010206140	IFNL-B-Aves	Neognathae	Colius striatus	Aves	Neognathae	Coliiformes	Coliidae	Colius	
-XM_005501688	IFNL-B-Aves	Neognathae	Columba livia	Aves	Neognathae	Columbiformes	Columbidae	Columba	
-XM_027636457	IFNL-B-Aves	Neognathae	Corapipo altera	Aves	Neognathae	Passeriformes	Pipridae	Corapipo	
-XM_010407863	IFNL-B-Aves	Neognathae	Corvus cornix cornix	Aves	Neognathae	Passeriformes	Corvidae	Corvus	
-XM_032114908	IFNL-B-Aves	Neognathae	Corvus moneduloides	Aves	Neognathae	Passeriformes	Corvidae	Corvus	
-XM_032114909	IFNL-B-Aves	Neognathae	Corvus moneduloides	Aves	Neognathae	Passeriformes	Corvidae	Corvus	
-XM_015868018	IFNL-B-Aves	Neognathae	Coturnix japonica	Aves	Neognathae	Galliformes	Phasianidae	Coturnix	
-XM_009570129	IFNL-B-Aves	Neognathae	Cuculus canorus	Aves	Neognathae	Cuculiformes	Cuculidae	Cuculus	
-XM_035536768	IFNL-B-Aves	Neognathae	Cygnus atratus	Aves	Neognathae	Anseriformes	Anatidae	Cygnus	
-XM_040560797	IFNL-B-Aves	Neognathae	Cygnus olor	Aves	Neognathae	Anseriformes	Anatidae	Cygnus	
-XM_009635480	IFNL-B-Aves	Neognathae	Egretta garzetta	Aves	Neognathae	Pelecaniformes	Ardeidae	Egretta	
-XM_027890346	IFNL-B-Aves	Neognathae	Empidonax traillii	Aves	Neognathae	Passeriformes	Tyrannidae	Empidonax	
-XM_005435995	IFNL-B-Aves	Neognathae	Falco cherrug	Aves	Neognathae	Falconiformes	Falconidae	Falco	
-XM_040604362	IFNL-B-Aves	Neognathae	Falco naumanni	Aves	Neognathae	Falconiformes	Falconidae	Falco	
-XM_005244420	IFNL-B-Aves	Neognathae	Falco peregrinus	Aves	Neognathae	Falconiformes	Falconidae	Falco	
-XM_037398060	IFNL-B-Aves	Neognathae	Falco rusticolus	Aves	Neognathae	Falconiformes	Falconidae	Falco	
-XM_005049042	IFNL-B-Aves	Neognathae	Ficedula albicollis	Aves	Neognathae	Passeriformes	Muscicapidae	Ficedula	
-NM_001128496	IFNL-B-Aves	Neognathae	Gallus gallus	Aves	Neognathae	Galliformes	Phasianidae	Gallus	
-XM_040676329	IFNL-B-Aves	Neognathae	Gallus gallus	Aves	Neognathae	Galliformes	Phasianidae	Gallus	
-XM_040703743	IFNL-B-Aves	Neognathae	Gallus gallus	Aves	Neognathae	Galliformes	Phasianidae	Gallus	
-XM_031063497	IFNL-B-Aves	Neognathae	Geospiza fortis	Aves	Neognathae	Passeriformes	Thraupidae	Geospiza	
-XM_010577876	IFNL-B-Aves	Neognathae	Haliaeetus leucocephalus	Aves	Neognathae	Falconiformes	Accipitridae	Haliaeetus	
-XM_040070420	IFNL-B-Aves	Neognathae	Hirundo rustica	Aves	Neognathae	Passeriformes	Hirundinidae	Hirundo	
-XM_017828483	IFNL-B-Aves	Neognathae	Lepidothrix coronata	Aves	Neognathae	Passeriformes	Pipridae	Lepidothrix	
-XM_009959982	IFNL-B-Aves	Neognathae	Leptosomus discolor	Aves	Neognathae	Coraciiformes	Leptosomidae	Leptosomus	
-XM_021536075	IFNL-B-Aves	Neognathae	Lonchura striata domestica	Aves	Neognathae	Passeriformes	Estrildidae	Lonchura	
-XM_003207378	IFNL-B-Aves	Neognathae	Meleagris gallopavo	Aves	Neognathae	Galliformes	Phasianidae	Meleagris	
-XM_034065776	IFNL-B-Aves	Neognathae	Melopsittacus undulatus	Aves	Neognathae	Psittaciformes	Psittaculidae	Melopsittacus	
-XM_008937521	IFNL-B-Aves	Neognathae	Merops nubicus	Aves	Neognathae	Coraciiformes	Meropidae	Merops	
-XM_010185572	IFNL-B-Aves	Neognathae	Mesitornis unicolor	Aves	Neognathae	Gruiformes	Mesitornithidae	Mesitornis	
-XM_036386986	IFNL-B-Aves	Neognathae	Molothrus ater	Aves	Neognathae	Passeriformes	Icteridae	Molothrus	
-XM_038141770	IFNL-B-Aves	Neognathae	Motacilla alba alba	Aves	Neognathae	Passeriformes	Motacillidae	Motacilla	
-XM_027677891	IFNL-B-Aves	Neognathae	Neopelma chrysocephalum	Aves	Neognathae	Passeriformes	Pipridae	Neopelma	
-XM_009462244	IFNL-B-Aves	Neognathae	Nipponia nippon	Aves	Neognathae	Pelecaniformes	Threskiornithidae	Nipponia	
-XM_021399538	IFNL-B-Aves	Neognathae	Numida meleagris	Aves	Neognathae	Galliformes	Numididae	Numida	
-XM_035332332	IFNL-B-Aves	Neognathae	Oxyura jamaicensis	Aves	Neognathae	Anseriformes	Anatidae	Oxyura	
-XM_010284067	IFNL-B-Aves	Neognathae	Phaethon lepturus	Aves	Neognathae	Pelecaniformes	Phaethontidae	Phaethon	
-XM_031604571	IFNL-B-Aves	Neognathae	Phasianus colchicus	Aves	Neognathae	Galliformes	Phasianidae	Phasianus	
-XM_027735645	IFNL-B-Aves	Neognathae	Pipra filicauda	Aves	Neognathae	Passeriformes	Pipridae	Pipra	
-XM_005528932	IFNL-B-Aves	Neognathae	Pseudopodoces humilis	Aves	Neognathae	Passeriformes	Paridae	Pseudopodoces	
-XM_010078127	IFNL-B-Aves	Neognathae	Pterocles gutturalis	Aves	Neognathae	Ciconiiformes	Pteroclidae	Pterocles	
-XM_009329638	IFNL-B-Aves	Neognathae	Pygoscelis adeliae	Aves	Neognathae	Sphenisciformes	Spheniscidae	Pygoscelis	
-XM_030230187	IFNL-B-Aves	Neognathae	Serinus canaria	Aves	Neognathae	Passeriformes	Fringillidae	Serinus	
-XM_014881972	IFNL-B-Aves	Neognathae	Sturnus vulgaris	Aves	Neognathae	Passeriformes	Sturnidae	Sturnus	
-XM_030277089	IFNL-B-Aves	Neognathae	Taeniopygia guttata	Aves	Neognathae	Passeriformes	Estrildidae	Taeniopygia	
-XM_033010731	IFNL-B-Aves	Neognathae	Tyto alba alba	Aves	Neognathae	Strigiformes	Tytonidae	Tyto	
-XM_026793323	IFNL-B-Aves	Neognathae	Zonotrichia albicollis	Aves	Neognathae	Passeriformes	Passerellidae	Zonotrichia	
-XM_009900846	IFNL-B-Aves	Neognathae	Dryobates pubescens	Aves	Neognathae	Piciformes	Picidae	Dryobates	
-XM_030487381	IFNL-B-Aves	Neognathae	Strigops habroptila	Aves	Neognathae	Strigiformes	Tytonidae	Tyto	
-XM_030487382	IFNL-B-Aves	Neognathae	Strigops habroptila	Aves	Neognathae	Strigiformes	Tytonidae	Tyto	
-XM_026087926	IFNL-B-Aves	Palaeognathae	Apteryx rowi	Aves	Palaeognathae	Apterygiformes	Apterygidae	Apteryx	
-XM_026093800	IFNL-B-Aves	Palaeognathae	Dromaius novaehollandiae	Aves	Palaeognathae	Casuariiformes	Dromaiidae	Dromaius	
-XM_026048488	IFNL-B-Aves	Palaeognathae	Nothoprocta perdicaria	Aves	Palaeognathae	Tinamiformes	Tinamidae	Nothoprocta	
-XM_013952637	IFNL-B-Aves	Palaeognathae	Apteryx mantelli mantelli	Aves	Palaeognathae	Apterygiformes	Apterygidae	Apteryx	
+id	gene_name	gene_clade	gene_id	species	Class	Superorder	Species_order	Family	Genus	reference_id
+XM_009074191	IFNL-Aves-1	1	Neognathae	Acanthisitta chloris	Aves	Neognathae	Passeriformes	Acanthisittidae	Acanthisitta	
+NM_001310792	IFNL-Aves-1	1	Neognathae	Anas platyrhynchos	Aves	Neognathae	Anseriformes	Anatidae	Anas	
+XM_038181725	IFNL-Aves-1	1	Neognathae	Anas platyrhynchos	Aves	Neognathae	Anseriformes	Anatidae	Anas	
+XM_013178817	IFNL-Aves-1	1	Neognathae	Anser cygnoides domesticus	Aves	Neognathae	Anseriformes	Anatidae	Anser	
+XM_029085701	IFNL-Aves-1	1	Neognathae	Antrostomus carolinensis	Aves	Neognathae	Caprimulgiformes	Caprimulgidae	Caprimulgus	
+XM_009871021	IFNL-Aves-1	1	Neognathae	Apaloderma vittatum	Aves	Neognathae	Trogoniformes	Trogonidae	Apaloderma	
+XM_009285125	IFNL-Aves-1	1	Neognathae	Aptenodytes forsteri	Aves	Neognathae	Sphenisciformes	Spheniscidae	Aptenodytes	
+XM_030017691	IFNL-Aves-1	1	Neognathae	Aquila chrysaetos chrysaetos	Aves	Neognathae	Falconiformes	Accipitridae	Aquila	
+XM_026852415	IFNL-Aves-1	1	Neognathae	Athene cunicularia	Aves	Neognathae	Strigiformes	Strigidae	Athene	
+XM_032189584	IFNL-Aves-1	1	Neognathae	Aythya fuligula	Aves	Neognathae	Anseriformes	Anatidae	Aythya	
+XM_010133349	IFNL-Aves-1	1	Neognathae	Buceros rhinoceros silvestris	Aves	Neognathae	Bucerotiformes	Bucerotidae	Buceros	
+XM_014951962	IFNL-Aves-1	1	Neognathae	Calidris pugnax	Aves	Neognathae	Charadriiformes	Scolopacidae	Calidris	
+XM_014951964	IFNL-Aves-1	1	Neognathae	Calidris pugnax	Aves	Neognathae	Charadriiformes	Scolopacidae	Calidris	
+XM_008504894	IFNL-Aves-1	1	Neognathae	Calypte anna	Aves	Neognathae	Trochiliformes	Trochilidae	Calypte	
+XM_030951953	IFNL-Aves-1	1	Neognathae	Camarhynchus parvulus	Aves	Neognathae	Passeriformes	Thraupidae	Camarhynchus	
+XM_009704658	IFNL-Aves-1	1	Neognathae	Cariama cristata	Aves	Neognathae	Gruiformes	Cariamidae	Cariama	
+XM_033064688	IFNL-Aves-1	1	Neognathae	Catharus ustulatus	Aves	Neognathae	Passeriformes	Turdidae	Catharus	
+XM_009887591	IFNL-Aves-1	1	Neognathae	Charadrius vociferus	Aves	Neognathae	Charadriiformes	Charadriidae	Charadrius	
+XM_032693205	IFNL-Aves-1	1	Neognathae	Chiroxiphia lanceolata	Aves	Neognathae	Passeriformes	Pipridae	Chiroxiphia	
+XM_010123054	IFNL-Aves-1	1	Neognathae	Chlamydotis macqueenii	Aves	Neognathae	Gruiformes	Otididae	Chlamydotis	
+XM_010206140	IFNL-Aves-1	1	Neognathae	Colius striatus	Aves	Neognathae	Coliiformes	Coliidae	Colius	
+XM_005501688	IFNL-Aves-1	1	Neognathae	Columba livia	Aves	Neognathae	Columbiformes	Columbidae	Columba	
+XM_027636457	IFNL-Aves-1	1	Neognathae	Corapipo altera	Aves	Neognathae	Passeriformes	Pipridae	Corapipo	
+XM_010407863	IFNL-Aves-1	1	Neognathae	Corvus cornix cornix	Aves	Neognathae	Passeriformes	Corvidae	Corvus	
+XM_032114908	IFNL-Aves-1	1	Neognathae	Corvus moneduloides	Aves	Neognathae	Passeriformes	Corvidae	Corvus	
+XM_032114909	IFNL-Aves-1	1	Neognathae	Corvus moneduloides	Aves	Neognathae	Passeriformes	Corvidae	Corvus	
+XM_015868018	IFNL-Aves-1	1	Neognathae	Coturnix japonica	Aves	Neognathae	Galliformes	Phasianidae	Coturnix	
+XM_009570129	IFNL-Aves-1	1	Neognathae	Cuculus canorus	Aves	Neognathae	Cuculiformes	Cuculidae	Cuculus	
+XM_035536768	IFNL-Aves-1	1	Neognathae	Cygnus atratus	Aves	Neognathae	Anseriformes	Anatidae	Cygnus	
+XM_040560797	IFNL-Aves-1	1	Neognathae	Cygnus olor	Aves	Neognathae	Anseriformes	Anatidae	Cygnus	
+XM_009635480	IFNL-Aves-1	1	Neognathae	Egretta garzetta	Aves	Neognathae	Pelecaniformes	Ardeidae	Egretta	
+XM_027890346	IFNL-Aves-1	1	Neognathae	Empidonax traillii	Aves	Neognathae	Passeriformes	Tyrannidae	Empidonax	
+XM_005435995	IFNL-Aves-1	1	Neognathae	Falco cherrug	Aves	Neognathae	Falconiformes	Falconidae	Falco	
+XM_040604362	IFNL-Aves-1	1	Neognathae	Falco naumanni	Aves	Neognathae	Falconiformes	Falconidae	Falco	
+XM_005244420	IFNL-Aves-1	1	Neognathae	Falco peregrinus	Aves	Neognathae	Falconiformes	Falconidae	Falco	
+XM_037398060	IFNL-Aves-1	1	Neognathae	Falco rusticolus	Aves	Neognathae	Falconiformes	Falconidae	Falco	
+XM_005049042	IFNL-Aves-1	1	Neognathae	Ficedula albicollis	Aves	Neognathae	Passeriformes	Muscicapidae	Ficedula	
+NM_001128496	IFNL-Aves-1	1	Neognathae	Gallus gallus	Aves	Neognathae	Galliformes	Phasianidae	Gallus	
+XM_040676329	IFNL-Aves-1	1	Neognathae	Gallus gallus	Aves	Neognathae	Galliformes	Phasianidae	Gallus	
+XM_040703743	IFNL-Aves-1	1	Neognathae	Gallus gallus	Aves	Neognathae	Galliformes	Phasianidae	Gallus	
+XM_031063497	IFNL-Aves-1	1	Neognathae	Geospiza fortis	Aves	Neognathae	Passeriformes	Thraupidae	Geospiza	
+XM_010577876	IFNL-Aves-1	1	Neognathae	Haliaeetus leucocephalus	Aves	Neognathae	Falconiformes	Accipitridae	Haliaeetus	
+XM_040070420	IFNL-Aves-1	1	Neognathae	Hirundo rustica	Aves	Neognathae	Passeriformes	Hirundinidae	Hirundo	
+XM_017828483	IFNL-Aves-1	1	Neognathae	Lepidothrix coronata	Aves	Neognathae	Passeriformes	Pipridae	Lepidothrix	
+XM_009959982	IFNL-Aves-1	1	Neognathae	Leptosomus discolor	Aves	Neognathae	Coraciiformes	Leptosomidae	Leptosomus	
+XM_021536075	IFNL-Aves-1	1	Neognathae	Lonchura striata domestica	Aves	Neognathae	Passeriformes	Estrildidae	Lonchura	
+XM_003207378	IFNL-Aves-1	1	Neognathae	Meleagris gallopavo	Aves	Neognathae	Galliformes	Phasianidae	Meleagris	
+XM_034065776	IFNL-Aves-1	1	Neognathae	Melopsittacus undulatus	Aves	Neognathae	Psittaciformes	Psittaculidae	Melopsittacus	
+XM_008937521	IFNL-Aves-1	1	Neognathae	Merops nubicus	Aves	Neognathae	Coraciiformes	Meropidae	Merops	
+XM_010185572	IFNL-Aves-1	1	Neognathae	Mesitornis unicolor	Aves	Neognathae	Gruiformes	Mesitornithidae	Mesitornis	
+XM_036386986	IFNL-Aves-1	1	Neognathae	Molothrus ater	Aves	Neognathae	Passeriformes	Icteridae	Molothrus	
+XM_038141770	IFNL-Aves-1	1	Neognathae	Motacilla alba alba	Aves	Neognathae	Passeriformes	Motacillidae	Motacilla	
+XM_027677891	IFNL-Aves-1	1	Neognathae	Neopelma chrysocephalum	Aves	Neognathae	Passeriformes	Pipridae	Neopelma	
+XM_009462244	IFNL-Aves-1	1	Neognathae	Nipponia nippon	Aves	Neognathae	Pelecaniformes	Threskiornithidae	Nipponia	
+XM_021399538	IFNL-Aves-1	1	Neognathae	Numida meleagris	Aves	Neognathae	Galliformes	Numididae	Numida	
+XM_035332332	IFNL-Aves-1	1	Neognathae	Oxyura jamaicensis	Aves	Neognathae	Anseriformes	Anatidae	Oxyura	
+XM_010284067	IFNL-Aves-1	1	Neognathae	Phaethon lepturus	Aves	Neognathae	Pelecaniformes	Phaethontidae	Phaethon	
+XM_031604571	IFNL-Aves-1	1	Neognathae	Phasianus colchicus	Aves	Neognathae	Galliformes	Phasianidae	Phasianus	
+XM_027735645	IFNL-Aves-1	1	Neognathae	Pipra filicauda	Aves	Neognathae	Passeriformes	Pipridae	Pipra	
+XM_005528932	IFNL-Aves-1	1	Neognathae	Pseudopodoces humilis	Aves	Neognathae	Passeriformes	Paridae	Pseudopodoces	
+XM_010078127	IFNL-Aves-1	1	Neognathae	Pterocles gutturalis	Aves	Neognathae	Ciconiiformes	Pteroclidae	Pterocles	
+XM_009329638	IFNL-Aves-1	1	Neognathae	Pygoscelis adeliae	Aves	Neognathae	Sphenisciformes	Spheniscidae	Pygoscelis	
+XM_030230187	IFNL-Aves-1	1	Neognathae	Serinus canaria	Aves	Neognathae	Passeriformes	Fringillidae	Serinus	
+XM_014881972	IFNL-Aves-1	1	Neognathae	Sturnus vulgaris	Aves	Neognathae	Passeriformes	Sturnidae	Sturnus	
+XM_030277089	IFNL-Aves-1	1	Neognathae	Taeniopygia guttata	Aves	Neognathae	Passeriformes	Estrildidae	Taeniopygia	
+XM_033010731	IFNL-Aves-1	1	Neognathae	Tyto alba alba	Aves	Neognathae	Strigiformes	Tytonidae	Tyto	
+XM_026793323	IFNL-Aves-1	1	Neognathae	Zonotrichia albicollis	Aves	Neognathae	Passeriformes	Passerellidae	Zonotrichia	
+XM_009900846	IFNL-Aves-1	1	Neognathae	Dryobates pubescens	Aves	Neognathae	Piciformes	Picidae	Dryobates	
+XM_030487381	IFNL-Aves-1	1	Neognathae	Strigops habroptila	Aves	Neognathae	Strigiformes	Tytonidae	Tyto	
+XM_030487382	IFNL-Aves-1	1	Neognathae	Strigops habroptila	Aves	Neognathae	Strigiformes	Tytonidae	Tyto	
+XM_026087926	IFNL-Aves-1	1	Palaeognathae	Apteryx rowi	Aves	Palaeognathae	Apterygiformes	Apterygidae	Apteryx	
+XM_026093800	IFNL-Aves-1	1	Palaeognathae	Dromaius novaehollandiae	Aves	Palaeognathae	Casuariiformes	Dromaiidae	Dromaius	
+XM_026048488	IFNL-Aves-1	1	Palaeognathae	Nothoprocta perdicaria	Aves	Palaeognathae	Tinamiformes	Tinamidae	Nothoprocta	
+XM_013952637	IFNL-Aves-1	1	Palaeognathae	Apteryx mantelli mantelli	Aves	Palaeognathae	Apterygiformes	Apterygidae	Apteryx	

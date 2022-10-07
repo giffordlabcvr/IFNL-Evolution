@@ -1,0 +1,16 @@
+
+# REF_IFNLa_Mammal (IFNL4)
+reference REF_IFNL_Mammal_a
+
+  feature-location orf
+  
+    # Glycosylation site
+    create variation n-linked-glycosylation -t aminoAcidRegexPolymorphism --labeledCodon 50 100
+    variation n-linked-glycosylation    
+      set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
+      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
+      exit
+                                    
+    exit
+  
+  exit

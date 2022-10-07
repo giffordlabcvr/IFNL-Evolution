@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>NM_001024673</GBSeq_locus>
+    <GBSeq_length>582</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>ROD</GBSeq_division>
+    <GBSeq_update-date>17-APR-2022</GBSeq_update-date>
+    <GBSeq_create-date>07-JUN-2005</GBSeq_create-date>
+    <GBSeq_definition>Mus musculus interferon lambda 2 (Ifnl2), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>NM_001024673</GBSeq_primary-accession>
+    <GBSeq_accession-version>NM_001024673.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|NM_001024673.2|</GBSeqid>
+      <GBSeqid>gi|130494424</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_secondary-accessions>
+      <GBSecondary-accn>XM_284291</GBSecondary-accn>
+    </GBSeq_secondary-accessions>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+      <GBKeyword>RefSeq Select</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Mus musculus (house mouse)</GBSeq_source>
+    <GBSeq_organism>Mus musculus</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha; Muroidea; Muridae; Murinae; Mus; Mus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..582</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Peterson ST</GBAuthor>
+          <GBAuthor>Kennedy EA</GBAuthor>
+          <GBAuthor>Brigleb PH</GBAuthor>
+          <GBAuthor>Taylor GM</GBAuthor>
+          <GBAuthor>Urbanek K</GBAuthor>
+          <GBAuthor>Bricker TL</GBAuthor>
+          <GBAuthor>Lee S</GBAuthor>
+          <GBAuthor>Shin H</GBAuthor>
+          <GBAuthor>Dermody TS</GBAuthor>
+          <GBAuthor>Boon ACM</GBAuthor>
+          <GBAuthor>Baldridge MT</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Disruption of Type III Interferon (IFN) Genes Ifnl2 and Ifnl3 Recapitulates Loss of the Type III IFN Receptor in the Mucosal Antiviral Response</GBReference_title>
+        <GBReference_journal>J Virol 93 (22), e01073-19 (2019)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/JVI.01073-19</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>31462571</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: Results support the idea of an exclusive role for known type III interferon cytokines in signaling via IFNLR to mediate antiviral effects at mucosal surfaces. These findings emphasize the importance of type III interferons in regulation of a variety of viral pathogens and provide important genetic evidence to support our understanding of the ligand-receptor interactions in this pathway.; Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..582</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jacobs S</GBAuthor>
+          <GBAuthor>Zeippen C</GBAuthor>
+          <GBAuthor>Wavreil F</GBAuthor>
+          <GBAuthor>Gillet L</GBAuthor>
+          <GBAuthor>Michiels T</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>IFN-lambda Decreases Murid Herpesvirus-4 Infection of the Olfactory Epithelium but Fails to Prevent Virus Reactivation in the Vaginal Mucosa</GBReference_title>
+        <GBReference_journal>Viruses 11 (8), E757 (2019)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.3390/v11080757</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>31426334</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: IFN-lambda Decreases Murid Herpesvirus-4 Infection of the Olfactory Epithelium but Fails to Prevent Virus Reactivation in the Vaginal Mucosa.; Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..582</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lee S</GBAuthor>
+          <GBAuthor>Liu H</GBAuthor>
+          <GBAuthor>Wilen CB</GBAuthor>
+          <GBAuthor>Sychev ZE</GBAuthor>
+          <GBAuthor>Desai C</GBAuthor>
+          <GBAuthor>Hykes BL Jr</GBAuthor>
+          <GBAuthor>Orchard RC</GBAuthor>
+          <GBAuthor>McCune BT</GBAuthor>
+          <GBAuthor>Kim KW</GBAuthor>
+          <GBAuthor>Nice TJ</GBAuthor>
+          <GBAuthor>Handley SA</GBAuthor>
+          <GBAuthor>Baldridge MT</GBAuthor>
+          <GBAuthor>Amarasinghe GK</GBAuthor>
+          <GBAuthor>Virgin HW</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A Secreted Viral Nonstructural Protein Determines Intestinal Norovirus Pathogenesis</GBReference_title>
+        <GBReference_journal>Cell Host Microbe 25 (6), 845-857 (2019)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.chom.2019.04.005</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>31130511</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: The authors show that processing of norovirus NS1/2 yields NS1, an unconventionally secreted viral protein that is central for IFN-lambda resistance. Murine norovirus infection globally suppresses intestinal IFN-lambda responses, which is attributable to secreted NS1.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>4</GBReference_reference>
+        <GBReference_position>1..582</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jagger BW</GBAuthor>
+          <GBAuthor>Miner JJ</GBAuthor>
+          <GBAuthor>Cao B</GBAuthor>
+          <GBAuthor>Arora N</GBAuthor>
+          <GBAuthor>Smith AM</GBAuthor>
+          <GBAuthor>Kovacs A</GBAuthor>
+          <GBAuthor>Mysorekar IU</GBAuthor>
+          <GBAuthor>Coyne CB</GBAuthor>
+          <GBAuthor>Diamond MS</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Gestational Stage and IFN-lambda Signaling Regulate ZIKV Infection In Utero</GBReference_title>
+        <GBReference_journal>Cell Host Microbe 22 (3), 366-376 (2017)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.chom.2017.08.012</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>28910635</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: Fetuses lacking IFN-lambda signaling had increased Zika virus replication in the placenta, and treatment of pregnant mice with IFN-lambda2 reduced ZIKV infection.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>5</GBReference_reference>
+        <GBReference_position>1..582</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pingwara R</GBAuthor>
+          <GBAuthor>Witt-Jurkowska K</GBAuthor>
+          <GBAuthor>Ulewicz K</GBAuthor>
+          <GBAuthor>Mucha J</GBAuthor>
+          <GBAuthor>Tonecka K</GBAuthor>
+          <GBAuthor>Pilch Z</GBAuthor>
+          <GBAuthor>Taciak B</GBAuthor>
+          <GBAuthor>Zabielska-Koczywas K</GBAuthor>
+          <GBAuthor>Mori M</GBAuthor>
+          <GBAuthor>Berardozzi S</GBAuthor>
+          <GBAuthor>Botta B</GBAuthor>
+          <GBAuthor>Rygiel TP</GBAuthor>
+          <GBAuthor>Krol M</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Interferon lambda 2 promotes mammary tumor metastasis via angiogenesis extension and stimulation of cancer cell migration</GBReference_title>
+        <GBReference_journal>J Physiol Pharmacol 68 (4), 573-583 (2017)</GBReference_journal>
+        <GBReference_pubmed>29151074</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: IFN-lambda2 and its receptor may become targets of anti-cancer therapy.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>6</GBReference_reference>
+        <GBReference_position>1..582</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Okamoto M</GBAuthor>
+          <GBAuthor>Oshiumi H</GBAuthor>
+          <GBAuthor>Azuma M</GBAuthor>
+          <GBAuthor>Kato N</GBAuthor>
+          <GBAuthor>Matsumoto M</GBAuthor>
+          <GBAuthor>Seya T</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>IPS-1 is essential for type III IFN production by hepatocytes and dendritic cells in response to hepatitis C virus infection</GBReference_title>
+        <GBReference_journal>J Immunol 192 (6), 2770-2777 (2014)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.4049/jimmunol.1301459</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>24532585</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: Data indicate that IPS-1-dependent pathway plays a crucial role in type III IFN production by CD8(+) dendritic cells (DCs) and hepatocytes in response to hepatitis C virus (HCV), leading to cytoplasmic antiviral protein expressions.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>7</GBReference_reference>
+        <GBReference_position>1..582</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pott J</GBAuthor>
+          <GBAuthor>Mahlakoiv T</GBAuthor>
+          <GBAuthor>Mordstein M</GBAuthor>
+          <GBAuthor>Duerr CU</GBAuthor>
+          <GBAuthor>Michiels T</GBAuthor>
+          <GBAuthor>Stockinger S</GBAuthor>
+          <GBAuthor>Staeheli P</GBAuthor>
+          <GBAuthor>Hornef MW</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>IFN-lambda determines the intestinal epithelial antiviral host defense</GBReference_title>
+        <GBReference_journal>Proc Natl Acad Sci U S A 108 (19), 7944-7949 (2011)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1073/pnas.1100552108</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>21518880</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>8</GBReference_reference>
+        <GBReference_position>1..582</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lasfar A</GBAuthor>
+          <GBAuthor>Lewis-Antes A</GBAuthor>
+          <GBAuthor>Smirnov SV</GBAuthor>
+          <GBAuthor>Anantha S</GBAuthor>
+          <GBAuthor>Abushahba W</GBAuthor>
+          <GBAuthor>Tian B</GBAuthor>
+          <GBAuthor>Reuhl K</GBAuthor>
+          <GBAuthor>Dickensheets H</GBAuthor>
+          <GBAuthor>Sheikh F</GBAuthor>
+          <GBAuthor>Donnelly RP</GBAuthor>
+          <GBAuthor>Raveche E</GBAuthor>
+          <GBAuthor>Kotenko SV</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Characterization of the mouse IFN-lambda ligand-receptor system: IFN-lambdas exhibit antitumor activity against B16 melanoma</GBReference_title>
+        <GBReference_journal>Cancer Res 66 (8), 4468-4477 (2006)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1158/0008-5472.CAN-05-3653</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>16618774</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>9</GBReference_reference>
+        <GBReference_position>1..582</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bartlett NW</GBAuthor>
+          <GBAuthor>Buttigieg K</GBAuthor>
+          <GBAuthor>Kotenko SV</GBAuthor>
+          <GBAuthor>Smith GL</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Murine interferon lambdas (type III interferons) exhibit potent antiviral activity in vivo in a poxvirus infection model</GBReference_title>
+        <GBReference_journal>J Gen Virol 86 (Pt 6), 1589-1596 (2005)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1099/vir.0.80904-0</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15914836</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>10</GBReference_reference>
+        <GBReference_position>1..582</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kotenko SV</GBAuthor>
+          <GBAuthor>Langer JA</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Full house: 12 receptors for 27 cytokines</GBReference_title>
+        <GBReference_journal>Int Immunopharmacol 4 (5), 593-608 (2004)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.intimp.2004.01.003</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15120645</GBReference_pubmed>
+        <GBReference_remark>Review article</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>PROVISIONAL REFSEQ: This record has not yet been subject to final NCBI review. The reference sequence was derived from AC149606.6.; On Mar 14, 2007 this sequence version replaced NM_001024673.1.; ~Publication Note: This RefSeq record includes a subset of the publications that are available for this gene. Please see the Gene record to access additional publications.; ; ##Evidence-Data-START## ; Transcript exon combination :: AY869695.1, BC150796.1 [ECO:0000332] ; RNAseq introns :: partial sample support SAMN00849379, SAMN00849383 [ECO:0000350] ; ##Evidence-Data-END##; ; ##RefSeq-Attributes-START## ; RefSeq Select criteria :: based on conservation, expression ; ##RefSeq-Attributes-END##</GBSeq_comment>
+    <GBSeq_primary>REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP~1-174               AC149606.6         2984-3157~175-252             AC149606.6         3630-3707~253-396             AC149606.6         3971-4114~397-483             AC149606.6         4216-4302~484-582             AC149606.6         4385-4483</GBSeq_primary>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..582</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>582</GBInterval_to>
+            <GBInterval_accession>NM_001024673.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Mus musculus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10090</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>7</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>map</GBQualifier_name>
+            <GBQualifier_value>7</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..582</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>582</GBInterval_to>
+            <GBInterval_accession>NM_001024673.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>Ifnl2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>EG330496; If1ia1; IL-28A; Il28a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>interferon lambda 2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:330496</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>MGI:MGI:3647279</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..582</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>582</GBInterval_to>
+            <GBInterval_accession>NM_001024673.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>Ifnl2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>EG330496; If1ia1; IL-28A; Il28a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>interferon-lambda2; interleukin-28A; IFN-lambda2; IFN-lambda-2; interferon 1ia1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>interferon lambda-2 precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>NP_001019844.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>CCDS:CCDS39861.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:330496</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>MGI:MGI:3647279</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MLLLLLPLLLAAVLTRTQADPVPRATRLPVEAKDCHIAQFKSLSPKELQAFKKAKDAIEKRLLEKDLRCSSHLFPRAWDLKQLQVQERPKALQAEVALTLKVWENMTDSALATILGQPLHTLSHIHSQLQTCTQLQATAEPRSPSRRLSRWLHRLQEAQSKETPGCLEASVTSNLFRLLTRDLKCVANGDQCV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>sig_peptide</GBFeature_key>
+        <GBFeature_location>1..57</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>57</GBInterval_to>
+            <GBInterval_accession>NM_001024673.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>Ifnl2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>EG330496; If1ia1; IL-28A; Il28a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>COORDINATES: ab initio prediction:SignalP:4.0</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MLLLLLPLLLAAVLTRTQA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>313..315</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>313</GBInterval_from>
+            <GBInterval_to>315</GBInterval_to>
+            <GBInterval_accession>NM_001024673.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>Ifnl2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>EG330496; If1ia1; IL-28A; Il28a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>N-linked (GlcNAc...) asparagine. /evidence=ECO:0000255; propagated from UniProtKB/Swiss-Prot (Q4VK74.2); glycosylation site</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>1..174</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>174</GBInterval_to>
+            <GBInterval_accession>NM_001024673.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>Ifnl2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>EG330496; If1ia1; IL-28A; Il28a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>175..252</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>175</GBInterval_from>
+            <GBInterval_to>252</GBInterval_to>
+            <GBInterval_accession>NM_001024673.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>Ifnl2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>EG330496; If1ia1; IL-28A; Il28a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>253..396</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>253</GBInterval_from>
+            <GBInterval_to>396</GBInterval_to>
+            <GBInterval_accession>NM_001024673.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>Ifnl2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>EG330496; If1ia1; IL-28A; Il28a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>397..483</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>397</GBInterval_from>
+            <GBInterval_to>483</GBInterval_to>
+            <GBInterval_accession>NM_001024673.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>Ifnl2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>EG330496; If1ia1; IL-28A; Il28a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>484..582</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>484</GBInterval_from>
+            <GBInterval_to>582</GBInterval_to>
+            <GBInterval_accession>NM_001024673.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>Ifnl2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>EG330496; If1ia1; IL-28A; Il28a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgctcctcctgctgttgcctctgctgctggccgcagtgctgacaagaacccaagctgaccctgtccccagggccaccaggctcccagtggaagcaaaggattgccacattgctcagttcaagtctctgtccccaaaagagctgcaggccttcaaaaaggccaaggatgccatcgagaagaggctgcttgagaaggacctgaggtgcagttcccacctcttccccagggcctgggacctgaagcagctgcaggtccaagagcgccccaaggccttgcaggctgaggtggccctgaccctgaaggtctgggagaacatgactgactcagccctggccaccatcctgggccagcctcttcatacactgagccacattcactcccagctgcagacctgtacacagcttcaggccacagcagagcccaggtccccgagccgccgcctctcccgctggctgcacaggctccaggaggcccagagcaaggagacccctggctgcctggaggcctctgtcacctccaacctgtttcgcctgctcacccgggacctcaagtgtgtggccaatggagaccagtgtgtctga</GBSeq_sequence>
+  </GBSeq>
