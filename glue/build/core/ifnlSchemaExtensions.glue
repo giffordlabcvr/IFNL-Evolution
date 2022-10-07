@@ -1,37 +1,46 @@
+
+  #~# Extensions to sequence table
+  
   table sequence
+
+    # Gene sequence details
+    create field gene_name VARCHAR 100  
+    create field gene_id VARCHAR 50
+    create field clade VARCHAR 50 
+    create field length INTEGER
+    create field pubmed_id VARCHAR 50
+ 
+    # Host species taxonomy
     create field species VARCHAR 100
     create field species_superorder VARCHAR 100
     create field species_order VARCHAR 100
     create field species_family VARCHAR 100
     create field species_genus VARCHAR 100			
-    create field name VARCHAR 100  
-    create field gene_id VARCHAR 50
-    create field vertebrate_lineage VARCHAR 50
-    create field clade VARCHAR 50
-    create field major_subclade VARCHAR 50
-    create field duplicate_type VARCHAR 50
-    create field duplicate_numeric_id VARCHAR 50
-    create field subclade VARCHAR 50
-    
+ 
+  exit
+
+
+
+  #~# Table for feature coverage
+  
+  table member_floc_note
+  	create field ref_nt_coverage_pct DOUBLE
+  	exit
+
+
+
+  #~# Create schema extension for glycosylation data
+  create custom-table glycosylation
+
+  table glycosylation
+
     create field glycosylation_o1_present VARCHAR 50
     create field glycosylation_o2_present VARCHAR 50
     create field glycosylation_o3_present VARCHAR 50
     create field glycosylation_o4_present VARCHAR 50
     create field glycosylation_o5_present VARCHAR 50
     create field glycosylation_o6_present VARCHAR 50
-    
-    create field length INTEGER
-    create field pubmed_id VARCHAR 50
-    create field gb_lab_construct BOOLEAN
-  exit
 
-  table alignment
-    create field clade_category VARCHAR 20
-    create field phylogeny CLOB
   exit 
-
-  table member_floc_note
-  	create field ref_nt_coverage_pct DOUBLE
-  	exit
-
-
+  
+  create link sequence glycosylation

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>XM_028859190</GBSeq_locus>
+    <GBSeq_length>1047</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>ROD</GBSeq_division>
+    <GBSeq_update-date>06-NOV-2020</GBSeq_update-date>
+    <GBSeq_create-date>22-APR-2019</GBSeq_create-date>
+    <GBSeq_definition>PREDICTED: Peromyscus leucopus interferon lambda-2 (LOC114684655), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>XM_028859190</GBSeq_primary-accession>
+    <GBSeq_accession-version>XM_028859190.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|XM_028859190.2|</GBSeqid>
+      <GBSeqid>gi|1929221638</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA533285</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Peromyscus leucopus (white-footed mouse)</GBSeq_source>
+    <GBSeq_organism>Peromyscus leucopus</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha; Muroidea; Cricetidae; Neotominae; Peromyscus</GBSeq_taxonomy>
+    <GBSeq_comment>MODEL REFSEQ: This record is predicted by automated computational analysis. This record is derived from a genomic sequence (NC_051063.1) annotated using gene prediction method: Gnomon.~Also see:~ Documentation of NCBI's Annotation Process~; On Nov 6, 2020 this sequence version replaced XM_028859190.1.; ; ##Genome-Annotation-Data-START## ; Annotation Provider :: NCBI ; Annotation Status :: Full annotation ; Annotation Name :: Peromyscus leucopus Annotation Release 101 ; Annotation Version :: 101 ; Annotation Pipeline :: NCBI eukaryotic genome annotation pipeline ; Annotation Software Version :: 8.5 ; Annotation Method :: Best-placed RefSeq; Gnomon ; Features Annotated :: Gene; mRNA; CDS; ncRNA ; ##Genome-Annotation-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1047</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1047</GBInterval_to>
+            <GBInterval_accession>XM_028859190.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Peromyscus leucopus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10041</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>sex</GBQualifier_name>
+            <GBQualifier_value>female</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>tissue_type</GBQualifier_name>
+            <GBQualifier_value>mixed organs</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>dev_stage</GBQualifier_name>
+            <GBQualifier_value>adult</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>breed</GBQualifier_name>
+            <GBQualifier_value>LL Stock</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1047</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1047</GBInterval_to>
+            <GBInterval_accession>XM_028859190.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC114684655</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Derived by automated computational analysis using gene prediction method: Gnomon. Supporting evidence includes similarity to: 8 Proteins, and 97% coverage of the annotated genomic feature by RNAseq alignments</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:114684655</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>347..928</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>347</GBInterval_from>
+            <GBInterval_to>928</GBInterval_to>
+            <GBInterval_accession>XM_028859190.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>LOC114684655</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>interferon lambda-2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>XP_028715023.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:114684655</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MATLWRLLSLVTVVLGLATAASVPPSKPTPARTGCHIGIFQSVSPWELGVFKKAKDALEELLLQKDVRCSTNPFPSSWKLGQLQVQERPRALQAELALTLKVLENMTDSALVPILDQPLHTLRHIHSQLQACTQPQPTAEPRPVSGRLSRWLHRLQEAQRKETPSCLEASVTSNLFRLLTRDLKCVASGDQCA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ccttctgccctgttcccaccactgctccctcccttcagtgtagtctaaactggggagccctggccttctgtgtcctgaaagagatggtattgcagactccggacactggattctgtttctctttccttcctggaacaacatcacacacctggccacgcccacacctgctcaccgacctggctcaggaattggctccacctcctggtgcctcttatgggtgcattttcgtttcccttcttcttccccccaccccaccctctgctttggacacatcatcaaggatagcacgtgtagcctgccttaaaaagcagagccatgcagctcaggagacacttgggacttgagcatggctacactgtggcggttgctgagtctggtgaccgtggtgctgggcttggccacagctgcttctgtccctccttccaagcccactccagccagaacaggctgtcacattggcattttccagtctgtgtcaccatgggagctaggcgtcttcaagaaagccaaggatgctttggaagaattgctgcttcagaaggatgtccggtgtagcaccaacccctttcccagtagctggaaactgggccagctgcaggtccaggagcgccccagggccttgcaggctgagctggccctgacactgaaggtcctagagaacatgactgactcagccctggtccccatcctggaccagcctcttcacaccctgcgccacatccactcacagctgcaggcctgtacacagcctcagcccacggcagagcccaggcctgtgagcggccgcctctcacgctggctgcacagactccaggaggcccagaggaaggagacccccagctgcctggaggcctctgtcacttccaacctcttccgcctgctcacccgggacctgaagtgtgtggccagcggagatcagtgtgcctgagtacagaggccatgcaccgagtgtccgagactctgcactctacattcggccccacacctaccttaacttatttcctctcaccctttatttatgaagctgcaacacaggttgtgtttatt</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA533285</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>

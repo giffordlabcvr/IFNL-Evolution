@@ -1,0 +1,39 @@
+
+project ifnl
+
+  # Import lineage-level sources 
+  import source sources/ncbi-curated-mammalia-b/
+  import source sources/fasta-curated-mammalia-b/
+
+  # Import metadata for IFNL curated sequences
+  module ifnlSideDataImporter 
+    populate -f tabular/refseq-lineage/ifnl-curated-side-data-mammalia-b.tsv
+    exit
+
+  # Import lineage-level alignments 
+  module unconstrainedAlignmentImporter
+    import AL_UNC_IFNLA_mRNA -f alignments/mammal/ifnlb/ifnlb-mrna.aln.fna
+    exit
+
+  # Create subclade references
+  run file glue/build/lineage/ifnl-mammalia-b/subcladeReferencesIfnlMammaliaB.glue
+
+  # Extend constrained alignment tree
+  run file glue/build/lineage/ifnl-mammalia-b/ifnlAlignmentTreeMammalianB.glue
+
+  # Record feature coverage in alignments
+  run file glue/build/lineage/ifnl-mammalia-b/ifnlLinegesRecordFeaturePresence.glue
+
+  # Define variations 
+  run file glue/build/lineage/ifnl-mammalia-b/variationsIfnlMammalianB.glue
+
+  # Scan variations 
+  run script glue/build/lineage/ifnlScanVariationsGlycos1.js
+  run script glue/build/lineage/ifnlScanVariationsGlycos2.js
+  run script glue/build/lineage/ifnlScanVariationsGlycos3.js
+
+  # Validate
+  validate
+
+  exit
+

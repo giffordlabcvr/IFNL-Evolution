@@ -1,66 +1,66 @@
-id	name	gene_id	species	Superorder	Species_order	Family	Genus	protein_accession	ref	reference_id
-XM_011234954	IFNL-A-Mammal	Placental1	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233256.1	xL	
-XM_028165945	IFNL-A-Mammal	Placental1	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			
-XM_007180047	IFNL-A-Mammal	Placental1	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			
-XM_007180046	IFNL-A-Mammal	Placental1	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			
-XM_005219127	IFNL-A-Mammal	Placental1	Bos taurus	Laurasiatheria	Unclassified	Bovidae	Bos			
-XM_005219126	IFNL-A-Mammal	Placental1	Bos taurus	Laurasiatheria	Unclassified	Bovidae	Bos			
-XM_025268277	IFNL-A-Mammal	Placental1	Bubalus bubalis	Laurasiatheria	Unclassified	Bovidae	Bubalus	XP_025124062.1		
-XM_008987976	IFNL-A-Mammal	Placental1	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	XP_008986224.1		
-XM_020156960	IFNL-A-Mammal	Placental1	Castor canadensis	Euarchontoglires	Rodentia	Castoridae	Castor	XP_020012549.1		
-XM_020156960 	IFNL-A-Mammal	Placental1	Castor canadensis	Euarchontoglires	Rodentia	Castoridae	Castor			
-XM_017503065	IFNL-A-Mammal	Placental1	Cebus capucinus	Euarchontoglires	Primates	Cebidae	Cebus			
-XM_017503067	IFNL-A-Mammal	Placental1	Cebus capucinus imitator	Euarchontoglires	Primates	Cebidae	Cebus			-
-XM_013522287	IFNL-A-Mammal	Placental1	Chinchilla lanigera	Euarchontoglires	Rodentia	Chinchillidae	Chinchilla			
-XM_007996757	IFNL-A-Mammal	Placental1	Chlorocebus sabaeus	Euarchontoglires	Primates	Cercopithecidae	Chlorocebus			-
-XM_006878034	IFNL-A-Mammal	Placental1	Chrysochloris asiatica	Afrotheria	Unclassified	Chrysochloridae	Chrysochloris			-
-XM_024577451	IFNL-A-Mammal	Placental1	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus			-
-XM_004710487	IFNL-A-Mammal	Placental1	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops			
-XM_022525015	IFNL-A-Mammal	Placental1	Enhydra lutris kenyoni	Laurasiatheria	Carnivora	Mustelidae	Enhydra			-
-XM_008140039	IFNL-A-Mammal	Placental1	Eptesicus fuscus	Laurasiatheria	Chiroptera	Vespertilionidae	Eptesicus			-
-XM_007524025	IFNL-A-Mammal	Placental1	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524087.1 		
-XM_007524024	IFNL-A-Mammal	Placental1	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus			-
-XM_019014912	IFNL-A-Mammal	Placental1	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla			
-XM_019015012	IFNL-A-Mammal	Placental1	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla			-
-XM_021239619	IFNL-A-Mammal	Placental1	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	XP_021095278.1		
-XM_021239678	IFNL-A-Mammal	Placental1	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus			
-XM_021239619	IFNL-A-Mammal	Placental1	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus			
-XM_019666268	IFNL-A-Mammal	Placental1	Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros			
-XM_019666267	IFNL-A-Mammal	Placental1	Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros			-
-XM_005336481	IFNL-A-Mammal	Placental1	Ictidomys tridecemlineatus	Euarchontoglires	Rodentia	Sciuridae	Ictidomys			
-XM_010600326	IFNL-A-Mammal	Placental1	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	XP_010598628.1 	xA	
-XM_010600327	IFNL-A-Mammal	Placental1	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta			
-XM_010600391	IFNL-A-Mammal	Placental1	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta			-
-XM_015123824	IFNL-A-Mammal	Placental1	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	XP_014979310.2		
-XM_028839087	IFNL-A-Mammal	Placental1	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca			
-XM_016209132	IFNL-A-Mammal	Placental1	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			-
-XM_014541702	IFNL-A-Mammal	Placental1	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
-XM_023760558	IFNL-A-Mammal	Placental1	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	XP_023616326.1		
-XM_021700959	IFNL-A-Mammal	Placental1	Neomonachus schauinslandi	Laurasiatheria	Carnivora	Phocidae	Monachus			
-XM_021700961	IFNL-A-Mammal	Placental1	Neomonachus schauinslandi	Laurasiatheria	Carnivora	Phocidae	Monachus			-
-XM_012496610	IFNL-A-Mammal	Placental1	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus			
-XM_004595181	IFNL-A-Mammal	Placental1	Ochotona princeps	Euarchontoglires	Lagomorpha	Ochotonidae	Ochotona			
-XM_004636883	IFNL-A-Mammal	Placental1	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	XP_004636940.1		
-XM_004636883 	IFNL-A-Mammal	Placental1	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon			
-XM_004396491	IFNL-A-Mammal	Placental1	Odobenus rosmarus	Laurasiatheria	Carnivora	Odobenidae	Odobenus			
-XM_004396490	IFNL-A-Mammal	Placental1	Odobenus rosmarus divergens	Laurasiatheria	Carnivora	Odobenidae	Odobenus			
-XM_012533543	IFNL-A-Mammal	Placental1	Orcinus orca	Laurasiatheria	Cetacea	Delphinidae	Orcinus	XP_012388997.1		
-XM_007660152	IFNL-A-Mammal	Placental1	Ornithorhynchus anatinus	Unclassified	Monotremata	Ornithorhynchidae	Ornithorhynchus	XP_007658342.2	xMo	
-XM_007955548	IFNL-A-Mammal	Placental1	Orycteropus afer afer	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus			-
-XM_008257170	IFNL-A-Mammal	Placental1	Oryctolagus cuniculus	Euarchontoglires	Lagomorpha	Leporidae	Oryctolagus	XP_008255392.1 		
-XM_008964691	IFNL-A-Mammal	Placental1	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan			
-XM_008964650	IFNL-A-Mammal	Placental1	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan			
-NM_001276259	IFNL-A-Mammal	Placental1	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan			-
-XM_019431989	IFNL-A-Mammal	Placental1	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera			
-XM_019431940	IFNL-A-Mammal	Placental1	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera			
-XM_019431990	IFNL-A-Mammal	Placental1	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera			-
-XM_021931090	IFNL-A-Mammal	Placental1	Papio anubis	Euarchontoglires	Primates	Cercopithecidae	Papio			-
-XM_006911731	IFNL-A-Mammal	Placental1	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus			-
-XM_016165225	IFNL-A-Mammal	Placental1	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	XP_016020711.1 		
-XM_004617296	IFNL-A-Mammal	Placental1	Sorex araneus	Laurasiatheria	Insectivora	Soricidae	Sorex			
-XM_013990503	IFNL-A-Mammal	Placental1	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus	XP_013845957.1 		
-XM_027765624	IFNL-A-Mammal	Placental1	Tree shrew	Euarchontoglires	Scandentia	Tupaiidae	Tupaia			
-XM_027765624	IFNL-A-Mammal	Placental1	Tupaia chinensis	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_027621425.1		
-XM_026491561	IFNL-A-Mammal	Placental1	Ursus arctos horribilis	Laurasiatheria	Carnivora	Ursidae	Ursus			-
-XM_027855301	IFNL-A-Mammal	Placental1	Vombatus ursinus	Unclassified	Diprotodontia	Vombatidae	Vombatus	XM_027855301	xMa	
-IFNL_Mammal_APsi-Hsa	IFNL-A-Mammal	Placental1	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	NULL		
+id	gene_name	gene_clade	gene_id	species	Superorder	Species_order	Family	Genus	protein_accession	ref	reference_id
+XM_011234954	IFNL-Mammal-A	A	Placental1	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	Ailuropoda	XP_011233256.1	xL	
+XM_028165945	IFNL-Mammal-A	A	Placental1	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			
+XM_007180047	IFNL-Mammal-A	A	Placental1	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			
+XM_007180046	IFNL-Mammal-A	A	Placental1	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera			
+XM_005219127	IFNL-Mammal-A	A	Placental1	Bos taurus	Laurasiatheria	Unclassified	Bovidae	Bos			
+XM_005219126	IFNL-Mammal-A	A	Placental1	Bos taurus	Laurasiatheria	Unclassified	Bovidae	Bos			
+XM_025268277	IFNL-Mammal-A	A	Placental1	Bubalus bubalis	Laurasiatheria	Unclassified	Bovidae	Bubalus	XP_025124062.1		
+XM_008987976	IFNL-Mammal-A	A	Placental1	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	XP_008986224.1		
+XM_020156960	IFNL-Mammal-A	A	Placental1	Castor canadensis	Euarchontoglires	Rodentia	Castoridae	Castor	XP_020012549.1		
+XM_020156960 	IFNL-Mammal-A	A	Placental1	Castor canadensis	Euarchontoglires	Rodentia	Castoridae	Castor			
+XM_017503065	IFNL-Mammal-A	A	Placental1	Cebus capucinus	Euarchontoglires	Primates	Cebidae	Cebus			
+XM_017503067	IFNL-Mammal-A	A	Placental1	Cebus capucinus imitator	Euarchontoglires	Primates	Cebidae	Cebus			-
+XM_013522287	IFNL-Mammal-A	A	Placental1	Chinchilla lanigera	Euarchontoglires	Rodentia	Chinchillidae	Chinchilla			
+XM_007996757	IFNL-Mammal-A	A	Placental1	Chlorocebus sabaeus	Euarchontoglires	Primates	Cercopithecidae	Chlorocebus			-
+XM_006878034	IFNL-Mammal-A	A	Placental1	Chrysochloris asiatica	Afrotheria	Unclassified	Chrysochloridae	Chrysochloris			-
+XM_024577451	IFNL-Mammal-A	A	Placental1	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus			-
+XM_004710487	IFNL-Mammal-A	A	Placental1	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops			
+XM_022525015	IFNL-Mammal-A	A	Placental1	Enhydra lutris kenyoni	Laurasiatheria	Carnivora	Mustelidae	Enhydra			-
+XM_008140039	IFNL-Mammal-A	A	Placental1	Eptesicus fuscus	Laurasiatheria	Chiroptera	Vespertilionidae	Eptesicus			-
+XM_007524025	IFNL-Mammal-A	A	Placental1	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	XP_007524087.1 		
+XM_007524024	IFNL-Mammal-A	A	Placental1	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus			-
+XM_019014912	IFNL-Mammal-A	A	Placental1	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla			
+XM_019015012	IFNL-Mammal-A	A	Placental1	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla			-
+XM_021239619	IFNL-Mammal-A	A	Placental1	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	XP_021095278.1		
+XM_021239678	IFNL-Mammal-A	A	Placental1	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus			
+XM_021239619	IFNL-Mammal-A	A	Placental1	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus			
+XM_019666268	IFNL-Mammal-A	A	Placental1	Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros			
+XM_019666267	IFNL-Mammal-A	A	Placental1	Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros			-
+XM_005336481	IFNL-Mammal-A	A	Placental1	Ictidomys tridecemlineatus	Euarchontoglires	Rodentia	Sciuridae	Ictidomys			
+XM_010600326	IFNL-Mammal-A	A	Placental1	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	XP_010598628.1 	xA	
+XM_010600327	IFNL-Mammal-A	A	Placental1	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta			
+XM_010600391	IFNL-Mammal-A	A	Placental1	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta			-
+XM_015123824	IFNL-Mammal-A	A	Placental1	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	XP_014979310.2		
+XM_028839087	IFNL-Mammal-A	A	Placental1	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_016209132	IFNL-Mammal-A	A	Placental1	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus			-
+XM_014541702	IFNL-Mammal-A	A	Placental1	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis			-
+XM_023760558	IFNL-Mammal-A	A	Placental1	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	XP_023616326.1		
+XM_021700959	IFNL-Mammal-A	A	Placental1	Neomonachus schauinslandi	Laurasiatheria	Carnivora	Phocidae	Monachus			
+XM_021700961	IFNL-Mammal-A	A	Placental1	Neomonachus schauinslandi	Laurasiatheria	Carnivora	Phocidae	Monachus			-
+XM_012496610	IFNL-Mammal-A	A	Placental1	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus			
+XM_004595181	IFNL-Mammal-A	A	Placental1	Ochotona princeps	Euarchontoglires	Lagomorpha	Ochotonidae	Ochotona			
+XM_004636883	IFNL-Mammal-A	A	Placental1	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	XP_004636940.1		
+XM_004636883 	IFNL-Mammal-A	A	Placental1	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon			
+XM_004396491	IFNL-Mammal-A	A	Placental1	Odobenus rosmarus	Laurasiatheria	Carnivora	Odobenidae	Odobenus			
+XM_004396490	IFNL-Mammal-A	A	Placental1	Odobenus rosmarus divergens	Laurasiatheria	Carnivora	Odobenidae	Odobenus			
+XM_012533543	IFNL-Mammal-A	A	Placental1	Orcinus orca	Laurasiatheria	Cetacea	Delphinidae	Orcinus	XP_012388997.1		
+XM_007660152	IFNL-Mammal-A	A	Placental1	Ornithorhynchus anatinus	Unclassified	Monotremata	Ornithorhynchidae	Ornithorhynchus	XP_007658342.2	xMo	
+XM_007955548	IFNL-Mammal-A	A	Placental1	Orycteropus afer afer	Afrotheria	Tubulidentata	Orycteropodidae	Orycteropus			-
+XM_008257170	IFNL-Mammal-A	A	Placental1	Oryctolagus cuniculus	Euarchontoglires	Lagomorpha	Leporidae	Oryctolagus	XP_008255392.1 		
+XM_008964691	IFNL-Mammal-A	A	Placental1	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan			
+XM_008964650	IFNL-Mammal-A	A	Placental1	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan			
+NM_001276259	IFNL-Mammal-A	A	Placental1	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan			-
+XM_019431989	IFNL-Mammal-A	A	Placental1	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera			
+XM_019431940	IFNL-Mammal-A	A	Placental1	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera			
+XM_019431990	IFNL-Mammal-A	A	Placental1	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera			-
+XM_021931090	IFNL-Mammal-A	A	Placental1	Papio anubis	Euarchontoglires	Primates	Cercopithecidae	Papio			-
+XM_006911731	IFNL-Mammal-A	A	Placental1	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus			-
+XM_016165225	IFNL-Mammal-A	A	Placental1	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	XP_016020711.1 		
+XM_004617296	IFNL-Mammal-A	A	Placental1	Sorex araneus	Laurasiatheria	Insectivora	Soricidae	Sorex			
+XM_013990503	IFNL-Mammal-A	A	Placental1	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus	XP_013845957.1 		
+XM_027765624	IFNL-Mammal-A	A	Placental1	Tree shrew	Euarchontoglires	Scandentia	Tupaiidae	Tupaia			
+XM_027765624	IFNL-Mammal-A	A	Placental1	Tupaia chinensis	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	XP_027621425.1		
+XM_026491561	IFNL-Mammal-A	A	Placental1	Ursus arctos horribilis	Laurasiatheria	Carnivora	Ursidae	Ursus			-
+XM_027855301	IFNL-Mammal-A	A	Placental1	Vombatus ursinus	Unclassified	Diprotodontia	Vombatidae	Vombatus	XM_027855301	xMa	
+IFNL_Mammal_APsi-Hsa	IFNL-Mammal-A	A	Placental1	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	NULL		

@@ -10,9 +10,9 @@ schema-project ifnl
 project ifnl
 
   # load project settings
-  run file glue/build/core/projectSettings.glue
 
-  # create modules
+  # create modulesectSettings.glue
+
   run file glue/build/core/ifnlModules.glue
 
   # Import sources 
@@ -31,13 +31,13 @@ project ifnl
   # Define feature locations
   run file glue/build/core/ifnlExplicitFeatureLocations.glue
 
-  # Import root alignments 
-  run file glue/build/core/ifnlAlignments.glue
+  # Import root alignment
+  run file glue/build/core/ifnlRootAlignment.glue
 
-  # Define constrained alignment tree
+  # Define constrained alignment tree (root only)
   run file glue/build/core/ifnlAlignmentTree.glue
 
-  # Record feature coverage in alignments
+  # Record feature coverage in root alignment
   run file glue/build/core/ifnlRecordFeaturePresence.glue
 
   # Validate

@@ -1,0 +1,11 @@
+# Clean-up
+delete module ncbiImporterCuratedMammaliaA
+
+# Create modules
+create module -f modules/build/lineage/ncbiImporterCuratedMammaliaA.xml 
+
+# Download NCBI sequences 
+module ncbiImporterCuratedMammaliaA import
+
+# Export sources
+export source ncbi-curated-mammalia-a

@@ -1,11 +1,11 @@
-id	name	gene_id	species	reference_id	Vertebrate_class	Superorder	Species_order	Family	Genus	protein_accession	ref
-NM_001276254	IFNL-Mammal-A	Placental1	Homo sapiens	REF_IFNL_Mammal_a_MASTER	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_001276254.2	xE
-XM_026688830	IFNL-Lepidosauria_1	Serpentes	Notechis scutatus	REF_IFNL_Lepidosauria_1	Squamata	Lepidosauria	Squamata	Elapidae	Notechis		
-XM_014607441	IFNL-Crocodylia-1	Crocodylia	Alligator mississippiensis	REF_IFNL_Crocodylia_1	Squamata	Unclassified	Crocodylia	Alligatoridae	Alligator		
-XM_025202241	IFNL-Crocodylia-2	Crocodylia	Alligator sinensis	REF_IFNL_Crocodylia_2	Squamata	Unclassified	Crocodylia	Alligatoridae	Alligator		
-NM_001171763	IFNL-Anura	Anura	Xenopus tropicalis	REF_IFNLb_Anura_MASTER	Amphibia	Batrachia	Anura	Pipidae	Xenopus		
-NM_001310792	IFNL-Aves	Aves	Anas platyrhynchos	REF_IFNLb_Aves_MASTER	Squamata	Neognathae	Anseriformes	Anatidae	Anas		
-NM_001346937	IFNL-Mammal-B	Placental2_Haplorhine1	Homo sapiens	REF_IFNL_Mammal_b_MASTER	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
-XM_025186888	IFNL-Testudines-2	Testudines	Pelodiscus sinensis	REF_IFNL_Testudines_2	Squamata	Unclassified	Testudines	Trionychidae	Pelodiscus		
-XM_026646209	IFNL-Testudines-1	Testudines	Terrapene carolina	REF_IFNL_Testudines_1	Squamata	Unclassified	Testudines	Emydidae	Terrapene		
-IFNL_Scyliorhinus	IFNL-Chondrichthyes	Chondrichthyes	Scyliorhinus torazame	REF_IFNL_Chondrichthyes	Chondrichthyes	Unclassified	Carcharhiniformes	Scyliorhinidae	Scyliorhinus		
+id	gene_name	gene_clade	gene_id	species	reference_id	Vertebrate_class	Superorder	Species_order	Family	Genus	protein_accession	ref
+NM_001171763	IFNL-Anura-1	1	Anura	Xenopus tropicalis	REF_IFNL_Anura_1	Amphibia	Batrachia	Anura	Pipidae	Xenopus		
+NM_001310792	IFNL-Aves-1	1	Aves	Anas platyrhynchos	REF_IFNL_Aves_1	Squamata	Neognathae	Anseriformes	Anatidae	Anas		
+IFNL_Scyliorhinus	IFNL-Chondrichthyes-1	1	Chondrichthyes	Scyliorhinus torazame	REF_IFNL_Chondrichthyes	Chondrichthyes	Unclassified	Carcharhiniformes	Scyliorhinidae	Scyliorhinus		
+XM_014607441	IFNL-Crocodylia-1	1	Crocodylia	Alligator mississippiensis	REF_IFNL_Crocodylia_1	Squamata	Unclassified	Crocodylia	Alligatoridae	Alligator		
+XM_025202241	IFNL-Crocodylia-2	1	Crocodylia	Alligator sinensis	REF_IFNL_Crocodylia_2	Squamata	Unclassified	Crocodylia	Alligatoridae	Alligator		
+XM_026688830	IFNL-Lepidosauria_1	1	Serpentes	Notechis scutatus	REF_IFNL_Lepidosauria_1	Squamata	Lepidosauria	Squamata	Elapidae	Notechis		
+NM_001276254	IFNL-Mammalia-A	A	Placental1	Homo sapiens	REF_IFNL_Mammalia_A	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_001276254.2	xE
+NM_001346937	IFNL-Mammalia-B	B	Placental2_Haplorhine1	Homo sapiens	REF_IFNL_Mammalia_B_MASTER	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
+XM_026646209	IFNL-Testudines-1	1	Testudines	Terrapene carolina	REF_IFNL_Testudines_1	Squamata	Unclassified	Testudines	Emydidae	Terrapene		
+XM_025186888	IFNL-Testudines-2	2	Testudines	Pelodiscus sinensis	REF_IFNL_Testudines_2	Squamata	Unclassified	Testudines	Trionychidae	Pelodiscus		

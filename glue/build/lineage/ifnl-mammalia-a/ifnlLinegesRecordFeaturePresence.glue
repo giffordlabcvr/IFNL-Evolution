@@ -1,0 +1,10 @@
+  delete module ifnlFeaturePresenceRecorder
+  create module -f modules/build/core/ifnlFeaturePresenceRecorder.xml
+
+  module ifnlFeaturePresenceRecorder 
+
+    #~# Mammal IFNLs
+    record feature-presence AL_IFNL_MAMMAL_A --recursive --featureName mRNA --descendentFeatures
+         
+    exit
+

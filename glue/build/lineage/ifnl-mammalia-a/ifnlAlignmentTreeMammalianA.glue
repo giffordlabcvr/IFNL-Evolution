@@ -1,0 +1,19 @@
+
+  # Major branches
+  alignment AL_IFNL_ROOT 
+
+    add member --whereClause "source.name = 'fasta-curated-mammalia-a'"
+    add member --whereClause "source.name = 'ncbi-curated-mammalia-a'"
+
+	extract child AL_IFNL_MAMMAL_A --refName REF_IFNL_Mammal_a
+	demote member AL_IFNL_MAMMAL_A --whereClause "sequence.gene_name = 'IFNL-Mammal-A'" 
+			
+    exit
+    
+
+  # Derive segments
+  alignment AL_IFNL_MAMMAL_A
+  
+	derive segments AL_UNC_IFNLA_mRNA -a --mergeStrategy OVERWRITE
+	
+	exit

@@ -1,9 +1,0 @@
-  # Import alignments
-  module unconstrainedAlignmentImporter
-
-    #~# Vertebrate IFNL alignments
-    import AL_UNC_IFNL_ROOT_MASTER -f alignments/vertebrate/ifnl-root.fna
-
-
-    exit
-
