@@ -12,17 +12,17 @@ project ifnl
 
   # Import lineage-level alignments 
   module unconstrainedAlignmentImporter
-    import AL_UNC_IFNLA_mRNA -f alignments/mammal/ifnlb/ifnlb-mrna.aln.fna
+    import AL_UNC_IFNLB_mRNA -f alignments/mammal/ifnlb/ifnlb-mrna.aln.fna
     exit
 
   # Create subclade references
   run file glue/build/lineage/ifnl-mammalia-b/subcladeReferencesIfnlMammaliaB.glue
 
   # Extend constrained alignment tree
-  run file glue/build/lineage/ifnl-mammalia-b/ifnlAlignmentTreeMammalianB.glue
+  run file glue/build/lineage/ifnl-mammalia-b/extendAlignmentTreeMammalianB.glue
 
   # Record feature coverage in alignments
-  run file glue/build/lineage/ifnl-mammalia-b/ifnlLinegesRecordFeaturePresence.glue
+  run file glue/build/lineage/ifnl-mammalia-b/recordFeaturePresenceMammalianB.glue
 
   # Define variations 
   run file glue/build/lineage/ifnl-mammalia-b/variationsIfnlMammalianB.glue
