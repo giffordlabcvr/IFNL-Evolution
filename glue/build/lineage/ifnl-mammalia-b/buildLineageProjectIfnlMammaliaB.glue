@@ -22,15 +22,10 @@ project ifnl
   run file glue/build/lineage/ifnl-mammalia-b/extendAlignmentTreeMammalianB.glue
 
   # Record feature coverage in alignments
-  run file glue/build/lineage/ifnl-mammalia-b/recordFeaturePresenceMammalianB.glue
+  run file glue/build/lineage/ifnl-mammalia-b/recordFeaturePresenceIfnlMammalianB.glue
 
   # Define variations 
   run file glue/build/lineage/ifnl-mammalia-b/variationsIfnlMammalianB.glue
-
-  # Scan variations 
-  run script glue/build/lineage/ifnlScanVariationsGlycos1.js
-  run script glue/build/lineage/ifnlScanVariationsGlycos2.js
-  run script glue/build/lineage/ifnlScanVariationsGlycos3.js
 
   # Validate
   validate

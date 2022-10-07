@@ -18,7 +18,7 @@
   create reference REF_IFNL_Mammal_b_Eulipotyphyla_2     ncbi-curated-mammalia-b XM_007524026  # Hedgehog 
   create reference REF_IFNL_Mammal_b_Lemuriformes_1      ncbi-curated-mammalia-b XM_012775211  # Microcebus
   create reference REF_IFNL_Mammal_b_Afrotheria_1        ncbi-curated-mammalia-b XM_007958477  # Aardvark 
-  create reference REF_IFNL_Mammal_b_Marsupialia         ncbi-curated-mammalia-b XM_027855300  # Vombatus   
+  #create reference REF_IFNL_Mammal_b_Marsupialia         ncbi-curated-mammalia-b XM_027855300  # Vombatus   
 
   #~# Mammalia B lineage-specific duplicates
   create reference REF_IFNL_Mammal_b_Simiiformes_2_1     ncbi-curated-mammalia-b NM_172138     # Human 2 (IFNLb2)
