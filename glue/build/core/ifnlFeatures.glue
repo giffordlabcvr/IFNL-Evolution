@@ -97,25 +97,3 @@
   feature buried_residues set metatag OWN_CODON_NUMBERING true
 
 
-
-  # Glycosylation regions
-  
-  create feature glycosylation-region-a -p orf "Glycosylation region A"
-  feature glycosylation-region-a  set metatag CODES_AMINO_ACIDS true
-  
-  create feature glycosylation-region-b -p orf "Glycosylation region B"
-  feature glycosylation-region-b  set metatag CODES_AMINO_ACIDS true
-
-  create feature glycosylation-region-c -p orf "Glycosylation region C"
-  feature glycosylation-region-c  set metatag CODES_AMINO_ACIDS true
-
-  create feature glycosylation-region-d -p orf "Glycosylation region D"
-  feature glycosylation-region-d  set metatag CODES_AMINO_ACIDS true
-
-  create feature glycosylation-region-e -p orf "Glycosylation region E"
-  feature glycosylation-region-e  set metatag CODES_AMINO_ACIDS true
-
-  create feature glycosylation-region-f -p orf "Glycosylation region F"
-  feature glycosylation-region-f  set metatag CODES_AMINO_ACIDS true
-
-
