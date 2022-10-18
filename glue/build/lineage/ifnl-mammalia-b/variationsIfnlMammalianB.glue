@@ -13,7 +13,7 @@ reference REF_IFNL_Mammal_b_MASTER
                                     
     exit
 
-    # Glycosylation site 1
+    # Glycosylation site 2
     create variation n-linked-glycosylation-o2 -t aminoAcidRegexPolymorphism --labeledCodon 111 118
     variation n-linked-glycosylation-o2
       set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
