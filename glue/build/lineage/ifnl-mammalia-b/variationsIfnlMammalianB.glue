@@ -10,8 +10,6 @@ reference REF_IFNL_Mammal_b_MASTER
       set metatag REGEX_AA_PATTERN N[A-Z][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
       set metatag ALLOW_PARTIAL_COVERAGE TRUE 
       exit
-                                    
-    exit
 
     # Glycosylation site 2
     create variation n-linked-glycosylation-o2 -t aminoAcidRegexPolymorphism --labeledCodon 111 118

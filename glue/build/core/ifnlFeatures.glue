@@ -92,8 +92,25 @@
   feature il10r2_binding_surface set metatag CODES_AMINO_ACIDS true
   feature il10r2_binding_surface set metatag OWN_CODON_NUMBERING true
 
+  create feature il10r1r2_binding_surface -p orf "IL10R2 receptor binding face"  
+  feature il10r1r2_binding_surface set metatag CODES_AMINO_ACIDS true
+  feature il10r1r2_binding_surface set metatag OWN_CODON_NUMBERING true
+
+  create feature non_receptor -p orf "Non-Receptor Binding residues"  
+  feature non_receptor set metatag CODES_AMINO_ACIDS true
+  feature non_receptor set metatag OWN_CODON_NUMBERING true
+
   create feature buried_residues -p orf "Buried residues"  
   feature buried_residues set metatag CODES_AMINO_ACIDS true
   feature buried_residues set metatag OWN_CODON_NUMBERING true
+
+  create feature exposed_residues -p orf "Exposed residues"  
+  feature exposed_residues set metatag CODES_AMINO_ACIDS true
+  feature exposed_residues set metatag OWN_CODON_NUMBERING true
+
+  create feature exposed_nonbinding_residues -p orf "Exposed non-receptor binding residues"  
+  feature exposed_nonbinding_residues set metatag CODES_AMINO_ACIDS true
+  feature exposed_nonbinding_residues set metatag OWN_CODON_NUMBERING true
+
 
 
