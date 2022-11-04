@@ -1,0 +1,202 @@
+codonLabel	refNt	dependentNts	codonNts	aminoAcid	aaShortName	definiteAas	possibleAas	IFNLR1interface	IL10R2interface	Receptor Binding	Non-receptor binding	Exposed	Buried	Exposed non-receptor binding
+1	1	ATG	ATG	M	Met	M	M							
+2	4	AAA	AAA	K	Lys	K	K							
+3	7	CTA	CTA	L	Leu	L	L							
+4	10	GAC	GAC	D	Asp	D	D							
+5	13	ATG	ATG	M	Met	M	M							
+6	16	ACC	ACC	T	Thr	T	T							
+7	19	GGG	GGG	G	Gly	G	G							
+8	22	GAC	GAC	D	Asp	D	D							
+9	25	TGC	TGC	C	Cys	C	C							
+10	28	ATG	ATG	M	Met	M	M							
+11	31	CCA	CCA	P	Pro	P	P							
+12	34	GTG	GTG	V	Val	V	V							
+13	37	CTG	CTG	L	Leu	L	L							
+14	40	GTG	GTG	V	Val	V	V							
+15	43	CTG	CTG	L	Leu	L	L							
+16	46	ATG	ATG	M	Met	M	M							
+17	49	GCC	GCC	A	Ala	A	A							
+18	52	GCA	GCA	A	Ala	A	A							
+19	55	GTG	GTG	V	Val	V	V							
+20	58	CTG	CTG	L	Leu	L	L							
+21	61	ACC	ACC	T	Thr	T	T							
+22	64	GTG	GTG	V	Val	V	V							
+23	67	ACT	ACT	T	Thr	T	T							
+24	70	GGA	GGA	G	Gly	G	G							
+25	73	GCA	GCA	A	Ala	A	A							
+26	76	GTT	GTT	V	Val	V	V							
+27	79	CCT	CCT	P	Pro	P	P							
+28	82	GTC	GTC	V	Val	V	V							
+29	85	GCC	GCC	A	Ala	A	A							
+30	88	AGG	AGG	R	Arg	R	R							
+31	91	CTC	CTC	L	Leu	L	L							
+32	94	CGC	CGC	R	Arg	R	R							
+33	97	GGG	GGG	G	Gly	G	G							
+34	100	GCT	GCT	A	Ala	A	A							
+35	103	CTC	CTC	L	Leu	L	L							
+36	106	CCG	CCG	P	Pro	P	P							
+37	109	GAT	GAT	D	Asp	D	D							
+38	112	GCA	GCA	A	Ala	A	A							
+39	115	AGG	AGG	R	Arg	R	R							
+40	118	GGC	GGC	G	Gly	G	G							
+41	121	TGC	TGC	C	Cys	C	C						x	
+42	124	CAC	CAC	H	His	H	H		x1	x		x		
+43	127	ATA	ATA	I	Ile	I	I				x		x	
+44	130	GCC	GCC	A	Ala	A	A				x	x		x
+45	133	CAG	CAG	Q	Gln	Q	Q		x2	x		x		
+46	136	TTC	TTC	F	Phe	F	F		x3	x		x		
+47	139	AAG	AAG	K	Lys	K	K	x1		x		x		
+48	142	TCC	TCC	S	Ser	S	S	x2	x4	x		x		
+49	145	CTG	CTG	L	Leu	L	L		x5	x			x	
+50	148	TCT	TCT	S	Ser	S	S		x6	x		x		
+51	151	CCA	CCA	P	Pro	P	P	x3	x7	x		x		
+52	154	CAG	CAG	Q	Gln	Q	Q		x8	x		x		
+53	157	GAG	GAG	E	Glu	E	E		x9	x		x		
+54	160	CTG	CTG	L	Leu	L	L	x4		x		x		
+55	163	CAG	CAG	Q	Gln	Q	Q	x5		x		x		
+56	166	GCC	GCC	A	Ala	A	A				x		x	
+57	169	TTT	TTT	F	Phe	F	F				x		x	
+58	172	AAG	AAG	K	Lys	K	K	x6		x		x		
+59	175	AGG	AGG	R	Arg	R	R		x10	x		x		
+60	178	GCC	GCC	A	Ala	A	A				x		x	
+61	181	AAA	AAA	K	Lys	K	K	x7		x		x		
+62	184	GAT	GAT	D	Asp	D	D	x8		x		x		
+63	187	GCC	GCC	A	Ala	A	A				x		x	
+64	190	TTA	TTA	L	Leu	L	L				x		x	
+65	193	GAA	GAA	E	Glu	E	E	x9		x		x		
+66	196	GAG	GAG	E	Glu	E	E				x	x		
+67	199	TCG	TCG	S	Ser	S	S				x	x		
+68	202	CTT	CTT	L	Leu	L	L				x		x	
+69	205	CTG	CTG	L	Leu	L	L	x10		x		x		
+70	208	CTG	CTG	L	Leu	L	L				x		x	
+71	211	AAG	AAG	K	Lys	K	K				x		x	
+72	214	GAC	GAC	D	Asp	D	D				x	x		x
+73	217	TGC	TGC	C	Cys	C	C	x11		x		x		
+74	220	AAG	AAG	K	Lys	K	K	x12		x		x		
+75	223	TGC	TGC	C	Cys	C	C				x		x	
+76	226	CGC	CGC	R	Arg	R	R				x	x		x
+77	229	TCC	TCC	S	Ser	S	S				x	x		x
+78	232	CGC	CGC	R	Arg	R	R	x13		x		x		
+79	235	CTC	CTC	L	Leu	L	L				x		x	
+80	238	TTC	TTC	F	Phe	F	F				x		x	
+81	241	CCC	CCC	P	Pro	P	P	x14		x		x		
+82	244	AGG	AGG	R	Arg	R	R				x		x	
+83	247	ACC	ACC	T	Thr	T	T	x15		x		x		
+84	250	TGG	TGG	W	Trp	W	W				x		x	
+85	253	GAC	GAC	D	Asp	D	D	x16		x		x		
+86	256	CTG	CTG	L	Leu	L	L				x		x	
+87	259	AGG	AGG	R	Arg	R	R	x15		x		x		
+88	262	CAG	CAG	Q	Gln	Q	Q	x16		x		x		
+89	265	CTG	CTG	L	Leu	L	L				x		x	
+90	268	CAG	CAG	Q	Gln	Q	Q				x	x		x
+91	271	GTG	GTG	V	Val	V	V				x		x	
+92	274	AGG	AGG	R	Arg	R	R				x	x		x
+93	277	GAG	GAG	E	Glu	E	E				x	x		x
+94	280	CGC	CGC	R	Arg	R	R				x		x	
+95	283	CCC	CCC	P	Pro	P	P				x		x	
+96	286	GTG	GTG	V	Val	V	V				x		x	
+97	289	GCT	GCT	A	Ala	A	A				x		x	
+98	292	TTG	TTG	L	Leu	L	L				x		x	
+99	295	GAG	GAG	E	Glu	E	E				x	x		x
+100	298	GCT	GCT	A	Ala	A	A				x		x	
+101	301	GAG	GAG	E	Glu	E	E				x		x	
+102	304	CTG	CTG	L	Leu	L	L				x		x	
+103	307	GCC	GCC	A	Ala	A	A				x	x		x
+104	310	CTG	CTG	L	Leu	L	L				x		x	
+105	313	ACG	ACG	T	Thr	T	T				x		x	
+106	316	CTG	CTG	L	Leu	L	L		x11	x		x		
+107	319	AAG	AAG	K	Lys	K	K				x	x		x
+108	322	GTT	GTT	V	Val	V	V				x		x	
+109	325	CTG	CTG	L	Leu	L	L				x		x	
+110	328	GAG	GAG	E	Glu	E	E		x12	x		x		
+111	331	GCC	GCC	A	Ala	A	A				x	x		x
+112	334	ACC	ACC	T	Thr	T	T				x		x	
+113	337	GCT	GCT	A	Ala	A	A				x	x		x
+114	340	GAC	GAC	D	Asp	D	D		x13	x		x		
+115	343	ACT	ACT	T	Thr	T	T				x	x		x
+116	346	GAC	GAC	D	Asp	D	D				x	x		x
+117	349	CCA	CCA	P	Pro	P	P				x	x		x
+118	352	GCC	GCC	A	Ala	A	A				x	x		x
+119	355	CTG	CTG	L	Leu	L	L				x		x	
+120	358	GGG	GGG	G	Gly	G	G		x14	x		x		
+121	361	GAT	GAT	D	Asp	D	D		x15	x		x		
+122	364	GTC	GTC	V	Val	V	V				x	x		x
+123	367	TTG	TTG	L	Leu	L	L				x		x	
+124	370	GAC	GAC	D	Asp	D	D		x16	x		x		
+125	373	CAG	CAG	Q	Gln	Q	Q		x17	x		x		
+126	376	CCC	CCC	P	Pro	P	P				x		x	
+127	379	CTT	CTT	L	Leu	L	L		x18	x		x		
+128	382	CAC	CAC	H	His	H	H		x19	x		x		
+129	385	ACC	ACC	T	Thr	T	T		x20		x	x		x
+130	388	CTG	CTG	L	Leu	L	L				x		x	
+131	391	CAC	CAC	H	His	H	H		x21	x		x		
+132	394	CAT	CAT	H	His	H	H		x22	x		x		
+133	397	ATC	ATC	I	Ile	I	I				x		x	
+134	400	CTC	CTC	L	Leu	L	L				x		x	
+135	403	TCC	TCC	S	Ser	S	S		x23	x		x		
+136	406	CAG	CAG	Q	Gln	Q	Q		x24	x		x		
+137	409	CTC	CTC	L	Leu	L	L				x		x	
+138	412	CGG	CGG	R	Arg	R	R				x	x		x
+139	415	GCC	GCC	A	Ala	A	A				x	x		x
+140	418	TGT	TGT	C	Cys	C	C				x		x	
+141	421	ATC	ATC	I	Ile	I	I				x			
+142	424	CAG	CAG	Q	Gln	Q	Q				x			
+143	427	CCT	CCT	P	Pro	P	P				x			
+144	430	CAG	CAG	Q	Gln	Q	Q				x			
+145	433	CCC	CCC	P	Pro	P	P				x			
+146	436	ACG	ACG	T	Thr	T	T				x			
+147	439	GCA	GCA	A	Ala	A	A				x			
+148	442	GGG	GGG	G	Gly	G	G				x			
+149	445	CCC	CCC	P	Pro	P	P				x			
+150	448	AGG	AGG	R	Arg	R	R				x			
+151	451	ACC	ACC	T	Thr	T	T				x			
+152	454	CGG	CGG	R	Arg	R	R				x	x		x
+153	457	GGC	GGC	G	Gly	G	G				x	x		x
+154	460	CGC	CGC	R	Arg	R	R				x		x	
+155	463	CTC	CTC	L	Leu	L	L				x		x	
+156	466	CAC	CAC	H	His	H	H				x	x		x
+157	469	CAT	CAT	H	His	H	H				x	x		x
+158	472	TGG	TGG	W	Trp	W	W				x		x	
+159	475	CTG	CTG	L	Leu	L	L				x		x	
+160	478	CAC	CAC	H	His	H	H				x	x		x
+161	481	CGG	CGG	R	Arg	R	R				x	x		x
+162	484	CTC	CTC	L	Leu	L	L				x		x	
+163	487	CAG	CAG	Q	Gln	Q	Q				x	x		x
+164	490	GAG	GAG	E	Glu	E	E				x	x		x
+165	493	GCC	GCC	A	Ala	A	A				x		x	
+166	496	CCA	CCA	P	Pro	P	P				x	x		x
+167	499	AAA	AAA	K	Lys	K	K				x	x		x
+168	502	AAG	AAG	K	Lys	K	K				x	x		x
+169	505	GAG	GAG	E	Glu	E	E				x		x	
+170	508	TCC	TCC	S	Ser	S	S				x		x	
+171	511	CCT	CCT	P	Pro	P	P				x	x		x
+172	514	GGC	GGC	G	Gly	G	G				x		x	
+173	517	TGC	TGC	C	Cys	C	C				x		x	
+174	520	CTC	CTC	L	Leu	L	L				x		x	
+175	523	GAG	GAG	E	Glu	E	E				x		x	
+176	526	GCC	GCC	A	Ala	A	A				x	x		x
+177	529	TCT	TCT	S	Ser	S	S				x		x	
+178	532	GTC	GTC	V	Val	V	V				x		x	
+179	535	ACC	ACC	T	Thr	T	T				x		x	
+180	538	TTC	TTC	F	Phe	F	F	x17		x		x		
+181	541	AAC	AAC	N	Asn	N	N				x		x	
+182	544	CTC	CTC	L	Leu	L	L				x		x	
+183	547	TTC	TTC	F	Phe	F	F	x18		x		x		
+184	550	CGC	CGC	R	Arg	R	R	x19		x		x		
+185	553	CTC	CTC	L	Leu	L	L				x		x	
+186	556	CTC	CTC	L	Leu	L	L				x		x	
+187	559	ACG	ACG	T	Thr	T	T	x20		x		x		
+188	562	CGA	CGA	R	Arg	R	R	x21		x		x		
+189	565	GAC	GAC	D	Asp	D	D				x		x	
+190	568	CTG	CTG	L	Leu	L	L				x		x	
+191	571	AAT	AAT	N	Asn	N	N	x22		x		x		
+192	574	TGT	TGT	C	Cys	C	C				x		x	
+193	577	GTT	GTT	V	Val	V	V				x		x	
+194	580	GCC	GCC	A	Ala	A	A				x		x	
+195	583	AGC	AGC	S	Ser	S	S	x23		x		x		
+196	586	GGG	GGG	G	Gly	G	G				x		x	
+197	589	GAC	GAC	D	Asp	D	D				x	x		x
+198	592	CTG	CTG	L	Leu	L	L	x24		x		x		
+199	595	TGT	TGT	C	Cys	C	C				x		x	
+200	598	GTC	GTC	V	Val	V	V				x	x		x
+201	601	TGA	TGA	*	-	*	*							

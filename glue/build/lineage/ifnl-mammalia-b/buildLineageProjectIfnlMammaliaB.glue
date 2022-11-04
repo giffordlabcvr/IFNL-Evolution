@@ -3,7 +3,7 @@ project ifnl
 
   # Import lineage-level sources 
   import source sources/ncbi-curated-mammalia-b/
-  import source sources/fasta-curated-mammalia-b/
+  #import source sources/fasta-curated-mammalia-b/
 
   # Import metadata for IFNL curated sequences
   module ifnlSideDataImporter 
