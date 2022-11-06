@@ -100,6 +100,10 @@
   feature non_receptor set metatag CODES_AMINO_ACIDS true
   feature non_receptor set metatag OWN_CODON_NUMBERING true
 
+  create feature receptor_binding -p orf "Receptor-Binding residues"  
+  feature receptor_binding set metatag CODES_AMINO_ACIDS true
+  feature receptor_binding set metatag OWN_CODON_NUMBERING true
+
   create feature buried_residues -p orf "Buried residues"  
   feature buried_residues set metatag CODES_AMINO_ACIDS true
   feature buried_residues set metatag OWN_CODON_NUMBERING true

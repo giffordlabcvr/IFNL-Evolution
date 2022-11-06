@@ -30,62 +30,159 @@
     feature-location mRNA_exon1+2 add segment 1 192
 
 
+    add feature-location exposed_nonbinding_residues
+	feature-location exposed_nonbinding_residues add segment 130 132 --spliceIndex 1
+	feature-location exposed_nonbinding_residues add segment 214 216 --spliceIndex 2
+	feature-location exposed_nonbinding_residues add segment 226 231 --spliceIndex 3
+	feature-location exposed_nonbinding_residues add segment 268 270 --spliceIndex 4
+	feature-location exposed_nonbinding_residues add segment 274 279 --spliceIndex 5
+	feature-location exposed_nonbinding_residues add segment 295 297 --spliceIndex 6
+	feature-location exposed_nonbinding_residues add segment 307 309 --spliceIndex 7
+	feature-location exposed_nonbinding_residues add segment 319 321 --spliceIndex 8
+	feature-location exposed_nonbinding_residues add segment 331 333 --spliceIndex 9
+	feature-location exposed_nonbinding_residues add segment 337 339 --spliceIndex 10
+	feature-location exposed_nonbinding_residues add segment 343 354 --spliceIndex 11
+	feature-location exposed_nonbinding_residues add segment 364 366 --spliceIndex 12
+	feature-location exposed_nonbinding_residues add segment 385 387 --spliceIndex 13
+	feature-location exposed_nonbinding_residues add segment 412 417 --spliceIndex 14
+	feature-location exposed_nonbinding_residues add segment 454 459 --spliceIndex 15
+	feature-location exposed_nonbinding_residues add segment 466 471 --spliceIndex 16
+	feature-location exposed_nonbinding_residues add segment 478 483 --spliceIndex 17
+	feature-location exposed_nonbinding_residues add segment 487 492 --spliceIndex 18
+	feature-location exposed_nonbinding_residues add segment 496 504 --spliceIndex 19
+	feature-location exposed_nonbinding_residues add segment 511 513 --spliceIndex 20
+	feature-location exposed_nonbinding_residues add segment 526 528 --spliceIndex 21
+	feature-location exposed_nonbinding_residues add segment 589 591 --spliceIndex 22
+	feature-location exposed_nonbinding_residues add segment 598 600 --spliceIndex 23
+
+
+    add feature-location buried_residues
+	feature-location buried_residues add segment 121 123 --spliceIndex 1
+	feature-location buried_residues add segment 127 129 --spliceIndex 2
+	feature-location buried_residues add segment 145 147 --spliceIndex 3
+	feature-location buried_residues add segment 166 171 --spliceIndex 4
+	feature-location buried_residues add segment 178 180 --spliceIndex 5
+	feature-location buried_residues add segment 187 192 --spliceIndex 6
+	feature-location buried_residues add segment 202 204 --spliceIndex 7
+	feature-location buried_residues add segment 208 213 --spliceIndex 8
+	feature-location buried_residues add segment 223 225 --spliceIndex 9
+	feature-location buried_residues add segment 235 240 --spliceIndex 10
+	feature-location buried_residues add segment 244 246 --spliceIndex 11
+	feature-location buried_residues add segment 250 252 --spliceIndex 12
+	feature-location buried_residues add segment 256 258 --spliceIndex 13
+	feature-location buried_residues add segment 265 267 --spliceIndex 14
+	feature-location buried_residues add segment 271 273 --spliceIndex 15
+	feature-location buried_residues add segment 280 294 --spliceIndex 16
+	feature-location buried_residues add segment 298 306 --spliceIndex 17	
+	feature-location buried_residues add segment 310 315 --spliceIndex 18
+	feature-location buried_residues add segment 322 327 --spliceIndex 19
+	feature-location buried_residues add segment 334 336 --spliceIndex 20
+	feature-location buried_residues add segment 355 357 --spliceIndex 21
+	feature-location buried_residues add segment 367 369 --spliceIndex 22
+	feature-location buried_residues add segment 376 378 --spliceIndex 23
+	feature-location buried_residues add segment 388 390 --spliceIndex 24
+	feature-location buried_residues add segment 397 402 --spliceIndex 25
+	feature-location buried_residues add segment 409 411 --spliceIndex 26
+	feature-location buried_residues add segment 418 420 --spliceIndex 27
+	feature-location buried_residues add segment 460 465 --spliceIndex 28
+	feature-location buried_residues add segment 472 477 --spliceIndex 29
+	feature-location buried_residues add segment 484 486 --spliceIndex 30
+	feature-location buried_residues add segment 493 495 --spliceIndex 31
+	feature-location buried_residues add segment 505 510 --spliceIndex 32
+	feature-location buried_residues add segment 514 525 --spliceIndex 33
+	feature-location buried_residues add segment 529 537 --spliceIndex 34
+	feature-location buried_residues add segment 541 546 --spliceIndex 35
+	feature-location buried_residues add segment 553 558 --spliceIndex 36
+	feature-location buried_residues add segment 565 570 --spliceIndex 37
+	feature-location buried_residues add segment 574 582 --spliceIndex 38
+	feature-location buried_residues add segment 586 588 --spliceIndex 39
+	feature-location buried_residues add segment 595 597 --spliceIndex 40
+
+    add feature-location exposed_residues
+	feature-location exposed_residues add segment 124 126 --spliceIndex 1
+	feature-location exposed_residues add segment 130 144 --spliceIndex 2
+	feature-location exposed_residues add segment 148 165 --spliceIndex 3
+	feature-location exposed_residues add segment 172 177 --spliceIndex 4
+	feature-location exposed_residues add segment 181 186 --spliceIndex 5
+	feature-location exposed_residues add segment 193 201 --spliceIndex 6
+	feature-location exposed_residues add segment 205 207 --spliceIndex 7
+	feature-location exposed_residues add segment 214 222 --spliceIndex 8
+	feature-location exposed_residues add segment 226 234 --spliceIndex 9
+	feature-location exposed_residues add segment 241 243 --spliceIndex 10
+	feature-location exposed_residues add segment 247 249 --spliceIndex 11
+	feature-location exposed_residues add segment 253 255 --spliceIndex 12
+	feature-location exposed_residues add segment 259 264 --spliceIndex 13
+	feature-location exposed_residues add segment 268 270 --spliceIndex 14
+	feature-location exposed_residues add segment 274 276 --spliceIndex 15
+	feature-location exposed_residues add segment 295 297 --spliceIndex 16
+	feature-location exposed_residues add segment 307 309 --spliceIndex 17
+	feature-location exposed_residues add segment 316 318 --spliceIndex 18
+	feature-location exposed_residues add segment 328 330 --spliceIndex 19
+	feature-location exposed_residues add segment 337 354 --spliceIndex 20
+	feature-location exposed_residues add segment 358 366 --spliceIndex 21
+	feature-location exposed_residues add segment 370 375 --spliceIndex 22
+	feature-location exposed_residues add segment 379 387 --spliceIndex 23
+	feature-location exposed_residues add segment 391 396 --spliceIndex 24
+	feature-location exposed_residues add segment 403 405 --spliceIndex 25
+	feature-location exposed_residues add segment 412 417 --spliceIndex 26
+
+    add feature-location receptor_binding
+    feature-location receptor_binding add segment 124 126 --spliceIndex 1
+    feature-location receptor_binding add segment 133 165 --spliceIndex 2
+    feature-location receptor_binding add segment 172 177 --spliceIndex 3
+    feature-location receptor_binding add segment 181 186 --spliceIndex 4
+    feature-location receptor_binding add segment 193 195 --spliceIndex 5
+    feature-location receptor_binding add segment 217 222 --spliceIndex 6
+    feature-location receptor_binding add segment 232 234 --spliceIndex 7
+    feature-location receptor_binding add segment 241 243 --spliceIndex 8
+    feature-location receptor_binding add segment 247 249 --spliceIndex 9   
+    feature-location receptor_binding add segment 253 255 --spliceIndex 10
+    feature-location receptor_binding add segment 259 261 --spliceIndex 11
+    feature-location receptor_binding add segment 316 318 --spliceIndex 12
+    feature-location receptor_binding add segment 328 330 --spliceIndex 13
+    feature-location receptor_binding add segment 340 342 --spliceIndex 14
+    feature-location receptor_binding add segment 358 363 --spliceIndex 15    
+    feature-location receptor_binding add segment 370 375 --spliceIndex 16
+    feature-location receptor_binding add segment 379 384 --spliceIndex 17
+    feature-location receptor_binding add segment 391 396 --spliceIndex 18
+    feature-location receptor_binding add segment 403 408 --spliceIndex 19  
+    feature-location receptor_binding add segment 538 540 --spliceIndex 20
+    feature-location receptor_binding add segment 547 552 --spliceIndex 21
+    feature-location receptor_binding add segment 559 564 --spliceIndex 22    
+    feature-location receptor_binding add segment 571 573 --spliceIndex 23
+    feature-location receptor_binding add segment 583 585 --spliceIndex 24
+    feature-location receptor_binding add segment 592 594 --spliceIndex 25  
+
     add feature-location il10r1r2_binding_surface
     feature-location il10r1r2_binding_surface add segment 124 126 --spliceIndex 1
     feature-location il10r1r2_binding_surface add segment 133 165 --spliceIndex 2
     feature-location il10r1r2_binding_surface add segment 172 177 --spliceIndex 3
     feature-location il10r1r2_binding_surface add segment 181 186 --spliceIndex 4
     feature-location il10r1r2_binding_surface add segment 193 195 --spliceIndex 5
-    feature-location il10r1r2_binding_surface add segment 193 195 --spliceIndex 6
-    feature-location il10r1r2_binding_surface add segment 217 222 --spliceIndex 7
-    feature-location il10r1r2_binding_surface add segment 232 235 --spliceIndex 8
-    feature-location il10r1r2_binding_surface add segment 241 243 --spliceIndex 9
-    feature-location il10r1r2_binding_surface add segment 247 249 --spliceIndex 10   
-    feature-location il10r1r2_binding_surface add segment 253 255 --spliceIndex 11
-    feature-location il10r1r2_binding_surface add segment 259 262 --spliceIndex 12
-    feature-location il10r1r2_binding_surface add segment 316 318 --spliceIndex 13
-    feature-location il10r1r2_binding_surface add segment 328 330 --spliceIndex 14
-    feature-location il10r1r2_binding_surface add segment 340 342 --spliceIndex 15  
-    feature-location il10r1r2_binding_surface add segment 358 363 --spliceIndex 16    
-    feature-location il10r1r2_binding_surface add segment 370 375 --spliceIndex 17
-    feature-location il10r1r2_binding_surface add segment 379 384 --spliceIndex 18
-    feature-location il10r1r2_binding_surface add segment 391 396 --spliceIndex 19
-    feature-location il10r1r2_binding_surface add segment 403 408 --spliceIndex 20  
-    feature-location il10r1r2_binding_surface add segment 538 540 --spliceIndex 21
-    feature-location il10r1r2_binding_surface add segment 547 552 --spliceIndex 22
-    feature-location il10r1r2_binding_surface add segment 559 564 --spliceIndex 23    
-    feature-location il10r1r2_binding_surface add segment 571 573 --spliceIndex 24
-    feature-location il10r1r2_binding_surface add segment 583 585 --spliceIndex 25
-    feature-location il10r1r2_binding_surface add segment 592 594 --spliceIndex 26
+    feature-location il10r1r2_binding_surface add segment 217 222 --spliceIndex 6
+    feature-location il10r1r2_binding_surface add segment 232 234 --spliceIndex 7
+    feature-location il10r1r2_binding_surface add segment 241 243 --spliceIndex 8
+    feature-location il10r1r2_binding_surface add segment 247 249 --spliceIndex 9   
+    feature-location il10r1r2_binding_surface add segment 253 255 --spliceIndex 10
+    feature-location il10r1r2_binding_surface add segment 259 261 --spliceIndex 11
+    feature-location il10r1r2_binding_surface add segment 316 318 --spliceIndex 12
+    feature-location il10r1r2_binding_surface add segment 328 330 --spliceIndex 13
+    feature-location il10r1r2_binding_surface add segment 340 342 --spliceIndex 14
+    feature-location il10r1r2_binding_surface add segment 358 363 --spliceIndex 15    
+    feature-location il10r1r2_binding_surface add segment 370 375 --spliceIndex 16
+    feature-location il10r1r2_binding_surface add segment 379 384 --spliceIndex 17
+    feature-location il10r1r2_binding_surface add segment 391 396 --spliceIndex 18
+    feature-location il10r1r2_binding_surface add segment 403 408 --spliceIndex 19  
+    feature-location il10r1r2_binding_surface add segment 538 540 --spliceIndex 20
+    feature-location il10r1r2_binding_surface add segment 547 552 --spliceIndex 21
+    feature-location il10r1r2_binding_surface add segment 559 564 --spliceIndex 22    
+    feature-location il10r1r2_binding_surface add segment 571 573 --spliceIndex 23
+    feature-location il10r1r2_binding_surface add segment 583 585 --spliceIndex 24
+    feature-location il10r1r2_binding_surface add segment 592 594 --spliceIndex 25
 
-    # To add!
-    add feature-location il10r1_binding_surface
-    add feature-location il10r2_binding_surface
-    add feature-location non_receptor
-    add feature-location buried_residues
-    add feature-location exposed_residues
-    add feature-location exposed_nonbinding_residues
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
+ 
+ 
+ 
     add feature-location SP
     feature-location SP add segment 1 57
 

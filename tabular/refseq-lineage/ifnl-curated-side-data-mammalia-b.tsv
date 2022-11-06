@@ -1,46 +1,46 @@
 id	gene_name	gene_clade	gene_id	gene_id_old	exon12	exon3456-new group name.new subgroup name	exon3456	new group name.new subgroup name	new group name	new subgroup name	species	Superorder	Species_order	Family	Genus	protein_accession	ref	reference_id
-XM_003735566	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	XP_003735614.2		
-XM_017503063	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Cebus capucinus	Euarchontoglires	Primates	Cebidae	Cebus	XM_017503063		
+XM_017503063	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	2	Cebus capucinus	Euarchontoglires	Primates	Cebidae	Cebus	XM_017503063		
 XM_011952424	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Colobus angolensis palliatus	Euarchontoglires	Primates	Cercopithecidae	Colobus			-
 NM_172140	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	NM_172140.1	xE	REF_IFNLb_Mammal_1_MASTER
 XM_002829198	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Pongo abelii	Euarchontoglires	Primates	Hominidae	Pongo			
 XM_003270380	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus			
 XM_003915503	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Papio anubis	Euarchontoglires	Primates	Cercopithecidae	Papio			
-XM_003943132	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Saimiri boliviensis	Euarchontoglires	Primates	Cebidae	Saimiri			
 XM_004060705	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla			
 XM_005589170	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Macaca fascicularis	Euarchontoglires	Primates	Cercopithecidae	Macaca			
 XM_007996760	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Chlorocebus sabaeus	Euarchontoglires	Primates	Cercopithecidae	Chlorocebus			
 XM_010380919	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Rhinopithecus roxellana	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
 XM_011764819	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Macaca nemestrina	Euarchontoglires	Primates	Cercopithecidae	Macaca			
 XM_011973361	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Mandrillus leucophaeus	Euarchontoglires	Primates	Cercopithecidae	Mandrillus			
-XM_012077988	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
-XM_012438845	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Aotus nancymaae	Euarchontoglires	Primates	Aotidae	Aotus			
-XM_019014911	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Gorilla gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla			
-XM_025367960	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Theropithecus gelada	Euarchontoglires	Primates	Cercopithecidae	Theropithecus			
-XM_017887367	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Rhinopithecus bieti	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
-XM_012077999	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
-XM_012078033	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
-XM_011952423	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Colobus angolensis	Euarchontoglires	Primates	Cercopithecidae	Colobus			
-XM_019014911	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla			
-NM_172138	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	NC_000019.1		REF_IFNLb_Mammal_B2_1
-XM_005589169	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Macaca fascicularis	Euarchontoglires	Primates	Cercopithecidae	Macaca			
-XM_005589166	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Macaca fascicularis	Euarchontoglires	Primates	Cercopithecidae	Macaca			
-XM_003270381	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus			
-XM_002829197	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Pongo abelii	Euarchontoglires	Primates	Hominidae	Pongo			
-XM_024237432	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Pongo abelii	Euarchontoglires	Primates	Hominidae	Pongo			
-XM_017887367	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Rhinopithecus bieti	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
-XM_010380920	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Rhinopithecus roxellana	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
-XM_025368308	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Theropithecus gelada	Euarchontoglires	Primates	Cercopithecidae	Theropithecus			
-XM_025367960	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Theropithecus gelada	Euarchontoglires	Primates	Cercopithecidae	Theropithecus			
-XM_001086865	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	XP_001086865.3		
-XM_011973358	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Mandrillus leucophaeus	Euarchontoglires	Primates	Cercopithecidae	Mandrillus			
-XM_016947939	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan			-
-XM_024351462	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan			-
-XM_024237432	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Pongo abelii	Euarchontoglires	Primates	Hominidae	Pongo			
-XM_033226159	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Trachypithecus francoisi	Euarchontoglires	Primates	Cercopithecidae	Trachypithecus			
-XM_030796492	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus			
-XM_008964649	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan			
-XM_011764820	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	1	Macaca nemestrina	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_012077988	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	2	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
+XM_019014911	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Gorilla gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla			
+XM_025367960	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Theropithecus gelada	Euarchontoglires	Primates	Cercopithecidae	Theropithecus			
+XM_017887367	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Rhinopithecus bieti	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
+XM_012077999	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
+XM_012078033	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	Cercocebus			
+XM_011952423	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Colobus angolensis	Euarchontoglires	Primates	Cercopithecidae	Colobus			
+XM_019014911	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Gorilla gorilla	Euarchontoglires	Primates	Hominidae	Gorilla			
+NM_172138	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	NC_000019.1		REF_IFNLb_Mammal_B2_1
+XM_005589169	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Macaca fascicularis	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_005589166	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Macaca fascicularis	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_003270381	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus			
+XM_002829197	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Pongo abelii	Euarchontoglires	Primates	Hominidae	Pongo			
+XM_024237432	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Pongo abelii	Euarchontoglires	Primates	Hominidae	Pongo			
+XM_017887367	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Rhinopithecus bieti	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
+XM_010380920	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Rhinopithecus roxellana	Euarchontoglires	Primates	Cercopithecidae	Rhinopithecus			
+XM_025368308	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Theropithecus gelada	Euarchontoglires	Primates	Cercopithecidae	Theropithecus			
+XM_025367960	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Theropithecus gelada	Euarchontoglires	Primates	Cercopithecidae	Theropithecus			
+XM_001086865	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	XP_001086865.3		
+XM_011973358	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Mandrillus leucophaeus	Euarchontoglires	Primates	Cercopithecidae	Mandrillus			
+XM_016947939	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan			-
+XM_024351462	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan			-
+XM_024237432	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Pongo abelii	Euarchontoglires	Primates	Hominidae	Pongo			
+XM_033226159	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Trachypithecus francoisi	Euarchontoglires	Primates	Cercopithecidae	Trachypithecus			
+XM_030796492	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	Nomascus			
+XM_008964649	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Pan paniscus	Euarchontoglires	Primates	Hominidae	Pan			
+XM_011764820	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Placental2_Haplorhine1	Placental2	Haplorhine-1.1	Haplorhine	1.1	1	2	Macaca nemestrina	Euarchontoglires	Primates	Cercopithecidae	Macaca			
+XM_003735566	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	2	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	XP_003735614.2		
+XM_003943132	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	2	Saimiri boliviensis	Euarchontoglires	Primates	Cebidae	Saimiri			
+XM_012438845	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	2	Aotus nancymaae	Euarchontoglires	Primates	Aotidae	Aotus			
 XM_032273584	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.2	Placental2_Haplorhine1	Placental2	Haplorhine-1.2	Haplorhine	1.2	1	2	Sapajus apella	Euarchontoglires	Primates	Cebidae	Sapajus			
 XM_017967394	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.2	Placental2_Haplorhine1	Placental2	Haplorhine-1.2	Haplorhine	1.2	1	2	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	Callithrix	XP_017822883.1		
 XM_017503064	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.2	Placental2_Haplorhine1	Placental2	Haplorhine-1.2	Haplorhine	1.2	1	2	Cebus imitator	Euarchontoglires	Primates	Cebidae	Cebus			
