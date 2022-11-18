@@ -16,14 +16,7 @@
     create field species_order VARCHAR 100
     create field species_family VARCHAR 100
     create field species_genus VARCHAR 100			
-
-    create field glycosylation_o1_present VARCHAR 50
-    create field glycosylation_o2_present VARCHAR 50
-    create field glycosylation_o3_present VARCHAR 50
-    create field glycosylation_o4_present VARCHAR 50
-    create field glycosylation_o5_present VARCHAR 50
-    create field glycosylation_o6_present VARCHAR 50
-
+ 
   exit
 
 
@@ -34,3 +27,20 @@
   	create field ref_nt_coverage_pct DOUBLE
   	exit
 
+
+
+  #~# Create schema extension for glycosylation data
+  create custom-table glycosylation
+
+  table glycosylation
+
+    create field glycosylation_o1_present VARCHAR 50
+    create field glycosylation_o2_present VARCHAR 50
+    create field glycosylation_o3_present VARCHAR 50
+    create field glycosylation_o4_present VARCHAR 50
+    create field glycosylation_o5_present VARCHAR 50
+    create field glycosylation_o6_present VARCHAR 50
+
+  exit 
+  
+  create link sequence glycosylation
