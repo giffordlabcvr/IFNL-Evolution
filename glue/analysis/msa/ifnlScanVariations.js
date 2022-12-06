@@ -1,68 +1,50 @@
-//var refseqs_to_scan = [ "gag", "pro-pol", "vif", "tat", "rev", "vpu", "vpr", "env", "nef" ];
-
-// Get list of variations to scan for 
-var variationTable = {};
-get_variations(variationTable);
 
 // Scan alignments for variations
-var variationResultTable = {};
-scan_for_variations(variationTable)
+var variations = [ "n-linked-glycosylation-o1", "n-linked-glycosylation-o2", "n-linked-glycosylation-o3", "n-linked-glycosylation-o4", "n-linked-glycosylation-o5", "n-linked-glycosylation-o6" ];
 
-// Enter results in table
-scan_for_variations(variationTable)
-
-
-// Save table result to file
+var count = 0;
+for(var i = 0; i < variations.length; i++) {
 
 
+	count++;
 
+	var variationName = variations[i]
+	glue.logInfo("Processing variation: "+variationName);
 
-// Get feature names for a give reference sequence
-function get_variations(variationTable) {
+	var scanResult;
+	glue.inMode("alignment/AL_IFNL_MAMMAL_B", function() {
+		scanResult = glue.tableToObjects(glue.command(["variation", "member", "scan", "-r", "REF_IFNL_Mammal_b_MASTER", "-f", "orf", "-v", variationName, "-t"]));
+		//glue.log("INFO", "load result was:", scanResult);
+	});
 
-    // list variation -w "name like 'n-linked-glycosylation%'" 
-	var rowObjs = glue.tableToObjects(glue.command(["list","variation","-w","name like 'n-linked-glycosylation%'"]));
+	// Iterate through results
+	_.each(scanResult, function(resultObj) {
+		
+		var sequenceID = resultObj["sequenceID"];
+		var sourceName   = resultObj["sourceName"];
+		var firstRefCodon   = resultObj["firstRefCodon"];
+
+		if (firstRefCodon) {
 	
-	for(var i = 0; i < rowObjs.length; i++) {
-  
-        var rowObj = rowObjs[i]
-		var variationName = rowObj.name;
-		var featureName   = rowObj["featureLoc.feature.name"]
-		var refSeqName    = rowObj["featureLoc.referenceSequence.name"];
-		glue.logInfo("Processing variation: "+variationName+" in reference: "+refSeqName+", feature: "+featureName);
+			// Update the variation field
+			glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
 	
-	    variationTable.featureName = rowObj;
+ 				var variationName = 'glycosylation_o' + count;
+		
+				glue.log("INFO", "Vriation name result was:"+variationName+" sequence: "+sequenceID+" first ref codon: "+firstRefCodon);
+				glue.command(["set", "field", variationName, firstRefCodon]);	
+			
+			
+			});
+			
+		
+		}
 
-	}		
-}
+		
+	});
 
-// Scan for variations
-function scan_for_variations(variationTable) {
 
-	for(var i = 0; i < variationTable.length; i++) {
-  
-        var rowObj = rowObjs[i]
-		var variationName = rowObj.name;
-		var featureName   = rowObj["featureLoc.feature.name"]
-		var refSeqName    = rowObj["featureLoc.referenceSequence.name"];
-		glue.logInfo("Processing variation: "+variationName+" in reference: "+refSeqName+", feature: "+featureName);
-	
-		// Scan in alignment for variation
-		glue.inMode("/alignment/"+alignment+"/"+alignmentName, function() {
+}		
 
-			var rowObjs = glue.tableToObjects(glue.command(["variation","member","scan","-r","REF_IFNLb2_Mammal_MASTER","-f","glycosylation-region-1", "-v", "n-linked-glycosylation-o1"]));
-			for(var i = 0; i < rowObjs.length; i++) {
-  
-				var alignmentName       = rowObjs[i].alignmentName;
-				var sequenceID          = rowObjs[i].sequenceID;
-				var sufficientCoverage  = rowObjs[i].sufficientCoverage;
-				var present             = rowObjs[i].present;
 
-				glue.logInfo("Processing sequence ID: "+sequenceID+"COVERAGE: "+sufficientCoverage+", PRESENT: "+present);
-	
-			}		
-		});
-
-	}		
-}
 

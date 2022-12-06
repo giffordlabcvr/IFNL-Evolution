@@ -17,12 +17,12 @@
     create field species_family VARCHAR 100
     create field species_genus VARCHAR 100			
 
-    create field glycosylation_o1_present VARCHAR 50
-    create field glycosylation_o2_present VARCHAR 50
-    create field glycosylation_o3_present VARCHAR 50
-    create field glycosylation_o4_present VARCHAR 50
-    create field glycosylation_o5_present VARCHAR 50
-    create field glycosylation_o6_present VARCHAR 50
+    create field glycosylation_o1 VARCHAR 50
+    create field glycosylation_o2 VARCHAR 50
+    create field glycosylation_o3 VARCHAR 50
+    create field glycosylation_o4 VARCHAR 50
+    create field glycosylation_o5 VARCHAR 50
+    create field glycosylation_o6 VARCHAR 50
 
   exit
 

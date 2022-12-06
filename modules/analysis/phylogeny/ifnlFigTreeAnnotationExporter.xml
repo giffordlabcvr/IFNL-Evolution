@@ -9,7 +9,8 @@
 		<annotationName>species</annotationName>
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
-	
+
+
 	<figTreeAnnotation>
 		<annotationName>species_superorder</annotationName>
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species_superorder')}</valueFreemarkerTemplate>
@@ -34,6 +35,37 @@
 		<annotationName>gene_id</annotationName>
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.gene_id')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
+			
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o1_present</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o1_present')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o2_present</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o2_present')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o3_present</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o3_present')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
 		
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o4_present</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o4_present')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o5_present</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o5_present')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o6_present</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o6_present')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	
 	
 </figTreeAnnotationExporter>
