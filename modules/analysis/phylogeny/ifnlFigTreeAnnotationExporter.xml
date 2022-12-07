@@ -37,33 +37,33 @@
 	</figTreeAnnotation>
 			
 	<figTreeAnnotation>
-		<annotationName>glycosylation_o1_present</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o1_present')}</valueFreemarkerTemplate>
+		<annotationName>glycosylation_o1</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o1')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 	
 	<figTreeAnnotation>
-		<annotationName>glycosylation_o2_present</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o2_present')}</valueFreemarkerTemplate>
+		<annotationName>glycosylation_o2</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o2')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 	
 	<figTreeAnnotation>
-		<annotationName>glycosylation_o3_present</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o3_present')}</valueFreemarkerTemplate>
+		<annotationName>glycosylation_o3</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o3')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 		
 	<figTreeAnnotation>
-		<annotationName>glycosylation_o4_present</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o4_present')}</valueFreemarkerTemplate>
+		<annotationName>glycosylation_o4</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o4')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 	
 	<figTreeAnnotation>
-		<annotationName>glycosylation_o5_present</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o5_present')}</valueFreemarkerTemplate>
+		<annotationName>glycosylation_o5</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o5')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 	
 	<figTreeAnnotation>
-		<annotationName>glycosylation_o6_present</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o6_present')}</valueFreemarkerTemplate>
+		<annotationName>glycosylation_o6</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o6')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 	
 	
