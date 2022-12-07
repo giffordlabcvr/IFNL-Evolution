@@ -66,31 +66,29 @@
   create feature helix-e -p orf "Helix E"
   feature helix-e set metatag CODES_AMINO_ACIDS true
 
-  create feature loop5 -p orf "loop5"  
+  create feature loop5 -p orf "loop5"
   feature loop5 set metatag CODES_AMINO_ACIDS true
 
   create feature helix-f -p orf "Helix F"
   feature helix-f set metatag CODES_AMINO_ACIDS true
 
-  create feature loop6 -p orf "loop6"  
+  create feature loop6 -p orf "loop6"
   feature loop6 set metatag CODES_AMINO_ACIDS true
 
   create feature c-term -p orf "C-term extension"  
   feature c-term set metatag CODES_AMINO_ACIDS true
 
-  create feature ifnlr1 -p orf "A, B and F"  
-  feature ifnlr1 set metatag CODES_AMINO_ACIDS true
-
-  create feature il10r2 -p orf "A, C and D"  
-  feature il10r2 set metatag CODES_AMINO_ACIDS true
+  create feature non_receptor_binding -p orf "Non-receptor binding"  
+  feature non_receptor_binding set metatag CODES_AMINO_ACIDS true
+  feature non_receptor_binding set metatag OWN_CODON_NUMBERING true
 
   create feature ifnlr1_binding_surface -p orf "IFNLR1 receptor binding face"  
   feature ifnlr1_binding_surface set metatag CODES_AMINO_ACIDS true
   feature ifnlr1_binding_surface set metatag OWN_CODON_NUMBERING true
 
-  create feature il10r2_binding_surface -p orf "IL10R2 receptor binding face"  
-  feature il10r2_binding_surface set metatag CODES_AMINO_ACIDS true
-  feature il10r2_binding_surface set metatag OWN_CODON_NUMBERING true
+  create feature ifnlr2_binding_surface -p orf "IL10R2 receptor binding face"  
+  feature ifnlr2_binding_surface set metatag CODES_AMINO_ACIDS true
+  feature ifnlr2_binding_surface set metatag OWN_CODON_NUMBERING true
 
   create feature il10r1r2_binding_surface -p orf "IL10R2 receptor binding face"  
   feature il10r1r2_binding_surface set metatag CODES_AMINO_ACIDS true
