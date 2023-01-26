@@ -1,0 +1,29 @@
+# Get entropies
+
+delete module ifnlCalculateEntropyAA
+create module -f modules/analysis/msa/ifnlCalculateEntropyAA.xml
+
+# Set console output format
+console set cmd-output-file-format tab
+
+console set next-cmd-output-file ifnl-mammal-bp2-entropies-orf.tsv
+module ifnlCalculateEntropyAA invoke-function calculateEntropyAA REF_IFNL_Mammal_b_MASTER AL_IFNL_MAMMAL_B ncbi-curated-mammalia-b orf
+
+console set next-cmd-output-file ifnl-mammal-bp2-entropies-exposed_residues.tsv
+module ifnlCalculateEntropyAA invoke-function calculateEntropyAA REF_IFNL_Mammal_b_MASTER AL_IFNL_MAMMAL_B ncbi-curated-mammalia-b exposed_residues
+
+console set next-cmd-output-file ifnl-mammal-bp2-entropies-il10r2_binding_surface.tsv
+module ifnlCalculateEntropyAA invoke-function calculateEntropyAA REF_IFNL_Mammal_b_MASTER AL_IFNL_MAMMAL_B ncbi-curated-mammalia-b il10r2_binding_surface
+
+console set next-cmd-output-file ifnl-mammal-bp2-entropies-ifnlr1_binding_surface.tsv
+module ifnlCalculateEntropyAA invoke-function calculateEntropyAA REF_IFNL_Mammal_b_MASTER AL_IFNL_MAMMAL_B ncbi-curated-mammalia-b ifnlr1_binding_surface
+
+console set next-cmd-output-file ifnl-mammal-bp2-entropies-buried_residues.tsv
+module ifnlCalculateEntropyAA invoke-function calculateEntropyAA REF_IFNL_Mammal_b_MASTER AL_IFNL_MAMMAL_B ncbi-curated-mammalia-b buried_residues
+
+console set next-cmd-output-file ifnl-mammal-bp2-entropies-exposed_nonbinding_residues.tsv
+module ifnlCalculateEntropyAA invoke-function calculateEntropyAA REF_IFNL_Mammal_b_MASTER AL_IFNL_MAMMAL_B ncbi-curated-mammalia-b exposed_nonbinding_residues
+
+console set next-cmd-output-file ifnl-mammal-bp2-entropies-non_receptor_binding.tsv
+module ifnlCalculateEntropyAA invoke-function calculateEntropyAA REF_IFNL_Mammal_b_MASTER AL_IFNL_MAMMAL_B ncbi-curated-mammalia-b non_receptor_binding
+

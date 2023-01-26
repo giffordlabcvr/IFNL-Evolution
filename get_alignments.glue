@@ -1,0 +1,24 @@
+# Get alignments
+
+delete module ifnlFastaProteinAlignmentExporter
+create module -f modules/build/core/ifnlFastaProteinAlignmentExporter.xml
+
+# Export alignments for placental 1 members
+
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f orf -w "sequence.gene_id like 'Placental1%'" -e -o ifnl-mammal-bp1-orf.aln.fasta
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f exposed_residues -w "sequence.gene_id like 'Placental1%'" -e -o ifnl-mammal-bp1-exposed_residues.aln.fasta
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f il10r2_binding_surface -w "sequence.gene_id like 'Placental1%'" -e -o ifnl-mammal-bp1-il10r2_binding_surface.aln.fasta
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f ifnlr1_binding_surface -w "sequence.gene_id like 'Placental1%'" -e -o ifnl-mammal-bp1-ifnlr1_binding_surface.aln.fasta
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f buried_residues -w "sequence.gene_id like 'Placental1%'" -e -o ifnl-mammal-bp1-buried_residues.aln.fasta
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f exposed_nonbinding_residues -w "sequence.gene_id like 'Placental1%'" -e -o ifnl-mammal-bp1-exposed_nonbinding_residues.aln.fasta
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f non_receptor_binding -w "sequence.gene_id like 'Placental1%'" -e -o ifnl-mammal-bp1-non_receptor_binding.aln.fasta
+
+# Export alignments for placental 2 members
+
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f orf -w "sequence.gene_id like 'Placental2%'" -e -o ifnl-mammal-bp2-orf.aln.fasta
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f exposed_residues -w "sequence.gene_id like 'Placental2%'" -e -o ifnl-mammal-bp2-exposed_residues.aln.fasta
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f il10r2_binding_surface -w "sequence.gene_id like 'Placental2%'" -e -o ifnl-mammal-bp2-il10r2_binding_surface.aln.fasta
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f ifnlr1_binding_surface -w "sequence.gene_id like 'Placental2%'" -e -o ifnl-mammal-bp2-ifnlr1_binding_surface.aln.fasta
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f buried_residues -w "sequence.gene_id like 'Placental2%'" -e -o ifnl-mammal-bp2-buried_residues.aln.fasta
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f exposed_nonbinding_residues -w "sequence.gene_id like 'Placental2%'" -e -o ifnl-mammal-bp2-exposed_nonbinding_residues.aln.fasta
+module ifnlFastaProteinAlignmentExporter export AL_IFNL_MAMMAL_B -r REF_IFNL_Mammal_b_MASTER -f non_receptor_binding -w "sequence.gene_id like 'Placental2%'" -e -o ifnl-mammal-bp2-non_receptor_binding.aln.fasta

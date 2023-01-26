@@ -1,0 +1,50 @@
+# Get frequencies
+# Set console output format
+console set cmd-output-file-format tab
+
+# Get frequencies in placental 1's
+
+console set next-cmd-output-file ifnl-mammal-bp1-freqs-orf.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f orf -w "sequence.gene_id like 'Placental1%'"
+
+console set next-cmd-output-file ifnl-mammal-bp1-freqs-exposed_residues.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f exposed_residues -w "sequence.gene_id like 'Placental1%'"
+
+console set next-cmd-output-file ifnl-mammal-bp1-freqs-il10r2_binding_surface.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f il10r2_binding_surface -w "sequence.gene_id like 'Placental1%'"
+
+console set next-cmd-output-file ifnl-mammal-bp1-freqs-ifnlr1_binding_surface.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f ifnlr1_binding_surface -w "sequence.gene_id like 'Placental1%'"
+
+console set next-cmd-output-file ifnl-mammal-bp1-freqs-buried_residues.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f buried_residues -w "sequence.gene_id like 'Placental1%'"
+
+console set next-cmd-output-file ifnl-mammal-bp1-freqs-exposed_nonbinding_residues.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f exposed_nonbinding_residues -w "sequence.gene_id like 'Placental1%'"
+
+console set next-cmd-output-file ifnl-mammal-bp1-freqs-non_receptor_binding.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f non_receptor_binding -w "sequence.gene_id like 'Placental1%'"
+
+
+# Get frequencies in placental 2's
+
+console set next-cmd-output-file ifnl-mammal-bp2-freqs-orf.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f orf -w "sequence.gene_id like 'Placental2%'"
+
+console set next-cmd-output-file ifnl-mammal-bp2-freqs-exposed_residues.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f exposed_residues -w "sequence.gene_id like 'Placental2%'"
+
+console set next-cmd-output-file ifnl-mammal-bp2-freqs-il10r2_binding_surface.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f il10r2_binding_surface -w "sequence.gene_id like 'Placental2%'"
+
+console set next-cmd-output-file ifnl-mammal-bp2-freqs-ifnlr1_binding_surface.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f ifnlr1_binding_surface -w "sequence.gene_id like 'Placental2%'"
+
+console set next-cmd-output-file ifnl-mammal-bp2-freqs-buried_residues.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f buried_residues -w "sequence.gene_id like 'Placental2%'"
+
+console set next-cmd-output-file ifnl-mammal-bp2-freqs-exposed_nonbinding_residues.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f exposed_nonbinding_residues -w "sequence.gene_id like 'Placental2%'"
+
+console set next-cmd-output-file ifnl-mammal-bp2-freqs-non_receptor_binding.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f non_receptor_binding -w "sequence.gene_id like 'Placental2%'"
