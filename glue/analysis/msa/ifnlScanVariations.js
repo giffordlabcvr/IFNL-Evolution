@@ -13,25 +13,25 @@ for(var i = 0; i < variations.length; i++) {
 
 	var scanResult;
 	glue.inMode("alignment/AL_IFNL_MAMMAL_B", function() {
-		scanResult = glue.tableToObjects(glue.command(["variation", "member", "scan", "-r", "REF_IFNL_Mammal_b_MASTER", "-f", "orf", "-v", variationName, "-t"]));
+		scanResult = glue.tableToObjects(glue.command(["variation", "member", "scan", "-r", "REF_IFNL_Mammal_b_MASTER", "-f", "orf", "-v", variationName]));
 		//glue.log("INFO", "load result was:", scanResult);
 	});
 
 	// Iterate through results
 	_.each(scanResult, function(resultObj) {
 		
-		var sequenceID = resultObj["sequenceID"];
-		var sourceName   = resultObj["sourceName"];
-		var firstRefCodon   = resultObj["firstRefCodon"];
+		var sequenceID   = resultObj["sequenceID"];
+		var suffCoverage = resultObj["sufficientCoverage"];
+		var varIsPresent = resultObj["present"];
 
-		if (firstRefCodon) {
+		if (varIsPresent && suffCoverage) {
 	
 			// Update the variation field
 			glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
 	
  				var variationName = 'glycosylation_o' + count;
 		
-				glue.log("INFO", "Vriation name result was:"+variationName+" sequence: "+sequenceID+" first ref codon: "+firstRefCodon);
+				glue.log("INFO", "Variation name result was:"+variationName+" sequence: "+sequenceID+" first ref codon: "+firstRefCodon);
 				glue.command(["set", "field", variationName, firstRefCodon]);	
 			
 			
