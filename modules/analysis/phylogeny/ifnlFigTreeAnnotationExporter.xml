@@ -10,6 +10,11 @@
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 
+	<figTreeAnnotation>
+		<annotationName>species_and_gene_id</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.sequenceID')}/${renderNestedProperty('sequence.species')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
 
 	<figTreeAnnotation>
 		<annotationName>species_superorder</annotationName>

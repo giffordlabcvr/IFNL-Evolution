@@ -6,6 +6,6 @@ XM_014607441	IFNL-Crocodylia-1	1	Crocodylia	Alligator mississippiensis	REF_IFNL_
 XM_025202241	IFNL-Crocodylia-2	1	Crocodylia	Alligator sinensis	REF_IFNL_Crocodylia_2	Squamata	Unclassified	Crocodylia	Alligatoridae	Alligator		
 XM_026688830	IFNL-Lepidosauria_1	1	Serpentes	Notechis scutatus	REF_IFNL_Lepidosauria_1	Squamata	Lepidosauria	Squamata	Elapidae	Notechis		
 NM_001276254	IFNL-Mammalia-A	A	Placental1	Homo sapiens	REF_IFNL_Mammalia_A	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_001276254.2	xE
-NM_001346937	IFNL-Mammalia-B	B	Placental2_Haplorhine1	Homo sapiens	REF_IFNL_Mammalia_B_MASTER	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
+NM_001346937	IFNL-Mammalia-B	B	Placental2_Haplorhine-1.1	Homo sapiens	REF_IFNL_Mammalia_B_MASTER	Mammalia	Euarchontoglires	Primates	Hominidae	Homo	NM_001346937.1	xE
 XM_026646209	IFNL-Testudines-1	1	Testudines	Terrapene carolina	REF_IFNL_Testudines_1	Squamata	Unclassified	Testudines	Emydidae	Terrapene		
 XM_025186888	IFNL-Testudines-2	2	Testudines	Pelodiscus sinensis	REF_IFNL_Testudines_2	Squamata	Unclassified	Testudines	Trionychidae	Pelodiscus		

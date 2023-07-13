@@ -1,51 +1,51 @@
-taxon	sequenceID	species	species_superorder	species_order	species_family	species_genus	gene_id	glycosylation_o1	glycosylation_o2	glycosylation_o3	glycosylation_o4	glycosylation_o5	glycosylation_o6
-alignment/AL_IFNL_MAMMAL_A/member/fasta-curated-mammalia-a/IFNL_Mammal_APsi-Hsa	IFNL_Mammal_APsi-Hsa	-	-	-	-	-	-	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-refseqs/NM_001276254	NM_001276254	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/NM_001276259	NM_001276259	Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_004396490	XM_004396490	Odobenus rosmarus divergens	Laurasiatheria	Carnivora	Odobenidae	Odobenus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_004396491	XM_004396491	Odobenus rosmarus	Laurasiatheria	Carnivora	Odobenidae	Odobenus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_004595181	XM_004595181	Ochotona princeps	Euarchontoglires	Lagomorpha	Ochotonidae	Ochotona	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_004617296	XM_004617296	Sorex araneus	Laurasiatheria	Insectivora	Soricidae	Sorex	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_004636883	XM_004636883	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_004710487	XM_004710487	Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_005219126	XM_005219126	Bos taurus	Laurasiatheria	Unclassified	Bovidae	Bos	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_005219127	XM_005219127	Bos taurus	Laurasiatheria	Unclassified	Bovidae	Bos	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_005336481	XM_005336481	Ictidomys tridecemlineatus	Euarchontoglires	Rodentia	Sciuridae	Ictidomys	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_006878034	XM_006878034	Chrysochloris asiatica	Afrotheria	Unclassified	Chrysochloridae	Chrysochloris	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_006911731	XM_006911731	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_007180046	XM_007180046	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_007180047	XM_007180047	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_007524024	XM_007524024	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_007524025	XM_007524025	Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_007660152	XM_007660152	Ornithorhynchus anatinus	Unclassified	Monotremata	Ornithorhynchidae	Ornithorhynchus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_007996757	XM_007996757	Chlorocebus sabaeus	Euarchontoglires	Primates	Cercopithecidae	Chlorocebus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_008140039	XM_008140039	Eptesicus fuscus	Laurasiatheria	Chiroptera	Vespertilionidae	Eptesicus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_008257170	XM_008257170	Oryctolagus cuniculus	Euarchontoglires	Lagomorpha	Leporidae	Oryctolagus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_010600326	XM_010600326	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_010600327	XM_010600327	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_010600391	XM_010600391	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_013522287	XM_013522287	Chinchilla lanigera	Euarchontoglires	Rodentia	Chinchillidae	Chinchilla	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_013990503	XM_013990503	Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_014541702	XM_014541702	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_015123824	XM_015123824	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_016165225	XM_016165225	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_016209132	XM_016209132	Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_017503065	XM_017503065	Cebus capucinus	Euarchontoglires	Primates	Cebidae	Cebus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_017503067	XM_017503067	Cebus capucinus imitator	Euarchontoglires	Primates	Cebidae	Cebus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_019431940	XM_019431940	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_019431989	XM_019431989	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_019431990	XM_019431990	Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_019666267	XM_019666267	Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_019666268	XM_019666268	Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_020156960	XM_020156960	Castor canadensis	Euarchontoglires	Rodentia	Castoridae	Castor	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_021239619	XM_021239619	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_021239678	XM_021239678	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_021700959	XM_021700959	Neomonachus schauinslandi	Laurasiatheria	Carnivora	Phocidae	Monachus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_021931090	XM_021931090	Papio anubis	Euarchontoglires	Primates	Cercopithecidae	Papio	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_022525015	XM_022525015	Enhydra lutris kenyoni	Laurasiatheria	Carnivora	Mustelidae	Enhydra	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_023760558	XM_023760558	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_024577451	XM_024577451	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_027765624	XM_027765624	Tree shrew	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_027855301	XM_027855301	Vombatus ursinus	Unclassified	Diprotodontia	Vombatidae	Vombatus	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_028165945	XM_028165945	Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	Placental1	-	-	-	-	-	-
-alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_028839087	XM_028839087	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	Placental1	-	-	-	-	-	-
+taxon	sequenceID	species	species_and_gene_id	species_superorder	species_order	species_family	species_genus	gene_id	glycosylation_o1	glycosylation_o2	glycosylation_o3	glycosylation_o4	glycosylation_o5	glycosylation_o6
+alignment/AL_IFNL_MAMMAL_A/member/fasta-curated-mammalia-a/IFNL_Mammal_APsi-Hsa	IFNL_Mammal_APsi-Hsa	-	IFNL_Mammal_APsi-Hsa/-	-	-	-	-	-	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-refseqs/NM_001276254	NM_001276254	Homo sapiens	NM_001276254/Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/NM_001276259	NM_001276259	Pan troglodytes	NM_001276259/Pan troglodytes	Euarchontoglires	Primates	Hominidae	Pan	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_004396490	XM_004396490	Odobenus rosmarus divergens	XM_004396490/Odobenus rosmarus divergens	Laurasiatheria	Carnivora	Odobenidae	Odobenus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_004396491	XM_004396491	Odobenus rosmarus	XM_004396491/Odobenus rosmarus	Laurasiatheria	Carnivora	Odobenidae	Odobenus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_004595181	XM_004595181	Ochotona princeps	XM_004595181/Ochotona princeps	Euarchontoglires	Lagomorpha	Ochotonidae	Ochotona	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_004617296	XM_004617296	Sorex araneus	XM_004617296/Sorex araneus	Laurasiatheria	Insectivora	Soricidae	Sorex	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_004636883	XM_004636883	Octodon degus	XM_004636883/Octodon degus	Euarchontoglires	Rodentia	Octodontidae	Octodon	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_004710487	XM_004710487	Echinops telfairi	XM_004710487/Echinops telfairi	Afrotheria	Unclassified	Tenrecidae	Echinops	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_005219126	XM_005219126	Bos taurus	XM_005219126/Bos taurus	Laurasiatheria	Unclassified	Bovidae	Bos	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_005219127	XM_005219127	Bos taurus	XM_005219127/Bos taurus	Laurasiatheria	Unclassified	Bovidae	Bos	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_005336481	XM_005336481	Ictidomys tridecemlineatus	XM_005336481/Ictidomys tridecemlineatus	Euarchontoglires	Rodentia	Sciuridae	Ictidomys	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_006878034	XM_006878034	Chrysochloris asiatica	XM_006878034/Chrysochloris asiatica	Afrotheria	Unclassified	Chrysochloridae	Chrysochloris	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_006911731	XM_006911731	Pteropus alecto	XM_006911731/Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	Pteropus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_007180046	XM_007180046	Balaenoptera acutorostrata scammoni	XM_007180046/Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_007180047	XM_007180047	Balaenoptera acutorostrata scammoni	XM_007180047/Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_007524024	XM_007524024	Erinaceus europaeus	XM_007524024/Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_007524025	XM_007524025	Erinaceus europaeus	XM_007524025/Erinaceus europaeus	Laurasiatheria	Insectivora	Erinaceidae	Erinaceus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_007660152	XM_007660152	Ornithorhynchus anatinus	XM_007660152/Ornithorhynchus anatinus	Unclassified	Monotremata	Ornithorhynchidae	Ornithorhynchus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_007996757	XM_007996757	Chlorocebus sabaeus	XM_007996757/Chlorocebus sabaeus	Euarchontoglires	Primates	Cercopithecidae	Chlorocebus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_008140039	XM_008140039	Eptesicus fuscus	XM_008140039/Eptesicus fuscus	Laurasiatheria	Chiroptera	Vespertilionidae	Eptesicus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_008257170	XM_008257170	Oryctolagus cuniculus	XM_008257170/Oryctolagus cuniculus	Euarchontoglires	Lagomorpha	Leporidae	Oryctolagus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_010600326	XM_010600326	Loxodonta africana	XM_010600326/Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_010600327	XM_010600327	Loxodonta africana	XM_010600327/Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_010600391	XM_010600391	Loxodonta africana	XM_010600391/Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	Loxodonta	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_013522287	XM_013522287	Chinchilla lanigera	XM_013522287/Chinchilla lanigera	Euarchontoglires	Rodentia	Chinchillidae	Chinchilla	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_013990503	XM_013990503	Sus scrofa	XM_013990503/Sus scrofa	Laurasiatheria	Unclassified	Suidae	Sus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_014541702	XM_014541702	Myotis brandtii	XM_014541702/Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_015123824	XM_015123824	Macaca mulatta	XM_015123824/Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_016165225	XM_016165225	Rousettus aegyptiacus	XM_016165225/Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	Rousettus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_016209132	XM_016209132	Miniopterus natalensis	XM_016209132/Miniopterus natalensis	Laurasiatheria	Chiroptera	Vespertilionidae	Miniopterus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_017503065	XM_017503065	Cebus capucinus	XM_017503065/Cebus capucinus	Euarchontoglires	Primates	Cebidae	Cebus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_017503067	XM_017503067	Cebus capucinus imitator	XM_017503067/Cebus capucinus imitator	Euarchontoglires	Primates	Cebidae	Cebus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_019431940	XM_019431940	Panthera pardus	XM_019431940/Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_019431989	XM_019431989	Panthera pardus	XM_019431989/Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_019431990	XM_019431990	Panthera pardus	XM_019431990/Panthera pardus	Laurasiatheria	Carnivora	Felidae	Panthera	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_019666267	XM_019666267	Hipposideros armiger	XM_019666267/Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_019666268	XM_019666268	Hipposideros armiger	XM_019666268/Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	Hipposideros	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_020156960	XM_020156960	Castor canadensis	XM_020156960/Castor canadensis	Euarchontoglires	Rodentia	Castoridae	Castor	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_021239619	XM_021239619	Heterocephalus glaber	XM_021239619/Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_021239678	XM_021239678	Heterocephalus glaber	XM_021239678/Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	Heterocephalus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_021700959	XM_021700959	Neomonachus schauinslandi	XM_021700959/Neomonachus schauinslandi	Laurasiatheria	Carnivora	Phocidae	Monachus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_021931090	XM_021931090	Papio anubis	XM_021931090/Papio anubis	Euarchontoglires	Primates	Cercopithecidae	Papio	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_022525015	XM_022525015	Enhydra lutris kenyoni	XM_022525015/Enhydra lutris kenyoni	Laurasiatheria	Carnivora	Mustelidae	Enhydra	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_023760558	XM_023760558	Myotis lucifugus	XM_023760558/Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	Myotis	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_024577451	XM_024577451	Desmodus rotundus	XM_024577451/Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	Desmodus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_027765624	XM_027765624	Tree shrew	XM_027765624/Tree shrew	Euarchontoglires	Scandentia	Tupaiidae	Tupaia	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_027855301	XM_027855301	Vombatus ursinus	XM_027855301/Vombatus ursinus	Unclassified	Diprotodontia	Vombatidae	Vombatus	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_028165945	XM_028165945	Balaenoptera acutorostrata scammoni	XM_028165945/Balaenoptera acutorostrata scammoni	Laurasiatheria	Cetacea	Balaenopteridae	Balaenoptera	Placental1	-	-	-	-	-	-
+alignment/AL_IFNL_MAMMAL_A/member/ncbi-curated-mammalia-a/XM_028839087	XM_028839087	Macaca mulatta	XM_028839087/Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	Macaca	Placental1	-	-	-	-	-	-
