@@ -8,7 +8,7 @@ for(var i = 0; i < variations.length; i++) {
 
 	count++;
 
-	var variationName = variations[i]
+	var variationName = variations[i];
 	glue.logInfo("Processing variation: "+variationName);
 
 	var scanResult;

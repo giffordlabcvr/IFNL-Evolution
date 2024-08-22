@@ -6,7 +6,8 @@ project ifnl
   #import source sources/fasta-curated-mammalia-b/
 
   # Import metadata for IFNL curated sequences
-  module ifnlSideDataImporter 
+  create module -f modules/build/lineage/ifnlSideDataImporterMammaliaB.xml
+  module ifnlSideDataImporterMammaliaB
     populate -f tabular/refseq-lineage/ifnl-curated-side-data-mammalia-b.tsv
     exit
 

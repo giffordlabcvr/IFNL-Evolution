@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<textFilePopulator>
+    <columnDelimiterRegex>\t</columnDelimiterRegex>
+    
+    <textFileColumn>
+        <identifier>true</identifier>
+        <header>id</header>
+        <property>sequenceID</property>
+    </textFileColumn>
+
+   <textFileColumn>
+        <header>gene_name</header>
+        <property>gene_name</property>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull>
+    </textFileColumn>
+
+   <textFileColumn>
+        <header>gene_id</header>
+        <property>gene_id</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>species</header>
+        <property>species</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>Superorder</header>
+        <property>species_superorder</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>Species_order</header>
+        <property>species_order</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>Family</header>
+        <property>species_family</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>Genus</header>
+        <property>species_genus</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>exon12</header>
+        <property>mammalian_b_n_terminus</property>
+    </textFileColumn>
+
+    <skipMissing>true</skipMissing>
+
+</textFilePopulator>
+
+

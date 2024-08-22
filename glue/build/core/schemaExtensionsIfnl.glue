@@ -24,13 +24,15 @@
     create field glycosylation_o5 VARCHAR 50
     create field glycosylation_o6 VARCHAR 50
 
-  exit
+    create field mammalian_b_n_terminus VARCHAR 50
+    exit
 
 
 
   #~# Table for feature coverage
   
   table member_floc_note
+  
   	create field ref_nt_coverage_pct DOUBLE
   	exit
 
