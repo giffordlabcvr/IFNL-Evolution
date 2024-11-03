@@ -15,19 +15,12 @@ Features
 
 -   **Comprehensive Database**: Contains a curated collection of IFNL sequences with detailed metadata, supporting research into the evolutionary and functional diversity of interferon lambda genes.
 
--   **Genotyping and Visualization Tool**: Facilitates genotyping and visualization of submitted IFNL sequences, allowing users to analyze and compare variants across the gene family.
-
 -   **Pre-built Multiple Sequence Alignments**: Includes pre-built alignments of IFNL genes, available for download to support customized comparative analyses.
 
 -   **Phylogenetic Structure**: Organizes IFNL sequence data in a phylogenetically structured format, allowing users to explore evolutionary relationships and genetic diversity within the IFNL gene family.
 
--   **Automated Genotyping**: Uses GLUE's maximum likelihood clade assignment (MLCA) algorithm to classify IFNL sequences by subtype and lineage, supporting systematic classification across the gene family.
-
--   **Rich Annotations**: Features annotated reference sequences for comparative analysis, focusing on conservation, structural context, and functional implications of genetic variation.
-
--   **Web User Interface**: The IFNL-GLUE-WEB extension provides a web interface for browsing the IFNL-GLUE database, as well as tools for sequence analysis and visualization.
-
--   **Research and Clinical Applicability**: Supports both exploratory research and clinical studies on IFNL genes, enabling insights into immune response variability and potential therapeutic targets.
+-   **Rich Annotations**: Annotated IFNL reference sequences for comparative analysis, focusing on conservation, structural context, and functional implications of genetic variation.
+-   
 
 Usage
 -----
