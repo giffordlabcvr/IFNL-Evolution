@@ -52,6 +52,6 @@ The project is licensed under the [GNU Affero General Public License v. 3.0](htt
 Contact
 -------
 
-For questions, issues, or feedback, please contact us at gluetools@gmail.com or open an issue on the [GitHub repository](https://github.com/giffordlabcvr/IFNL-GLUE/issues).
+For questions, issues, or feedback, please open an issue on the [GitHub repository](https://github.com/giffordlabcvr/IFNL-GLUE/issues).
 
 * * * * *
