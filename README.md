@@ -20,7 +20,7 @@ Features
 -   **Phylogenetic Structure**: Organizes IFNL sequence data in a phylogenetically structured format, allowing users to explore evolutionary relationships and genetic diversity within the IFNL gene family.
 
 -   **Rich Annotations**: Annotated IFNL reference sequences for comparative analysis, focusing on conservation, structural context, and functional implications of genetic variation.
--   
+-      
 
 Usage
 -----
