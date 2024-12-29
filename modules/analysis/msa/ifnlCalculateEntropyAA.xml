@@ -1,9 +1,9 @@
 <ecmaFunctionInvoker>
 
-	<scriptFileName>calculateEntropyAA.js</scriptFileName>
+	<scriptFileName>calculateEntropy.js</scriptFileName>
 	
 	<function>
-		<name>calculateEntropyAA</name>
+		<name>calculateEntropy</name>
 		<parameter>
 			<name>refsequence</name>
 		</parameter>
