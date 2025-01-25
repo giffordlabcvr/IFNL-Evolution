@@ -1,5 +1,5 @@
-IFNL-GLUE: Comparative Genomics of Interferon Lambda Genes
-----------------------------------------------------------
+IFNL-Evolution: Comparative Genomics of Interferon Lambda Genes
+---------------------------------------------------------------
 
 Background
 ----------
