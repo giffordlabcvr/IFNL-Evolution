@@ -3,7 +3,8 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](./md/code_of_conduct.md)
 
 ## Overview
-**IFNL-Evolution** is a reproducible, sequence-oriented resource for the comparative genomic analysis of interferon lambda (IFNλ) genes.  
+**IFNL-Evolution** is a reproducible, sequence-oriented resource for the comparative genomic analysis of interferon lambda (IFNλ) genes.
+
 It has been built using the [GLUE](http://glue-tools.cvr.gla.ac.uk/) software framework, which provides a database-backed environment for standardised sequence alignments and phylogenetic analyses.
 
 Interferon lambda (IFNλ1–4) are cytokines that play critical roles in mucosal immunity. Natural variation in IFNλs has been linked to infection outcomes and therapeutic responses, highlighting the importance of understanding their diversity and evolution.
