@@ -10,8 +10,8 @@ alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f o
 console set next-cmd-output-file ifnl-mammal-bp1-freqs-exposed_residues.tsv
 alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f exposed_residues -w "sequence.gene_id like 'Placental1%'"
 
-console set next-cmd-output-file ifnl-mammal-bp1-freqs-il10r2_binding_surface.tsv
-alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f il10r2_binding_surface -w "sequence.gene_id like 'Placental1%'"
+console set next-cmd-output-file ifnl-mammal-bp1-freqs-il10r1r2_binding_surface.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f il10r1r2_binding_surface -w "sequence.gene_id like 'Placental1%'"
 
 console set next-cmd-output-file ifnl-mammal-bp1-freqs-ifnlr1_binding_surface.tsv
 alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f ifnlr1_binding_surface -w "sequence.gene_id like 'Placental1%'"
@@ -34,8 +34,8 @@ alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f o
 console set next-cmd-output-file ifnl-mammal-bp2-freqs-exposed_residues.tsv
 alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f exposed_residues -w "sequence.gene_id like 'Placental2%'"
 
-console set next-cmd-output-file ifnl-mammal-bp2-freqs-il10r2_binding_surface.tsv
-alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f il10r2_binding_surface -w "sequence.gene_id like 'Placental2%'"
+console set next-cmd-output-file ifnl-mammal-bp2-freqs-il10r1r2_binding_surface.tsv
+alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f il10r1r2_binding_surface -w "sequence.gene_id like 'Placental2%'"
 
 console set next-cmd-output-file ifnl-mammal-bp2-freqs-ifnlr1_binding_surface.tsv
 alignment AL_IFNL_MAMMAL_B amino-acid frequency -r REF_IFNL_Mammal_b_MASTER -f ifnlr1_binding_surface -w "sequence.gene_id like 'Placental2%'"

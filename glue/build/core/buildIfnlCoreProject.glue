@@ -1,9 +1,9 @@
   project ifnl
 
-  # load project settings
+  # Load project settings
+  run file glue/build/core/projectSettings.glue
 
-  # create modulesectSettings.glue
-
+  # Create modules
   run file glue/build/core/ifnlModules.glue
 
   # Import sources 
