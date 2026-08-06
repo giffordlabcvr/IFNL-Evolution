@@ -1,6 +1,6 @@
 <ecmaFunctionInvoker>
 
-	<scriptFileName>calculateEntropy.js</scriptFileName>
+	<scriptFileName>calculateEntropyAA.js</scriptFileName>
 	
 	<function>
 		<name>calculateEntropy</name>
