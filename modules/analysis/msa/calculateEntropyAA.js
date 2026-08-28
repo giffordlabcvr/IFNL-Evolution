@@ -1,7 +1,6 @@
-function calculateEntropy(refsequence, alignment, source, feature) {
+function calculateEntropy(refsequence, alignment, feature, whereClause) {
 
     var alignmentMode = "alignment/" + alignment;
-    var whereClause = "sequence.source.name = '" + source + "'";
     var countsByCodon = {};
 
     glue.inMode(alignmentMode, function() {
@@ -25,12 +24,6 @@ function calculateEntropy(refsequence, alignment, source, feature) {
 
         _.each(resultTable["row"], function(row) {
 
-            /*
-             * Current GLUE result layout:
-             * value[1] = labelled codon
-             * value[2] = amino-acid character
-             * value[3] = member count
-             */
             var codon = Number(row["value"][1]);
             var aminoAcid = String(row["value"][2]);
             var count = Number(row["value"][3]);
@@ -96,4 +89,3 @@ function calculateEntropy(refsequence, alignment, source, feature) {
 
     return entropyResults;
 }
-

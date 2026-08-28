@@ -1,24 +1,27 @@
 <ecmaFunctionInvoker>
 
-	<scriptFileName>calculateEntropyAA.js</scriptFileName>
-	
-	<function>
-		<name>calculateEntropy</name>
-		<parameter>
-			<name>refsequence</name>
-		</parameter>
-		<parameter>
-			<name>alignment</name>
-		</parameter>
-		<parameter>
-			<name>source</name>
-		</parameter>
-		<parameter>
-			<name>feature</name>
-		</parameter>
-	
-		<tableFromObjectsResultType/>
-	</function>
-	
+    <scriptFileName>calculateEntropyAA.js</scriptFileName>
+
+    <function>
+        <name>calculateEntropy</name>
+
+        <parameter>
+            <name>refsequence</name>
+        </parameter>
+
+        <parameter>
+            <name>alignment</name>
+        </parameter>
+
+        <parameter>
+            <name>feature</name>
+        </parameter>
+
+        <parameter>
+            <name>whereClause</name>
+        </parameter>
+
+        <tableFromObjectsResultType/>
+    </function>
+
 </ecmaFunctionInvoker>
-	 

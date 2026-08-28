@@ -1,6 +1,6 @@
 delete project ifnl
 
-create project ifnl "GLUE project for interferon Lambda" --minVersion 0.1.50
+create project ifnl "A GLUE project for interferon Lambda" --minVersion 0.1.50
 
 schema-project ifnl
 
