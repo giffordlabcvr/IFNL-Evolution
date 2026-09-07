@@ -23,3 +23,183 @@
   #~# Mammalia B lineage-specific duplicates
   create reference REF_IFNL_Mammal_b_Simiiformes_2_1     ncbi-curated-mammalia-b NM_172138     # Human 2 (IFNLb2)
   create reference REF_IFNL_Mammal_b_Afrotheria_rtg      ncbi-curated-mammalia-b XM_007945560  # Aardvark rtg
+
+  reference REF_IFNL_Mammal_b_Simiiformes_1       
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 775
+
+	add feature-location orf
+	feature-location orf add segment 16 618
+
+  exit
+
+  reference REF_IFNL_Mammal_b_Simiiformes_2_2     
+
+    add feature-location mRNA
+    feature-location mRNA add segment 1 629
+
+    add feature-location orf
+    feature-location orf add segment 1 603
+
+  exit
+
+  reference REF_IFNL_Mammal_b_Chiroptera_1   
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 597
+
+	add feature-location orf
+	feature-location orf add segment 1 597
+
+	exit
+  
+  reference REF_IFNL_Mammal_b_Artiodactyla_1      
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 588
+
+	add feature-location orf
+	feature-location orf add segment 1 588
+
+	exit
+  
+  reference REF_IFNL_Mammal_b_Carnivore_1         
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 920
+
+	add feature-location orf
+	feature-location orf add segment 336 920
+
+	exit
+
+  reference REF_IFNL_Mammal_b_Eulipotyphyla_1     
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 591
+
+	add feature-location orf
+	feature-location orf add segment 1 591
+
+	exit
+
+
+  reference REF_IFNL_Mammal_b_Xenarthra_1         
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 576
+
+	add feature-location orf
+	feature-location orf add segment 1 576
+
+	exit
+
+
+  reference REF_IFNL_Mammal_b_Perissodactyla_1    
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 893
+
+	add feature-location orf
+	feature-location orf add segment 153 722
+
+	exit
+
+  
+  reference REF_IFNL_Mammal_b_Carnivore_2         
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 920
+
+	add feature-location orf
+	feature-location orf add segment 336 920
+
+	exit
+  
+  
+  reference REF_IFNL_Mammal_b_Laurasiatheria_rtg  
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 576
+
+	add feature-location orf
+	feature-location orf add segment 1 576
+
+	exit
+  
+  
+  reference REF_IFNL_Mammal_b_Rodents_1_1         
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 582
+
+	add feature-location orf
+	feature-location orf add segment 1 582
+
+	exit
+  
+  
+  reference REF_IFNL_Mammal_b_Rodents_1_2         
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 582
+
+	add feature-location orf
+	feature-location orf add segment 1 582
+
+	exit
+  
+  
+  reference REF_IFNL_Mammal_b_Eulipotyphyla_2     
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 591
+
+	add feature-location orf
+	feature-location orf add segment 1 591
+
+	exit
+  
+  reference REF_IFNL_Mammal_b_Lemuriformes_1      
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 621
+
+	add feature-location orf
+	feature-location orf add segment 43 621
+
+	exit
+  
+    
+  reference REF_IFNL_Mammal_b_Afrotheria_1        
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 576
+
+	add feature-location orf
+	feature-location orf add segment 1 576
+
+	exit
+  
+  
+  reference REF_IFNL_Mammal_b_Simiiformes_2_1     
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 775
+
+	add feature-location orf
+	feature-location orf add segment 16 618
+
+  exit
+  
+  reference REF_IFNL_Mammal_b_Afrotheria_rtg      
+
+	add feature-location mRNA
+	feature-location mRNA add segment 1 576
+
+	add feature-location orf
+	feature-location orf add segment 1 576
+
+	exit
+

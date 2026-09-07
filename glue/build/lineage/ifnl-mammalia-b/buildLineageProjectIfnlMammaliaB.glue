@@ -14,6 +14,9 @@ project ifnl
   # Import GenBank side data
   module ifnlGenbankXmlPopulator populate -w "source.name = 'ncbi-curated-mammalia-b'"
 
+  # Declare all sequences as references and add orf annotations
+  run file glue/build/lineage/ifnl-mammalia-b/ifnlbReportedFeatureLocations.glue
+
   # Import lineage-level alignments 
   module unconstrainedAlignmentImporter
     import AL_UNC_IFNLB_mRNA -f alignments/mammal/ifnlb/ifnlb-mrna.aln.fna

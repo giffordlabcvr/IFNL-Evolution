@@ -1,4 +1,7 @@
-
+  delete module ifnlFigTreeAnnotationExporter
+  
+  create module -f modules/analysis/phylogeny/ifnlFigTreeAnnotationExporter.xml
+  
   # Export annotations
   module ifnlFigTreeAnnotationExporter 
   
