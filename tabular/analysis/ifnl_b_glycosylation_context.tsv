@@ -1,0 +1,7 @@
+variation	short_name	codon_start	codon_end	ref_start	ref_end	exon	protein_region	receptor_context	structural_context
+n-linked-glycosylation-o1	o1	30	39	88	117	mRNA_exon2	loop1		
+n-linked-glycosylation-o2	o2	40	50	118	150	mRNA_exon2	N-helix,loop1	receptor_binding,non_receptor_binding,ifnlr1_binding_surface,ifnlr2_binding_surface,il10r1r2_binding_surface	exposed_residues,exposed_nonbinding_residues,buried_residues
+n-linked-glycosylation-o3	o3	55	65	163	195	mRNA_exon2,mRNA_exon3	N-helix	receptor_binding,non_receptor_binding,ifnlr1_binding_surface,ifnlr2_binding_surface,il10r1r2_binding_surface	exposed_residues,buried_residues
+n-linked-glycosylation-o4	o4	70	80	208	240	mRNA_exon3	helix-b,loop2	receptor_binding,non_receptor_binding,ifnlr1_binding_surface,il10r1r2_binding_surface	exposed_residues,exposed_nonbinding_residues,buried_residues
+n-linked-glycosylation-o5	o5	100	109	298	327	mRNA_exon4	helix-c	receptor_binding,non_receptor_binding,ifnlr2_binding_surface,il10r1r2_binding_surface	exposed_residues,exposed_nonbinding_residues,buried_residues
+n-linked-glycosylation-o6	o6	110	120	328	360	mRNA_exon4	helix-c,helix-d,loop4	receptor_binding,non_receptor_binding,ifnlr2_binding_surface,il10r1r2_binding_surface	exposed_residues,exposed_nonbinding_residues,buried_residues

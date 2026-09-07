@@ -19,6 +19,26 @@
         <property>gene_id</property>
     </textFileColumn>
 
+   <textFileColumn>
+        <header>exon12</header>
+        <property>ifnlb_exon12</property>
+    </textFileColumn>
+
+   <textFileColumn>
+        <header>exon3456</header>
+        <property>ifnlb_exon3456</property>
+    </textFileColumn>
+
+   <textFileColumn>
+        <header>ifnlb_exon3456_group</header>
+        <property>ifnlb_exon3456_group</property>
+    </textFileColumn>
+
+   <textFileColumn>
+        <header>ifnlb_exon3456_subgroup</header>
+        <property>ifnlb_exon3456_subgroup</property>
+    </textFileColumn>
+
     <textFileColumn>
         <header>species</header>
         <property>species</property>

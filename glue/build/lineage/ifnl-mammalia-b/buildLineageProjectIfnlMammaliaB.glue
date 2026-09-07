@@ -11,6 +11,9 @@ project ifnl
     populate -f tabular/refseq-lineage/ifnl-curated-side-data-mammalia-b.tsv
     exit
 
+  # Import GenBank side data
+  module ifnlGenbankXmlPopulator populate -w "source.name = 'ncbi-curated-mammalia-b'"
+
   # Import lineage-level alignments 
   module unconstrainedAlignmentImporter
     import AL_UNC_IFNLB_mRNA -f alignments/mammal/ifnlb/ifnlb-mrna.aln.fna

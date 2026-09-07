@@ -1,0 +1,54 @@
+
+  #~# Extensions to sequence table
+  
+  table sequence
+
+	# Gene sequence details
+	create field gene_name  VARCHAR 100
+	create field gene_id    VARCHAR 50
+	create field clade      VARCHAR 50
+	create field length     INTEGER
+	create field pubmed_id  VARCHAR 50
+
+	# Host species taxonomy
+	create field species            VARCHAR 100
+	create field species_superorder VARCHAR 100
+	create field species_order      VARCHAR 100
+	create field species_family     VARCHAR 100
+	create field species_genus      VARCHAR 100
+
+	create field ifnlb_exon12            VARCHAR 20
+	create field ifnlb_exon3456          VARCHAR 20
+	create field ifnlb_exon3456_group    VARCHAR 20
+	create field ifnlb_exon3456_subgroup VARCHAR 20
+
+	# Predicted N-linked glycosylation sequons
+	#
+	# Fields correspond to specific homologous codon positions
+	# in REF_IFNL_Mammal_b_MASTER.
+	#
+	create field glycosylation_o1_35 VARCHAR 50
+	create field glycosylation_o2_42 VARCHAR 50
+	create field glycosylation_o3_59 VARCHAR 50
+
+	create field glycosylation_o4_72 VARCHAR 50
+	create field glycosylation_o4_74 VARCHAR 50
+	create field glycosylation_o4_76 VARCHAR 50
+
+	create field glycosylation_o5_103 VARCHAR 50
+
+	create field glycosylation_o6_111 VARCHAR 50
+	create field glycosylation_o6_115 VARCHAR 50
+	create field glycosylation_o6_116 VARCHAR 50
+
+	create field mammalian_b_n_terminus VARCHAR 50
+
+	exit
+  
+  #~# Table for feature coverage
+  
+  table member_floc_note
+  
+  	create field ref_nt_coverage_pct DOUBLE
+  	exit
+

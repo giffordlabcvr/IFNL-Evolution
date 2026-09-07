@@ -1,57 +1,166 @@
+  reference REF_IFNL_Mammal_b_MASTER
 
-reference REF_IFNL_Mammal_b_MASTER
+	feature-location orf
 
-
-  feature-location orf
-
-
-    # Glycosylation site 1
-    create variation n-linked-glycosylation-o1 -t aminoAcidRegexPolymorphism --labeledCodon 30 39
-    variation n-linked-glycosylation-o1
-      set metatag REGEX_AA_PATTERN N[^P][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
-      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
-      exit
-
-    # Glycosylation site 2
-    create variation n-linked-glycosylation-o2 -t aminoAcidRegexPolymorphism --labeledCodon 40 50
-    variation n-linked-glycosylation-o2
-      set metatag REGEX_AA_PATTERN N[^P][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
-      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
-      exit
-
-    # Glycosylation site 3
-    create variation n-linked-glycosylation-o3 -t aminoAcidRegexPolymorphism --labeledCodon 55 65
-    variation n-linked-glycosylation-o3
-      set metatag REGEX_AA_PATTERN N[^P][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
-      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
-      exit
-
-    # Glycosylation site 4
-    create variation n-linked-glycosylation-o4 -t aminoAcidRegexPolymorphism --labeledCodon 70 80
-    variation n-linked-glycosylation-o4
-      set metatag REGEX_AA_PATTERN N[^P][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
-      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
-      exit
-
-    # Glycosylation site 5
-    create variation n-linked-glycosylation-o5 -t aminoAcidRegexPolymorphism --labeledCodon 100 109
-    variation n-linked-glycosylation-o5
-      set metatag REGEX_AA_PATTERN N[^P][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
-      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
-      exit
-
-    # Glycosylation site 6
-    create variation n-linked-glycosylation-o6 -t aminoAcidRegexPolymorphism --labeledCodon 110 120
-    variation n-linked-glycosylation-o6
-      set metatag REGEX_AA_PATTERN N[^P][ST]  #Asn–X–Ser/Thr consensus sequence, where X is any amino acid except proline (Pro).
-      set metatag ALLOW_PARTIAL_COVERAGE TRUE 
-      exit
-    
-                                   
-    exit
+	  #
+	  # Predicted N-linked glycosylation sequons
+	  #
+	  # Consensus:
+	  #
+	  #   Asn-X-Ser/Thr
+	  #
+	  # where X may be any amino acid except proline.
+	  #
+	  # These variations were refined from broader exploratory
+	  # glycosylation windows after inspection of IFNL-B protein
+	  # alignments. Each variation now corresponds to a specific
+	  # homologous three-codon sequon position in the
+	  # REF_IFNL_Mammal_b_MASTER coordinate system.
+	  #
 
 
-  
-exit
+	  # -------------------------------------------------------------------------
+	  # Region o1
+	  # Observed sequon beginning at codon 35
+	  # -------------------------------------------------------------------------
+
+	  create variation n-linked-glycosylation-o1-35 \
+		-t aminoAcidRegexPolymorphism \
+		--labeledCodon 35 37
+
+	  variation n-linked-glycosylation-o1-35
+		set metatag REGEX_AA_PATTERN N[^P][ST]
+		set metatag ALLOW_PARTIAL_COVERAGE TRUE
+		exit
 
 
+	  # -------------------------------------------------------------------------
+	  # Region o2
+	  # Observed sequon beginning at codon 42
+	  # -------------------------------------------------------------------------
+
+	  create variation n-linked-glycosylation-o2-42 \
+		-t aminoAcidRegexPolymorphism \
+		--labeledCodon 42 44
+
+	  variation n-linked-glycosylation-o2-42
+		set metatag REGEX_AA_PATTERN N[^P][ST]
+		set metatag ALLOW_PARTIAL_COVERAGE TRUE
+		exit
+
+
+	  # -------------------------------------------------------------------------
+	  # Region o3
+	  # Observed sequon beginning at codon 59
+	  # -------------------------------------------------------------------------
+
+	  create variation n-linked-glycosylation-o3-59 \
+		-t aminoAcidRegexPolymorphism \
+		--labeledCodon 59 61
+
+	  variation n-linked-glycosylation-o3-59
+		set metatag REGEX_AA_PATTERN N[^P][ST]
+		set metatag ALLOW_PARTIAL_COVERAGE TRUE
+		exit
+
+
+	  # -------------------------------------------------------------------------
+	  # Region o4
+	  #
+	  # Three alternative homologous sequon positions were observed:
+	  #
+	  #   codon 72
+	  #   codon 74
+	  #   codon 76
+	  #
+	  # -------------------------------------------------------------------------
+
+	  create variation n-linked-glycosylation-o4-72 \
+		-t aminoAcidRegexPolymorphism \
+		--labeledCodon 72 74
+
+	  variation n-linked-glycosylation-o4-72
+		set metatag REGEX_AA_PATTERN N[^P][ST]
+		set metatag ALLOW_PARTIAL_COVERAGE TRUE
+		exit
+
+
+	  create variation n-linked-glycosylation-o4-74 \
+		-t aminoAcidRegexPolymorphism \
+		--labeledCodon 74 76
+
+	  variation n-linked-glycosylation-o4-74
+		set metatag REGEX_AA_PATTERN N[^P][ST]
+		set metatag ALLOW_PARTIAL_COVERAGE TRUE
+		exit
+
+
+	  create variation n-linked-glycosylation-o4-76 \
+		-t aminoAcidRegexPolymorphism \
+		--labeledCodon 76 78
+
+	  variation n-linked-glycosylation-o4-76
+		set metatag REGEX_AA_PATTERN N[^P][ST]
+		set metatag ALLOW_PARTIAL_COVERAGE TRUE
+		exit
+
+
+	  # -------------------------------------------------------------------------
+	  # Region o5
+	  # Observed sequon beginning at codon 103
+	  # -------------------------------------------------------------------------
+
+	  create variation n-linked-glycosylation-o5-103 \
+		-t aminoAcidRegexPolymorphism \
+		--labeledCodon 103 105
+
+	  variation n-linked-glycosylation-o5-103
+		set metatag REGEX_AA_PATTERN N[^P][ST]
+		set metatag ALLOW_PARTIAL_COVERAGE TRUE
+		exit
+
+
+	  # -------------------------------------------------------------------------
+	  # Region o6
+	  #
+	  # Three alternative homologous sequon positions were observed:
+	  #
+	  #   codon 111
+	  #   codon 115
+	  #   codon 116
+	  #
+	  # -------------------------------------------------------------------------
+
+	  create variation n-linked-glycosylation-o6-111 \
+		-t aminoAcidRegexPolymorphism \
+		--labeledCodon 111 113
+
+	  variation n-linked-glycosylation-o6-111
+		set metatag REGEX_AA_PATTERN N[^P][ST]
+		set metatag ALLOW_PARTIAL_COVERAGE TRUE
+		exit
+
+
+	  create variation n-linked-glycosylation-o6-115 \
+		-t aminoAcidRegexPolymorphism \
+		--labeledCodon 115 117
+
+	  variation n-linked-glycosylation-o6-115
+		set metatag REGEX_AA_PATTERN N[^P][ST]
+		set metatag ALLOW_PARTIAL_COVERAGE TRUE
+		exit
+
+
+	  create variation n-linked-glycosylation-o6-116 \
+		-t aminoAcidRegexPolymorphism \
+		--labeledCodon 116 118
+
+	  variation n-linked-glycosylation-o6-116
+		set metatag REGEX_AA_PATTERN N[^P][ST]
+		set metatag ALLOW_PARTIAL_COVERAGE TRUE
+		exit
+
+
+	  exit
+
+  exit

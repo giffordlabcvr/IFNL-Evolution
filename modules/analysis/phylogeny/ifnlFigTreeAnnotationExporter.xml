@@ -41,36 +41,57 @@
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.gene_id')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 			
+	<!-- Predicted N-linked glycosylation sequons -->
+
 	<figTreeAnnotation>
-		<annotationName>glycosylation_o1</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o1')}</valueFreemarkerTemplate>
+		<annotationName>glycosylation_o1_35</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o1_35')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
-	
+
 	<figTreeAnnotation>
-		<annotationName>glycosylation_o2</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o2')}</valueFreemarkerTemplate>
+		<annotationName>glycosylation_o2_42</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o2_42')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
-	
+
 	<figTreeAnnotation>
-		<annotationName>glycosylation_o3</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o3')}</valueFreemarkerTemplate>
+		<annotationName>glycosylation_o3_59</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o3_59')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
-		
+
 	<figTreeAnnotation>
-		<annotationName>glycosylation_o4</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o4')}</valueFreemarkerTemplate>
+		<annotationName>glycosylation_o4_72</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o4_72')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
-	
+
 	<figTreeAnnotation>
-		<annotationName>glycosylation_o5</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o5')}</valueFreemarkerTemplate>
+		<annotationName>glycosylation_o4_74</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o4_74')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
-	
+
 	<figTreeAnnotation>
-		<annotationName>glycosylation_o6</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o6')}</valueFreemarkerTemplate>
+		<annotationName>glycosylation_o4_76</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o4_76')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
-	
+
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o5_103</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o5_103')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o6_111</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o6_111')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o6_115</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o6_115')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>glycosylation_o6_116</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.glycosylation_o6_116')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>	
 	
 	
 </figTreeAnnotationExporter>

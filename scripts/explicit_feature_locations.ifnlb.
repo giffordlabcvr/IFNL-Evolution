@@ -1,0 +1,1562 @@
+# Generated from GenBank XML CDS annotations
+
+create reference GB_REF_HQ201955 ncbi-curated-mammalia-b HQ201955
+
+reference GB_REF_HQ201955
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 978
+
+  add feature-location orf
+  feature-location orf add segment 182 769
+
+  exit
+
+create reference GB_REF_NM_001024673 ncbi-curated-mammalia-b NM_001024673
+
+reference GB_REF_NM_001024673
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 582
+
+  add feature-location orf
+  feature-location orf add segment 1 582
+
+  exit
+
+create reference GB_REF_NM_001040680 ncbi-curated-mammalia-b NM_001040680
+
+reference GB_REF_NM_001040680
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 573
+
+  add feature-location orf
+  feature-location orf add segment 1 573
+
+  exit
+
+create reference GB_REF_NM_001114853 ncbi-curated-mammalia-b NM_001114853
+
+reference GB_REF_NM_001114853
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 573
+
+  add feature-location orf
+  feature-location orf add segment 1 573
+
+  exit
+
+create reference GB_REF_NM_001142837 ncbi-curated-mammalia-b NM_001142837
+
+reference GB_REF_NM_001142837
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 576
+
+  add feature-location orf
+  feature-location orf add segment 1 576
+
+  exit
+
+create reference GB_REF_NM_001166490 ncbi-curated-mammalia-b NM_001166490
+
+reference GB_REF_NM_001166490
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 588
+
+  add feature-location orf
+  feature-location orf add segment 1 588
+
+  exit
+
+create reference GB_REF_NM_001290171 ncbi-curated-mammalia-b NM_001290171
+
+reference GB_REF_NM_001290171
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 802
+
+  add feature-location orf
+  feature-location orf add segment 19 594
+
+  exit
+
+create reference GB_REF_NM_172138 ncbi-curated-mammalia-b NM_172138
+
+reference GB_REF_NM_172138
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 951
+
+  add feature-location orf
+  feature-location orf add segment 174 776
+
+  exit
+
+create reference GB_REF_NM_172140 ncbi-curated-mammalia-b NM_172140
+
+reference GB_REF_NM_172140
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 775
+
+  add feature-location orf
+  feature-location orf add segment 16 618
+
+  exit
+
+create reference GB_REF_NM_177396 ncbi-curated-mammalia-b NM_177396
+
+reference GB_REF_NM_177396
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 582
+
+  add feature-location orf
+  feature-location orf add segment 1 582
+
+  exit
+
+create reference GB_REF_XM_001086865 ncbi-curated-mammalia-b XM_001086865
+
+reference GB_REF_XM_001086865
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 737
+
+  add feature-location orf
+  feature-location orf add segment 56 658
+
+  exit
+
+create reference GB_REF_XM_002829197 ncbi-curated-mammalia-b XM_002829197
+
+reference GB_REF_XM_002829197
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 818
+
+  add feature-location orf
+  feature-location orf add segment 1 603
+
+  exit
+
+create reference GB_REF_XM_002829198 ncbi-curated-mammalia-b XM_002829198
+
+reference GB_REF_XM_002829198
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 856
+
+  add feature-location orf
+  feature-location orf add segment 98 700
+
+  exit
+
+create reference GB_REF_XM_002927388 ncbi-curated-mammalia-b XM_002927388
+
+reference GB_REF_XM_002927388
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 920
+
+  add feature-location orf
+  feature-location orf add segment 336 920
+
+  exit
+
+create reference GB_REF_XM_003270380 ncbi-curated-mammalia-b XM_003270380
+
+reference GB_REF_XM_003270380
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 944
+
+  add feature-location orf
+  feature-location orf add segment 136 738
+
+  exit
+
+create reference GB_REF_XM_003270381 ncbi-curated-mammalia-b XM_003270381
+
+reference GB_REF_XM_003270381
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 903
+
+  add feature-location orf
+  feature-location orf add segment 174 776
+
+  exit
+
+create reference GB_REF_XM_003420833 ncbi-curated-mammalia-b XM_003420833
+
+reference GB_REF_XM_003420833
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 968
+
+  add feature-location orf
+  feature-location orf add segment 270 968
+
+  exit
+
+create reference GB_REF_XM_003735566 ncbi-curated-mammalia-b XM_003735566
+
+reference GB_REF_XM_003735566
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 703
+
+  add feature-location orf
+  feature-location orf add segment 128 703
+
+  exit
+
+create reference GB_REF_XM_003802138 ncbi-curated-mammalia-b XM_003802138
+
+reference GB_REF_XM_003802138
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 576
+
+  add feature-location orf
+  feature-location orf add segment 1 576
+
+  exit
+
+create reference GB_REF_XM_003802158 ncbi-curated-mammalia-b XM_003802158
+
+reference GB_REF_XM_003802158
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 585
+
+  add feature-location orf
+  feature-location orf add segment 1 585
+
+  exit
+
+create reference GB_REF_XM_003915503 ncbi-curated-mammalia-b XM_003915503
+
+reference GB_REF_XM_003915503
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1486
+
+  add feature-location orf
+  feature-location orf add segment 392 1000
+
+  exit
+
+create reference GB_REF_XM_003943132 ncbi-curated-mammalia-b XM_003943132
+
+reference GB_REF_XM_003943132
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 609
+
+  add feature-location orf
+  feature-location orf add segment 1 576
+
+  exit
+
+create reference GB_REF_XM_004060705 ncbi-curated-mammalia-b XM_004060705
+
+reference GB_REF_XM_004060705
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 857
+
+  add feature-location orf
+  feature-location orf add segment 98 700
+
+  exit
+
+create reference GB_REF_XM_004388217 ncbi-curated-mammalia-b XM_004388217
+
+reference GB_REF_XM_004388217
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 576
+
+  add feature-location orf
+  feature-location orf add segment 1 576
+
+  exit
+
+create reference GB_REF_XM_004396492 ncbi-curated-mammalia-b XM_004396492
+
+reference GB_REF_XM_004396492
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 579
+
+  add feature-location orf
+  feature-location orf add segment 1 579
+
+  exit
+
+create reference GB_REF_XM_004430284 ncbi-curated-mammalia-b XM_004430284
+
+reference GB_REF_XM_004430284
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 825
+
+  add feature-location orf
+  feature-location orf add segment 137 712
+
+  exit
+
+create reference GB_REF_XM_004481462 ncbi-curated-mammalia-b XM_004481462
+
+reference GB_REF_XM_004481462
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 576
+
+  add feature-location orf
+  feature-location orf add segment 1 576
+
+  exit
+
+create reference GB_REF_XM_004617294 ncbi-curated-mammalia-b XM_004617294
+
+reference GB_REF_XM_004617294
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 591
+
+  add feature-location orf
+  feature-location orf add segment 1 591
+
+  exit
+
+create reference GB_REF_XM_004636880 ncbi-curated-mammalia-b XM_004636880
+
+reference GB_REF_XM_004636880
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 576
+
+  add feature-location orf
+  feature-location orf add segment 1 576
+
+  exit
+
+create reference GB_REF_XM_004636881 ncbi-curated-mammalia-b XM_004636881
+
+reference GB_REF_XM_004636881
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 579
+
+  add feature-location orf
+  feature-location orf add segment 1 579
+
+  exit
+
+create reference GB_REF_XM_004636884 ncbi-curated-mammalia-b XM_004636884
+
+reference GB_REF_XM_004636884
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 576
+
+  add feature-location orf
+  feature-location orf add segment 1 576
+
+  exit
+
+create reference GB_REF_XM_004687048 ncbi-curated-mammalia-b XM_004687048
+
+reference GB_REF_XM_004687048
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 579
+
+  add feature-location orf
+  feature-location orf add segment 1 579
+
+  exit
+
+create reference GB_REF_XM_004710310 ncbi-curated-mammalia-b XM_004710310
+
+reference GB_REF_XM_004710310
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 558
+
+  add feature-location orf
+  feature-location orf add segment 1 558
+
+  exit
+
+create reference GB_REF_XM_005589166 ncbi-curated-mammalia-b XM_005589166
+
+reference GB_REF_XM_005589166
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 953
+
+  add feature-location orf
+  feature-location orf add segment 174 776
+
+  exit
+
+create reference GB_REF_XM_005589169 ncbi-curated-mammalia-b XM_005589169
+
+reference GB_REF_XM_005589169
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1083
+
+  add feature-location orf
+  feature-location orf add segment 174 776
+
+  exit
+
+create reference GB_REF_XM_005589170 ncbi-curated-mammalia-b XM_005589170
+
+reference GB_REF_XM_005589170
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 989
+
+  add feature-location orf
+  feature-location orf add segment 224 832
+
+  exit
+
+create reference GB_REF_XM_005596230 ncbi-curated-mammalia-b XM_005596230
+
+reference GB_REF_XM_005596230
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 588
+
+  add feature-location orf
+  feature-location orf add segment 1 588
+
+  exit
+
+create reference GB_REF_XM_005886334 ncbi-curated-mammalia-b XM_005886334
+
+reference GB_REF_XM_005886334
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1730
+
+  add feature-location orf
+  feature-location orf add segment 959 1561
+
+  exit
+
+create reference GB_REF_XM_006096748 ncbi-curated-mammalia-b XM_006096748
+
+reference GB_REF_XM_006096748
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1058
+
+  add feature-location orf
+  feature-location orf add segment 411 1007
+
+  exit
+
+create reference GB_REF_XM_006140390 ncbi-curated-mammalia-b XM_006140390
+
+reference GB_REF_XM_006140390
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 483
+
+  add feature-location orf
+  feature-location orf add segment 1 483
+
+  exit
+
+create reference GB_REF_XM_006540121 ncbi-curated-mammalia-b XM_006540121
+
+reference GB_REF_XM_006540121
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 739
+
+  add feature-location orf
+  feature-location orf add segment 54 662
+
+  exit
+
+create reference GB_REF_XM_006540130 ncbi-curated-mammalia-b XM_006540130
+
+reference GB_REF_XM_006540130
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 771
+
+  add feature-location orf
+  feature-location orf add segment 11 757
+
+  exit
+
+create reference GB_REF_XM_006871441 ncbi-curated-mammalia-b XM_006871441
+
+reference GB_REF_XM_006871441
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 576
+
+  add feature-location orf
+  feature-location orf add segment 1 576
+
+  exit
+
+create reference GB_REF_XM_006941288 ncbi-curated-mammalia-b XM_006941288
+
+reference GB_REF_XM_006941288
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 702
+
+  add feature-location orf
+  feature-location orf add segment 1 570
+
+  exit
+
+create reference GB_REF_XM_007179988 ncbi-curated-mammalia-b XM_007179988
+
+reference GB_REF_XM_007179988
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 585
+
+  add feature-location orf
+  feature-location orf add segment 1 585
+
+  exit
+
+create reference GB_REF_XM_007179990 ncbi-curated-mammalia-b XM_007179990
+
+reference GB_REF_XM_007179990
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 585
+
+  add feature-location orf
+  feature-location orf add segment 1 585
+
+  exit
+
+create reference GB_REF_XM_007523978 ncbi-curated-mammalia-b XM_007523978
+
+reference GB_REF_XM_007523978
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 591
+
+  add feature-location orf
+  feature-location orf add segment 1 591
+
+  exit
+
+create reference GB_REF_XM_007524026 ncbi-curated-mammalia-b XM_007524026
+
+reference GB_REF_XM_007524026
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 591
+
+  add feature-location orf
+  feature-location orf add segment 1 591
+
+  exit
+
+create reference GB_REF_XM_007945560 ncbi-curated-mammalia-b XM_007945560
+
+reference GB_REF_XM_007945560
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 576
+
+  add feature-location orf
+  feature-location orf add segment 1 576
+
+  exit
+
+create reference GB_REF_XM_007958477 ncbi-curated-mammalia-b XM_007958477
+
+reference GB_REF_XM_007958477
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 576
+
+  add feature-location orf
+  feature-location orf add segment 1 576
+
+  exit
+
+create reference GB_REF_XM_007996760 ncbi-curated-mammalia-b XM_007996760
+
+reference GB_REF_XM_007996760
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 919
+
+  add feature-location orf
+  feature-location orf add segment 143 751
+
+  exit
+
+create reference GB_REF_XM_008057580 ncbi-curated-mammalia-b XM_008057580
+
+reference GB_REF_XM_008057580
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 585
+
+  add feature-location orf
+  feature-location orf add segment 1 585
+
+  exit
+
+create reference GB_REF_XM_008057587 ncbi-curated-mammalia-b XM_008057587
+
+reference GB_REF_XM_008057587
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 582
+
+  add feature-location orf
+  feature-location orf add segment 1 582
+
+  exit
+
+create reference GB_REF_XM_008582050 ncbi-curated-mammalia-b XM_008582050
+
+reference GB_REF_XM_008582050
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 576
+
+  add feature-location orf
+  feature-location orf add segment 1 576
+
+  exit
+
+create reference GB_REF_XM_008854037 ncbi-curated-mammalia-b XM_008854037
+
+reference GB_REF_XM_008854037
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 579
+
+  add feature-location orf
+  feature-location orf add segment 1 579
+
+  exit
+
+create reference GB_REF_XM_008964649 ncbi-curated-mammalia-b XM_008964649
+
+reference GB_REF_XM_008964649
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 951
+
+  add feature-location orf
+  feature-location orf add segment 174 776
+
+  exit
+
+create reference GB_REF_XM_010330964 ncbi-curated-mammalia-b XM_010330964
+
+reference GB_REF_XM_010330964
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 966
+
+  add feature-location orf
+  feature-location orf add segment 176 778
+
+  exit
+
+create reference GB_REF_XM_010380919 ncbi-curated-mammalia-b XM_010380919
+
+reference GB_REF_XM_010380919
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 859
+
+  add feature-location orf
+  feature-location orf add segment 92 700
+
+  exit
+
+create reference GB_REF_XM_010380920 ncbi-curated-mammalia-b XM_010380920
+
+reference GB_REF_XM_010380920
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 953
+
+  add feature-location orf
+  feature-location orf add segment 174 776
+
+  exit
+
+create reference GB_REF_XM_010972051 ncbi-curated-mammalia-b XM_010972051
+
+reference GB_REF_XM_010972051
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 585
+
+  add feature-location orf
+  feature-location orf add segment 1 585
+
+  exit
+
+create reference GB_REF_XM_010985162 ncbi-curated-mammalia-b XM_010985162
+
+reference GB_REF_XM_010985162
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 585
+
+  add feature-location orf
+  feature-location orf add segment 1 585
+
+  exit
+
+create reference GB_REF_XM_011225064 ncbi-curated-mammalia-b XM_011225064
+
+reference GB_REF_XM_011225064
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 668
+
+  add feature-location orf
+  feature-location orf add segment 1 573
+
+  exit
+
+create reference GB_REF_XM_011234942 ncbi-curated-mammalia-b XM_011234942
+
+reference GB_REF_XM_011234942
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 570
+
+  add feature-location orf
+  feature-location orf add segment 1 570
+
+  exit
+
+create reference GB_REF_XM_011764819 ncbi-curated-mammalia-b XM_011764819
+
+reference GB_REF_XM_011764819
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 916
+
+  add feature-location orf
+  feature-location orf add segment 152 760
+
+  exit
+
+create reference GB_REF_XM_011764820 ncbi-curated-mammalia-b XM_011764820
+
+reference GB_REF_XM_011764820
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 961
+
+  add feature-location orf
+  feature-location orf add segment 280 882
+
+  exit
+
+create reference GB_REF_XM_011952423 ncbi-curated-mammalia-b XM_011952423
+
+reference GB_REF_XM_011952423
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1096
+
+  add feature-location orf
+  feature-location orf add segment 415 1017
+
+  exit
+
+create reference GB_REF_XM_011952424 ncbi-curated-mammalia-b XM_011952424
+
+reference GB_REF_XM_011952424
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 862
+
+  add feature-location orf
+  feature-location orf add segment 98 706
+
+  exit
+
+create reference GB_REF_XM_011973358 ncbi-curated-mammalia-b XM_011973358
+
+reference GB_REF_XM_011973358
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1101
+
+  add feature-location orf
+  feature-location orf add segment 420 1022
+
+  exit
+
+create reference GB_REF_XM_011973361 ncbi-curated-mammalia-b XM_011973361
+
+reference GB_REF_XM_011973361
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 858
+
+  add feature-location orf
+  feature-location orf add segment 94 702
+
+  exit
+
+create reference GB_REF_XM_012077988 ncbi-curated-mammalia-b XM_012077988
+
+reference GB_REF_XM_012077988
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 903
+
+  add feature-location orf
+  feature-location orf add segment 94 702
+
+  exit
+
+create reference GB_REF_XM_012077999 ncbi-curated-mammalia-b XM_012077999
+
+reference GB_REF_XM_012077999
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 603
+
+  add feature-location orf
+  feature-location orf add segment 1 603
+
+  exit
+
+create reference GB_REF_XM_012078033 ncbi-curated-mammalia-b XM_012078033
+
+reference GB_REF_XM_012078033
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1240
+
+  add feature-location orf
+  feature-location orf add segment 420 1022
+
+  exit
+
+create reference GB_REF_XM_012438845 ncbi-curated-mammalia-b XM_012438845
+
+reference GB_REF_XM_012438845
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 576
+
+  add feature-location orf
+  feature-location orf add segment 1 576
+
+  exit
+
+create reference GB_REF_XM_012438872 ncbi-curated-mammalia-b XM_012438872
+
+reference GB_REF_XM_012438872
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 881
+
+  add feature-location orf
+  feature-location orf add segment 56 655
+
+  exit
+
+create reference GB_REF_XM_012657015 ncbi-curated-mammalia-b XM_012657015
+
+reference GB_REF_XM_012657015
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 597
+
+  add feature-location orf
+  feature-location orf add segment 1 597
+
+  exit
+
+create reference GB_REF_XM_012730587 ncbi-curated-mammalia-b XM_012730587
+
+reference GB_REF_XM_012730587
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1326
+
+  add feature-location orf
+  feature-location orf add segment 395 988
+
+  exit
+
+create reference GB_REF_XM_012775211 ncbi-curated-mammalia-b XM_012775211
+
+reference GB_REF_XM_012775211
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 621
+
+  add feature-location orf
+  feature-location orf add segment 43 621
+
+  exit
+
+create reference GB_REF_XM_012775213 ncbi-curated-mammalia-b XM_012775213
+
+reference GB_REF_XM_012775213
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 837
+
+  add feature-location orf
+  feature-location orf add segment 1 837
+
+  exit
+
+create reference GB_REF_XM_013077381 ncbi-curated-mammalia-b XM_013077381
+
+reference GB_REF_XM_013077381
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 677
+
+  add feature-location orf
+  feature-location orf add segment 1 603
+
+  exit
+
+create reference GB_REF_XM_014117025 ncbi-curated-mammalia-b XM_014117025
+
+reference GB_REF_XM_014117025
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 786
+
+  add feature-location orf
+  feature-location orf add segment 175 744
+
+  exit
+
+create reference GB_REF_XM_014732932 ncbi-curated-mammalia-b XM_014732932
+
+reference GB_REF_XM_014732932
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 893
+
+  add feature-location orf
+  feature-location orf add segment 153 722
+
+  exit
+
+create reference GB_REF_XM_014832969 ncbi-curated-mammalia-b XM_014832969
+
+reference GB_REF_XM_014832969
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1192
+
+  add feature-location orf
+  feature-location orf add segment 95 670
+
+  exit
+
+create reference GB_REF_XM_015557658 ncbi-curated-mammalia-b XM_015557658
+
+reference GB_REF_XM_015557658
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 807
+
+  add feature-location orf
+  feature-location orf add segment 1 807
+
+  exit
+
+create reference GB_REF_XM_016165226 ncbi-curated-mammalia-b XM_016165226
+
+reference GB_REF_XM_016165226
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 597
+
+  add feature-location orf
+  feature-location orf add segment 1 597
+
+  exit
+
+create reference GB_REF_XM_016166771 ncbi-curated-mammalia-b XM_016166771
+
+reference GB_REF_XM_016166771
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 965
+
+  add feature-location orf
+  feature-location orf add segment 181 777
+
+  exit
+
+create reference GB_REF_XM_016166772 ncbi-curated-mammalia-b XM_016166772
+
+reference GB_REF_XM_016166772
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 775
+
+  add feature-location orf
+  feature-location orf add segment 13 588
+
+  exit
+
+create reference GB_REF_XM_016209154 ncbi-curated-mammalia-b XM_016209154
+
+reference GB_REF_XM_016209154
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 597
+
+  add feature-location orf
+  feature-location orf add segment 1 597
+
+  exit
+
+create reference GB_REF_XM_016209155 ncbi-curated-mammalia-b XM_016209155
+
+reference GB_REF_XM_016209155
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 597
+
+  add feature-location orf
+  feature-location orf add segment 1 597
+
+  exit
+
+create reference GB_REF_XM_016209156 ncbi-curated-mammalia-b XM_016209156
+
+reference GB_REF_XM_016209156
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 597
+
+  add feature-location orf
+  feature-location orf add segment 1 597
+
+  exit
+
+create reference GB_REF_XM_016947939 ncbi-curated-mammalia-b XM_016947939
+
+reference GB_REF_XM_016947939
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1035
+
+  add feature-location orf
+  feature-location orf add segment 376 978
+
+  exit
+
+create reference GB_REF_XM_017503063 ncbi-curated-mammalia-b XM_017503063
+
+reference GB_REF_XM_017503063
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 880
+
+  add feature-location orf
+  feature-location orf add segment 112 687
+
+  exit
+
+create reference GB_REF_XM_017503064 ncbi-curated-mammalia-b XM_017503064
+
+reference GB_REF_XM_017503064
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1054
+
+  add feature-location orf
+  feature-location orf add segment 249 866
+
+  exit
+
+create reference GB_REF_XM_017651898 ncbi-curated-mammalia-b XM_017651898
+
+reference GB_REF_XM_017651898
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 2727
+
+  add feature-location orf
+  feature-location orf add segment 420 995
+
+  exit
+
+create reference GB_REF_XM_017656413 ncbi-curated-mammalia-b XM_017656413
+
+reference GB_REF_XM_017656413
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 570
+
+  add feature-location orf
+  feature-location orf add segment 1 570
+
+  exit
+
+create reference GB_REF_XM_017803384 ncbi-curated-mammalia-b XM_017803384
+
+reference GB_REF_XM_017803384
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 657
+
+  add feature-location orf
+  feature-location orf add segment 1 657
+
+  exit
+
+create reference GB_REF_XM_017887367 ncbi-curated-mammalia-b XM_017887367
+
+reference GB_REF_XM_017887367
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 737
+
+  add feature-location orf
+  feature-location orf add segment 56 658
+
+  exit
+
+create reference GB_REF_XM_017967394 ncbi-curated-mammalia-b XM_017967394
+
+reference GB_REF_XM_017967394
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 964
+
+  add feature-location orf
+  feature-location orf add segment 174 776
+
+  exit
+
+create reference GB_REF_XM_018063174 ncbi-curated-mammalia-b XM_018063174
+
+reference GB_REF_XM_018063174
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 762
+
+  add feature-location orf
+  feature-location orf add segment 1 762
+
+  exit
+
+create reference GB_REF_XM_018063271 ncbi-curated-mammalia-b XM_018063271
+
+reference GB_REF_XM_018063271
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 591
+
+  add feature-location orf
+  feature-location orf add segment 1 591
+
+  exit
+
+create reference GB_REF_XM_019014911 ncbi-curated-mammalia-b XM_019014911
+
+reference GB_REF_XM_019014911
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 737
+
+  add feature-location orf
+  feature-location orf add segment 56 658
+
+  exit
+
+create reference GB_REF_XM_020156959 ncbi-curated-mammalia-b XM_020156959
+
+reference GB_REF_XM_020156959
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 600
+
+  add feature-location orf
+  feature-location orf add segment 1 600
+
+  exit
+
+create reference GB_REF_XM_021168771 ncbi-curated-mammalia-b XM_021168771
+
+reference GB_REF_XM_021168771
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 695
+
+  add feature-location orf
+  feature-location orf add segment 89 670
+
+  exit
+
+create reference GB_REF_XM_021210483 ncbi-curated-mammalia-b XM_021210483
+
+reference GB_REF_XM_021210483
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 624
+
+  add feature-location orf
+  feature-location orf add segment 1 624
+
+  exit
+
+create reference GB_REF_XM_023626728 ncbi-curated-mammalia-b XM_023626728
+
+reference GB_REF_XM_023626728
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 3068
+
+  add feature-location orf
+  feature-location orf add segment 284 859
+
+  exit
+
+create reference GB_REF_XM_023651251 ncbi-curated-mammalia-b XM_023651251
+
+reference GB_REF_XM_023651251
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 585
+
+  add feature-location orf
+  feature-location orf add segment 1 585
+
+  exit
+
+create reference GB_REF_XM_023760578 ncbi-curated-mammalia-b XM_023760578
+
+reference GB_REF_XM_023760578
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 876
+
+  add feature-location orf
+  feature-location orf add segment 229 825
+
+  exit
+
+create reference GB_REF_XM_024237432 ncbi-curated-mammalia-b XM_024237432
+
+reference GB_REF_XM_024237432
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 737
+
+  add feature-location orf
+  feature-location orf add segment 56 658
+
+  exit
+
+create reference GB_REF_XM_024351462 ncbi-curated-mammalia-b XM_024351462
+
+reference GB_REF_XM_024351462
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1132
+
+  add feature-location orf
+  feature-location orf add segment 430 1032
+
+  exit
+
+create reference GB_REF_XM_024577417 ncbi-curated-mammalia-b XM_024577417
+
+reference GB_REF_XM_024577417
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 702
+
+  add feature-location orf
+  feature-location orf add segment 1 702
+
+  exit
+
+create reference GB_REF_XM_024577418 ncbi-curated-mammalia-b XM_024577418
+
+reference GB_REF_XM_024577418
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1002
+
+  add feature-location orf
+  feature-location orf add segment 1 1002
+
+  exit
+
+create reference GB_REF_XM_025268342 ncbi-curated-mammalia-b XM_025268342
+
+reference GB_REF_XM_025268342
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 994
+
+  add feature-location orf
+  feature-location orf add segment 218 820
+
+  exit
+
+create reference GB_REF_XM_025367960 ncbi-curated-mammalia-b XM_025367960
+
+reference GB_REF_XM_025367960
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1234
+
+  add feature-location orf
+  feature-location orf add segment 414 1016
+
+  exit
+
+create reference GB_REF_XM_025368308 ncbi-curated-mammalia-b XM_025368308
+
+reference GB_REF_XM_025368308
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 876
+
+  add feature-location orf
+  feature-location orf add segment 56 658
+
+  exit
+
+create reference GB_REF_XM_028165960 ncbi-curated-mammalia-b XM_028165960
+
+reference GB_REF_XM_028165960
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 987
+
+  add feature-location orf
+  feature-location orf add segment 220 846
+
+  exit
+
+create reference GB_REF_XM_028529999 ncbi-curated-mammalia-b XM_028529999
+
+reference GB_REF_XM_028529999
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 735
+
+  add feature-location orf
+  feature-location orf add segment 1 735
+
+  exit
+
+create reference GB_REF_XM_028530311 ncbi-curated-mammalia-b XM_028530311
+
+reference GB_REF_XM_028530311
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 621
+
+  add feature-location orf
+  feature-location orf add segment 1 570
+
+  exit
+
+create reference GB_REF_XM_028859190 ncbi-curated-mammalia-b XM_028859190
+
+reference GB_REF_XM_028859190
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1047
+
+  add feature-location orf
+  feature-location orf add segment 347 928
+
+  exit
+
+create reference GB_REF_XM_029924289 ncbi-curated-mammalia-b XM_029924289
+
+reference GB_REF_XM_029924289
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 591
+
+  add feature-location orf
+  feature-location orf add segment 1 591
+
+  exit
+
+create reference GB_REF_XM_030796492 ncbi-curated-mammalia-b XM_030796492
+
+reference GB_REF_XM_030796492
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 737
+
+  add feature-location orf
+  feature-location orf add segment 56 658
+
+  exit
+
+create reference GB_REF_XM_032273584 ncbi-curated-mammalia-b XM_032273584
+
+reference GB_REF_XM_032273584
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 924
+
+  add feature-location orf
+  feature-location orf add segment 257 874
+
+  exit
+
+create reference GB_REF_XM_032326013 ncbi-curated-mammalia-b XM_032326013
+
+reference GB_REF_XM_032326013
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 870
+
+  add feature-location orf
+  feature-location orf add segment 160 750
+
+  exit
+
+create reference GB_REF_XM_032850864 ncbi-curated-mammalia-b XM_032850864
+
+reference GB_REF_XM_032850864
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 591
+
+  add feature-location orf
+  feature-location orf add segment 1 591
+
+  exit
+
+create reference GB_REF_XM_033226159 ncbi-curated-mammalia-b XM_033226159
+
+reference GB_REF_XM_033226159
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 953
+
+  add feature-location orf
+  feature-location orf add segment 174 776
+
+  exit
+
+create reference GB_REF_XM_036323965 ncbi-curated-mammalia-b XM_036323965
+
+reference GB_REF_XM_036323965
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 713
+
+  add feature-location orf
+  feature-location orf add segment 111 713
+
+  exit
+
+create reference GB_REF_XM_036324441 ncbi-curated-mammalia-b XM_036324441
+
+reference GB_REF_XM_036324441
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 1677
+
+  add feature-location orf
+  feature-location orf add segment 1002 1604
+
+  exit
+
+create reference GB_REF_XM_036345646 ncbi-curated-mammalia-b XM_036345646
+
+reference GB_REF_XM_036345646
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 4081
+
+  add feature-location orf
+  feature-location orf add segment 1561 2157
+
+  exit
+
+create reference GB_REF_XM_036346724 ncbi-curated-mammalia-b XM_036346724
+
+reference GB_REF_XM_036346724
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 738
+
+  add feature-location orf
+  feature-location orf add segment 142 738
+
+  exit
+
+create reference GB_REF_XM_036346728 ncbi-curated-mammalia-b XM_036346728
+
+reference GB_REF_XM_036346728
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 824
+
+  add feature-location orf
+  feature-location orf add segment 150 746
+
+  exit
+
+create reference GB_REF_XM_036346847 ncbi-curated-mammalia-b XM_036346847
+
+reference GB_REF_XM_036346847
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 611
+
+  add feature-location orf
+  feature-location orf add segment 15 611
+
+  exit
+
+create reference GB_REF_XM_036346877 ncbi-curated-mammalia-b XM_036346877
+
+reference GB_REF_XM_036346877
+
+  add feature-location mRNA
+  feature-location mRNA add segment 1 644
+
+  add feature-location orf
+  feature-location orf add segment 48 644
+
+  exit
+

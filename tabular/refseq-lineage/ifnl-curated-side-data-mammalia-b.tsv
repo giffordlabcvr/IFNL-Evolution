@@ -1,4 +1,4 @@
-id	gene_name	gene_clade	gene_id	gene_id_old	exon12	exon3456-new group name.new subgroup name	exon3456	new group name.new subgroup name	new group name	new subgroup name	species	Superorder	Species_order	Family	Genus	protein_accession	ref	reference_id
+id	gene_name	gene_clade	gene_id	gene_id_old	exon12	exon3456	exon3456	new group-subgroup name	ifnlb_exon3456_group	ifnlb_exon3456_subgroup	species	Superorder	Species_order	Family	Genus	protein_accession	ref	reference_id
 XM_017503063	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	2	Cebus capucinus	Euarchontoglires	Primates	Cebidae	Cebus	XM_017503063		
 XM_011952424	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Colobus angolensis palliatus	Euarchontoglires	Primates	Cercopithecidae	Colobus			-
 NM_172140	IFNL-Mammalia-B	B	Placental1_Haplorhine-1.1	Placental1_Haplorhine1	Placental1	Haplorhine-1.1	Haplorhine	1.1	1	1	Homo sapiens	Euarchontoglires	Primates	Hominidae	Homo	NM_172140.1	xE	REF_IFNLb_Mammal_1_MASTER

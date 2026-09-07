@@ -1,0 +1,15 @@
+
+  # Export annotations
+  module ifnlFigTreeAnnotationExporter 
+  
+    export figtree-annotation AL_IFNL_MAMMAL_A -f trees/subclade/IfnlMammala.figtree-annotations.tsv        
+    export figtree-annotation AL_IFNL_MAMMAL_B -f trees/subclade/IfnlMammalb_long.figtree-annotations.tsv       
+    export figtree-annotation AL_IFNL_MAMMAL_B -f trees/subclade/IfnlMammalb_midrange.figtree-annotations.tsv
+    export figtree-annotation AL_IFNL_MAMMAL_B -f trees/subclade/IfnlMammalb_strict.figtree-annotations.tsv
+    export figtree-annotation AL_IFNL_MAMMAL_B -f trees/subclade/IfnlMammalb_strictest.figtree-annotations.tsv
+          
+  exit
+
+
+
+
