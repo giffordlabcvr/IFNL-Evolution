@@ -1,19 +1,12 @@
   
   delete module raxmlPhylogenyGenerator
-  delete module ifnlPhyloUtility
-  delete module ifnlFigTreeAnnotationExporter
-
   delete module alignmentColumnsSelectorIfnlMammalA
   delete module alignmentColumnsSelectorIfnlMammalB_longest
   delete module alignmentColumnsSelectorIfnlMammalB_midrange
   delete module alignmentColumnsSelectorIfnlMammalB_strict
   delete module alignmentColumnsSelectorIfnlMammalB_strictest
 
-  create module -f modules/build/core/ifnlFeaturePresenceRecorder.xml
-  create module -t raxmlPhylogenyGenerator
-  create module -f modules/analysis/phylogeny/ifnlPhyloUtility.xml
-  create module -f modules/analysis/phylogeny/ifnlFigTreeAnnotationExporter.xml
-  
+  create module -t raxmlPhylogenyGenerator  
   create module -f modules/analysis/phylogeny/msa_selectors/alignmentColumnsSelectorIfnlMammalA.xml
   create module -f modules/analysis/phylogeny/msa_selectors/alignmentColumnsSelectorIfnlMammalB_longest.xml
   create module -f modules/analysis/phylogeny/msa_selectors/alignmentColumnsSelectorIfnlMammalB_midrange.xml
@@ -37,37 +30,6 @@
 
     generate nucleotide phylogeny AL_IFNL_MAMMAL_B -s alignmentColumnsSelectorIfnlMammalB_strictest \
       -a -o trees/subclade/IfnlMammalb_strictest.tre NEWICK_BOOTSTRAPS
-
-    exit
-
- 
-  # Re-root phylogeny 
-  module ifnlPhyloUtility 
-
-	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammala.tre NEWICK_BOOTSTRAPS \
-      --midpoint \
-      --outputFile trees/subclade/IfnlMammalaMidpointRerooted.tre NEWICK_BOOTSTRAPS
-
-	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_long.tre NEWICK_BOOTSTRAPS \
-      --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_longMidpointRerooted.tre NEWICK_BOOTSTRAPS
-
-	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_midrange.tre NEWICK_BOOTSTRAPS \
-      --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_midrangeMidpointRerooted.tre NEWICK_BOOTSTRAPS
-
-	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_strict.tre NEWICK_BOOTSTRAPS \
-      --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_strictMidpointRerooted.tre NEWICK_BOOTSTRAPS
-
-	reroot-phylogeny \
-      --inputFile trees/subclade/IfnlMammalb_strictest.tre NEWICK_BOOTSTRAPS \
-      --midpoint \
-      --outputFile trees/subclade/IfnlMammalb_strictestMidpointRerooted.tre NEWICK_BOOTSTRAPS
 
     exit
 

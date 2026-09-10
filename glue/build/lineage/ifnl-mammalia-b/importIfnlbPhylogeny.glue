@@ -1,0 +1,14 @@
+
+  delete module ifnlMammalBPhyloImporter
+  create module -t phyloImporter ifnlMammalBPhyloImporter
+
+  module ifnlMammalBPhyloImporter
+
+	import phylogeny AL_IFNL_MAMMAL_B \
+	  --recursive \
+	  --anyAlignment \
+	  --whereClause "referenceMember = false" \
+	  --inputFile trees/subclade/IfnlMammalb_midrangeMidpointRerooted.tre NEWICK_BOOTSTRAPS \
+	  --fieldName phylogeny
+
+	exit

@@ -34,6 +34,9 @@ project ifnl
   # Define variations 
   run file glue/build/lineage/ifnl-mammalia-b/variationsIfnlMammalianB.glue
 
+  # Import IFNL-B phylogeny
+  run file glue/build/lineage/ifnl-mammalia-b/importIfnlbPhylogeny.glue
+
   # Validate
   validate
 
