@@ -158,7 +158,7 @@ begin figtree;
 	set branchLabels.fontStyle=0;
 	set branchLabels.isShown=false;
 	set branchLabels.significantDigits=4;
-	set layout.expansion=208;
+	set layout.expansion=792;
 	set layout.layoutType="RECTILINEAR";
 	set layout.zoom=0;
 	set legend.attribute="label";

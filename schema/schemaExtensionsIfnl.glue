@@ -10,6 +10,10 @@
 	create field length     INTEGER
 	create field pubmed_id  VARCHAR 50
 
+	# Locus details
+	create field locus_id  VARCHAR 10
+
+
 	# Host species taxonomy
 	create field species            VARCHAR 100
 	create field species_superorder VARCHAR 100
