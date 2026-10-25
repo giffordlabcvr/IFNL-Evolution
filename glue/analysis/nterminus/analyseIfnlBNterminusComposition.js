@@ -11,6 +11,25 @@
 //
 // to obtain the translated protein directly from each reference.
 //
+// Required sequence-table fields (create once in schema-project mode):
+//   table sequence
+//   create field mammalian_b_cw_profile VARCHAR 10
+//   create field mammalian_b_cw_counts VARCHAR 10
+//   exit
+//
+// Database output (first 20 translated ORF residues only):
+//   mammalian_b_cw_profile: C_only, W_only, C_and_W, neither, unknown
+//   mammalian_b_cw_counts: exact counts, e.g. C3_W0; unknown if uncallable.
+//
+// These are composition summaries, not N-terminal phylogenetic types or
+// gene-conversion calls. An annotated ORF start is assumed, as in the original.
+// Short windows and windows containing any nonstandard amino acid are unknown.
+// Sequences outside the reference query are not changed.
+//
+// Set WRITE_DATABASE=false to produce the TSV without database writes.
+// All analysis and duplicate checks complete before any sequence is updated.
+// Writeback is per command, not an all-or-nothing transaction; reruns are safe.
+//
 // Output:
 //   tabular/analysis/ifnl_b_n_terminus_composition.tsv
 //
@@ -22,6 +41,10 @@
 //
 
 var N_TERMINAL_LENGTH = 20;
+var WRITE_DATABASE = true;
+
+var PROFILE_FIELD = "mammalian_b_cw_profile";
+var COUNTS_FIELD = "mammalian_b_cw_counts";
 
 var OUTPUT_PATH =
     "tabular/analysis/ifnl_b_n_terminus_composition.tsv";
@@ -83,6 +106,23 @@ function countResidue(sequence, residue) {
 }
 
 
+// Build profiles only for complete, unambiguous 20-aa windows.
+// No thresholds for "richness" or predominance are imposed.
+function cwProfile(nTerminus) {
+    if(nTerminus.length !== N_TERMINAL_LENGTH) {
+        return {profile: "unknown", counts: "unknown", status: "short_window"};
+    }
+    if(!/^[ACDEFGHIKLMNPQRSTVWY]+$/.test(nTerminus)) {
+        return {profile: "unknown", counts: "unknown", status: "ambiguous_window"};
+    }
+    var c = countResidue(nTerminus, "C");
+    var w = countResidue(nTerminus, "W");
+    var profile = c > 0 ? (w > 0 ? "C_and_W" : "C_only") :
+                         (w > 0 ? "W_only" : "neither");
+    return {profile: profile, counts: "C" + c + "_W" + w, status: "called"};
+}
+
+
 // -----------------------------------------------------------------------------
 // Get mammalian IFNL-B references
 // -----------------------------------------------------------------------------
@@ -95,6 +135,8 @@ var references = glue.tableToObjects(
         "sequence.sequenceID",
         "sequence.species",
         "sequence.species_order",
+        "sequence." + PROFILE_FIELD,
+        "sequence." + COUNTS_FIELD,
         "-w",
         "sequence.gene_name = 'IFNL-Mammalia-B'"
     ])
@@ -161,10 +203,15 @@ _.each(references, function(refRow) {
     // Reconstruct translated ORF.
     //
     var protein = "";
+    var nTerminalTranslationIssue = false;
 
     _.each(aaRows, function(row) {
 
         var aa = row["aminoAcid"];
+        if(protein.length < N_TERMINAL_LENGTH &&
+           (aa === null || aa === undefined || String(aa).length !== 1)) {
+            nTerminalTranslationIssue = true;
+        }
 
         if(aa !== null &&
            aa !== undefined &&
@@ -234,7 +281,16 @@ _.each(references, function(refRow) {
         );
 
 
+    var profileResult = cwProfile(nTerminus);
+    if(nTerminalTranslationIssue) {
+        profileResult = {profile: "unknown", counts: "unknown",
+                         status: "missing_or_invalid_translation_row"};
+    }
+
     outputRows.push({
+        cwProfile: profileResult.profile,
+        cwCounts: profileResult.counts,
+        cwStatus: profileResult.status,
 
         referenceName: referenceName,
         sourceName: sourceName,
@@ -282,6 +338,26 @@ outputRows.sort(function(a, b) {
 });
 
 
+// Deduplicate references to the same sequence. Conflicting results abort before
+// database writes. JSON keys avoid collisions between source/sequence ID pairs.
+var uniqueRows = [];
+var seenSequences = {};
+_.each(outputRows, function(row) {
+    var key = JSON.stringify([row.sourceName, row.sequenceID]);
+    var prior = seenSequences[key];
+    if(prior !== undefined) {
+        if(prior.cwProfile !== row.cwProfile ||
+           prior.cwCounts !== row.cwCounts ||
+           prior.nTerminalSequence !== row.nTerminalSequence) {
+            throw new Error("Conflicting reference translations for " + key);
+        }
+    } else {
+        seenSequences[key] = row;
+        uniqueRows.push(row);
+    }
+});
+
+
 // -----------------------------------------------------------------------------
 // Write TSV
 // -----------------------------------------------------------------------------
@@ -318,7 +394,10 @@ try {
         "c_minus_w",
 
         "remainder_c_count",
-        "remainder_w_count"
+        "remainder_w_count",
+        "cw_profile",
+        "cw_counts",
+        "cw_status"
     ]);
 
 
@@ -345,7 +424,10 @@ try {
                 row.cMinusW,
 
                 row.remainderCCount,
-                row.remainderWCount
+                row.remainderWCount,
+                row.cwProfile,
+                row.cwCounts,
+                row.cwStatus
             ]);
         }
     );
@@ -356,6 +438,22 @@ try {
 }
 
 
+// Write to the sequence record, not the reference record.
+// Unknown results overwrite old values so stale profiles cannot survive reruns.
+var written = 0;
+if(WRITE_DATABASE) {
+    _.each(uniqueRows, function(row) {
+        glue.inMode("sequence/" + row.sourceName + "/" + row.sequenceID, function() {
+            glue.command(["set", "field", PROFILE_FIELD, row.cwProfile]);
+            glue.command(["set", "field", COUNTS_FIELD, row.cwCounts]);
+        });
+        written++;
+    });
+}
+glue.logInfo("Database writeback: " +
+    (WRITE_DATABASE ? written + " unique sequences updated" : "disabled"));
+
+
 // -----------------------------------------------------------------------------
 // Simple summary
 // -----------------------------------------------------------------------------
@@ -364,8 +462,14 @@ var cOnly = 0;
 var wOnly = 0;
 var both = 0;
 var neither = 0;
+var unknown = 0;
 
 _.each(outputRows, function(row) {
+
+    if(row.cwProfile === "unknown") {
+        unknown++;
+        return;
+    }
 
     if(row.cCount > 0 &&
        row.wCount === 0) {
@@ -418,3 +522,5 @@ glue.logInfo(
     OUTPUT_PATH
 );
 
+
+glue.logInfo("Unknown (short or ambiguous N terminus): " + unknown);

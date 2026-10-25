@@ -13,7 +13,6 @@
 	# Locus details
 	create field locus_id  VARCHAR 10
 
-
 	# Host species taxonomy
 	create field species            VARCHAR 100
 	create field species_superorder VARCHAR 100
@@ -46,6 +45,8 @@
 	create field glycosylation_o6_116 VARCHAR 50
 
 	create field mammalian_b_n_terminus VARCHAR 50
+	create field mammalian_b_cw_profile VARCHAR 10
+	create field mammalian_b_cw_counts VARCHAR 10
 
 	exit
   

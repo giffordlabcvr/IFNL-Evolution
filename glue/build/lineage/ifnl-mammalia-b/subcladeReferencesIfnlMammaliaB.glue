@@ -186,10 +186,10 @@
   reference REF_IFNL_Mammal_b_Simiiformes_2_1     
 
 	add feature-location mRNA
-	feature-location mRNA add segment 1 775
+	feature-location mRNA add segment 1 951
 
 	add feature-location orf
-	feature-location orf add segment 16 618
+	feature-location orf add segment 174 776
 
   exit
   

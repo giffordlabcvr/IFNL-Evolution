@@ -480,18 +480,6 @@ reference GB_REF_XM_006140390
 
   exit
 
-create reference GB_REF_XM_006540121 ncbi-curated-mammalia-b XM_006540121
-
-reference GB_REF_XM_006540121
-
-  add feature-location mRNA
-  feature-location mRNA add segment 1 739
-
-  add feature-location orf
-  feature-location orf add segment 54 662
-
-  exit
-
 create reference GB_REF_XM_006540130 ncbi-curated-mammalia-b XM_006540130
 
 reference GB_REF_XM_006540130

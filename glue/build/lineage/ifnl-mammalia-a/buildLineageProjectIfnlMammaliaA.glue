@@ -5,8 +5,10 @@ project ifnl
   import source sources/ncbi-curated-mammalia-a/
   import source sources/fasta-curated-mammalia-a/
 
-  # Import metadata for IFNL curated sequences
-  module ifnlSideDataImporter 
+  # Import metadata for IFNL curated sequences\
+  delete module ifnlSideDataImporterMammaliaA
+  create module -f modules/build/lineage/ifnlSideDataImporterMammaliaA.xml 
+  module ifnlSideDataImporterMammaliaA 
     populate -f tabular/refseq-lineage/ifnl-curated-side-data-mammalia-a.tsv
     exit
 

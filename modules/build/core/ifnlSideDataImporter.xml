@@ -44,6 +44,10 @@
         <property>species_genus</property>
     </textFileColumn>
 
+    <textFileColumn>
+        <header>mammalian_b_n_terminus</header>
+        <property>mammalian_b_n_terminus</property>
+    </textFileColumn>
 
     <skipMissing>true</skipMissing>
 

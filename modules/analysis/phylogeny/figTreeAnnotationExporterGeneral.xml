@@ -1,0 +1,45 @@
+<figTreeAnnotationExporter>
+
+	<figTreeAnnotation>
+		<annotationName>sequenceID</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.sequenceID')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>species</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>species_and_gene_id</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.sequenceID')}/${renderNestedProperty('sequence.species')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>species_superorder</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species_superorder')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>species_order</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species_order')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>species_family</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species_family')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+	
+	<figTreeAnnotation>
+		<annotationName>species_genus</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species_genus')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+			
+	<figTreeAnnotation>
+		<annotationName>gene_id</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.gene_id')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+		
+	
+	
+</figTreeAnnotationExporter>

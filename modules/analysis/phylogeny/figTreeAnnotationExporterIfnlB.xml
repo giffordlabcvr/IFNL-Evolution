@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<figTreeAnnotationExporter>
+    <!-- Uses the default GLUE alignment-member taxon names.
+         If the tree has custom tip IDs, set memberNameTemplate to match them.
+         Missing/null/blank annotation values are rendered as ?.
+         Locus and N-terminal type are observations, not an inferred conversion call.
+         locus_id is the field declared in the supplied IFNL schema. -->
+
+    <figTreeAnnotation>
+        <annotationName>sequenceID</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.sequenceID!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>species</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.species!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>species_and_gene_id</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.sequenceID!'')?trim><#if v?has_content>${v}<#else>?</#if>/<#assign v=(sequence.species!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>species_superorder</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.species_superorder!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>species_order</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.species_order!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>species_family</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.species_family!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>species_genus</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.species_genus!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>gene_id</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.gene_id!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>gene_name</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.gene_name!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>clade</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.clade!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>locus_id</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.locus_id!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>mammalian_b_n_terminus</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.mammalian_b_n_terminus!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>ifnlb_exon12</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.ifnlb_exon12!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>ifnlb_exon3456</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.ifnlb_exon3456!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>ifnlb_exon3456_group</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.ifnlb_exon3456_group!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>ifnlb_exon3456_subgroup</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.ifnlb_exon3456_subgroup!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>locus_n_terminus</annotationName>
+        <valueFreemarkerTemplate><![CDATA[locus=<#assign v=(sequence.locus_id!'')?trim><#if v?has_content>${v}<#else>?</#if> | N=<#assign v=(sequence.mammalian_b_n_terminus!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>label_conversion</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.species!'')?trim><#if v?has_content>${v}<#else>?</#if> | <#assign v=(sequence.sequenceID!'')?trim><#if v?has_content>${v}<#else>?</#if> | locus=<#assign v=(sequence.locus_id!'')?trim><#if v?has_content>${v}<#else>?</#if> | N=<#assign v=(sequence.mammalian_b_n_terminus!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <!-- First-20-aa C/W composition: separate states for colouring and
+         a species/locus/type label without the sequence ID. -->
+
+    <figTreeAnnotation>
+        <annotationName>mammalian_b_cw_profile</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.mammalian_b_cw_profile!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>mammalian_b_cw_counts</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.mammalian_b_cw_counts!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>label_conversion_cw</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.species!'')?trim><#if v?has_content>${v}<#else>?</#if> | locus=<#assign v=(sequence.locus_id!'')?trim><#if v?has_content>${v}<#else>?</#if> | N=<#assign v=(sequence.mammalian_b_n_terminus!'')?trim><#if v?has_content>${v}<#else>?</#if> | CW=<#assign v=(sequence.mammalian_b_cw_profile!'')?trim><#if v?has_content>${v}<#else>?</#if> | <#assign v=(sequence.mammalian_b_cw_counts!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <!-- Individual sequon annotations contain states only, for colouring.
+         Values are preserved verbatim; ? is unknown, not sequon absence. -->
+
+    <figTreeAnnotation>
+        <annotationName>glycosylation_o1_35</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.glycosylation_o1_35!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>glycosylation_o2_42</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.glycosylation_o2_42!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>glycosylation_o3_59</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.glycosylation_o3_59!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>glycosylation_o4_72</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.glycosylation_o4_72!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>glycosylation_o4_74</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.glycosylation_o4_74!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>glycosylation_o4_76</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.glycosylation_o4_76!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>glycosylation_o5_103</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.glycosylation_o5_103!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>glycosylation_o6_111</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.glycosylation_o6_111!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>glycosylation_o6_115</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.glycosylation_o6_115!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>glycosylation_o6_116</annotationName>
+        <valueFreemarkerTemplate><![CDATA[<#assign v=(sequence.glycosylation_o6_116!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+    <figTreeAnnotation>
+        <annotationName>glycosylation_profile</annotationName>
+        <valueFreemarkerTemplate><![CDATA[o1_35=<#assign v=(sequence.glycosylation_o1_35!'')?trim><#if v?has_content>${v}<#else>?</#if> | o2_42=<#assign v=(sequence.glycosylation_o2_42!'')?trim><#if v?has_content>${v}<#else>?</#if> | o3_59=<#assign v=(sequence.glycosylation_o3_59!'')?trim><#if v?has_content>${v}<#else>?</#if> | o4_72=<#assign v=(sequence.glycosylation_o4_72!'')?trim><#if v?has_content>${v}<#else>?</#if> | o4_74=<#assign v=(sequence.glycosylation_o4_74!'')?trim><#if v?has_content>${v}<#else>?</#if> | o4_76=<#assign v=(sequence.glycosylation_o4_76!'')?trim><#if v?has_content>${v}<#else>?</#if> | o5_103=<#assign v=(sequence.glycosylation_o5_103!'')?trim><#if v?has_content>${v}<#else>?</#if> | o6_111=<#assign v=(sequence.glycosylation_o6_111!'')?trim><#if v?has_content>${v}<#else>?</#if> | o6_115=<#assign v=(sequence.glycosylation_o6_115!'')?trim><#if v?has_content>${v}<#else>?</#if> | o6_116=<#assign v=(sequence.glycosylation_o6_116!'')?trim><#if v?has_content>${v}<#else>?</#if>]]></valueFreemarkerTemplate>
+    </figTreeAnnotation>
+
+</figTreeAnnotationExporter>

@@ -1,7 +1,4 @@
 
-  # Scan for variations 
-  run script glue/analysis/lineage/ifnlScanVariations.js
-
   # Do entropy analysis
   create module -f modules/lineage/ifnlCalculateEntropy.xml
   console set cmd-output-file-format tab
